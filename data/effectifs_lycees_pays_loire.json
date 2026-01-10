@@ -1,0 +1,860 @@
+[
+  {
+    "uai": "0530048P",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 5170
+  },
+  {
+    "uai": "0530068L",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 1860
+  },
+  {
+    "uai": "0530049R",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 4357
+  },
+  {
+    "uai": "0530010Y",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 6398
+  },
+  {
+    "uai": "0530011Z",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 5806
+  },
+  {
+    "uai": "0530012A",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 3449
+  },
+  {
+    "uai": "0530052U",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 1850
+  },
+  {
+    "uai": "0530016E",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 3603
+  },
+  {
+    "uai": "0530004S",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 3778
+  },
+  {
+    "uai": "0530046M",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 1955
+  },
+  {
+    "uai": "0530949U",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 1573
+  },
+  {
+    "uai": "0720822C",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 216
+  },
+  {
+    "uai": "0720837U",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 6936
+  },
+  {
+    "uai": "0721684P",
+    "name": "LYC POLYVAL PRIVE DES METIERS",
+    "rentree": "2019",
+    "total_students": 4415
+  },
+  {
+    "uai": "0720030S",
+    "name": "LYCEE GENERAL",
+    "rentree": "2019",
+    "total_students": 7525
+  },
+  {
+    "uai": "0721493G",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 6683
+  },
+  {
+    "uai": "0720029R",
+    "name": "LYCEE GENERAL",
+    "rentree": "2019",
+    "total_students": 7029
+  },
+  {
+    "uai": "0720033V",
+    "name": "LPO LYCEE DES METIERS",
+    "rentree": "2019",
+    "total_students": 7696
+  },
+  {
+    "uai": "0721094Y",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 6260
+  },
+  {
+    "uai": "0720055U",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 2033
+  },
+  {
+    "uai": "0720021G",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 5889
+  },
+  {
+    "uai": "0720833P",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 949
+  },
+  {
+    "uai": "0720048L",
+    "name": "LPO LYCEE DES METIERS",
+    "rentree": "2019",
+    "total_students": 4277
+  },
+  {
+    "uai": "0720843A",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 933
+  },
+  {
+    "uai": "0721549T",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 659
+  },
+  {
+    "uai": "0720017C",
+    "name": "LPO LYCEE DES METIERS",
+    "rentree": "2019",
+    "total_students": 4768
+  },
+  {
+    "uai": "0720012X",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 2673
+  },
+  {
+    "uai": "0720027N",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 1474
+  },
+  {
+    "uai": "0721478R",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 867
+  },
+  {
+    "uai": "0721548S",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 4127
+  },
+  {
+    "uai": "0721680K",
+    "name": "LYCEE EXPERIMENTAL - ANNEXE PEDAGOGIQUE",
+    "rentree": "2022",
+    "total_students": 258
+  },
+  {
+    "uai": "0850025R",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 6375
+  },
+  {
+    "uai": "0850027T",
+    "name": "LPO LYCEE DES METIERS",
+    "rentree": "2019",
+    "total_students": 2818
+  },
+  {
+    "uai": "0851642Y",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 7235
+  },
+  {
+    "uai": "0850028U",
+    "name": "LYCEE PROFESSIONNEL",
+    "rentree": "2019",
+    "total_students": 236
+  },
+  {
+    "uai": "0851401L",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 5064
+  },
+  {
+    "uai": "0850130E",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 6070
+  },
+  {
+    "uai": "0850032Y",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 5036
+  },
+  {
+    "uai": "0850006V",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 2017
+  },
+  {
+    "uai": "0850135K",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 2845
+  },
+  {
+    "uai": "0850118S",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 400
+  },
+  {
+    "uai": "0850068M",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 3611
+  },
+  {
+    "uai": "0851344Z",
+    "name": "LYC POLYVAL PRIVE DES METIERS",
+    "rentree": "2019",
+    "total_students": 3199
+  },
+  {
+    "uai": "0850086G",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 3294
+  },
+  {
+    "uai": "0851346B",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 5356
+  },
+  {
+    "uai": "0850142T",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 6243
+  },
+  {
+    "uai": "0850133H",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 4942
+  },
+  {
+    "uai": "0850077X",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 2026
+  },
+  {
+    "uai": "0850016F",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 2834
+  },
+  {
+    "uai": "0851400K",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 2492
+  },
+  {
+    "uai": "0850076W",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 4904
+  },
+  {
+    "uai": "0850136L",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 2340
+  },
+  {
+    "uai": "0851390Z",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 6305
+  },
+  {
+    "uai": "0850079Z",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 2474
+  },
+  {
+    "uai": "0851696G",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2021",
+    "total_students": 1289
+  },
+  {
+    "uai": "0851705S",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2022",
+    "total_students": 845
+  },
+  {
+    "uai": "0490819Z",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 3206
+  },
+  {
+    "uai": "0491966W",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 4941
+  },
+  {
+    "uai": "0492123S",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 3509
+  },
+  {
+    "uai": "0490003M",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 8247
+  },
+  {
+    "uai": "0492089E",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 2957
+  },
+  {
+    "uai": "0490824E",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 3280
+  },
+  {
+    "uai": "0490001K",
+    "name": "LYCEE GENERAL",
+    "rentree": "2019",
+    "total_students": 5410
+  },
+  {
+    "uai": "0492061Z",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 5135
+  },
+  {
+    "uai": "0492407A",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE PRIVE",
+    "rentree": "2019",
+    "total_students": 6379
+  },
+  {
+    "uai": "0492015Z",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 6526
+  },
+  {
+    "uai": "0490002L",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 6349
+  },
+  {
+    "uai": "0492224B",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 120
+  },
+  {
+    "uai": "0492148U",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 3765
+  },
+  {
+    "uai": "0490904S",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 1834
+  },
+  {
+    "uai": "0492406Z",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 5553
+  },
+  {
+    "uai": "0490837U",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 1394
+  },
+  {
+    "uai": "0490018D",
+    "name": "LPO LYCEE DES METIERS",
+    "rentree": "2019",
+    "total_students": 3139
+  },
+  {
+    "uai": "0490054T",
+    "name": "LPO LYCEE DES METIERS",
+    "rentree": "2019",
+    "total_students": 5289
+  },
+  {
+    "uai": "0490838V",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 4080
+  },
+  {
+    "uai": "0490055U",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 2098
+  },
+  {
+    "uai": "0490040C",
+    "name": "LYCEE GENERAL",
+    "rentree": "2019",
+    "total_students": 4929
+  },
+  {
+    "uai": "0492285T",
+    "name": "LYCEE TECHNOLOGIQUE PRIVE",
+    "rentree": "2019",
+    "total_students": 381
+  },
+  {
+    "uai": "0492420P",
+    "name": "LYC POLYVAL PRIVE DES METIERS",
+    "rentree": "2019",
+    "total_students": 3981
+  },
+  {
+    "uai": "0490782J",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 3316
+  },
+  {
+    "uai": "0490834R",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 1079
+  },
+  {
+    "uai": "0490840X",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 2585
+  },
+  {
+    "uai": "0492430A",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 3040
+  },
+  {
+    "uai": "0490828J",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 3782
+  },
+  {
+    "uai": "0490835S",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 1627
+  },
+  {
+    "uai": "0490952U",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 2466
+  },
+  {
+    "uai": "0492532L",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2024",
+    "total_students": 1299
+  },
+  {
+    "uai": "0442774B",
+    "name": "LYC GEN TECH PRIVE DES METIERS",
+    "rentree": "2019",
+    "total_students": 6059
+  },
+  {
+    "uai": "0442725Y",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 2843
+  },
+  {
+    "uai": "0440163N",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 3974
+  },
+  {
+    "uai": "0440021J",
+    "name": "LYCEE GENERAL",
+    "rentree": "2019",
+    "total_students": 5244
+  },
+  {
+    "uai": "0440022K",
+    "name": "LYCEE GENERAL",
+    "rentree": "2019",
+    "total_students": 3180
+  },
+  {
+    "uai": "0440024M",
+    "name": "LYCEE GENERAL",
+    "rentree": "2019",
+    "total_students": 5001
+  },
+  {
+    "uai": "0440029T",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 5966
+  },
+  {
+    "uai": "0442699V",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 3476
+  },
+  {
+    "uai": "0440246D",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 679
+  },
+  {
+    "uai": "0440288Z",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 3712
+  },
+  {
+    "uai": "0442095N",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 5724
+  },
+  {
+    "uai": "0442207K",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 5688
+  },
+  {
+    "uai": "0440151A",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 2448
+  },
+  {
+    "uai": "0440005S",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 3265
+  },
+  {
+    "uai": "0440001M",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 4563
+  },
+  {
+    "uai": "0440149Y",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 4218
+  },
+  {
+    "uai": "0441993C",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 3434
+  },
+  {
+    "uai": "0442752C",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 4925
+  },
+  {
+    "uai": "0442273G",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 7593
+  },
+  {
+    "uai": "0441552Y",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 8367
+  },
+  {
+    "uai": "0442227G",
+    "name": "LYC POLYVAL PRIVE DES METIERS",
+    "rentree": "2019",
+    "total_students": 175
+  },
+  {
+    "uai": "0441992B",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 6472
+  },
+  {
+    "uai": "0440256P",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 1841
+  },
+  {
+    "uai": "0440279P",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 1616
+  },
+  {
+    "uai": "0441653H",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 2647
+  },
+  {
+    "uai": "0442083A",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 846
+  },
+  {
+    "uai": "0440077V",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 5246
+  },
+  {
+    "uai": "0442765S",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2019",
+    "total_students": 5459
+  },
+  {
+    "uai": "0440201E",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 3559
+  },
+  {
+    "uai": "0441982R",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 589
+  },
+  {
+    "uai": "0440086E",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 6700
+  },
+  {
+    "uai": "0440154D",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 3279
+  },
+  {
+    "uai": "0440166S",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 3546
+  },
+  {
+    "uai": "0440030U",
+    "name": "LPO LYCEE DES METIERS",
+    "rentree": "2019",
+    "total_students": 3745
+  },
+  {
+    "uai": "0440161L",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 6160
+  },
+  {
+    "uai": "0440172Y",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 3401
+  },
+  {
+    "uai": "0442226F",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 3034
+  },
+  {
+    "uai": "0442112G",
+    "name": "LYCEE GENERAL",
+    "rentree": "2019",
+    "total_students": 3320
+  },
+  {
+    "uai": "0442778F",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 1705
+  },
+  {
+    "uai": "0440062D",
+    "name": "LGT LYCEE DES METIERS",
+    "rentree": "2019",
+    "total_students": 6481
+  },
+  {
+    "uai": "0440274J",
+    "name": "LYCEE POLYVALENT PRIVE",
+    "rentree": "2019",
+    "total_students": 4843
+  },
+  {
+    "uai": "0442834S",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 5922
+  },
+  {
+    "uai": "0440012Z",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 3697
+  },
+  {
+    "uai": "0440175B",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 2615
+  },
+  {
+    "uai": "0440119R",
+    "name": "LYC POLYVAL PRIVE DES METIERS",
+    "rentree": "2019",
+    "total_students": 1178
+  },
+  {
+    "uai": "0440069L",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 11469
+  },
+  {
+    "uai": "0442286W",
+    "name": "ETABLISSEMENT EXPERIMENTAL",
+    "rentree": "2019",
+    "total_students": 675
+  },
+  {
+    "uai": "0440178E",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 3720
+  },
+  {
+    "uai": "0440259T",
+    "name": "LYCEE TECHNOLOGIQUE PRIVE",
+    "rentree": "2019",
+    "total_students": 137
+  },
+  {
+    "uai": "0440177D",
+    "name": "LYCEE GENERAL PRIVE",
+    "rentree": "2019",
+    "total_students": 2557
+  },
+  {
+    "uai": "0442094M",
+    "name": "LPO LYCEE DES METIERS",
+    "rentree": "2019",
+    "total_students": 5112
+  },
+  {
+    "uai": "0440176C",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2019",
+    "total_students": 4365
+  },
+  {
+    "uai": "0442309W",
+    "name": "LYCEE GENERAL ET TECHNOLOGIQUE",
+    "rentree": "2019",
+    "total_students": 6578
+  },
+  {
+    "uai": "0442899M",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2020",
+    "total_students": 2377
+  },
+  {
+    "uai": "0442924P",
+    "name": "LYCEE GEN.ET TECHNOL.PRIVE",
+    "rentree": "2021",
+    "total_students": 1964
+  },
+  {
+    "uai": "0442993P",
+    "name": "LYCEE POLYVALENT",
+    "rentree": "2023",
+    "total_students": 483
+  }
+]

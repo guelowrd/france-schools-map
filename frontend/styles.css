@@ -120,15 +120,16 @@ header h1 {
 }
 
 .marker-dot.primaire {
-    background-color: #10b981; /* Green for primary schools */
+    background-color: #ffffff; /* White for primary schools */
+    border: 2px solid #333; /* Dark border for visibility */
 }
 
 .marker-dot.college {
-    background-color: #f59e0b; /* Orange for middle schools */
+    background-color: #9ca3af; /* Grey for middle schools */
 }
 
 .marker-dot.lycee {
-    background-color: #8b5cf6; /* Purple for high schools */
+    background-color: #000000; /* Black for high schools */
 }
 
 .info-list li {

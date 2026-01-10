@@ -9,14 +9,16 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // Define marker colors by school type
 const markerColors = {
-    'Primaire': '#10b981',   // Green
-    'Collège': '#f59e0b',    // Orange
-    'Lycée': '#8b5cf6'       // Purple
+    'Primaire': '#ffffff',   // White
+    'Collège': '#9ca3af',    // Grey
+    'Lycée': '#000000'       // Black
 };
 
 // Create custom marker icon function
 function createMarkerIcon(schoolType) {
     const color = markerColors[schoolType] || '#6b7280';
+    // Use dark border for white markers (primaire), white border for others
+    const borderColor = schoolType === 'Primaire' ? '#333' : '#fff';
     return L.divIcon({
         className: 'custom-marker',
         html: `<div style="
@@ -24,7 +26,7 @@ function createMarkerIcon(schoolType) {
             width: 12px;
             height: 12px;
             border-radius: 50%;
-            border: 2px solid white;
+            border: 2px solid ${borderColor};
             box-shadow: 0 0 4px rgba(0,0,0,0.4);
         "></div>`,
         iconSize: [12, 12],
@@ -189,16 +191,10 @@ fetch('data/schools.json')
         document.getElementById('college-count').textContent = collegeCount;
         document.getElementById('lycee-count').textContent = lyceeCount;
 
-        // Create marker cluster group
-        const markers = L.markerClusterGroup({
-            chunkedLoading: true,
-            spiderfyOnMaxZoom: true,
-            showCoverageOnHover: false,
-            zoomToBoundsOnClick: true,
-            maxClusterRadius: 50
-        });
+        // Create array to hold all markers for bounds calculation
+        const allMarkers = [];
 
-        // Add markers for each school
+        // Add markers for each school directly to the map (no clustering)
         schools.forEach(school => {
             const lat = school.coordinates.latitude;
             const lon = school.coordinates.longitude;
@@ -221,14 +217,14 @@ fetch('data/schools.json')
                 offset: [0, -6]
             });
 
-            markers.addLayer(marker);
+            marker.addTo(map);
+            allMarkers.push(marker);
         });
 
-        map.addLayer(markers);
-
         // Fit bounds to show all markers
-        if (markers.getBounds().isValid()) {
-            map.fitBounds(markers.getBounds(), { padding: [50, 50] });
+        if (allMarkers.length > 0) {
+            const group = L.featureGroup(allMarkers);
+            map.fitBounds(group.getBounds(), { padding: [50, 50] });
         }
 
         console.log('Map loaded successfully');
