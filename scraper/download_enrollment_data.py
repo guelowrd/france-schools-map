@@ -151,28 +151,27 @@ def download_lycees_effectifs():
     dept_filter = " OR ".join([f"code_departement_pays='{code}'" for code in DEPARTMENT_CODES_SHORT])
     records = fetch_paginated_data("fr-en-lycee_gt-effectifs-niveau-sexe-lv", filters=dept_filter)
 
-    # Aggregate by school (data is by level, need to sum)
+    # Keep only most recent year per school (data already aggregated by year)
     school_data = {}
     for record in records:
         fields = record.get('record', {}).get('fields', {})
         uai = fields.get('numero_lycee')
+        rentree = fields.get('rentree_scolaire', '')
+
         if not uai:
             continue
 
-        if uai not in school_data:
+        # Keep most recent year only
+        if uai not in school_data or rentree > school_data[uai]['rentree']:
             school_data[uai] = {
                 'uai': uai,
                 'name': fields.get('denomination_principale', ''),
-                'rentree': fields.get('rentree_scolaire', ''),
-                'total_students': 0
+                'rentree': rentree,
+                'total_students': fields.get('nombre_d_eleves', 0) or 0
             }
 
-        # Sum students across levels
-        nb_eleves = fields.get('nombre_d_eleves', 0) or 0
-        school_data[uai]['total_students'] += nb_eleves
-
     aggregated_records = list(school_data.values())
-    print(f"\n✓ Aggregated to {len(aggregated_records)} lycées")
+    print(f"\n✓ Filtered to {len(aggregated_records)} lycées (most recent year)")
 
     # Save to file
     output_file = DATA_DIR / "effectifs_lycees_pays_loire.json"
