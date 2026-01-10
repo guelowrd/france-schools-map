@@ -73,12 +73,12 @@ function formatIPS(school) {
         let interpretation = '';
         if (ecartType > 35) {
             interpretation = 'très hétérogène';
-        } else if (ecartType > 28) {
-            interpretation = 'hétérogène';
-        } else if (ecartType > 20) {
-            interpretation = 'moyennement hétérogène';
+        } else if (ecartType >= 28) {
+            interpretation = 'plutôt hétérogène';
+        } else if (ecartType >= 20) {
+            interpretation = 'plutôt homogène';
         } else {
-            interpretation = 'homogène';
+            interpretation = 'très homogène';
         }
 
         html += `<p style="font-size: 11px; color: #666;"><strong>Diversité sociale:</strong> écart-type ${ecartType.toFixed(1)} (${interpretation})</p>`;
