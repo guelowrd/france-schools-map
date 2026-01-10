@@ -106,9 +106,11 @@ def download_annuaire():
 
         # Keep lycées but filter out professional-only
         elif 'Lycée' in type_etab or 'LYCEE' in libelle_nature.upper():
-            # EXCLUDE professional-only lycées
-            if 'PROFESSIONNEL' in libelle_nature.upper():
-                # Skip professional-only lycées
+            school_name = fields.get('nom_etablissement', '') or ''
+
+            # EXCLUDE professional lycées (check both name and libelle_nature)
+            if 'PROFESSIONNEL' in libelle_nature.upper() or 'professionnel' in school_name.lower():
+                # Skip professional lycées (including sections within them)
                 continue
 
             # Check for general/technological indicators

@@ -36067,28 +36067,6 @@
     "student_count": null
   },
   {
-    "uai": "0442387F",
-    "name": "Section d'enseignement général et technologique du Lycée professionnel Le Masle",
-    "type": "Lycée",
-    "public_private": "Privé",
-    "address": {
-      "street": "9 rue JEAN PIERRE DUFREXOU",
-      "postal_code": "44600",
-      "city": "Saint-Nazaire",
-      "department": "Loire-Atlantique"
-    },
-    "coordinates": {
-      "latitude": 47.27222992731064,
-      "longitude": -2.2059306012613367
-    },
-    "contact": {
-      "phone": "0240224185",
-      "email": "ce.0440282T@ac-nantes.fr",
-      "website": null
-    },
-    "student_count": null
-  },
-  {
     "uai": "0442740P",
     "name": "Ecole secondaire privée La Chrysalide",
     "type": "Collège",
@@ -56885,28 +56863,6 @@
     "student_count": null
   },
   {
-    "uai": "0530958D",
-    "name": "Section d'enseignement général et technologique du Lycée professionnel Léonard de Vinci",
-    "type": "Lycée",
-    "public_private": "Public",
-    "address": {
-      "street": "129 boulevard DE L EUROPE",
-      "postal_code": "53103",
-      "city": "Mayenne",
-      "department": "Mayenne"
-    },
-    "coordinates": {
-      "latitude": 48.29986289236308,
-      "longitude": -0.6227601374714005
-    },
-    "contact": {
-      "phone": "0243042098",
-      "email": "ce.0530958D@ac-nantes.fr",
-      "website": null
-    },
-    "student_count": null
-  },
-  {
     "uai": "0720021G",
     "name": "Lycée polyvalent d'Estournelles de Constant",
     "type": "Lycée",
@@ -57013,28 +56969,6 @@
     "contact": {
       "phone": "0251691130",
       "email": "ce.0851131T@ac-nantes.fr",
-      "website": null
-    },
-    "student_count": null
-  },
-  {
-    "uai": "0851478V",
-    "name": "Section d'enseignement général et technologique du Lycée professionnel Edouard Branly",
-    "type": "Lycée",
-    "public_private": "Public",
-    "address": {
-      "street": "5 boulevard EDOUARD BRANLY",
-      "postal_code": "85006",
-      "city": "La Roche-sur-Yon",
-      "department": "Vendée"
-    },
-    "coordinates": {
-      "latitude": 46.67421847152482,
-      "longitude": -1.4419439014403423
-    },
-    "contact": {
-      "phone": "0251240606",
-      "email": "ce.0851478V@ac-nantes.fr",
       "website": null
     },
     "student_count": null
@@ -68103,28 +68037,6 @@
     "contact": {
       "phone": "0240030770",
       "email": "ce.0441549V@ac-nantes.fr",
-      "website": null
-    },
-    "student_count": null
-  },
-  {
-    "uai": "0442342G",
-    "name": "Section d'enseignement général et technologique du Lycée Professionnel François Arago",
-    "type": "Lycée",
-    "public_private": "Public",
-    "address": {
-      "street": "23 rue DU RECTEUR SCHMITT",
-      "postal_code": "44322",
-      "city": "Nantes",
-      "department": "Loire-Atlantique"
-    },
-    "coordinates": {
-      "latitude": 47.250059215187584,
-      "longitude": -1.5526794129255734
-    },
-    "contact": {
-      "phone": "0240742510",
-      "email": "ce.0442342G@ac-nantes.fr",
       "website": null
     },
     "student_count": null
@@ -98998,28 +98910,6 @@
     "contact": {
       "phone": "0241690180",
       "email": "ce.0491704L@ac-nantes.fr",
-      "website": null
-    },
-    "student_count": null
-  },
-  {
-    "uai": "0492244Y",
-    "name": "Section d'enseignement général et technologique du Lycée professionnel privé La Providence",
-    "type": "Lycée",
-    "public_private": "Privé",
-    "address": {
-      "street": "33 avenue GUSTAVE FERRIE",
-      "postal_code": "49306",
-      "city": "Cholet",
-      "department": "Maine-et-Loire"
-    },
-    "coordinates": {
-      "latitude": 47.06704092264842,
-      "longitude": -0.8512995091197924
-    },
-    "contact": {
-      "phone": "0241752800",
-      "email": "ce.0490886X@ac-nantes.fr",
       "website": null
     },
     "student_count": null
