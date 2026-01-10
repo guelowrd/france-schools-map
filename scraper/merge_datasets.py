@@ -241,6 +241,7 @@ def merge_data():
             effectifs_data = effectifs_ecoles[uai]
             school['student_count'] = effectifs_data.get('nombre_total_eleves')
             school['number_of_classes'] = effectifs_data.get('nombre_total_classes')
+            school['enrollment_year'] = effectifs_data.get('rentree_scolaire')
             # Calculate actual class size for primary schools
             if school['student_count'] and school['number_of_classes'] and school['number_of_classes'] > 0:
                 school['class_size'] = round(school['student_count'] / school['number_of_classes'], 1)
@@ -249,11 +250,13 @@ def merge_data():
         elif school_type == 'Collège' and uai in effectifs_colleges:
             effectifs_data = effectifs_colleges[uai]
             school['student_count'] = effectifs_data.get('nombre_eleves_total')
+            school['enrollment_year'] = effectifs_data.get('rentree_scolaire')
             if school['student_count']:
                 stats['with_enrollment'] += 1
         elif school_type == 'Lycée' and uai in effectifs_lycees:
             effectifs_data = effectifs_lycees[uai]
             school['student_count'] = effectifs_data.get('total_students')
+            school['enrollment_year'] = effectifs_data.get('rentree')
             if school['student_count']:
                 stats['with_enrollment'] += 1
 

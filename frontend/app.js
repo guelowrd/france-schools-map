@@ -41,8 +41,14 @@ function formatIPS(school) {
     const ips = parseFloat(school.ips.value);
     const national = school.ips.national_average ? parseFloat(school.ips.national_average) : null;
     const dept = school.ips.departemental_average ? parseFloat(school.ips.departemental_average) : null;
+    const year = school.ips.year || '';
 
     let html = `<p><strong>IPS:</strong> ${ips.toFixed(1)}`;
+
+    // Add year
+    if (year) {
+        html += ` <span style="font-size: 10px; color: #999;">(${year})</span>`;
+    }
 
     // Add context
     const comparisons = [];
@@ -56,15 +62,26 @@ function formatIPS(school) {
     }
 
     if (comparisons.length > 0) {
-        html += ` <span class="ips-context">(${comparisons.join(', ')})</span>`;
+        html += `<br><span class="ips-context" style="font-size: 11px;">${comparisons.join(', ')}</span>`;
     }
 
     html += '</p>';
 
-    // Add diversity indicator
+    // Add diversity indicator (std deviation)
     if (school.ips.ecart_type) {
         const ecartType = parseFloat(school.ips.ecart_type);
-        html += `<p style="font-size: 11px; color: #666;"><strong>Diversité:</strong> Écart-type ${ecartType.toFixed(1)} (${ecartType > 35 ? 'élevée' : ecartType > 25 ? 'moyenne' : 'faible'})</p>`;
+        let interpretation = '';
+        if (ecartType > 35) {
+            interpretation = 'très hétérogène';
+        } else if (ecartType > 28) {
+            interpretation = 'hétérogène';
+        } else if (ecartType > 20) {
+            interpretation = 'moyennement hétérogène';
+        } else {
+            interpretation = 'homogène';
+        }
+
+        html += `<p style="font-size: 11px; color: #666;"><strong>Diversité sociale:</strong> écart-type ${ecartType.toFixed(1)} (${interpretation})</p>`;
     }
 
     return html;
@@ -80,7 +97,11 @@ function formatExamResults(school) {
     let html = '<h4>📊 Résultats aux examens</h4>';
 
     if (exam.type === 'Brevet') {
-        html += `<p><strong>Brevet ${exam.year}:</strong> ${exam.success_rate.toFixed(1)}% de réussite</p>`;
+        html += `<p><strong>Brevet:</strong> ${exam.success_rate.toFixed(1)}% de réussite`;
+        if (exam.year) {
+            html += ` <span style="font-size: 10px; color: #999;">(${exam.year})</span>`;
+        }
+        html += '</p>';
 
         if (exam.students_admitted && exam.students_registered) {
             html += `<p style="font-size: 11px;">${exam.students_admitted} admis sur ${exam.students_registered} inscrits</p>`;
@@ -97,7 +118,11 @@ function formatExamResults(school) {
             }
         }
     } else if (exam.type === 'Baccalauréat') {
-        html += `<p><strong>Bac ${exam.year}:</strong> ${exam.success_rate.toFixed(1)}% de réussite</p>`;
+        html += `<p><strong>Bac:</strong> ${exam.success_rate.toFixed(1)}% de réussite`;
+        if (exam.year) {
+            html += ` <span style="font-size: 10px; color: #999;">(${exam.year})</span>`;
+        }
+        html += '</p>';
 
         // Access rates - KEY METRIC for student well-being!
         if (exam.access_rate_2nde) {
@@ -153,6 +178,11 @@ function createPopupContent(school) {
             if (school.class_size) {
                 html += ` <span style="font-size: 11px; color: #666;">(${school.class_size} élèves/classe)</span>`;
             }
+        }
+
+        // Add enrollment year
+        if (school.enrollment_year) {
+            html += ` <span style="font-size: 10px; color: #999;">(${school.enrollment_year})</span>`;
         }
         html += '</p>';
     }
@@ -287,11 +317,18 @@ fetch('data/schools.json')
         document.getElementById('college-count').textContent = collegeCount;
         document.getElementById('lycee-count').textContent = lyceeCount;
 
+        // Sort schools so lycées are drawn last (on top)
+        // Order: Primaire (bottom), Collège (middle), Lycée (top)
+        const schoolOrder = { 'Primaire': 1, 'Collège': 2, 'Lycée': 3 };
+        const sortedSchools = [...schools].sort((a, b) => {
+            return schoolOrder[a.type] - schoolOrder[b.type];
+        });
+
         // Create array to hold all markers for bounds calculation
         const allMarkers = [];
 
         // Add markers for each school directly to the map (no clustering)
-        schools.forEach(school => {
+        sortedSchools.forEach(school => {
             const lat = school.coordinates.latitude;
             const lon = school.coordinates.longitude;
 
