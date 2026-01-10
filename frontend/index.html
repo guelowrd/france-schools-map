@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carte des Écoles - Pays de la Loire</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <!-- Leaflet MarkerCluster CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Carte des Écoles - Pays de la Loire</h1>
+            <p class="subtitle">Informations sur les établissements scolaires publics et privés</p>
+        </header>
+
+        <div class="info-panel">
+            <div class="stats">
+                <div class="stat">
+                    <span class="stat-label">Total:</span>
+                    <span class="stat-value" id="total-schools">-</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Primaires:</span>
+                    <span class="stat-value" id="primaire-count">-</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Collèges:</span>
+                    <span class="stat-value" id="college-count">-</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Lycées:</span>
+                    <span class="stat-value" id="lycee-count">-</span>
+                </div>
+            </div>
+
+            <div class="legend">
+                <div class="legend-section">
+                    <h3>Types d'établissement</h3>
+                    <ul class="marker-legend">
+                        <li><span class="marker-dot primaire"></span> Écoles Primaires</li>
+                        <li><span class="marker-dot college"></span> Collèges</li>
+                        <li><span class="marker-dot lycee"></span> Lycées (général & techno)</li>
+                    </ul>
+                </div>
+
+                <div class="legend-section">
+                    <h3>Indicateurs affichés</h3>
+                    <ul class="info-list">
+                        <li><strong>IPS</strong> - Indice de Position Sociale (contexte socio-économique)</li>
+                        <li><strong>Taille</strong> - Nombre d'élèves et taille de classe estimée</li>
+                        <li><strong>Résultats</strong> - Taux de réussite aux examens</li>
+                        <li><strong>Taux d'accès</strong> - Parcours complet 2nde → Bac (lycées)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div id="map"></div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <!-- Leaflet MarkerCluster JS -->
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+    <!-- Custom JS -->
+    <script src="app.js"></script>
+</body>
+</html>
