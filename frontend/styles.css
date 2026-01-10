@@ -157,17 +157,17 @@ header h1 {
 }
 
 .legend {
-    font-size: 11px;
+    font-size: 10px;
     display: grid;
     grid-template-columns: auto 1fr;
-    gap: 20px;
+    gap: 15px;
     flex: 0 0 auto;
-    max-width: 70%;
+    max-width: 65%;
 }
 
 .legend h3 {
-    font-size: 11px;
-    margin-bottom: 5px;
+    font-size: 10px;
+    margin-bottom: 3px;
     margin-top: 0;
     color: #333;
     font-weight: 600;
@@ -178,10 +178,10 @@ header h1 {
 }
 
 .legend li {
-    margin-bottom: 3px;
+    margin-bottom: 2px;
     color: #666;
-    line-height: 1.4;
-    font-size: 10.5px;
+    line-height: 1.3;
+    font-size: 9.5px;
 }
 
 /* Marker legend */
@@ -279,6 +279,22 @@ header h1 {
 
 .checkbox-label span {
     user-select: none;
+}
+
+.language-select {
+    font-size: 11px;
+    padding: 4px 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: white;
+    color: #333;
+    cursor: pointer;
+    min-width: 120px;
+}
+
+.language-select:focus {
+    outline: none;
+    border-color: #2563eb;
 }
 
 /* Map */
@@ -396,12 +412,13 @@ header h1 {
     .info-panel {
         flex-direction: column;
         align-items: flex-start;
+        padding: 10px 20px;
     }
 
     .stats {
         width: 100%;
         flex-wrap: wrap;
-        gap: 15px;
+        gap: 10px;
     }
 
     .stat {
@@ -412,6 +429,42 @@ header h1 {
     .legend {
         grid-template-columns: 1fr;
         max-width: 100%;
+        gap: 8px;
+        font-size: 9px;
+    }
+
+    .legend h3 {
+        font-size: 9px;
+    }
+
+    .legend li {
+        font-size: 8.5px;
+        line-height: 1.2;
+        margin-bottom: 1px;
+    }
+
+    .filters-panel {
+        padding: 12px 20px;
+    }
+
+    .filters-content {
+        gap: 15px;
+    }
+
+    .filter-group {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+        width: 100%;
+    }
+
+    .checkbox-group {
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+
+    .language-select {
+        width: 100%;
     }
 
     .header-content {
@@ -425,10 +478,22 @@ header h1 {
     }
 
     header h1 {
-        font-size: 22px;
+        font-size: 20px;
     }
 
     .popup-content {
-        font-size: 12px;
+        font-size: 11px;
+    }
+
+    .popup-content h3 {
+        font-size: 14px;
+    }
+
+    .popup-content h4 {
+        font-size: 11px;
+    }
+
+    .school-info p {
+        font-size: 10px;
     }
 }

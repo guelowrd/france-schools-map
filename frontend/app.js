@@ -321,6 +321,26 @@ function initializeFilters() {
     const filterLycee = document.getElementById('filter-lycee');
     const filterPublic = document.getElementById('filter-public');
     const filterPrive = document.getElementById('filter-prive');
+    const filterLanguage = document.getElementById('filter-language');
+
+    // Populate language dropdown with all unique languages
+    const allLanguages = new Set();
+    allSchools.forEach(school => {
+        if (school.languages && school.languages.all) {
+            school.languages.all.forEach(lang => allLanguages.add(lang));
+        }
+    });
+
+    // Sort languages alphabetically
+    const sortedLanguages = Array.from(allLanguages).sort((a, b) => a.localeCompare(b, 'fr'));
+
+    // Add options to dropdown
+    sortedLanguages.forEach(lang => {
+        const option = document.createElement('option');
+        option.value = lang;
+        option.textContent = lang;
+        filterLanguage.appendChild(option);
+    });
 
     // Apply filters function
     function applyFilters() {
@@ -329,7 +349,8 @@ function initializeFilters() {
             college: filterCollege.checked,
             lycee: filterLycee.checked,
             public: filterPublic.checked,
-            prive: filterPrive.checked
+            prive: filterPrive.checked,
+            language: filterLanguage.value
         };
 
         let visibleCount = 0;
@@ -349,6 +370,16 @@ function initializeFilters() {
             // Filter by public/private
             if (school.public_private === 'Public' && !filters.public) shouldShow = false;
             if (school.public_private === 'Privé' && !filters.prive) shouldShow = false;
+
+            // Filter by language (only apply if a language is selected)
+            if (filters.language && school.languages && school.languages.all) {
+                if (!school.languages.all.includes(filters.language)) {
+                    shouldShow = false;
+                }
+            } else if (filters.language && !school.languages) {
+                // If language filter is active but school has no language data, hide it
+                shouldShow = false;
+            }
 
             // Show/hide marker
             if (shouldShow) {
@@ -379,6 +410,7 @@ function initializeFilters() {
     filterLycee.addEventListener('change', applyFilters);
     filterPublic.addEventListener('change', applyFilters);
     filterPrive.addEventListener('change', applyFilters);
+    filterLanguage.addEventListener('change', applyFilters);
 }
 
 // Load and display schools
