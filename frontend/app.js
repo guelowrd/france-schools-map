@@ -146,8 +146,13 @@ function createPopupContent(school) {
     // Student count and class size
     if (school.student_count) {
         html += `<p><strong>👥 Élèves:</strong> ${school.student_count}`;
-        if (school.estimated_class_size) {
-            html += ` <span style="font-size: 11px; color: #666;">(~${Math.round(school.estimated_class_size)} par classe)</span>`;
+
+        // For primary schools, show actual class count and size
+        if (school.type === 'Primaire' && school.number_of_classes) {
+            html += ` • ${school.number_of_classes} classe${school.number_of_classes > 1 ? 's' : ''}`;
+            if (school.class_size) {
+                html += ` <span style="font-size: 11px; color: #666;">(${school.class_size} élèves/classe)</span>`;
+            }
         }
         html += '</p>';
     }

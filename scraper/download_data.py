@@ -106,6 +106,11 @@ def download_annuaire():
 
         # Keep lycées but filter out professional-only
         elif 'Lycée' in type_etab or 'LYCEE' in libelle_nature.upper():
+            # EXCLUDE professional-only lycées
+            if 'PROFESSIONNEL' in libelle_nature.upper():
+                # Skip professional-only lycées
+                continue
+
             # Check for general/technological indicators
             voie_generale = fields.get('voie_generale')
             voie_techno = fields.get('voie_technologique')
@@ -115,11 +120,9 @@ def download_annuaire():
             # (even if also has professional - polyvalent lycées are OK)
             if voie_generale or voie_techno:
                 filtered_records.append(record)
-            # Also keep if voie fields are None (data not specified) - safer to include
+            # Also keep if voie fields are None (data not specified)
             elif voie_generale is None and voie_techno is None and voie_pro is None:
-                # Check libelle to exclude obvious professional-only
-                if 'PROFESSIONNEL' not in libelle_nature.upper():
-                    filtered_records.append(record)
+                filtered_records.append(record)
 
     print(f"\n✓ Filtered to {len(filtered_records)} general curriculum schools")
     print(f"  (from {len(records)} total establishments)")

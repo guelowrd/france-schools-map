@@ -61,6 +61,11 @@ def merge_data():
     brevet_records = load_json("brevet_results_pays_loire.json")
     bac_records = load_json("bac_results_pays_loire.json")
 
+    # Load enrollment data (effectifs)
+    effectifs_ecoles_records = load_json("effectifs_ecoles_pays_loire.json")
+    effectifs_colleges_records = load_json("effectifs_colleges_pays_loire.json")
+    effectifs_lycees_records = load_json("effectifs_lycees_pays_loire.json")
+
     # Create lookup dictionaries by UAI
     print("\nCreating UAI lookup dictionaries...")
 
@@ -112,6 +117,32 @@ def merge_data():
     print(f"  Brevet: {len(brevet_results)} schools")
     print(f"  Bac: {len(bac_results)} schools")
 
+    # Create enrollment lookup dictionaries
+    effectifs_ecoles = {}
+    for record in effectifs_ecoles_records:
+        fields = extract_fields(record)
+        uai = fields.get('numero_ecole')
+        if uai:
+            effectifs_ecoles[uai] = fields
+
+    effectifs_colleges = {}
+    for record in effectifs_colleges_records:
+        fields = extract_fields(record)
+        uai = fields.get('numero_college')
+        if uai:
+            effectifs_colleges[uai] = fields
+
+    effectifs_lycees = {}
+    for record in effectifs_lycees_records:
+        # This data is aggregated already in the download script
+        uai = record.get('uai')
+        if uai:
+            effectifs_lycees[uai] = record
+
+    print(f"  Effectifs Écoles: {len(effectifs_ecoles)} schools")
+    print(f"  Effectifs Collèges: {len(effectifs_colleges)} schools")
+    print(f"  Effectifs Lycées: {len(effectifs_lycees)} schools")
+
     # Merge with annuaire (base dataset)
     print("\nMerging data with Annuaire...")
     merged_schools = []
@@ -122,7 +153,8 @@ def merge_data():
         'college': 0,
         'lycee': 0,
         'with_ips': 0,
-        'with_exam_results': 0
+        'with_exam_results': 0,
+        'with_enrollment': 0
     }
 
     for record in annuaire_records:
@@ -186,15 +218,44 @@ def merge_data():
 
         if ips_data:
             stats['with_ips'] += 1
+            # Get IPS value based on school type
+            ips_value = None
+            if school_type == 'Lycée':
+                ips_value = ips_data.get('ips_etab')  # Lycées use ips_etab field
+            else:
+                ips_value = ips_data.get('ips') or ips_data.get('ips_ensemble_gt_pro')
+
             school['ips'] = {
-                'value': ips_data.get('ips') or ips_data.get('ips_ensemble_gt_pro'),
+                'value': ips_value,
                 'year': ips_data.get('rentree_scolaire', ''),
                 'ecart_type': ips_data.get('ecart_type_de_l_ips') or ips_data.get('ecart_type_etablissement'),
                 # Benchmarks for context
-                'national_average': ips_data.get('ips_national'),
-                'academique_average': ips_data.get('ips_academique'),
-                'departemental_average': ips_data.get('ips_departemental')
+                'national_average': ips_data.get('ips_national') or ips_data.get('ips_national_legt'),
+                'academique_average': ips_data.get('ips_academique') or ips_data.get('ips_academique_legt'),
+                'departemental_average': ips_data.get('ips_departemental') or ips_data.get('ips_departemental_legt')
             }
+
+        # Add enrollment data based on school type
+        effectifs_data = None
+        if school_type == 'Primaire' and uai in effectifs_ecoles:
+            effectifs_data = effectifs_ecoles[uai]
+            school['student_count'] = effectifs_data.get('nombre_total_eleves')
+            school['number_of_classes'] = effectifs_data.get('nombre_total_classes')
+            # Calculate actual class size for primary schools
+            if school['student_count'] and school['number_of_classes'] and school['number_of_classes'] > 0:
+                school['class_size'] = round(school['student_count'] / school['number_of_classes'], 1)
+            if school['student_count']:
+                stats['with_enrollment'] += 1
+        elif school_type == 'Collège' and uai in effectifs_colleges:
+            effectifs_data = effectifs_colleges[uai]
+            school['student_count'] = effectifs_data.get('nombre_eleves_total')
+            if school['student_count']:
+                stats['with_enrollment'] += 1
+        elif school_type == 'Lycée' and uai in effectifs_lycees:
+            effectifs_data = effectifs_lycees[uai]
+            school['student_count'] = effectifs_data.get('total_students')
+            if school['student_count']:
+                stats['with_enrollment'] += 1
 
         # Add exam results based on school type
         if school_type == 'Collège' and uai in brevet_results:
@@ -253,36 +314,8 @@ def merge_data():
     print(f"  - {stats['college']} middle schools (Collèges)")
     print(f"  - {stats['lycee']} high schools (Lycées)")
     print(f"  - {stats['with_ips']} schools with IPS data ({stats['with_ips']/stats['total']*100:.1f}%)")
+    print(f"  - {stats['with_enrollment']} schools with enrollment data ({stats['with_enrollment']/stats['total']*100:.1f}%)")
     print(f"  - {stats['with_exam_results']} schools with exam results ({stats['with_exam_results']/stats['total']*100:.1f}%)")
-
-    # Calculate class size estimates where possible
-    print("\nCalculating class size estimates...")
-    for school in merged_schools:
-        if school.get('student_count') and school['student_count'] > 0:
-            # Rough estimates for class size
-            if school['type'] == 'Primaire':
-                # Elementary: typically 5 grades (CP, CE1, CE2, CM1, CM2)
-                estimated_classes = max(5, school['student_count'] // 25)  # Assume ~25 per class
-                school['estimated_class_size'] = school['student_count'] / estimated_classes
-            elif school['type'] == 'Collège':
-                # Middle school: 4 grades (6e, 5e, 4e, 3e)
-                estimated_classes = max(4, school['student_count'] // 28)  # Assume ~28 per class
-                school['estimated_class_size'] = school['student_count'] / estimated_classes
-            elif school['type'] == 'Lycée':
-                # High school: 3 grades (2nde, 1ere, Terminale)
-                # Use actual enrollment data if available
-                if school.get('exam_results'):
-                    total_enrolled = sum(filter(None, [
-                        school['exam_results'].get('students_2nde'),
-                        school['exam_results'].get('students_1ere'),
-                        school['exam_results'].get('students_term')
-                    ]))
-                    if total_enrolled > 0:
-                        estimated_classes = max(3, total_enrolled // 30)
-                        school['estimated_class_size'] = total_enrolled / estimated_classes
-                else:
-                    estimated_classes = max(3, school['student_count'] // 30)
-                    school['estimated_class_size'] = school['student_count'] / estimated_classes
 
     # Save merged data
     output_file = DATA_DIR / "schools.json"
