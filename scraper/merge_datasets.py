@@ -66,6 +66,9 @@ def merge_data():
     effectifs_colleges_records = load_json("effectifs_colleges_pays_loire.json")
     effectifs_lycees_records = load_json("effectifs_lycees_pays_loire.json")
 
+    # Load language offerings data
+    language_records = load_json("language_offerings_pays_loire.json")
+
     # Create lookup dictionaries by UAI
     print("\nCreating UAI lookup dictionaries...")
 
@@ -143,6 +146,15 @@ def merge_data():
     print(f"  Effectifs Collèges: {len(effectifs_colleges)} schools")
     print(f"  Effectifs Lycées: {len(effectifs_lycees)} schools")
 
+    # Create language offerings lookup
+    languages = {}
+    for record in language_records:
+        uai = record.get('uai')
+        if uai:
+            languages[uai] = record
+
+    print(f"  Language Offerings: {len(languages)} schools")
+
     # Merge with annuaire (base dataset)
     print("\nMerging data with Annuaire...")
     merged_schools = []
@@ -154,7 +166,8 @@ def merge_data():
         'lycee': 0,
         'with_ips': 0,
         'with_exam_results': 0,
-        'with_enrollment': 0
+        'with_enrollment': 0,
+        'with_languages': 0
     }
 
     for record in annuaire_records:
@@ -309,6 +322,16 @@ def merge_data():
                 'students_present': bac.get('presents_total')
             }
 
+        # Add language offerings data (only for collèges and lycées)
+        if school_type in ['Collège', 'Lycée'] and uai in languages:
+            stats['with_languages'] += 1
+            lang_data = languages[uai]
+            school['languages'] = {
+                'lv1': lang_data.get('lv1', []),
+                'lv2': lang_data.get('lv2', []),
+                'all': lang_data.get('all_languages', [])
+            }
+
         merged_schools.append(school)
         stats['total'] += 1
 
@@ -319,6 +342,7 @@ def merge_data():
     print(f"  - {stats['with_ips']} schools with IPS data ({stats['with_ips']/stats['total']*100:.1f}%)")
     print(f"  - {stats['with_enrollment']} schools with enrollment data ({stats['with_enrollment']/stats['total']*100:.1f}%)")
     print(f"  - {stats['with_exam_results']} schools with exam results ({stats['with_exam_results']/stats['total']*100:.1f}%)")
+    print(f"  - {stats['with_languages']} schools with language offerings ({stats['with_languages']/stats['total']*100:.1f}%)")
 
     # Deduplicate schools with same UAI (e.g., multiple campuses)
     # Keep the main campus (shorter, simpler name)

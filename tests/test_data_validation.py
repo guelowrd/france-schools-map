@@ -285,6 +285,44 @@ def test_dates_present():
     print(f"✓ All data sources include dates/years")
 
 
+def test_language_data_coverage():
+    """Test language offerings data coverage for collèges and lycées"""
+    schools = load_schools()
+
+    # Language data should only be for collèges and lycées
+    colleges_lycees = [s for s in schools if s['type'] in ['Collège', 'Lycée']]
+    with_languages = [s for s in colleges_lycees if s.get('languages')]
+
+    coverage = len(with_languages) / len(colleges_lycees) * 100 if colleges_lycees else 0
+
+    assert coverage > 60, f"Language data coverage too low: {coverage:.1f}% (expected >60%)"
+    print(f"✓ Language data coverage: {coverage:.1f}% ({len(with_languages)}/{len(colleges_lycees)})")
+
+
+def test_language_data_structure():
+    """Test that language data has valid structure"""
+    schools = load_schools()
+    invalid_languages = []
+
+    for school in schools:
+        if school.get('languages'):
+            langs = school['languages']
+
+            # Check required fields
+            if 'lv1' not in langs or 'lv2' not in langs:
+                invalid_languages.append(f"{school['name']}: missing lv1 or lv2 field")
+                continue
+
+            # Check they are lists
+            if not isinstance(langs['lv1'], list) or not isinstance(langs['lv2'], list):
+                invalid_languages.append(f"{school['name']}: lv1 or lv2 not a list")
+
+    assert len(invalid_languages) == 0, (
+        f"Invalid language data structure:\n" + "\n".join(invalid_languages[:10])
+    )
+    print(f"✓ All language data has valid structure")
+
+
 def run_all_tests():
     """Run all tests and report results"""
     print("=" * 80)
@@ -308,6 +346,8 @@ def run_all_tests():
         test_no_professional_lycees,
         test_uai_format,
         test_dates_present,
+        test_language_data_coverage,
+        test_language_data_structure,
     ]
 
     passed = 0

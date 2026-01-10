@@ -8896,6 +8896,22 @@
         "bien": 15,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -8941,6 +8957,20 @@
         "bien": 11,
         "tres_bien": 21
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -8986,6 +9016,20 @@
         "bien": 22,
         "tres_bien": 22
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -9031,6 +9075,20 @@
         "bien": 28,
         "tres_bien": 50
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -9076,6 +9134,18 @@
         "bien": 8,
         "tres_bien": 2
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -9121,6 +9191,20 @@
         "bien": 40,
         "tres_bien": 52
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -9166,6 +9250,20 @@
         "bien": 8,
         "tres_bien": 10
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -9211,6 +9309,20 @@
         "bien": 17,
         "tres_bien": 26
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -9256,6 +9368,20 @@
         "bien": 23,
         "tres_bien": 33
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -9301,6 +9427,20 @@
         "bien": 13,
         "tres_bien": 4
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -14429,6 +14569,20 @@
         "bien": 32,
         "tres_bien": 16
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -14474,6 +14628,20 @@
         "bien": 24,
         "tres_bien": 27
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -14519,6 +14687,20 @@
         "bien": 9,
         "tres_bien": 10
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -14564,6 +14746,18 @@
         "bien": 0,
         "tres_bien": 0
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -14609,6 +14803,20 @@
         "bien": 43,
         "tres_bien": 31
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -14654,6 +14862,20 @@
         "bien": 52,
         "tres_bien": 60
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -14699,6 +14921,20 @@
         "bien": 33,
         "tres_bien": 17
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -14744,6 +14980,20 @@
         "bien": 43,
         "tres_bien": 30
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -14789,6 +15039,22 @@
         "bien": 36,
         "tres_bien": 38
       }
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -14834,6 +15100,20 @@
         "bien": 17,
         "tres_bien": 23
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -14879,6 +15159,20 @@
         "bien": 26,
         "tres_bien": 8
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -14924,6 +15218,20 @@
         "bien": 42,
         "tres_bien": 21
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -14969,6 +15277,20 @@
         "bien": 29,
         "tres_bien": 22
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -15014,6 +15336,20 @@
         "bien": 20,
         "tres_bien": 17
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -15059,6 +15395,20 @@
         "bien": 12,
         "tres_bien": 15
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -15104,6 +15454,22 @@
         "bien": 48,
         "tres_bien": 30
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Italien",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Italien",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -15149,6 +15515,23 @@
         "bien": 60,
         "tres_bien": 41
       }
+    },
+    "languages": {
+      "lv1": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -15194,6 +15577,20 @@
         "bien": 18,
         "tres_bien": 20
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -15239,6 +15636,20 @@
         "bien": 34,
         "tres_bien": 31
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -15284,6 +15695,20 @@
         "bien": 46,
         "tres_bien": 33
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -15351,6 +15776,20 @@
         "bien": 13,
         "tres_bien": 21
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -15396,6 +15835,20 @@
         "bien": 38,
         "tres_bien": 43
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -15441,6 +15894,20 @@
         "bien": 19,
         "tres_bien": 7
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -15486,6 +15953,22 @@
         "bien": 11,
         "tres_bien": 20
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Italien",
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -15531,6 +16014,20 @@
         "bien": 29,
         "tres_bien": 27
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -15576,6 +16073,18 @@
         "bien": 12,
         "tres_bien": 7
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -15621,6 +16130,20 @@
         "bien": 26,
         "tres_bien": 25
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -15666,6 +16189,24 @@
         "bien": 23,
         "tres_bien": 50
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Italien",
+        "Arabe"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais",
+        "Italien",
+        "Arabe"
+      ]
     }
   },
   {
@@ -15711,6 +16252,20 @@
         "bien": 10,
         "tres_bien": 11
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -15756,6 +16311,20 @@
         "bien": 27,
         "tres_bien": 51
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -15801,6 +16370,20 @@
         "bien": 32,
         "tres_bien": 21
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -15846,6 +16429,20 @@
         "bien": 41,
         "tres_bien": 34
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -15891,6 +16488,20 @@
         "bien": 5,
         "tres_bien": 8
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -15936,6 +16547,18 @@
         "bien": 16,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -15981,6 +16604,20 @@
         "bien": 45,
         "tres_bien": 52
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -16026,6 +16663,20 @@
         "bien": 35,
         "tres_bien": 54
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -16071,6 +16722,20 @@
         "bien": 19,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -16116,6 +16781,20 @@
         "bien": 9,
         "tres_bien": 7
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -16161,6 +16840,20 @@
         "bien": 20,
         "tres_bien": 11
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -16206,6 +16899,20 @@
         "bien": 8,
         "tres_bien": 8
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -16251,6 +16958,20 @@
         "bien": 24,
         "tres_bien": 39
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -16296,6 +17017,20 @@
         "bien": 16,
         "tres_bien": 20
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -16341,6 +17076,20 @@
         "bien": 32,
         "tres_bien": 67
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -16386,6 +17135,20 @@
         "bien": 27,
         "tres_bien": 4
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -16431,6 +17194,22 @@
         "bien": 30,
         "tres_bien": 30
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -16476,6 +17255,20 @@
         "bien": 37,
         "tres_bien": 40
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -16521,6 +17314,20 @@
         "bien": 19,
         "tres_bien": 18
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -16566,6 +17373,20 @@
         "bien": 35,
         "tres_bien": 18
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -16611,6 +17432,20 @@
         "bien": 27,
         "tres_bien": 31
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -16656,6 +17491,18 @@
         "bien": 6,
         "tres_bien": 2
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -16701,6 +17548,20 @@
         "bien": 26,
         "tres_bien": 15
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -16746,6 +17607,26 @@
       "students_1ere": 246,
       "students_term": 243,
       "students_present": 272
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Italien",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol",
+        "Italien",
+        "Latin"
+      ]
     }
   },
   {
@@ -16791,6 +17672,20 @@
       "students_1ere": 112,
       "students_term": 105,
       "students_present": 103
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -16836,6 +17731,24 @@
       "students_1ere": 136,
       "students_term": 126,
       "students_present": 116
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Italien",
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Italien",
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -16881,6 +17794,21 @@
       "students_1ere": 65,
       "students_term": 81,
       "students_present": 58
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Latin",
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -16926,6 +17854,23 @@
       "students_1ere": 242,
       "students_term": 234,
       "students_present": 239
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Latin",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -16948,7 +17893,19 @@
       "email": "legta.fontenay@educagri.fr",
       "website": "https://www.lyceebelair.fr/"
     },
-    "student_count": null
+    "student_count": null,
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais"
+      ]
+    }
   },
   {
     "uai": "0442993P",
@@ -16979,7 +17936,23 @@
       "academique_average": 123.8,
       "departemental_average": 127.6
     },
-    "enrollment_year": "2024"
+    "enrollment_year": "2024",
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
+    }
   },
   {
     "uai": "0492224B",
@@ -17024,6 +17997,20 @@
       "students_1ere": null,
       "students_term": null,
       "students_present": 9
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -17069,6 +18056,23 @@
       "students_1ere": 50,
       "students_term": 92,
       "students_present": 79
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -17100,7 +18104,22 @@
       "academique_average": 123.8,
       "departemental_average": 117.2
     },
-    "enrollment_year": "2024"
+    "enrollment_year": "2024",
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais",
+        "Latin"
+      ]
+    }
   },
   {
     "uai": "0851390Z",
@@ -17145,6 +18164,24 @@
       "students_1ere": 334,
       "students_term": 336,
       "students_present": 324
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Italien",
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -17190,6 +18227,23 @@
       "students_1ere": 646,
       "students_term": 666,
       "students_present": 644
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Latin",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -17235,6 +18289,20 @@
       "students_1ere": 405,
       "students_term": 358,
       "students_present": 337
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -17280,6 +18348,21 @@
       "students_1ere": 173,
       "students_term": 178,
       "students_present": 190
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Latin",
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -17325,6 +18408,26 @@
       "students_1ere": 181,
       "students_term": 132,
       "students_present": 156
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Chinois",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Italien",
+        "Chinois",
+        "Espagnol",
+        "Grec",
+        "Anglais",
+        "Latin",
+        "Allemand"
+      ]
     }
   },
   {
@@ -17370,6 +18473,21 @@
       "students_1ere": 144,
       "students_term": 130,
       "students_present": 139
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Latin",
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -17415,6 +18533,30 @@
       "students_1ere": 369,
       "students_term": 406,
       "students_present": 416
+    },
+    "languages": {
+      "lv1": [
+        "Espagnol",
+        "Allemand",
+        "Anglais",
+        "Italien"
+      ],
+      "lv2": [
+        "Anglais",
+        "Allemand",
+        "Espagnol",
+        "Chinois",
+        "Italien"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais",
+        "Grec",
+        "Latin",
+        "Italien",
+        "Chinois"
+      ]
     }
   },
   {
@@ -17460,6 +18602,20 @@
       "students_1ere": 45,
       "students_term": 42,
       "students_present": 50
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -17505,6 +18661,20 @@
         "bien": 65,
         "tres_bien": 99
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -17550,6 +18720,23 @@
       "students_1ere": 88,
       "students_term": 108,
       "students_present": 107
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Latin",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -17595,6 +18782,24 @@
       "students_1ere": 182,
       "students_term": 227,
       "students_present": 285
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Chinois",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Chinois",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -17640,6 +18845,23 @@
       "students_1ere": 307,
       "students_term": 337,
       "students_present": 322
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol",
+        "Latin"
+      ]
     }
   },
   {
@@ -17685,6 +18907,22 @@
       "students_1ere": 284,
       "students_term": 302,
       "students_present": 291
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -17730,6 +18968,24 @@
       "students_1ere": 196,
       "students_term": 187,
       "students_present": 158
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Russe",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Russe",
+        "Latin",
+        "Allemand",
+        "Grec",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -17775,6 +19031,24 @@
       "students_1ere": 65,
       "students_term": 62,
       "students_present": 57
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Latin",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -17820,6 +19094,23 @@
       "students_1ere": 277,
       "students_term": 260,
       "students_present": 279
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Latin",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -17865,6 +19156,22 @@
       "students_1ere": 262,
       "students_term": 281,
       "students_present": 256
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -17896,7 +19203,19 @@
       "academique_average": 123.8,
       "departemental_average": 127.6
     },
-    "enrollment_year": "2024"
+    "enrollment_year": "2024",
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol"
+      ]
+    }
   },
   {
     "uai": "0491966W",
@@ -17941,6 +19260,25 @@
       "students_1ere": 258,
       "students_term": 234,
       "students_present": 245
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Anglais",
+        "Chinois",
+        "Allemand"
+      ],
+      "all": [
+        "Latin",
+        "Allemand",
+        "Espagnol",
+        "Anglais",
+        "Chinois"
+      ]
     }
   },
   {
@@ -17986,6 +19324,20 @@
         "bien": 41,
         "tres_bien": 33
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -18031,6 +19383,20 @@
         "bien": 65,
         "tres_bien": 101
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -18076,6 +19442,22 @@
         "bien": 25,
         "tres_bien": 17
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Italien"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand",
+        "Italien"
+      ]
     }
   },
   {
@@ -18121,6 +19503,24 @@
       "students_1ere": 247,
       "students_term": 210,
       "students_present": 201
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Italien",
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Italien",
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -18166,6 +19566,20 @@
         "bien": 14,
         "tres_bien": 13
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -18211,6 +19625,23 @@
       "students_1ere": 238,
       "students_term": 226,
       "students_present": 232
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Latin",
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -18256,6 +19687,26 @@
       "students_1ere": 265,
       "students_term": 226,
       "students_present": 277
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais",
+        "Chinois"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol",
+        "Chinois",
+        "Latin",
+        "Grec"
+      ]
     }
   },
   {
@@ -18301,6 +19752,20 @@
         "bien": 30,
         "tres_bien": 32
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -18346,6 +19811,20 @@
         "bien": 8,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -18391,6 +19870,20 @@
         "bien": 15,
         "tres_bien": 15
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -18436,6 +19929,20 @@
         "bien": 9,
         "tres_bien": 4
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -18481,6 +19988,20 @@
         "bien": 46,
         "tres_bien": 31
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -18526,6 +20047,26 @@
       "students_1ere": 187,
       "students_term": 165,
       "students_present": 158
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Anglais",
+        "Italien",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand",
+        "Grec",
+        "Latin",
+        "Italien"
+      ]
     }
   },
   {
@@ -18571,6 +20112,30 @@
       "students_1ere": 257,
       "students_term": 284,
       "students_present": 281
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Arabe",
+        "Espagnol",
+        "Russe",
+        "Italien",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Arabe",
+        "Latin",
+        "Espagnol",
+        "Russe",
+        "Italien",
+        "Anglais",
+        "Grec"
+      ]
     }
   },
   {
@@ -18616,6 +20181,20 @@
         "bien": 33,
         "tres_bien": 37
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -18661,6 +20240,18 @@
         "bien": 28,
         "tres_bien": 19
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -18706,6 +20297,21 @@
       "students_1ere": 267,
       "students_term": 258,
       "students_present": 270
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Latin",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -18751,6 +20357,21 @@
       "students_1ere": 189,
       "students_term": 172,
       "students_present": 180
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Latin",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -18796,6 +20417,23 @@
       "students_1ere": 318,
       "students_term": 321,
       "students_present": 377
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Latin",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -18841,6 +20479,22 @@
         "bien": 22,
         "tres_bien": 36
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Chinois"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais",
+        "Chinois"
+      ]
     }
   },
   {
@@ -18886,6 +20540,20 @@
       "students_1ere": 332,
       "students_term": 316,
       "students_present": 321
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -18931,6 +20599,22 @@
       "students_1ere": 144,
       "students_term": 132,
       "students_present": 152
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -19526,6 +21210,22 @@
         "bien": 121,
         "tres_bien": 59
       }
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -19571,6 +21271,20 @@
         "bien": 33,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -19616,6 +21330,20 @@
         "bien": 53,
         "tres_bien": 27
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -19661,6 +21389,20 @@
         "bien": 86,
         "tres_bien": 60
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -19706,6 +21448,20 @@
         "bien": 14,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -19751,6 +21507,20 @@
         "bien": 24,
         "tres_bien": 38
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -19796,6 +21566,20 @@
         "bien": 26,
         "tres_bien": 19
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -19841,6 +21625,20 @@
         "bien": 92,
         "tres_bien": 64
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -19886,6 +21684,20 @@
         "bien": 31,
         "tres_bien": 18
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -19931,6 +21743,20 @@
         "bien": 43,
         "tres_bien": 26
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -19976,6 +21802,20 @@
         "bien": 10,
         "tres_bien": 7
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -20021,6 +21861,20 @@
         "bien": 40,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -20066,6 +21920,18 @@
         "bien": 2,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -20111,6 +21977,20 @@
         "bien": 124,
         "tres_bien": 86
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -20156,6 +22036,20 @@
         "bien": 37,
         "tres_bien": 50
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -20201,6 +22095,20 @@
         "bien": 26,
         "tres_bien": 21
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -20246,6 +22154,20 @@
         "bien": 14,
         "tres_bien": 18
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -20291,6 +22213,18 @@
         "bien": 10,
         "tres_bien": 10
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -20336,6 +22270,20 @@
         "bien": 39,
         "tres_bien": 71
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -20381,6 +22329,18 @@
         "bien": 32,
         "tres_bien": 36
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -20426,6 +22386,20 @@
         "bien": 35,
         "tres_bien": 27
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -20471,6 +22445,22 @@
         "bien": 81,
         "tres_bien": 55
       }
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -32168,6 +34158,20 @@
         "bien": 13,
         "tres_bien": 4
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -32213,6 +34217,20 @@
         "bien": 37,
         "tres_bien": 46
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -32258,6 +34276,20 @@
         "bien": 36,
         "tres_bien": 33
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -32303,6 +34335,20 @@
         "bien": 64,
         "tres_bien": 49
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -36527,6 +38573,23 @@
       "students_1ere": 313,
       "students_term": 343,
       "students_present": 382
+    },
+    "languages": {
+      "lv1": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -36572,6 +38635,22 @@
       "students_1ere": 486,
       "students_term": 484,
       "students_present": 445
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -36594,7 +38673,21 @@
       "email": "legta.la-roche-sur-yon@educagri.fr",
       "website": "https://www.lyceenature.com/"
     },
-    "student_count": null
+    "student_count": null,
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
+    }
   },
   {
     "uai": "0440086E",
@@ -36639,6 +38732,20 @@
       "students_1ere": 388,
       "students_term": 397,
       "students_present": 380
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -36684,6 +38791,20 @@
         "bien": 35,
         "tres_bien": 29
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -36729,6 +38850,20 @@
         "bien": 18,
         "tres_bien": 17
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -36774,6 +38909,20 @@
         "bien": 24,
         "tres_bien": 27
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -36819,6 +38968,20 @@
         "bien": 36,
         "tres_bien": 55
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -36864,6 +39027,20 @@
         "bien": 23,
         "tres_bien": 29
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -36909,6 +39086,20 @@
         "bien": 37,
         "tres_bien": 31
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -36954,6 +39145,20 @@
         "bien": 35,
         "tres_bien": 15
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -36999,6 +39204,20 @@
         "bien": 39,
         "tres_bien": 42
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -37044,6 +39263,20 @@
         "bien": 27,
         "tres_bien": 37
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -37089,6 +39322,18 @@
         "bien": 20,
         "tres_bien": 18
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -37134,6 +39379,22 @@
         "bien": 38,
         "tres_bien": 31
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Italien",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -37179,6 +39440,20 @@
         "bien": 14,
         "tres_bien": 2
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -37224,6 +39499,20 @@
         "bien": 22,
         "tres_bien": 23
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -37269,6 +39558,20 @@
         "bien": 10,
         "tres_bien": 4
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -37314,6 +39617,24 @@
         "bien": 30,
         "tres_bien": 104
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Arabe",
+        "Italien"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais",
+        "Arabe",
+        "Italien"
+      ]
     }
   },
   {
@@ -37359,6 +39680,20 @@
         "bien": 53,
         "tres_bien": 59
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -37404,6 +39739,20 @@
         "bien": 46,
         "tres_bien": 34
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -37449,6 +39798,20 @@
         "bien": 12,
         "tres_bien": 15
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -37494,6 +39857,20 @@
         "bien": 20,
         "tres_bien": 6
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -37539,6 +39916,20 @@
         "bien": 35,
         "tres_bien": 38
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -37584,6 +39975,20 @@
         "bien": 20,
         "tres_bien": 28
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -37629,6 +40034,20 @@
         "bien": 49,
         "tres_bien": 33
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -37674,6 +40093,22 @@
         "bien": 37,
         "tres_bien": 60
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Chinois",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Chinois",
+        "Allemand"
+      ]
     }
   },
   {
@@ -37719,6 +40154,20 @@
         "bien": 12,
         "tres_bien": 13
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -37764,6 +40213,20 @@
         "bien": 30,
         "tres_bien": 47
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -37809,6 +40272,20 @@
         "bien": 16,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -37854,6 +40331,20 @@
         "bien": 13,
         "tres_bien": 10
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -37899,6 +40390,20 @@
         "bien": 17,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -37944,6 +40449,20 @@
         "bien": 13,
         "tres_bien": 30
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -37989,6 +40508,20 @@
         "bien": 16,
         "tres_bien": 20
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -38034,6 +40567,20 @@
         "bien": 18,
         "tres_bien": 6
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -38079,6 +40626,18 @@
         "bien": 23,
         "tres_bien": 21
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -38146,6 +40705,20 @@
         "bien": 35,
         "tres_bien": 38
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -38191,6 +40764,20 @@
         "bien": 33,
         "tres_bien": 31
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -38236,6 +40823,20 @@
         "bien": 45,
         "tres_bien": 23
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -38281,6 +40882,20 @@
         "bien": 9,
         "tres_bien": 27
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -38326,6 +40941,20 @@
         "bien": 14,
         "tres_bien": 5
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -38371,6 +41000,20 @@
         "bien": 11,
         "tres_bien": 16
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -38416,6 +41059,20 @@
         "bien": 19,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -38461,6 +41118,20 @@
         "bien": 29,
         "tres_bien": 24
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -38506,6 +41177,22 @@
         "bien": 34,
         "tres_bien": 67
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Italien",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Italien",
+        "Allemand"
+      ]
     }
   },
   {
@@ -38551,6 +41238,20 @@
         "bien": 33,
         "tres_bien": 42
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -38596,6 +41297,20 @@
         "bien": 11,
         "tres_bien": 6
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -38627,7 +41342,25 @@
       "academique_average": "109.1",
       "departemental_average": "115.3"
     },
-    "enrollment_year": "2024"
+    "enrollment_year": "2024",
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Chinois",
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Chinois",
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ]
+    }
   },
   {
     "uai": "0850117R",
@@ -38672,6 +41405,20 @@
         "bien": 59,
         "tres_bien": 41
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -38717,6 +41464,20 @@
         "bien": 34,
         "tres_bien": 25
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -38762,6 +41523,25 @@
       "students_1ere": 271,
       "students_term": 259,
       "students_present": 274
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Italien",
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Italien",
+        "Espagnol",
+        "Latin"
+      ]
     }
   },
   {
@@ -38807,6 +41587,28 @@
       "students_1ere": 249,
       "students_term": 264,
       "students_present": 263
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Russe",
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Italien",
+        "Russe",
+        "Allemand",
+        "Espagnol",
+        "Grec",
+        "Anglais",
+        "Latin"
+      ]
     }
   },
   {
@@ -38852,6 +41654,23 @@
       "students_1ere": 137,
       "students_term": 130,
       "students_present": 139
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Latin",
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -38897,6 +41716,22 @@
       "students_1ere": 52,
       "students_term": 42,
       "students_present": 63
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Grec",
+        "Latin",
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -38942,6 +41777,21 @@
       "students_1ere": 133,
       "students_term": 122,
       "students_present": 156
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Latin",
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -38987,6 +41837,22 @@
       "students_1ere": 164,
       "students_term": 176,
       "students_present": 182
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Chinois",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Chinois",
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -39032,6 +41898,22 @@
       "students_1ere": 27,
       "students_term": 42,
       "students_present": 48
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Italien",
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -39077,6 +41959,21 @@
       "students_1ere": 173,
       "students_term": 181,
       "students_present": 175
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Latin",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -39122,6 +42019,23 @@
       "students_1ere": 377,
       "students_term": 367,
       "students_present": 361
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Latin",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -39167,6 +42081,21 @@
       "students_1ere": 270,
       "students_term": 266,
       "students_present": 245
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol",
+        "Latin"
+      ]
     }
   },
   {
@@ -39212,6 +42141,21 @@
       "students_1ere": 54,
       "students_term": 46,
       "students_present": 48
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Latin",
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -39257,6 +42201,23 @@
       "students_1ere": 269,
       "students_term": 269,
       "students_present": 263
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Italien"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Italien",
+        "Anglais",
+        "Latin"
+      ]
     }
   },
   {
@@ -39302,6 +42263,22 @@
         "bien": 30,
         "tres_bien": 61
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Russe",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Russe",
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -39369,6 +42346,23 @@
       "students_1ere": 145,
       "students_term": 183,
       "students_present": 194
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol",
+        "Latin"
+      ]
     }
   },
   {
@@ -39414,6 +42408,21 @@
       "students_1ere": 174,
       "students_term": 199,
       "students_present": 198
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Latin",
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -39459,6 +42468,24 @@
         "bien": 59,
         "tres_bien": 73
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Anglais",
+        "Espagnol",
+        "Allemand",
+        "Chinois"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol",
+        "Chinois"
+      ]
     }
   },
   {
@@ -39504,6 +42531,23 @@
       "students_1ere": 182,
       "students_term": 267,
       "students_present": 294
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ],
+      "all": [
+        "Latin",
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -39549,6 +42593,25 @@
       "students_1ere": 346,
       "students_term": 343,
       "students_present": 359
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Chinois",
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Anglais",
+        "Chinois",
+        "Latin",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -39594,6 +42657,22 @@
         "bien": 52,
         "tres_bien": 86
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Chinois",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Chinois",
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -39639,6 +42718,25 @@
       "students_1ere": 202,
       "students_term": 163,
       "students_present": 175
+    },
+    "languages": {
+      "lv1": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Espagnol",
+        "Grec",
+        "Latin",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -39684,6 +42782,22 @@
       "students_1ere": 97,
       "students_term": 97,
       "students_present": 90
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Italien",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Italien",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -39729,6 +42843,22 @@
       "students_1ere": 239,
       "students_term": 235,
       "students_present": 272
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ],
+      "all": [
+        "Latin",
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -39774,6 +42904,20 @@
         "bien": 14,
         "tres_bien": 10
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -39819,6 +42963,20 @@
       "students_1ere": 80,
       "students_term": 65,
       "students_present": 70
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -39864,6 +43022,22 @@
         "bien": 14,
         "tres_bien": 23
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Russe"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais",
+        "Russe"
+      ]
     }
   },
   {
@@ -39909,6 +43083,20 @@
         "bien": 23,
         "tres_bien": 23
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Espagnol"
+      ],
+      "all": [
+        "Italien",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -39954,6 +43142,20 @@
       "students_1ere": 118,
       "students_term": 102,
       "students_present": 116
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -39999,6 +43201,20 @@
         "bien": 42,
         "tres_bien": 103
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -40044,6 +43260,20 @@
         "bien": 58,
         "tres_bien": 38
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -40066,7 +43296,21 @@
       "email": "legta.laval@educagri.fr",
       "website": "https://www.agricampus-laval.fr"
     },
-    "student_count": null
+    "student_count": null,
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
+    }
   },
   {
     "uai": "0442061B",
@@ -40088,7 +43332,21 @@
       "email": "legta.st-herblain@educagri.fr",
       "website": "http://nantes-terre-atlantique.fr"
     },
-    "student_count": null
+    "student_count": null,
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
+    }
   },
   {
     "uai": "0440166S",
@@ -40133,6 +43391,25 @@
       "students_1ere": 154,
       "students_term": 185,
       "students_present": 171
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Italien",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Italien",
+        "Anglais",
+        "Latin",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -40155,7 +43432,21 @@
       "email": "legta.angers@educagri.fr",
       "website": "https://www.lefresne-angers-segre.fr"
     },
-    "student_count": null
+    "student_count": null,
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
+    }
   },
   {
     "uai": "0850639H",
@@ -40200,6 +43491,22 @@
         "bien": 37,
         "tres_bien": 19
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Italien"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Italien",
+        "Anglais"
+      ]
     }
   },
   {
@@ -40245,6 +43552,20 @@
         "bien": 33,
         "tres_bien": 47
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -45820,6 +49141,20 @@
         "bien": 40,
         "tres_bien": 26
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -45865,6 +49200,20 @@
         "bien": 19,
         "tres_bien": 10
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -45910,6 +49259,20 @@
         "bien": 20,
         "tres_bien": 13
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -45955,6 +49318,20 @@
         "bien": 55,
         "tres_bien": 51
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -46000,6 +49377,20 @@
         "bien": 8,
         "tres_bien": 6
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -46045,6 +49436,20 @@
         "bien": 17,
         "tres_bien": 30
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -46090,6 +49495,20 @@
         "bien": 18,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -46135,6 +49554,20 @@
         "bien": 31,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -46180,6 +49613,20 @@
         "bien": 39,
         "tres_bien": 38
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -46225,6 +49672,20 @@
         "bien": 16,
         "tres_bien": 19
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -46270,6 +49731,20 @@
         "bien": 33,
         "tres_bien": 21
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -46315,6 +49790,20 @@
         "bien": 44,
         "tres_bien": 38
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -46360,6 +49849,20 @@
         "bien": 56,
         "tres_bien": 50
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -46405,6 +49908,20 @@
         "bien": 4,
         "tres_bien": 0
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -46450,6 +49967,20 @@
         "bien": 20,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -46495,6 +50026,20 @@
         "bien": 0,
         "tres_bien": 0
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -46540,6 +50085,20 @@
         "bien": 34,
         "tres_bien": 46
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -55441,6 +59000,22 @@
         "bien": 36,
         "tres_bien": 41
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Italien"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais",
+        "Italien"
+      ]
     }
   },
   {
@@ -55486,6 +59061,20 @@
         "bien": 12,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -55517,7 +59106,23 @@
       "academique_average": "109.1",
       "departemental_average": "115.3"
     },
-    "enrollment_year": "2024"
+    "enrollment_year": "2024",
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Italien",
+        "Espagnol",
+        "Allemand"
+      ]
+    }
   },
   {
     "uai": "0530077W",
@@ -55562,6 +59167,20 @@
         "bien": 13,
         "tres_bien": 20
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -55607,6 +59226,20 @@
         "bien": 20,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -55652,6 +59285,20 @@
         "bien": 10,
         "tres_bien": 19
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -55697,6 +59344,20 @@
         "bien": 23,
         "tres_bien": 30
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -55742,6 +59403,20 @@
         "bien": 37,
         "tres_bien": 42
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -55787,6 +59462,20 @@
         "bien": 49,
         "tres_bien": 35
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -55832,6 +59521,20 @@
         "bien": 38,
         "tres_bien": 48
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -55877,6 +59580,22 @@
         "bien": 20,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Chinois",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Chinois",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -55922,6 +59641,20 @@
         "bien": 12,
         "tres_bien": 8
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -55967,6 +59700,20 @@
         "bien": 30,
         "tres_bien": 19
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -56012,6 +59759,20 @@
         "bien": 27,
         "tres_bien": 25
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -56057,6 +59818,22 @@
         "bien": 64,
         "tres_bien": 29
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Italien",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Italien",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -56102,6 +59879,22 @@
         "bien": 28,
         "tres_bien": 15
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Italien",
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -56147,6 +59940,20 @@
         "bien": 27,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -56192,6 +59999,20 @@
         "bien": 8,
         "tres_bien": 11
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -56237,6 +60058,20 @@
         "bien": 17,
         "tres_bien": 7
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -56282,6 +60117,20 @@
         "bien": 9,
         "tres_bien": 8
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -56327,6 +60176,20 @@
         "bien": 39,
         "tres_bien": 37
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -56372,6 +60235,18 @@
         "bien": 9,
         "tres_bien": 13
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -56417,6 +60292,20 @@
         "bien": 43,
         "tres_bien": 41
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -56860,6 +60749,25 @@
       "students_1ere": 319,
       "students_term": 295,
       "students_present": 305
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Anglais",
+        "Italien",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Italien",
+        "Latin",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -57015,6 +60923,20 @@
         "bien": 46,
         "tres_bien": 54
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -57060,6 +60982,20 @@
         "bien": 42,
         "tres_bien": 27
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -57105,6 +61041,20 @@
         "bien": 11,
         "tres_bien": 13
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -57150,6 +61100,20 @@
         "bien": 13,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -57195,6 +61159,20 @@
         "bien": 42,
         "tres_bien": 22
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -57240,6 +61218,20 @@
         "bien": 13,
         "tres_bien": 10
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -57285,6 +61277,22 @@
         "bien": 43,
         "tres_bien": 39
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Italien",
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -57330,6 +61338,20 @@
         "bien": 20,
         "tres_bien": 15
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -57375,6 +61397,20 @@
         "bien": 12,
         "tres_bien": 8
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -57420,6 +61456,20 @@
         "bien": 38,
         "tres_bien": 23
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -57465,6 +61515,22 @@
         "bien": 18,
         "tres_bien": 11
       }
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -57510,6 +61576,20 @@
         "bien": 18,
         "tres_bien": 20
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -57555,6 +61635,18 @@
         "bien": 12,
         "tres_bien": 28
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -57600,6 +61692,20 @@
         "bien": 20,
         "tres_bien": 10
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -57645,6 +61751,20 @@
         "bien": 38,
         "tres_bien": 29
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -57690,6 +61810,20 @@
         "bien": 15,
         "tres_bien": 11
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Italien"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Italien"
+      ]
     }
   },
   {
@@ -57735,6 +61869,20 @@
         "bien": 27,
         "tres_bien": 24
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -57780,6 +61928,20 @@
         "bien": 21,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -57825,6 +61987,20 @@
         "bien": 7,
         "tres_bien": 2
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -57870,6 +62046,22 @@
         "bien": 6,
         "tres_bien": 6
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Italien",
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -57915,6 +62107,20 @@
         "bien": 24,
         "tres_bien": 41
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -57960,6 +62166,20 @@
         "bien": 14,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -58005,6 +62225,18 @@
         "bien": 21,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -58050,6 +62282,20 @@
         "bien": 16,
         "tres_bien": 17
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -58095,6 +62341,22 @@
         "bien": 37,
         "tres_bien": 29
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Chinois",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Chinois",
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -58140,6 +62402,18 @@
         "bien": 11,
         "tres_bien": 0
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -58185,6 +62459,20 @@
         "bien": 52,
         "tres_bien": 32
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -58230,6 +62518,22 @@
         "bien": 56,
         "tres_bien": 95
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Chinois"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand",
+        "Chinois"
+      ]
     }
   },
   {
@@ -58275,6 +62579,20 @@
         "bien": 28,
         "tres_bien": 35
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -58320,6 +62638,20 @@
         "bien": 59,
         "tres_bien": 67
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -58365,6 +62697,20 @@
         "bien": 24,
         "tres_bien": 11
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -58410,6 +62756,20 @@
         "bien": 6,
         "tres_bien": 7
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -58455,6 +62815,20 @@
         "bien": 12,
         "tres_bien": 18
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -58500,6 +62874,20 @@
         "bien": 42,
         "tres_bien": 82
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -58545,6 +62933,20 @@
         "bien": 25,
         "tres_bien": 26
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -58590,6 +62992,20 @@
       "students_1ere": 45,
       "students_term": 43,
       "students_present": 51
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -58635,6 +63051,20 @@
         "bien": 35,
         "tres_bien": 61
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -58666,7 +63096,21 @@
       "academique_average": "109.1",
       "departemental_average": "115.3"
     },
-    "enrollment_year": "2024"
+    "enrollment_year": "2024",
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
+    }
   },
   {
     "uai": "0490851J",
@@ -58711,6 +63155,20 @@
         "bien": 59,
         "tres_bien": 35
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -58801,6 +63259,22 @@
       "students_1ere": 175,
       "students_term": 166,
       "students_present": 193
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -58846,6 +63320,21 @@
       "students_1ere": 146,
       "students_term": 154,
       "students_present": 107
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Latin",
+        "Allemand"
+      ]
     }
   },
   {
@@ -58891,6 +63380,24 @@
       "students_1ere": 172,
       "students_term": 162,
       "students_present": 204
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Arabe",
+        "Espagnol",
+        "Allemand",
+        "Italien"
+      ],
+      "all": [
+        "Arabe",
+        "Espagnol",
+        "Allemand",
+        "Anglais",
+        "Italien"
+      ]
     }
   },
   {
@@ -58936,6 +63443,24 @@
       "students_1ere": 339,
       "students_term": 325,
       "students_present": 348
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Italien",
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -58981,6 +63506,21 @@
       "students_1ere": 300,
       "students_term": 278,
       "students_present": 301
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Latin",
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -59026,6 +63566,23 @@
       "students_1ere": 113,
       "students_term": 111,
       "students_present": 103
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Latin",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -59071,6 +63628,22 @@
       "students_1ere": 326,
       "students_term": 334,
       "students_present": 305
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Italien",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Italien",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -59116,6 +63689,20 @@
       "students_1ere": 126,
       "students_term": 127,
       "students_present": 115
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -59161,6 +63748,22 @@
       "students_1ere": 201,
       "students_term": 202,
       "students_present": 200
+    },
+    "languages": {
+      "lv1": [
+        "Espagnol",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -59206,6 +63809,20 @@
       "students_1ere": 93,
       "students_term": 71,
       "students_present": 90
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -59242,6 +63859,24 @@
       "students_1ere": 152,
       "students_term": 124,
       "students_present": 137
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Grec",
+        "Anglais",
+        "Latin",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -59279,6 +63914,23 @@
       "students_1ere": 57,
       "students_term": 53,
       "students_present": 35
+    },
+    "languages": {
+      "lv1": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -59324,6 +63976,20 @@
       "students_1ere": 187,
       "students_term": 184,
       "students_present": 192
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -59369,6 +64035,20 @@
         "bien": 38,
         "tres_bien": 38
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -59414,6 +64094,21 @@
       "students_1ere": 133,
       "students_term": 117,
       "students_present": 127
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais",
+        "Latin"
+      ]
     }
   },
   {
@@ -59459,6 +64154,22 @@
       "students_1ere": 347,
       "students_term": 355,
       "students_present": 366
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -59504,6 +64215,24 @@
       "students_1ere": 393,
       "students_term": 398,
       "students_present": 392
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Anglais",
+        "Espagnol",
+        "Arabe",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Arabe",
+        "Allemand"
+      ]
     }
   },
   {
@@ -59549,6 +64278,20 @@
       "students_1ere": 176,
       "students_term": 137,
       "students_present": 170
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -59594,6 +64337,26 @@
       "students_1ere": 194,
       "students_term": 223,
       "students_present": 210
+    },
+    "languages": {
+      "lv1": [
+        "Italien",
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Anglais",
+        "Italien"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Italien",
+        "Anglais",
+        "Latin"
+      ]
     }
   },
   {
@@ -59639,6 +64402,24 @@
       "students_1ere": 93,
       "students_term": 97,
       "students_present": 100
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ],
+      "all": [
+        "Latin",
+        "Allemand",
+        "Anglais",
+        "Espagnol",
+        "Grec"
+      ]
     }
   },
   {
@@ -59684,6 +64465,22 @@
       "students_1ere": 123,
       "students_term": 124,
       "students_present": 134
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -59729,6 +64526,20 @@
         "bien": 32,
         "tres_bien": 41
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -59774,6 +64585,20 @@
         "bien": 44,
         "tres_bien": 28
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -59819,6 +64644,20 @@
         "bien": 12,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -59864,6 +64703,22 @@
         "bien": 53,
         "tres_bien": 20
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Italien"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand",
+        "Italien"
+      ]
     }
   },
   {
@@ -59909,6 +64764,18 @@
         "bien": 33,
         "tres_bien": 20
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -59954,6 +64821,25 @@
       "students_1ere": 233,
       "students_term": 214,
       "students_present": 193
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Chinois",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Latin",
+        "Chinois",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -59999,6 +64885,20 @@
       "students_1ere": 185,
       "students_term": 177,
       "students_present": 186
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -60044,6 +64944,20 @@
         "bien": 61,
         "tres_bien": 27
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -60089,6 +65003,21 @@
       "students_1ere": 219,
       "students_term": 223,
       "students_present": 159
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Latin",
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -60134,6 +65063,24 @@
       "students_1ere": 196,
       "students_term": 181,
       "students_present": 180
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ],
+      "lv2": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol",
+        "Latin"
+      ]
     }
   },
   {
@@ -63736,6 +68683,20 @@
         "bien": 23,
         "tres_bien": 16
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -63781,6 +68742,20 @@
         "bien": 19,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -63826,6 +68801,20 @@
         "bien": 23,
         "tres_bien": 17
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -63871,6 +68860,20 @@
         "bien": 14,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -63916,6 +68919,22 @@
         "bien": 17,
         "tres_bien": 18
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Italien",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -63961,6 +68980,20 @@
         "bien": 15,
         "tres_bien": 31
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -64006,6 +69039,20 @@
         "bien": 28,
         "tres_bien": 19
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Espagnol"
+      ],
+      "all": [
+        "Italien",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -64051,6 +69098,20 @@
         "bien": 14,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -64096,6 +69157,20 @@
         "bien": 17,
         "tres_bien": 18
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -64141,6 +69216,20 @@
         "bien": 20,
         "tres_bien": 4
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -64186,6 +69275,20 @@
         "bien": 27,
         "tres_bien": 61
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -64231,6 +69334,20 @@
         "bien": 23,
         "tres_bien": 21
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -64262,7 +69379,21 @@
       "academique_average": "109.1",
       "departemental_average": "105.8"
     },
-    "enrollment_year": "2024"
+    "enrollment_year": "2024",
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
+    }
   },
   {
     "uai": "0720903R",
@@ -64307,6 +69438,20 @@
         "bien": 26,
         "tres_bien": 15
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -64352,6 +69497,20 @@
         "bien": 16,
         "tres_bien": 40
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -64397,6 +69556,20 @@
         "bien": 33,
         "tres_bien": 28
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -64442,6 +69615,20 @@
         "bien": 15,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -64487,6 +69674,22 @@
         "bien": 30,
         "tres_bien": 29
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Italien",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Italien",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -64532,6 +69735,22 @@
         "bien": 21,
         "tres_bien": 17
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Italien"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Italien",
+        "Anglais"
+      ]
     }
   },
   {
@@ -64577,6 +69796,20 @@
         "bien": 27,
         "tres_bien": 6
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -64622,6 +69855,20 @@
         "bien": 8,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -64653,7 +69900,21 @@
       "academique_average": "109.1",
       "departemental_average": "105.8"
     },
-    "enrollment_year": "2024"
+    "enrollment_year": "2024",
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
+    }
   },
   {
     "uai": "0720799C",
@@ -64698,6 +69959,22 @@
         "bien": 29,
         "tres_bien": 41
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Chinois",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Chinois",
+        "Allemand"
+      ]
     }
   },
   {
@@ -64743,6 +70020,20 @@
         "bien": 33,
         "tres_bien": 46
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -64788,6 +70079,22 @@
         "bien": 22,
         "tres_bien": 24
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Italien",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Italien",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -64833,6 +70140,22 @@
         "bien": 25,
         "tres_bien": 22
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Italien",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Italien",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -64878,6 +70201,18 @@
         "bien": 18,
         "tres_bien": 45
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -64923,6 +70258,22 @@
         "bien": 31,
         "tres_bien": 63
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Italien",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Italien",
+        "Allemand"
+      ]
     }
   },
   {
@@ -64968,6 +70319,21 @@
         "bien": 42,
         "tres_bien": 97
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -65013,6 +70379,20 @@
         "bien": 19,
         "tres_bien": 19
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -65058,6 +70438,18 @@
         "bien": 7,
         "tres_bien": 1
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -65103,6 +70495,20 @@
         "bien": 25,
         "tres_bien": 22
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -65148,6 +70554,20 @@
         "bien": 26,
         "tres_bien": 20
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -65193,6 +70613,20 @@
         "bien": 80,
         "tres_bien": 60
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -65238,6 +70672,20 @@
         "bien": 57,
         "tres_bien": 26
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -65283,6 +70731,24 @@
         "bien": 56,
         "tres_bien": 63
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Italien",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais",
+        "Italien"
+      ]
     }
   },
   {
@@ -65328,6 +70794,20 @@
         "bien": 35,
         "tres_bien": 16
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -65373,6 +70853,20 @@
         "bien": 19,
         "tres_bien": 24
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -73759,6 +79253,20 @@
         "bien": 15,
         "tres_bien": 16
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -73826,6 +79334,20 @@
         "bien": 18,
         "tres_bien": 15
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -73871,6 +79393,20 @@
         "bien": 32,
         "tres_bien": 39
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -73916,6 +79452,20 @@
         "bien": 18,
         "tres_bien": 17
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Espagnol"
+      ],
+      "all": [
+        "Italien",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -73961,6 +79511,20 @@
         "bien": 45,
         "tres_bien": 46
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -74006,6 +79570,20 @@
         "bien": 3,
         "tres_bien": 7
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -74037,7 +79615,21 @@
       "academique_average": "109.1",
       "departemental_average": "105.8"
     },
-    "enrollment_year": "2024"
+    "enrollment_year": "2024",
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
+    }
   },
   {
     "uai": "0720905T",
@@ -74082,6 +79674,20 @@
         "bien": 38,
         "tres_bien": 35
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -74127,6 +79733,20 @@
         "bien": 34,
         "tres_bien": 19
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -74172,6 +79792,20 @@
         "bien": 34,
         "tres_bien": 27
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -74217,6 +79851,22 @@
         "bien": 84,
         "tres_bien": 88
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Italien",
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -74262,6 +79912,20 @@
         "bien": 54,
         "tres_bien": 25
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -74307,6 +79971,20 @@
         "bien": 5,
         "tres_bien": 10
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -74352,6 +80030,20 @@
         "bien": 12,
         "tres_bien": 22
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -74397,6 +80089,20 @@
         "bien": 15,
         "tres_bien": 16
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -74442,6 +80148,20 @@
         "bien": 27,
         "tres_bien": 49
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -74487,6 +80207,20 @@
         "bien": 35,
         "tres_bien": 42
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -74532,6 +80266,20 @@
         "bien": 12,
         "tres_bien": 7
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -74577,6 +80325,20 @@
         "bien": 27,
         "tres_bien": 16
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -74622,6 +80384,20 @@
         "bien": 21,
         "tres_bien": 18
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -74667,6 +80443,20 @@
         "bien": 29,
         "tres_bien": 27
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -74712,6 +80502,20 @@
         "bien": 17,
         "tres_bien": 18
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -74757,6 +80561,22 @@
         "bien": 23,
         "tres_bien": 33
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Italien",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Italien",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -74802,6 +80622,20 @@
         "bien": 14,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -74847,6 +80681,20 @@
       "students_1ere": 190,
       "students_term": 195,
       "students_present": 187
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -74892,6 +80740,23 @@
       "students_1ere": 181,
       "students_term": 179,
       "students_present": 189
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Latin",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -74915,7 +80780,23 @@
       "website": "http://pierre-daguet.paysdelaloire.e-lyco.fr"
     },
     "student_count": 99,
-    "enrollment_year": "2024"
+    "enrollment_year": "2024",
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
+    }
   },
   {
     "uai": "0442226F",
@@ -74960,6 +80841,21 @@
       "students_1ere": 165,
       "students_term": 149,
       "students_present": 158
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Latin",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -75005,6 +80901,21 @@
       "students_1ere": 171,
       "students_term": 145,
       "students_present": 176
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -75050,6 +80961,23 @@
       "students_1ere": 243,
       "students_term": 256,
       "students_present": 260
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -75095,6 +81023,20 @@
       "students_1ere": 26,
       "students_term": 32,
       "students_present": 46
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -75140,6 +81082,23 @@
       "students_1ere": 352,
       "students_term": 354,
       "students_present": 363
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Latin",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -75185,6 +81144,27 @@
       "students_1ere": 388,
       "students_term": 380,
       "students_present": 385
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Italien",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Latin",
+        "Italien",
+        "Espagnol",
+        "Grec",
+        "Anglais"
+      ]
     }
   },
   {
@@ -75230,6 +81210,23 @@
       "students_1ere": 476,
       "students_term": 434,
       "students_present": 456
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Latin",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -75275,6 +81272,21 @@
       "students_1ere": 144,
       "students_term": 119,
       "students_present": 120
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Latin",
+        "Anglais"
+      ]
     }
   },
   {
@@ -75320,6 +81332,20 @@
       "students_1ere": 276,
       "students_term": 260,
       "students_present": 239
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -75365,6 +81391,20 @@
       "students_1ere": 42,
       "students_term": 21,
       "students_present": 23
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -75410,6 +81450,20 @@
         "bien": 28,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -75455,6 +81509,23 @@
       "students_1ere": 326,
       "students_term": 310,
       "students_present": 334
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol",
+        "Latin"
+      ]
     }
   },
   {
@@ -75500,6 +81571,20 @@
       "students_1ere": 240,
       "students_term": 242,
       "students_present": 236
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -75545,6 +81630,18 @@
         "bien": 11,
         "tres_bien": 10
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -75590,6 +81687,20 @@
         "bien": 29,
         "tres_bien": 17
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -77589,6 +83700,20 @@
         "bien": 12,
         "tres_bien": 8
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -77634,6 +83759,20 @@
         "bien": 5,
         "tres_bien": 2
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -77679,6 +83818,20 @@
         "bien": 38,
         "tres_bien": 30
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -77724,6 +83877,20 @@
         "bien": 59,
         "tres_bien": 57
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -77769,6 +83936,20 @@
         "bien": 7,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -77814,6 +83995,20 @@
         "bien": 70,
         "tres_bien": 67
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -77859,6 +84054,20 @@
         "bien": 20,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -77904,6 +84113,22 @@
         "bien": 22,
         "tres_bien": 18
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Italien",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Italien",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -77949,6 +84174,20 @@
         "bien": 18,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -77994,6 +84233,20 @@
         "bien": 13,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -78039,6 +84292,20 @@
         "bien": 23,
         "tres_bien": 26
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -78084,6 +84351,22 @@
         "bien": 47,
         "tres_bien": 47
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Chinois"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais",
+        "Chinois"
+      ]
     }
   },
   {
@@ -78129,6 +84412,20 @@
         "bien": 22,
         "tres_bien": 22
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -78174,6 +84471,20 @@
         "bien": 23,
         "tres_bien": 15
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -78219,6 +84530,22 @@
         "bien": 21,
         "tres_bien": 22
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Italien",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Italien",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -78264,6 +84591,18 @@
         "bien": 23,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -78309,6 +84648,20 @@
         "bien": 27,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -78354,6 +84707,20 @@
         "bien": 68,
         "tres_bien": 53
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -78399,6 +84766,20 @@
         "bien": 21,
         "tres_bien": 8
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -78444,6 +84825,20 @@
         "bien": 6,
         "tres_bien": 4
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -78489,6 +84884,20 @@
         "bien": 63,
         "tres_bien": 62
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -78534,6 +84943,23 @@
       "students_1ere": 328,
       "students_term": 341,
       "students_present": 327
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Latin",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -78579,6 +85005,24 @@
       "students_1ere": 342,
       "students_term": 325,
       "students_present": 339
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Italien",
+        "Allemand",
+        "Espagnol",
+        "Latin",
+        "Anglais",
+        "Grec"
+      ]
     }
   },
   {
@@ -78624,6 +85068,22 @@
         "bien": 38,
         "tres_bien": 209
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Italien"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand",
+        "Italien"
+      ]
     }
   },
   {
@@ -78669,6 +85129,21 @@
       "students_1ere": 86,
       "students_term": 67,
       "students_present": 94
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais",
+        "Latin"
+      ]
     }
   },
   {
@@ -78714,6 +85189,20 @@
         "bien": 43,
         "tres_bien": 30
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -78759,6 +85248,23 @@
       "students_1ere": 121,
       "students_term": 126,
       "students_present": 142
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Latin",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -78804,6 +85310,22 @@
         "bien": 65,
         "tres_bien": 40
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Chinois",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Chinois",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -78849,6 +85371,18 @@
         "bien": 36,
         "tres_bien": 43
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -78894,6 +85428,20 @@
         "bien": 49,
         "tres_bien": 47
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -78939,6 +85487,20 @@
         "bien": 4,
         "tres_bien": 5
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -78984,6 +85546,20 @@
         "bien": 25,
         "tres_bien": 24
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -79029,6 +85605,21 @@
       "students_1ere": 120,
       "students_term": 122,
       "students_present": 141
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand",
+        "Latin"
+      ]
     }
   },
   {
@@ -79074,6 +85665,21 @@
       "students_1ere": 106,
       "students_term": 98,
       "students_present": 97
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Latin",
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -79119,6 +85725,21 @@
       "students_1ere": 453,
       "students_term": 373,
       "students_present": 411
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Latin",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -88461,6 +95082,21 @@
       "students_1ere": 25,
       "students_term": 23,
       "students_present": 27
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Latin",
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -88506,6 +95142,24 @@
       "students_1ere": 198,
       "students_term": 206,
       "students_present": 198
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Anglais",
+        "Espagnol",
+        "Italien"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol",
+        "Italien"
+      ]
     }
   },
   {
@@ -88551,6 +95205,20 @@
       "students_1ere": 188,
       "students_term": 158,
       "students_present": 169
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -88596,6 +95264,23 @@
       "students_1ere": 242,
       "students_term": 242,
       "students_present": 230
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -88641,6 +95326,25 @@
       "students_1ere": 232,
       "students_term": 230,
       "students_present": 229
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Allemand",
+        "Italien",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Latin",
+        "Anglais",
+        "Allemand",
+        "Italien",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -88686,6 +95390,24 @@
       "students_1ere": 358,
       "students_term": 304,
       "students_present": 293
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Allemand",
+        "Italien",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Italien",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -88731,6 +95453,23 @@
       "students_1ere": 275,
       "students_term": 298,
       "students_present": 367
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Latin",
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -88776,6 +95515,26 @@
       "students_1ere": 264,
       "students_term": 219,
       "students_present": 196
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Chinois",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Espagnol",
+        "Chinois",
+        "Latin",
+        "Allemand",
+        "Anglais",
+        "Grec"
+      ]
     }
   },
   {
@@ -88821,6 +95580,21 @@
       "students_1ere": 299,
       "students_term": 252,
       "students_present": 254
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand",
+        "Latin"
+      ]
     }
   },
   {
@@ -88866,6 +95640,20 @@
       "students_1ere": 357,
       "students_term": 322,
       "students_present": 335
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -88911,6 +95699,21 @@
       "students_1ere": 184,
       "students_term": 206,
       "students_present": 179
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand",
+        "Latin"
+      ]
     }
   },
   {
@@ -88956,6 +95759,18 @@
         "bien": 4,
         "tres_bien": 0
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -89001,6 +95816,24 @@
       "students_1ere": 216,
       "students_term": 198,
       "students_present": 218
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Italien",
+        "Anglais"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand",
+        "Italien"
+      ]
     }
   },
   {
@@ -89046,6 +95879,20 @@
       "students_1ere": 93,
       "students_term": 101,
       "students_present": 107
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -89091,6 +95938,21 @@
       "students_1ere": 212,
       "students_term": 208,
       "students_present": 197
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Latin",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -89136,6 +95998,26 @@
       "students_1ere": 236,
       "students_term": 222,
       "students_present": 230
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Chinois",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Latin",
+        "Chinois",
+        "Espagnol",
+        "Grec"
+      ]
     }
   },
   {
@@ -89181,6 +96063,20 @@
       "students_1ere": 96,
       "students_term": 102,
       "students_present": 79
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -89226,6 +96122,22 @@
       "students_1ere": 163,
       "students_term": 155,
       "students_present": 171
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -89271,6 +96183,22 @@
         "bien": 63,
         "tres_bien": 58
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Italien"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Italien",
+        "Anglais"
+      ]
     }
   },
   {
@@ -89316,6 +96244,26 @@
       "students_1ere": 344,
       "students_term": 340,
       "students_present": 370
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Italien",
+        "Anglais"
+      ],
+      "all": [
+        "Latin",
+        "Allemand",
+        "Anglais",
+        "Grec",
+        "Espagnol",
+        "Italien"
+      ]
     }
   },
   {
@@ -89361,6 +96309,23 @@
       "students_1ere": 387,
       "students_term": 338,
       "students_present": 355
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -89406,6 +96371,23 @@
       "students_1ere": 58,
       "students_term": 66,
       "students_present": 96
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Latin",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -89451,6 +96433,22 @@
       "students_1ere": 137,
       "students_term": 129,
       "students_present": 172
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Italien"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol",
+        "Italien"
+      ]
     }
   },
   {
@@ -89496,6 +96494,20 @@
         "bien": 29,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -89541,6 +96553,23 @@
       "students_1ere": 151,
       "students_term": 137,
       "students_present": 149
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Latin",
+        "Anglais"
+      ]
     }
   },
   {
@@ -89586,6 +96615,27 @@
       "students_1ere": 306,
       "students_term": 294,
       "students_present": 288
+    },
+    "languages": {
+      "lv1": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ],
+      "lv2": [
+        "Italien",
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Grec",
+        "Latin",
+        "Italien",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -89608,7 +96658,21 @@
       "email": "legta.rouillon@educagri.fr",
       "website": "https://agrocampus-lagerminiere.fr/"
     },
-    "student_count": null
+    "student_count": null,
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
+    }
   },
   {
     "uai": "0851344Z",
@@ -89653,6 +96717,20 @@
       "students_1ere": 186,
       "students_term": 134,
       "students_present": 175
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -89698,6 +96776,20 @@
         "bien": 27,
         "tres_bien": 29
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -89743,6 +96835,26 @@
       "students_1ere": 417,
       "students_term": 425,
       "students_present": 423
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Anglais",
+        "Espagnol",
+        "Allemand",
+        "Chinois"
+      ],
+      "all": [
+        "Grec",
+        "Latin",
+        "Anglais",
+        "Espagnol",
+        "Allemand",
+        "Chinois"
+      ]
     }
   },
   {
@@ -89788,6 +96900,20 @@
         "bien": 43,
         "tres_bien": 40
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -89833,6 +96959,22 @@
         "bien": 35,
         "tres_bien": 80
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand",
+        "Italien"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand",
+        "Italien"
+      ]
     }
   },
   {
@@ -89878,6 +97020,20 @@
         "bien": 23,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -89923,6 +97079,20 @@
         "bien": 32,
         "tres_bien": 34
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -89968,6 +97138,20 @@
         "bien": 20,
         "tres_bien": 22
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -90013,6 +97197,20 @@
         "bien": 10,
         "tres_bien": 7
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -90058,6 +97256,20 @@
         "bien": 31,
         "tres_bien": 16
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -90103,6 +97315,20 @@
         "bien": 58,
         "tres_bien": 34
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -90148,6 +97374,20 @@
         "bien": 53,
         "tres_bien": 58
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -90193,6 +97433,20 @@
         "bien": 13,
         "tres_bien": 10
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -90238,6 +97492,20 @@
         "bien": 56,
         "tres_bien": 27
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -90283,6 +97551,20 @@
         "bien": 65,
         "tres_bien": 53
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -90328,6 +97610,20 @@
         "bien": 41,
         "tres_bien": 21
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -90373,6 +97669,20 @@
         "bien": 6,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -90418,6 +97728,20 @@
         "bien": 23,
         "tres_bien": 39
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -90463,6 +97787,20 @@
         "bien": 22,
         "tres_bien": 34
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -90508,6 +97846,20 @@
         "bien": 9,
         "tres_bien": 4
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -90553,6 +97905,20 @@
         "bien": 55,
         "tres_bien": 48
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -90598,6 +97964,20 @@
         "bien": 77,
         "tres_bien": 56
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -90643,6 +98023,20 @@
         "bien": 23,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -90688,6 +98082,20 @@
         "bien": 7,
         "tres_bien": 6
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -90733,6 +98141,20 @@
         "bien": 25,
         "tres_bien": 31
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -90778,6 +98200,20 @@
         "bien": 46,
         "tres_bien": 48
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -90823,6 +98259,22 @@
         "bien": 25,
         "tres_bien": 25
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Italien"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais",
+        "Italien"
+      ]
     }
   },
   {
@@ -90868,6 +98320,22 @@
         "bien": 18,
         "tres_bien": 41
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Chinois",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Chinois",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -90913,6 +98381,20 @@
         "bien": 35,
         "tres_bien": 32
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -90958,6 +98440,20 @@
         "bien": 35,
         "tres_bien": 32
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -91003,6 +98499,20 @@
         "bien": 11,
         "tres_bien": 19
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -91048,6 +98558,20 @@
         "bien": 25,
         "tres_bien": 24
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -91093,6 +98617,20 @@
         "bien": 26,
         "tres_bien": 28
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -91138,6 +98676,20 @@
         "bien": 32,
         "tres_bien": 41
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -91183,6 +98735,24 @@
         "bien": 11,
         "tres_bien": 11
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Italien",
+        "Anglais",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Italien",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -91250,6 +98820,20 @@
         "bien": 19,
         "tres_bien": 33
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -91295,6 +98879,22 @@
         "bien": 27,
         "tres_bien": 53
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Espagnol"
+      ],
+      "lv2": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -91340,6 +98940,20 @@
         "bien": 24,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -91385,6 +98999,22 @@
         "bien": 45,
         "tres_bien": 44
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -91430,6 +99060,22 @@
         "bien": 21,
         "tres_bien": 36
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -91475,6 +99121,20 @@
         "bien": 33,
         "tres_bien": 45
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -91520,6 +99180,20 @@
         "bien": 20,
         "tres_bien": 32
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -91565,6 +99239,20 @@
         "bien": 46,
         "tres_bien": 37
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Italien",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -91610,6 +99298,22 @@
         "bien": 21,
         "tres_bien": 39
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Italien",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -91655,6 +99359,22 @@
         "bien": 18,
         "tres_bien": 6
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Arabe",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Arabe",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -91700,6 +99420,20 @@
         "bien": 52,
         "tres_bien": 43
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -91745,6 +99479,20 @@
         "bien": 7,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -91790,6 +99538,20 @@
         "bien": 18,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -91835,6 +99597,20 @@
         "bien": 47,
         "tres_bien": 44
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -91880,6 +99656,20 @@
         "bien": 4,
         "tres_bien": 9
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -91925,6 +99715,20 @@
         "bien": 34,
         "tres_bien": 19
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -91970,6 +99774,20 @@
         "bien": 18,
         "tres_bien": 26
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -92015,6 +99833,20 @@
         "bien": 13,
         "tres_bien": 10
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -92060,6 +99892,20 @@
         "bien": 3,
         "tres_bien": 8
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -92105,6 +99951,20 @@
         "bien": 29,
         "tres_bien": 25
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -92150,6 +100010,20 @@
         "bien": 28,
         "tres_bien": 29
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -92195,6 +100069,20 @@
         "bien": 26,
         "tres_bien": 6
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -92240,6 +100128,20 @@
         "bien": 22,
         "tres_bien": 18
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -97590,6 +105492,20 @@
         "bien": 20,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -97635,6 +105551,20 @@
         "bien": 62,
         "tres_bien": 39
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Anglais",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -97725,6 +105655,20 @@
         "bien": 15,
         "tres_bien": 8
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -97770,6 +105714,20 @@
         "bien": 10,
         "tres_bien": 14
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -97815,6 +105773,20 @@
         "bien": 15,
         "tres_bien": 46
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -97860,6 +105832,20 @@
         "bien": 10,
         "tres_bien": 7
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -97905,6 +105891,22 @@
         "bien": 4,
         "tres_bien": 2
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Italien",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Italien",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -97950,6 +105952,20 @@
         "bien": 31,
         "tres_bien": 16
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -97995,6 +106011,20 @@
         "bien": 20,
         "tres_bien": 3
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -98040,6 +106070,20 @@
       "students_1ere": 196,
       "students_term": 214,
       "students_present": 211
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -98085,6 +106129,26 @@
       "students_1ere": 345,
       "students_term": 335,
       "students_present": 387
+    },
+    "languages": {
+      "lv1": [
+        "Anglais",
+        "Allemand"
+      ],
+      "lv2": [
+        "Anglais",
+        "Russe",
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Latin",
+        "Russe",
+        "Grec",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -98130,6 +106194,20 @@
         "bien": 30,
         "tres_bien": 42
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -98175,6 +106253,20 @@
         "bien": 21,
         "tres_bien": 24
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Anglais",
+        "Allemand"
+      ]
     }
   },
   {
@@ -98220,6 +106312,20 @@
         "bien": 16,
         "tres_bien": 12
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -98265,6 +106371,20 @@
         "bien": 22,
         "tres_bien": 38
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Anglais",
+        "Allemand",
+        "Espagnol"
+      ]
     }
   },
   {
@@ -98310,6 +106430,20 @@
         "bien": 40,
         "tres_bien": 36
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -98355,6 +106489,20 @@
         "bien": 29,
         "tres_bien": 32
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Allemand",
+        "Espagnol"
+      ],
+      "all": [
+        "Allemand",
+        "Espagnol",
+        "Anglais"
+      ]
     }
   },
   {
@@ -98400,6 +106548,20 @@
         "bien": 18,
         "tres_bien": 16
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Anglais",
+        "Espagnol",
+        "Allemand"
+      ]
     }
   },
   {
@@ -98445,6 +106607,20 @@
         "bien": 36,
         "tres_bien": 57
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {
@@ -98490,6 +106666,20 @@
         "bien": 20,
         "tres_bien": 23
       }
+    },
+    "languages": {
+      "lv1": [
+        "Anglais"
+      ],
+      "lv2": [
+        "Espagnol",
+        "Allemand"
+      ],
+      "all": [
+        "Espagnol",
+        "Allemand",
+        "Anglais"
+      ]
     }
   },
   {

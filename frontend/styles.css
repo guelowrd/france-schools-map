@@ -219,6 +219,68 @@ header h1 {
     min-width: 0;
 }
 
+/* Filters Panel */
+.filters-panel {
+    background: white;
+    padding: 15px 30px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    border-top: 1px solid #e5e5e5;
+}
+
+.filters-content {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.filters-content h3 {
+    font-size: 13px;
+    margin: 0;
+    color: #333;
+    font-weight: 600;
+}
+
+.filter-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.filter-group > label {
+    font-size: 11px;
+    font-weight: 500;
+    color: #666;
+    margin: 0;
+}
+
+.checkbox-group {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.checkbox-label {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 11px;
+    color: #333;
+    cursor: pointer;
+    margin: 0;
+    font-weight: normal;
+}
+
+.checkbox-label input[type="checkbox"] {
+    cursor: pointer;
+    width: 14px;
+    height: 14px;
+}
+
+.checkbox-label span {
+    user-select: none;
+}
+
 /* Map */
 #map {
     flex: 1;

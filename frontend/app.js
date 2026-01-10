@@ -193,6 +193,19 @@ function createPopupContent(school) {
     // Exam results
     html += formatExamResults(school);
 
+    // Languages (for collèges and lycées)
+    if (school.languages && (school.type === 'Collège' || school.type === 'Lycée')) {
+        html += '<h4>🌍 Langues enseignées</h4>';
+
+        if (school.languages.lv1 && school.languages.lv1.length > 0) {
+            html += `<p style="font-size: 11px;"><strong>LV1:</strong> ${school.languages.lv1.join(', ')}</p>`;
+        }
+
+        if (school.languages.lv2 && school.languages.lv2.length > 0) {
+            html += `<p style="font-size: 11px;"><strong>LV2:</strong> ${school.languages.lv2.join(', ')}</p>`;
+        }
+    }
+
     // Contact info
     if (school.contact.website || school.contact.phone) {
         html += '<h4>📞 Contact</h4>';
@@ -211,6 +224,7 @@ function createPopupContent(school) {
 // City search functionality
 let allSchools = [];
 let cityData = {};
+let schoolMarkers = []; // Store all markers with their school data
 
 function initializeSearch(schools) {
     // Build city data with coordinates and school counts
@@ -300,6 +314,73 @@ function zoomToCity(cityName) {
     });
 }
 
+// Filter functionality
+function initializeFilters() {
+    const filterPrimaire = document.getElementById('filter-primaire');
+    const filterCollege = document.getElementById('filter-college');
+    const filterLycee = document.getElementById('filter-lycee');
+    const filterPublic = document.getElementById('filter-public');
+    const filterPrive = document.getElementById('filter-prive');
+
+    // Apply filters function
+    function applyFilters() {
+        const filters = {
+            primaire: filterPrimaire.checked,
+            college: filterCollege.checked,
+            lycee: filterLycee.checked,
+            public: filterPublic.checked,
+            prive: filterPrive.checked
+        };
+
+        let visibleCount = 0;
+        let primaireCount = 0;
+        let collegeCount = 0;
+        let lyceeCount = 0;
+
+        schoolMarkers.forEach(item => {
+            const school = item.school;
+            let shouldShow = true;
+
+            // Filter by type
+            if (school.type === 'Primaire' && !filters.primaire) shouldShow = false;
+            if (school.type === 'Collège' && !filters.college) shouldShow = false;
+            if (school.type === 'Lycée' && !filters.lycee) shouldShow = false;
+
+            // Filter by public/private
+            if (school.public_private === 'Public' && !filters.public) shouldShow = false;
+            if (school.public_private === 'Privé' && !filters.prive) shouldShow = false;
+
+            // Show/hide marker
+            if (shouldShow) {
+                if (!map.hasLayer(item.marker)) {
+                    item.marker.addTo(map);
+                }
+                visibleCount++;
+                if (school.type === 'Primaire') primaireCount++;
+                if (school.type === 'Collège') collegeCount++;
+                if (school.type === 'Lycée') lyceeCount++;
+            } else {
+                if (map.hasLayer(item.marker)) {
+                    map.removeLayer(item.marker);
+                }
+            }
+        });
+
+        // Update stats
+        document.getElementById('total-schools').textContent = visibleCount;
+        document.getElementById('primaire-count').textContent = primaireCount;
+        document.getElementById('college-count').textContent = collegeCount;
+        document.getElementById('lycee-count').textContent = lyceeCount;
+    }
+
+    // Add event listeners
+    filterPrimaire.addEventListener('change', applyFilters);
+    filterCollege.addEventListener('change', applyFilters);
+    filterLycee.addEventListener('change', applyFilters);
+    filterPublic.addEventListener('change', applyFilters);
+    filterPrive.addEventListener('change', applyFilters);
+}
+
 // Load and display schools
 fetch('data/schools.json')
     .then(response => response.json())
@@ -324,10 +405,7 @@ fetch('data/schools.json')
             return schoolOrder[a.type] - schoolOrder[b.type];
         });
 
-        // Create array to hold all markers for bounds calculation
-        const allMarkers = [];
-
-        // Add markers for each school directly to the map (no clustering)
+        // Create markers for all schools (but don't add to map yet)
         sortedSchools.forEach(school => {
             const lat = school.coordinates.latitude;
             const lon = school.coordinates.longitude;
@@ -350,18 +428,28 @@ fetch('data/schools.json')
                 offset: [0, -6]
             });
 
-            marker.addTo(map);
-            allMarkers.push(marker);
+            // Store marker with school data
+            schoolMarkers.push({
+                marker: marker,
+                school: school
+            });
         });
 
+        // Add all markers to map initially
+        schoolMarkers.forEach(item => item.marker.addTo(map));
+
         // Fit bounds to show all markers
-        if (allMarkers.length > 0) {
+        if (schoolMarkers.length > 0) {
+            const allMarkers = schoolMarkers.map(item => item.marker);
             const group = L.featureGroup(allMarkers);
             map.fitBounds(group.getBounds(), { padding: [50, 50] });
         }
 
         // Initialize search functionality
         initializeSearch(schools);
+
+        // Initialize filters
+        initializeFilters();
 
         console.log('Map loaded successfully');
     })

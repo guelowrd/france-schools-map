@@ -210,6 +210,27 @@ test('File size is reasonable', () => {
     console.log(`  File size: ${sizeMB.toFixed(2)}MB`);
 });
 
+test('Language data structure is valid where present', () => {
+    const schoolsWithLanguages = schools.filter(s => s.languages);
+
+    assert(schoolsWithLanguages.length > 0, 'Should have at least some schools with language data');
+
+    for (const school of schoolsWithLanguages) {
+        assert('lv1' in school.languages, `${school.name} missing languages.lv1`);
+        assert('lv2' in school.languages, `${school.name} missing languages.lv2`);
+        assert(Array.isArray(school.languages.lv1), `${school.name} lv1 not an array`);
+        assert(Array.isArray(school.languages.lv2), `${school.name} lv2 not an array`);
+
+        // Language data should only be for collèges and lycées
+        assert(
+            school.type === 'Collège' || school.type === 'Lycée',
+            `${school.name} has languages but is type ${school.type} (should be Collège or Lycée)`
+        );
+    }
+
+    console.log(`  Checked ${schoolsWithLanguages.length} schools with language data`);
+});
+
 // Summary
 console.log();
 console.log('=' . repeat(80));
