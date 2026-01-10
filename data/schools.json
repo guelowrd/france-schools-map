@@ -39081,12 +39081,12 @@
   },
   {
     "uai": "0492015Z",
-    "name": "Lycée Sacré-Coeur La Salle - site enseignement supérieur",
+    "name": "Lycée Sacré-Coeur La salle",
     "type": "Lycée",
     "public_private": "Privé",
     "address": {
-      "street": "20-22 rue Alexandre Fleming",
-      "postal_code": "49066",
+      "street": "2 rue Millet",
+      "postal_code": "49101",
       "city": "Angers",
       "department": "Maine-et-Loire"
     },
@@ -39095,8 +39095,8 @@
       "longitude": -0.5561202271885435
     },
     "contact": {
-      "phone": "02 41 81 42 01",
-      "email": "campus@gscls.com",
+      "phone": "02 41 81 42 00",
+      "email": "lycee@gscls.com",
       "website": "http://www.gscls.com"
     },
     "student_count": 1093,
@@ -39660,51 +39660,6 @@
       "phone": "02 40 80 82 00",
       "email": "administration@la-joliverie.com",
       "website": "http://www.la-joliverie.com"
-    },
-    "student_count": 298,
-    "ips": {
-      "value": "122.9",
-      "year": "2024-2025",
-      "ecart_type": "29.4",
-      "national_average": 119.6,
-      "academique_average": 123.8,
-      "departemental_average": 127.6
-    },
-    "enrollment_year": "2024",
-    "exam_results": {
-      "type": "Baccalauréat",
-      "year": "2024",
-      "success_rate": 98.0,
-      "access_rate_2nde": 90.0,
-      "access_rate_1ere": "97",
-      "access_rate_term": "98",
-      "value_added_success": -1.0,
-      "value_added_access_2nde": 1.0,
-      "students_2nde": 104,
-      "students_1ere": 97,
-      "students_term": 97,
-      "students_present": 90
-    }
-  },
-  {
-    "uai": "0440256P",
-    "name": "Lycée polyvalent Saint-Pierre La Joliverie - Pôle des arts graphiques",
-    "type": "Lycée",
-    "public_private": "Privé",
-    "address": {
-      "street": "2 place Albert Camus",
-      "postal_code": "44265",
-      "city": "Nantes",
-      "department": "Loire-Atlantique"
-    },
-    "coordinates": {
-      "latitude": 47.189743779850126,
-      "longitude": -1.5173123201131347
-    },
-    "contact": {
-      "phone": "02 40 80 82 03",
-      "email": "secretariat-pag@la-joliverie.com",
-      "website": "https://www.la-joliverie.com/etablissements/nantes-pole-des-arts-graphiques/"
     },
     "student_count": 298,
     "ips": {
@@ -58985,11 +58940,11 @@
   },
   {
     "uai": "0492406Z",
-    "name": "Lycée Sainte-Marie - ESUPEC",
+    "name": "Lycée Sainte Marie",
     "type": "Lycée",
     "public_private": "Privé",
     "address": {
-      "street": "3 rue Henri Duré",
+      "street": "43 rue Bonaventure",
       "postal_code": "49300",
       "city": "Cholet",
       "department": "Maine-et-Loire"
@@ -58999,9 +58954,9 @@
       "longitude": -0.8777806576990039
     },
     "contact": {
-      "phone": "02 41 49 16 50",
-      "email": "secretariat.esupec@saintemarie-cholet.eu",
-      "website": "https://www.saintemarie-cholet.eu/esupec/"
+      "phone": "02 41 49 16 49",
+      "email": "rotureauc@saintemarie-cholet.eu",
+      "website": "https://www.saintemarie-cholet.eu/lycee/"
     },
     "student_count": 928,
     "ips": {
@@ -59324,51 +59279,6 @@
       "students_1ere": 57,
       "students_term": 53,
       "students_present": 35
-    }
-  },
-  {
-    "uai": "0492406Z",
-    "name": "Lycée Sainte Marie",
-    "type": "Lycée",
-    "public_private": "Privé",
-    "address": {
-      "street": "43 rue Bonaventure",
-      "postal_code": "49300",
-      "city": "Cholet",
-      "department": "Maine-et-Loire"
-    },
-    "coordinates": {
-      "latitude": 47.05944910070926,
-      "longitude": -0.8777806576990039
-    },
-    "contact": {
-      "phone": "02 41 49 16 49",
-      "email": "rotureauc@saintemarie-cholet.eu",
-      "website": "https://www.saintemarie-cholet.eu/lycee/"
-    },
-    "student_count": 928,
-    "ips": {
-      "value": "122.7",
-      "year": "2024-2025",
-      "ecart_type": "32.3",
-      "national_average": 119.6,
-      "academique_average": 123.8,
-      "departemental_average": 124.5
-    },
-    "enrollment_year": "2024",
-    "exam_results": {
-      "type": "Baccalauréat",
-      "year": "2024",
-      "success_rate": 98.0,
-      "access_rate_2nde": 85.0,
-      "access_rate_1ere": "94",
-      "access_rate_term": "97",
-      "value_added_success": -1.0,
-      "value_added_access_2nde": -4.0,
-      "students_2nde": 350,
-      "students_1ere": 300,
-      "students_term": 278,
-      "students_present": 301
     }
   },
   {
@@ -75413,51 +75323,6 @@
     }
   },
   {
-    "uai": "0492015Z",
-    "name": "Lycée Sacré-Coeur La salle",
-    "type": "Lycée",
-    "public_private": "Privé",
-    "address": {
-      "street": "2 rue Millet",
-      "postal_code": "49101",
-      "city": "Angers",
-      "department": "Maine-et-Loire"
-    },
-    "coordinates": {
-      "latitude": 47.472779193824316,
-      "longitude": -0.5561202271885435
-    },
-    "contact": {
-      "phone": "02 41 81 42 00",
-      "email": "lycee@gscls.com",
-      "website": "http://www.gscls.com"
-    },
-    "student_count": 1093,
-    "ips": {
-      "value": "132.3",
-      "year": "2024-2025",
-      "ecart_type": "29.8",
-      "national_average": 119.6,
-      "academique_average": 123.8,
-      "departemental_average": 124.5
-    },
-    "enrollment_year": "2024",
-    "exam_results": {
-      "type": "Baccalauréat",
-      "year": "2024",
-      "success_rate": 99.0,
-      "access_rate_2nde": 85.0,
-      "access_rate_1ere": "93",
-      "access_rate_term": "98",
-      "value_added_success": 0.0,
-      "value_added_access_2nde": -3.0,
-      "students_2nde": 349,
-      "students_1ere": 377,
-      "students_term": 367,
-      "students_present": 361
-    }
-  },
-  {
     "uai": "0441982R",
     "name": "Lycée privé de Bretagne",
     "type": "Lycée",
@@ -79119,51 +78984,6 @@
         "bien": 25,
         "tres_bien": 24
       }
-    }
-  },
-  {
-    "uai": "0530068L",
-    "name": "Lycée Haute-Follis - Campus enseignement sup EC 53",
-    "type": "Lycée",
-    "public_private": "Privé",
-    "address": {
-      "street": "25 rue du Mans",
-      "postal_code": "53000",
-      "city": "Laval",
-      "department": "Mayenne"
-    },
-    "coordinates": {
-      "latitude": 48.0746606868576,
-      "longitude": -0.7867003068398215
-    },
-    "contact": {
-      "phone": "02 43 26 17 18",
-      "email": "campus@lhf53.eu",
-      "website": "http://www.lhf53.eu"
-    },
-    "student_count": 316,
-    "ips": {
-      "value": "107.1",
-      "year": "2024-2025",
-      "ecart_type": "28.2",
-      "national_average": 119.6,
-      "academique_average": 123.8,
-      "departemental_average": 115.5
-    },
-    "enrollment_year": "2024",
-    "exam_results": {
-      "type": "Baccalauréat",
-      "year": "2024",
-      "success_rate": 99.0,
-      "access_rate_2nde": 86.0,
-      "access_rate_1ere": "92",
-      "access_rate_term": "99",
-      "value_added_success": 3.0,
-      "value_added_access_2nde": 0.0,
-      "students_2nde": 96,
-      "students_1ere": 118,
-      "students_term": 102,
-      "students_present": 116
     }
   },
   {

@@ -320,10 +320,48 @@ def merge_data():
     print(f"  - {stats['with_enrollment']} schools with enrollment data ({stats['with_enrollment']/stats['total']*100:.1f}%)")
     print(f"  - {stats['with_exam_results']} schools with exam results ({stats['with_exam_results']/stats['total']*100:.1f}%)")
 
+    # Deduplicate schools with same UAI (e.g., multiple campuses)
+    # Keep the main campus (shorter, simpler name)
+    print("\nDeduplicating schools with same UAI...")
+    uai_dict = {}
+    duplicate_keywords = ['site ', 'campus', 'pôle', 'esupec', 'enseignement sup']
+
+    for school in merged_schools:
+        uai = school['uai']
+        name_lower = school['name'].lower()
+
+        if uai in uai_dict:
+            # Check if this is a more "main" campus than existing
+            existing_name_lower = uai_dict[uai]['name'].lower()
+
+            # Prefer schools without duplicate keywords
+            existing_has_keywords = any(kw in existing_name_lower for kw in duplicate_keywords)
+            current_has_keywords = any(kw in name_lower for kw in duplicate_keywords)
+
+            if current_has_keywords and not existing_has_keywords:
+                # Keep existing (it's the main campus)
+                continue
+            elif existing_has_keywords and not current_has_keywords:
+                # Replace with current (it's the main campus)
+                uai_dict[uai] = school
+            else:
+                # Both are similar, keep shorter name
+                if len(school['name']) < len(uai_dict[uai]['name']):
+                    uai_dict[uai] = school
+        else:
+            uai_dict[uai] = school
+
+    deduplicated_schools = list(uai_dict.values())
+    duplicates_removed = len(merged_schools) - len(deduplicated_schools)
+
+    if duplicates_removed > 0:
+        print(f"  Removed {duplicates_removed} duplicate campuses")
+        stats['total'] = len(deduplicated_schools)
+
     # Save merged data
     output_file = DATA_DIR / "schools.json"
     with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(merged_schools, f, ensure_ascii=False, indent=2)
+        json.dump(deduplicated_schools, f, ensure_ascii=False, indent=2)
 
     print(f"\n✓ Saved merged data to {output_file}")
 
