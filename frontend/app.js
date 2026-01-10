@@ -9,16 +9,14 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // Define marker colors by school type
 const markerColors = {
-    'Primaire': '#ffffff',   // White
-    'Collège': '#9ca3af',    // Grey
-    'Lycée': '#000000'       // Black
+    'Primaire': '#3b82f6',   // Blue
+    'Collège': '#eab308',    // Yellow
+    'Lycée': '#dc2626'       // Red
 };
 
 // Create custom marker icon function
 function createMarkerIcon(schoolType) {
     const color = markerColors[schoolType] || '#6b7280';
-    // Use dark border for white markers (primaire), white border for others
-    const borderColor = schoolType === 'Primaire' ? '#333' : '#fff';
     return L.divIcon({
         className: 'custom-marker',
         html: `<div style="
@@ -26,7 +24,7 @@ function createMarkerIcon(schoolType) {
             width: 12px;
             height: 12px;
             border-radius: 50%;
-            border: 2px solid ${borderColor};
+            border: 2px solid white;
             box-shadow: 0 0 4px rgba(0,0,0,0.4);
         "></div>`,
         iconSize: [12, 12],
@@ -175,10 +173,103 @@ function createPopupContent(school) {
     return html;
 }
 
+// City search functionality
+let allSchools = [];
+let cityData = {};
+
+function initializeSearch(schools) {
+    // Build city data with coordinates and school counts
+    cityData = {};
+    schools.forEach(school => {
+        const city = school.address.city;
+        if (!cityData[city]) {
+            cityData[city] = {
+                name: city,
+                department: school.address.department,
+                coordinates: [],
+                schoolCount: 0,
+                types: { 'Primaire': 0, 'Collège': 0, 'Lycée': 0 }
+            };
+        }
+        cityData[city].coordinates.push([school.coordinates.latitude, school.coordinates.longitude]);
+        cityData[city].schoolCount++;
+        cityData[city].types[school.type]++;
+    });
+
+    // Set up search input
+    const searchInput = document.getElementById('city-search');
+    const searchResults = document.getElementById('search-results');
+
+    searchInput.addEventListener('input', (e) => {
+        const query = e.target.value.trim().toLowerCase();
+
+        if (query.length < 2) {
+            searchResults.classList.remove('active');
+            return;
+        }
+
+        // Filter cities
+        const matches = Object.values(cityData)
+            .filter(city => city.name.toLowerCase().includes(query))
+            .sort((a, b) => a.name.localeCompare(b.name))
+            .slice(0, 10);
+
+        if (matches.length === 0) {
+            searchResults.classList.remove('active');
+            return;
+        }
+
+        // Display results
+        searchResults.innerHTML = matches.map(city => `
+            <div class="search-result-item" data-city="${city.name}">
+                <div class="search-result-city">${city.name}</div>
+                <div class="search-result-info">
+                    ${city.department} • ${city.schoolCount} établissement${city.schoolCount > 1 ? 's' : ''}
+                    (${city.types['Primaire']} primaires, ${city.types['Collège']} collèges, ${city.types['Lycée']} lycées)
+                </div>
+            </div>
+        `).join('');
+
+        searchResults.classList.add('active');
+
+        // Add click handlers to results
+        searchResults.querySelectorAll('.search-result-item').forEach(item => {
+            item.addEventListener('click', () => {
+                const cityName = item.dataset.city;
+                zoomToCity(cityName);
+                searchInput.value = cityName;
+                searchResults.classList.remove('active');
+            });
+        });
+    });
+
+    // Close results when clicking outside
+    document.addEventListener('click', (e) => {
+        if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
+            searchResults.classList.remove('active');
+        }
+    });
+}
+
+function zoomToCity(cityName) {
+    const city = cityData[cityName];
+    if (!city) return;
+
+    // Calculate bounds of all schools in this city
+    const bounds = L.latLngBounds(city.coordinates);
+
+    // Zoom to city with padding
+    map.fitBounds(bounds, {
+        padding: [50, 50],
+        maxZoom: 14
+    });
+}
+
 // Load and display schools
 fetch('data/schools.json')
     .then(response => response.json())
     .then(schools => {
+        allSchools = schools;
         console.log(`Loaded ${schools.length} schools`);
 
         // Update stats
@@ -226,6 +317,9 @@ fetch('data/schools.json')
             const group = L.featureGroup(allMarkers);
             map.fitBounds(group.getBounds(), { padding: [50, 50] });
         }
+
+        // Initialize search functionality
+        initializeSearch(schools);
 
         console.log('Map loaded successfully');
     })

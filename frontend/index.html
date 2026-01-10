@@ -14,8 +14,16 @@
 <body>
     <div class="container">
         <header>
-            <h1>Carte des Écoles - Pays de la Loire</h1>
-            <p class="subtitle">Informations sur les établissements scolaires publics et privés</p>
+            <div class="header-content">
+                <div>
+                    <h1>Carte des Écoles - Pays de la Loire</h1>
+                    <p class="subtitle">Informations sur les établissements scolaires publics et privés</p>
+                </div>
+                <div class="search-container">
+                    <input type="text" id="city-search" placeholder="Rechercher une ville..." autocomplete="off">
+                    <div id="search-results" class="search-results"></div>
+                </div>
+            </div>
         </header>
 
         <div class="info-panel">
