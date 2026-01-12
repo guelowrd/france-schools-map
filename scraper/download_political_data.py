@@ -30,6 +30,42 @@ DEPARTMENTS = ["44", "49", "53", "72", "85"]  # Pays de la Loire
 # Rate limiting
 REQUEST_DELAY = 0.022  # seconds between requests (~45 req/sec, within 50 req/sec limit)
 
+# Party code to readable label mapping
+PARTY_LABELS = {
+    # Left
+    'LEXG': 'Extrême gauche',
+    'LCOM': 'Communiste',
+    'LFI': 'La France insoumise',
+    'LSOC': 'Socialiste',
+    'LUG': 'Union de la gauche',
+    'LDVG': 'Divers gauche',
+    'LVEC': 'Écologiste',
+    'LECO': 'Écologiste',
+
+    # Center
+    'LREM': 'Renaissance (ex-LREM)',
+    'LMDM': 'Modem',
+    'LUDI': 'UDI',
+    'LDVC': 'Divers centre',
+    'LUC': 'Union du centre',
+
+    # Right
+    'LLR': 'Les Républicains',
+    'LR': 'Les Républicains',
+    'LDVD': 'Divers droite',
+    'LUD': 'Union de la droite',
+
+    # Far-right
+    'LRN': 'Rassemblement national',
+    'LEXD': 'Extrême droite',
+
+    # Unclassified
+    'LDIV': 'Divers',
+    'LNC': 'Non classé',
+    'NC': 'Non classé',
+    'DIV': 'Divers'
+}
+
 
 def build_insee_mapping():
     """Build postal code → INSEE code mapping using geo.api.gouv.fr"""
@@ -662,7 +698,12 @@ def merge_political_data():
             if mayor_info and insee_code in municipal:
                 # Add party from municipal election results
                 mayor_info = mayor_info.copy()
-                mayor_info['party'] = municipal[insee_code].get('party', 'N/A')
+                party_code = municipal[insee_code].get('party')
+                # Convert party code to readable label
+                if party_code:
+                    mayor_info['party'] = PARTY_LABELS.get(party_code, party_code)  # Use code if not in mapping
+                else:
+                    mayor_info['party'] = None
 
             political_data[insee_code] = {
                 'commune_name': commune_name,
