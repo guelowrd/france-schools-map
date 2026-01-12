@@ -93,8 +93,10 @@ france-schools-map/
 │       ├── schools.json              # Copy of final data
 │       └── political_data.json       # Political context by commune
 ├── tests/
-│   ├── test_data_validation.py       # Python data integrity tests
-│   ├── test_political_data.py        # Political data validation tests
+│   ├── run_all_tests.py              # Run all tests (34 tests total)
+│   ├── test_download_political_data.py  # Unit tests (24 tests)
+│   ├── test_integration.py           # Integration tests (10 tests)
+│   ├── test_data_validation.py       # Data integrity tests
 │   ├── test_frontend.js              # Frontend validation tests
 │   ├── run_tests.sh                  # Test runner
 │   └── README.md                     # Test documentation
@@ -147,9 +149,9 @@ This will fetch:
 - Municipal 2020 election results (2nd round)
 - Presidential 2022 election results (both rounds)
 - Legislative 2024 election results (both rounds)
-- INSEE commune code mappings for ~300 communes in Pays de la Loire
+- INSEE commune code mappings for all 1,231 communes in Pays de la Loire
 
-**Note**: Takes ~20-25 minutes due to API rate limits (1 request/second for geo.api.gouv.fr).
+**Note**: Takes ~10-15 minutes with optimized rate limiting (45 requests/second for geo.api.gouv.fr).
 
 Output: `data/political_cache/political_data.json`
 
@@ -175,13 +177,13 @@ cp data/political_cache/political_data.json frontend/data/
 
 Validates data integrity and frontend compatibility (28 tests).
 
-**If you have political data, run additional tests:**
+**Run comprehensive political data tests:**
 
 ```bash
-python3 tests/test_political_data.py
+python3 tests/run_all_tests.py
 ```
 
-Validates political data structure, coverage, and quality (6 tests).
+Validates political data structure, coverage, and quality (34 tests: 24 unit + 10 integration).
 
 ### 5. View Map
 
@@ -210,8 +212,8 @@ python3 -m http.server 8000  # Then visit http://localhost:8000
 - **Language offerings**: 81.5% coverage for collèges/lycées (554 schools)
   - 100% teach English as LV1
   - Spanish (100%) and German (95%) most common for LV2
-- **Political context**: Available for schools in ~300 communes
-  - Current mayors from RNE API
+- **Political context**: Available for 1,231 communes (all Pays de la Loire)
+  - Current mayors from RNE API (99.1% coverage)
   - Election results (Municipal 2020, Presidential 2022, Legislative 2024)
   - Matched via INSEE commune codes
 
@@ -262,7 +264,11 @@ Each school popup now displays the political context of its commune, providing i
 - **geo.api.gouv.fr** - INSEE commune code mapping for reliable matching
 
 **Coverage:**
-- Political data available for ~300 communes in Pays de la Loire
+- Political data available for 1,231 communes (all Pays de la Loire)
+  - Mayors: 99.1% coverage (1,220 communes)
+  - Presidential 2022: 99.6% coverage
+  - Legislative 2024: 99.8% coverage
+  - Municipal 2020: 40.9% coverage (504 communes)
 - Schools matched via INSEE commune codes (preserved from annuaire data)
 - Missing data shown as "N/A" (never hidden)
 
@@ -284,7 +290,7 @@ Comprehensive test suite to catch regressions:
 
 # Run individual test suites
 python3 tests/test_data_validation.py    # Data integrity (17 tests)
-python3 tests/test_political_data.py     # Political data validation (6 tests)
+python3 tests/run_all_tests.py           # Political data (34 tests: 24 unit + 10 integration)
 node tests/test_frontend.js              # Frontend validation (11 tests)
 ```
 
