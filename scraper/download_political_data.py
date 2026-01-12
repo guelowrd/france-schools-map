@@ -248,8 +248,8 @@ def download_municipal_2020():
                 insee_code = code_departement + code_commune
 
                 # Extract winning list data (liste with highest % wins)
-                libelle_liste = row.get('Libellé de liste', '').strip()
-                nuance_liste = row.get('Libellé de la nuance de la liste', '').strip()
+                liste = row.get('Liste', '').strip()
+                code_nuance = row.get('Code Nuance', '').strip()
                 voix = row.get('Voix', '').strip()
                 exprimes = row.get('Exprimés', '').strip()
 
@@ -261,9 +261,9 @@ def download_municipal_2020():
                         municipal[insee_code] = {
                             'year': 2020,
                             'round': 2,
-                            'winning_list': libelle_liste or nuance_liste or 'Liste inconnue',
+                            'winning_list': liste or 'Liste inconnue',
                             'percentage': round(percentage, 1),
-                            'party': nuance_liste or None
+                            'party': code_nuance or None
                         }
 
             print(f"  ✓ Processed {len(municipal)} communes so far")
@@ -287,33 +287,55 @@ def download_presidential_2022():
 
     presidential = {}
 
-    # Round 1 and Round 2 URLs (TXT format, sub-commune level)
-    # These are large files that include all polling station data, which we'll aggregate by commune
+    # Round 1 CSV (comma-delimited) and Round 2 TXT (semicolon-delimited)
     urls = {
-        'round_1': 'https://www.data.gouv.fr/api/1/datasets/r/68b19a8d-5921-4d49-a0c7-b9241ddce9e6',  # Round 1 TXT
-        'round_2': 'https://www.data.gouv.fr/api/1/datasets/r/c700bcf1-5d88-4da6-b998-094587a90444'   # Round 2 XLSX - will try as CSV
+        'round_1': {
+            'url': 'https://www.data.gouv.fr/api/1/datasets/r/54782507-e795-4f9d-aa70-ed06feba22e3',
+            'delimiter': ',',  # Round 1 uses comma delimiter
+            'columns': {
+                'dept': 'dep_code',
+                'commune': 'commune_code',
+                'nom': 'cand_nom',
+                'prenom': 'cand_prenom',
+                'voix': 'cand_nb_voix',
+                'exprimes': 'exprimes_nb'
+            }
+        },
+        'round_2': {
+            'url': 'https://www.data.gouv.fr/api/1/datasets/r/11a736be-748f-470b-b2c6-b8ba09b48938',
+            'delimiter': ';',  # Round 2 uses semicolon delimiter
+            'columns': {
+                'dept': 'Code du département',
+                'commune': 'Code de la commune',
+                'nom': 'Nom',
+                'prenom': 'Prénom',
+                'voix': 'Voix',
+                'exprimes': 'Exprimés'
+            }
+        }
     }
 
-    for round_name, url in urls.items():
+    for round_name, config in urls.items():
         print(f"\nDownloading {round_name}...")
 
         try:
-            response = requests.get(url, timeout=120)
+            response = requests.get(config['url'], timeout=120)
             response.raise_for_status()
             response.encoding = 'latin-1'  # French gov files use latin-1
 
-            # Parse CSV (semicolon-separated for French data)
             # Filter out NUL bytes if present
             text_content = response.text.replace('\x00', '')
-            reader = csv.DictReader(io.StringIO(text_content), delimiter=';')
+            reader = csv.DictReader(io.StringIO(text_content), delimiter=config['delimiter'])
 
             # Aggregate votes by commune
             commune_votes = defaultdict(lambda: defaultdict(int))
             commune_totals = defaultdict(int)
 
+            cols = config['columns']
+
             for row in reader:
-                code_departement = row.get('Code du département', '').strip()
-                code_commune = row.get('Code de la commune', '').strip()
+                code_departement = row.get(cols['dept'], '').strip()
+                code_commune = row.get(cols['commune'], '').strip()
 
                 # Filter for Pays de la Loire departments
                 if code_departement not in DEPARTMENTS:
@@ -322,17 +344,23 @@ def download_presidential_2022():
                 insee_code = code_departement + code_commune
 
                 # Get candidate info
-                nom = row.get('Nom', '').strip()
-                prenom = row.get('Prénom', '').strip()
-                voix = row.get('Voix', '').strip()
-                exprimes = row.get('Exprimés', '').strip()
+                nom = row.get(cols['nom'], '').strip()
+                prenom = row.get(cols['prenom'], '').strip()
+                voix = row.get(cols['voix'], '').strip()
+                exprimes = row.get(cols['exprimes'], '').strip()
 
                 if voix and nom:
-                    candidate_name = f"{prenom} {nom}".strip() if prenom else nom
-                    commune_votes[insee_code][candidate_name] += int(voix)
+                    try:
+                        candidate_name = f"{prenom} {nom}".strip() if prenom else nom
+                        commune_votes[insee_code][candidate_name] += int(voix)
+                    except ValueError:
+                        pass  # Skip invalid vote counts
 
                 if exprimes:
-                    commune_totals[insee_code] += int(exprimes)
+                    try:
+                        commune_totals[insee_code] += int(exprimes)
+                    except ValueError:
+                        pass  # Skip invalid totals
 
             # Calculate percentages and store top 4
             for insee_code in commune_votes:
@@ -362,15 +390,27 @@ def download_presidential_2022():
                 else:
                     # Round 2: store Macron vs Le Pen
                     if len(candidates) >= 2:
-                        presidential[insee_code]['round_2'] = {
-                            'macron': candidates[0]['percentage'] if 'Macron' in candidates[0]['candidate'] else candidates[1]['percentage'],
-                            'le_pen': candidates[1]['percentage'] if 'Macron' in candidates[0]['candidate'] else candidates[0]['percentage']
-                        }
+                        # Find Macron and Le Pen by name
+                        macron_pct = None
+                        lepen_pct = None
+                        for cand in candidates:
+                            if 'MACRON' in cand['candidate'].upper():
+                                macron_pct = cand['percentage']
+                            elif 'LE PEN' in cand['candidate'].upper():
+                                lepen_pct = cand['percentage']
+
+                        if macron_pct is not None and lepen_pct is not None:
+                            presidential[insee_code]['round_2'] = {
+                                'macron': macron_pct,
+                                'le_pen': lepen_pct
+                            }
 
             print(f"  ✓ Processed {len(commune_votes)} communes for {round_name}")
 
         except Exception as e:
             print(f"  ✗ Error downloading {round_name}: {str(e)}")
+            import traceback
+            traceback.print_exc()
 
     output_file = CACHE_DIR / "presidential_2022.json"
     with open(output_file, 'w', encoding='utf-8') as f:
@@ -381,16 +421,20 @@ def download_presidential_2022():
 
 
 def download_legislative_2024():
-    """Download Legislative 2024 results (both rounds) from data.gouv.fr"""
+    """Download Legislative 2024 results (both rounds) from data.gouv.fr
+
+    Note: Legislative CSVs use WIDE format - one row per commune with all candidates
+    in numbered columns (e.g., 'Nom candidat 1', 'Nom candidat 2', etc.)
+    """
     print("\n" + "="*80)
     print("DOWNLOADING LEGISLATIVE 2024 RESULTS")
     print("="*80)
 
     legislative = {}
 
-    # Round 1 and Round 2 URLs (CSV format, commune level)
+    # Round 1 and Round 2 URLs (CSV format, WIDE format with numbered candidate columns)
     urls = {
-        'round_1': 'https://www.data.gouv.fr/api/1/datasets/r/bd32fcd3-53df-47ac-bf1d-8d8003fe23a1',
+        'round_1': 'https://static.data.gouv.fr/resources/elections-legislatives-des-30-juin-et-7-juillet-2024-resultats-definitifs-du-1er-tour/20240711-075056/resultats-definitifs-par-communes.csv',
         'round_2': 'https://www.data.gouv.fr/api/1/datasets/r/5a8088fd-8168-402a-9f40-c48daab88cd1'
     }
 
@@ -400,71 +444,98 @@ def download_legislative_2024():
         try:
             response = requests.get(url, timeout=120)
             response.raise_for_status()
-            response.encoding = 'latin-1'  # French gov files use latin-1
+            response.encoding = 'utf-8'  # Legislative files use UTF-8 encoding
 
             # Parse CSV (semicolon-separated)
             reader = csv.DictReader(io.StringIO(response.text), delimiter=';')
 
-            # Group by commune
-            commune_candidates = defaultdict(list)
+            commune_count = 0
 
             for row in reader:
-                code_departement = row.get('Code du département', '').strip()
-                code_commune = row.get('Code de la commune', '').strip()
+                code_departement = row.get('Code département', '').strip()
+                code_commune = row.get('Code commune', '').strip()
 
                 # Filter for Pays de la Loire departments
                 if code_departement not in DEPARTMENTS:
                     continue
 
-                insee_code = code_departement + code_commune
-
-                # Get candidate info
-                nom = row.get('Nom', '').strip()
-                prenom = row.get('Prénom', '').strip()
-                nuance = row.get('Libellé de la nuance', '').strip()
-                voix = row.get('Voix', '').strip()
+                # Note: Legislative CSVs have full INSEE code in "Code commune" (e.g., "44001")
+                # so we don't need to concatenate with department code
+                insee_code = code_commune
                 exprimes = row.get('Exprimés', '').strip()
 
-                if voix and exprimes and nom:
-                    votes = int(voix)
-                    total_exprimes = int(exprimes)
+                if not exprimes:
+                    continue
 
-                    if total_exprimes > 0:
+                try:
+                    total_exprimes = int(exprimes)
+                except ValueError:
+                    continue
+
+                if total_exprimes == 0:
+                    continue
+
+                # Extract all candidates from numbered columns
+                candidates = []
+                candidate_num = 1
+
+                while True:
+                    # Column names: "Nom candidat 1", "Prénom candidat 1", "Voix 1", "Nuance candidat 1"
+                    nom = row.get(f'Nom candidat {candidate_num}', '').strip()
+                    prenom = row.get(f'Prénom candidat {candidate_num}', '').strip()
+                    voix = row.get(f'Voix {candidate_num}', '').strip()
+                    nuance = row.get(f'Nuance candidat {candidate_num}', '').strip()
+
+                    # Stop when we find empty candidate slot
+                    if not nom or not voix:
+                        break
+
+                    try:
+                        votes = int(voix)
                         percentage = (votes / total_exprimes) * 100
                         candidate_name = f"{prenom} {nom}".strip() if prenom else nom
 
-                        commune_candidates[insee_code].append({
+                        candidates.append({
                             'candidate': candidate_name,
-                            'party': nuance or 'Divers',
+                            'party': nuance or 'DIV',
                             'percentage': round(percentage, 1),
                             'votes': votes
                         })
+                    except ValueError:
+                        pass  # Skip invalid vote counts
 
-            # For each commune, sort candidates by votes and keep top 4
-            for insee_code, candidates in commune_candidates.items():
-                # Sort by votes descending
-                candidates.sort(key=lambda x: x['votes'], reverse=True)
+                    candidate_num += 1
 
-                # Initialize if needed
-                if insee_code not in legislative:
-                    legislative[insee_code] = {}
+                    # Safety limit to prevent infinite loop
+                    if candidate_num > 300:
+                        break
 
-                # Store top 4 candidates (without vote counts in final data)
-                top_candidates = [
-                    {
-                        'candidate': c['candidate'],
-                        'party': c['party'],
-                        'percentage': c['percentage']
-                    }
-                    for c in candidates[:4]
-                ]
+                # Sort by votes and keep top 4
+                if candidates:
+                    candidates.sort(key=lambda x: x['votes'], reverse=True)
 
-                legislative[insee_code][round_name] = top_candidates
+                    # Initialize if needed
+                    if insee_code not in legislative:
+                        legislative[insee_code] = {}
 
-            print(f"  ✓ Processed {len(commune_candidates)} communes for {round_name}")
+                    # Store top 4 candidates (without vote counts in final data)
+                    legislative[insee_code][round_name] = [
+                        {
+                            'candidate': c['candidate'],
+                            'party': c['party'],
+                            'percentage': c['percentage']
+                        }
+                        for c in candidates[:4]
+                    ]
+
+                    commune_count += 1
+
+            print(f"  ✓ Processed {commune_count} communes for {round_name}")
 
         except Exception as e:
             print(f"  ✗ Error downloading {round_name}: {str(e)}")
+            import traceback
+            traceback.print_exc()
 
     output_file = CACHE_DIR / "legislative_2024.json"
     with open(output_file, 'w', encoding='utf-8') as f:

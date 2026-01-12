@@ -68,6 +68,7 @@ france-schools-map/
 │   ├── download_data.py              # Download school directory & exam results
 │   ├── download_enrollment_data.py   # Download student counts
 │   ├── download_language_data.py     # Download language offerings
+│   ├── download_political_data.py    # Download political data (mayors, elections)
 │   ├── merge_datasets.py             # Join all data on UAI code
 │   └── requirements.txt
 ├── data/
@@ -76,15 +77,24 @@ france-schools-map/
 │   ├── effectifs_*_pays_loire.json   # Enrollment data
 │   ├── language_offerings_pays_loire.json  # Language offerings
 │   ├── *_results_pays_loire.json     # Exam results
-│   └── schools.json                  # Final merged data
+│   ├── schools.json                  # Final merged data
+│   └── political_cache/              # Political data cache
+│       ├── insee_mapping.json        # Postal code → INSEE code mapping
+│       ├── mayors.json               # Current mayors by commune
+│       ├── municipal_2020.json       # Municipal election results
+│       ├── presidential_2022.json    # Presidential election results
+│       ├── legislative_2024.json     # Legislative election results
+│       └── political_data.json       # Final merged political data
 ├── frontend/
 │   ├── index.html                    # Main page
 │   ├── app.js                        # Leaflet map & filters
 │   ├── styles.css                    # Styling
 │   └── data/
-│       └── schools.json              # Copy of final data
+│       ├── schools.json              # Copy of final data
+│       └── political_data.json       # Political context by commune
 ├── tests/
 │   ├── test_data_validation.py       # Python data integrity tests
+│   ├── test_political_data.py        # Political data validation tests
 │   ├── test_frontend.js              # Frontend validation tests
 │   ├── run_tests.sh                  # Test runner
 │   └── README.md                     # Test documentation
@@ -125,6 +135,24 @@ This will fetch:
 - 619 collèges with Brevet results
 - 144 lycées with Bac results
 
+**Optional: Download Political Data**
+
+```bash
+# Download political context data (mayors, election results)
+python3 download_political_data.py
+```
+
+This will fetch:
+- Current mayors from RNE API (Répertoire National des Élus)
+- Municipal 2020 election results (2nd round)
+- Presidential 2022 election results (both rounds)
+- Legislative 2024 election results (both rounds)
+- INSEE commune code mappings for ~300 communes in Pays de la Loire
+
+**Note**: Takes ~20-25 minutes due to API rate limits (1 request/second for geo.api.gouv.fr).
+
+Output: `data/political_cache/political_data.json`
+
 ### 3. Merge Datasets
 
 ```bash
@@ -133,6 +161,12 @@ python3 merge_datasets.py
 
 Creates `data/schools.json` with 2,990 schools (all with coordinates, deduplicated).
 
+**If you downloaded political data, copy it to frontend:**
+
+```bash
+cp data/political_cache/political_data.json frontend/data/
+```
+
 ### 4. Run Tests
 
 ```bash
@@ -140,6 +174,14 @@ Creates `data/schools.json` with 2,990 schools (all with coordinates, deduplicat
 ```
 
 Validates data integrity and frontend compatibility (28 tests).
+
+**If you have political data, run additional tests:**
+
+```bash
+python3 tests/test_political_data.py
+```
+
+Validates political data structure, coverage, and quality (6 tests).
 
 ### 5. View Map
 
@@ -168,6 +210,10 @@ python3 -m http.server 8000  # Then visit http://localhost:8000
 - **Language offerings**: 81.5% coverage for collèges/lycées (554 schools)
   - 100% teach English as LV1
   - Spanish (100%) and German (95%) most common for LV2
+- **Political context**: Available for schools in ~300 communes
+  - Current mayors from RNE API
+  - Election results (Municipal 2020, Presidential 2022, Legislative 2024)
+  - Matched via INSEE commune codes
 
 ## Key Indicators Explained
 
@@ -199,6 +245,27 @@ python3 -m http.server 8000  # Then visit http://localhost:8000
 - **LV2** (Deuxième langue vivante): Second foreign language, typically Spanish or German
 - Most schools offer multiple LV2 options (Spanish, German, Italian, Chinese)
 
+### Political Context
+Each school popup now displays the political context of its commune, providing insight into the local political landscape:
+
+**Data Displayed (6 lines):**
+1. **Current Mayor** - Name and political affiliation (from RNE - Répertoire National des Élus)
+2. **Municipal 2020** - 2nd round election results with winning percentage
+3. **Presidential 2022 (2nd tour)** - Macron vs Le Pen percentages
+4. **Presidential 2022 (1er tour)** - TOP 4 candidates with percentages
+5. **Legislative 2024 (2nd tour)** - TOP 4 individual candidates with parties
+6. **Legislative 2024 (1er tour)** - TOP 4 individual candidates with parties
+
+**Data Sources:**
+- **RNE API** (via Opendatasoft) - Current elected mayors
+- **data.gouv.fr** - Official election results (Municipal 2020, Presidential 2022, Legislative 2024)
+- **geo.api.gouv.fr** - INSEE commune code mapping for reliable matching
+
+**Coverage:**
+- Political data available for ~300 communes in Pays de la Loire
+- Schools matched via INSEE commune codes (preserved from annuaire data)
+- Missing data shown as "N/A" (never hidden)
+
 ## Design Philosophy
 
 This map is **purely informational** rather than ranking-based:
@@ -217,6 +284,7 @@ Comprehensive test suite to catch regressions:
 
 # Run individual test suites
 python3 tests/test_data_validation.py    # Data integrity (17 tests)
+python3 tests/test_political_data.py     # Political data validation (6 tests)
 node tests/test_frontend.js              # Frontend validation (11 tests)
 ```
 
@@ -229,6 +297,38 @@ node tests/test_frontend.js              # Frontend validation (11 tests)
 - Frontend compatibility
 
 See `tests/README.md` for detailed documentation.
+
+## Updating Political Data
+
+Political data should be refreshed periodically to reflect:
+- New mayors elected in special elections
+- Updated municipal elections (every 6 years)
+- New presidential elections (every 5 years)
+- New legislative elections (every 5 years)
+
+**To update:**
+
+```bash
+cd scraper
+python3 download_political_data.py
+cp ../data/political_cache/political_data.json ../frontend/data/
+```
+
+**What gets updated:**
+- Current mayors from RNE API (live data, always current)
+- Election results from data.gouv.fr CSV files (static, need new URLs for future elections)
+
+**Note**: Municipal 2020, Presidential 2022, and Legislative 2024 data sources are currently placeholders in the script. To populate them:
+1. Find CSV download URLs on [data.gouv.fr](https://www.data.gouv.fr)
+2. Update `download_political_data.py` functions to parse the CSVs
+3. Filter by departments: 44, 49, 53, 72, 85 (Pays de la Loire)
+4. Aggregate results by INSEE commune code
+
+**Rate limits:**
+- geo.api.gouv.fr: 1 request/second (strictly enforced)
+- RNE API via Opendatasoft: ~1,000 records per request (no rate limit issues)
+
+Expected download time: ~20-25 minutes for full refresh.
 
 ## Development
 

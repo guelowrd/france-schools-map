@@ -1,1 +1,674 @@
-{}
+{
+  "49113": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 91.9,
+    "party": "NC"
+  },
+  "49121": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 0.0,
+    "party": "NC"
+  },
+  "49182": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 0.0,
+    "party": "NC"
+  },
+  "53053": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 3.5,
+    "party": "NC"
+  },
+  "53061": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 25.2,
+    "party": "NC"
+  },
+  "53106": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 32.9,
+    "party": "NC"
+  },
+  "53165": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 100.0,
+    "party": "NC"
+  },
+  "53176": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 10.7,
+    "party": "NC"
+  },
+  "53190": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 0.0,
+    "party": "NC"
+  },
+  "53236": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 43.3,
+    "party": "NC"
+  },
+  "53251": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 100.0,
+    "party": "NC"
+  },
+  "53274": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 55.1,
+    "party": "NC"
+  },
+  "72005": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 42.7,
+    "party": "NC"
+  },
+  "72015": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 35.3,
+    "party": "NC"
+  },
+  "72031": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 1.1,
+    "party": "NC"
+  },
+  "72059": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 42.8,
+    "party": "NC"
+  },
+  "72074": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 5.0,
+    "party": "NC"
+  },
+  "72102": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 51.1,
+    "party": "NC"
+  },
+  "72134": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 82.2,
+    "party": "NC"
+  },
+  "72141": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 50.2,
+    "party": "NC"
+  },
+  "72160": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 14.7,
+    "party": "NC"
+  },
+  "72161": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 0.0,
+    "party": "NC"
+  },
+  "72164": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 5.9,
+    "party": "NC"
+  },
+  "72185": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 37.1,
+    "party": "NC"
+  },
+  "72220": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 100.0,
+    "party": "NC"
+  },
+  "72221": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 50.3,
+    "party": "NC"
+  },
+  "72229": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 83.9,
+    "party": "NC"
+  },
+  "72249": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 30.7,
+    "party": "NC"
+  },
+  "72265": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 26.1,
+    "party": "NC"
+  },
+  "72267": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 52.3,
+    "party": "NC"
+  },
+  "72271": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 24.5,
+    "party": "NC"
+  },
+  "72279": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 96.2,
+    "party": "NC"
+  },
+  "72297": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 0.0,
+    "party": "NC"
+  },
+  "72314": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 95.8,
+    "party": "NC"
+  },
+  "72330": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 2.8,
+    "party": "NC"
+  },
+  "72338": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 23.5,
+    "party": "NC"
+  },
+  "72368": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 0.0,
+    "party": "NC"
+  },
+  "85053": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 79.6,
+    "party": "NC"
+  },
+  "85125": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 83.1,
+    "party": "NC"
+  },
+  "85184": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 0.0,
+    "party": "NC"
+  },
+  "85290": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Liste inconnue",
+    "percentage": 56.9,
+    "party": "NC"
+  },
+  "44003": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "TISSONS LES LIENS QUI NOUS RASSEMBLENT",
+    "percentage": 41.5,
+    "party": "LDVC"
+  },
+  "44015": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "BLAIN DEMAIN",
+    "percentage": 17.7,
+    "party": "LDVD"
+  },
+  "44020": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "GAUCHES ECOLOGISTES ET SOLIDAIRES",
+    "percentage": 47.1,
+    "party": "LDVG"
+  },
+  "44021": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "UN NOUVEAU SOUFFLE POUR VILLENEUVE EN RETZ",
+    "percentage": 18.7,
+    "party": "LDVC"
+  },
+  "44043": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "#IMAGINE CLISSON",
+    "percentage": 5.1,
+    "party": "LDVC"
+  },
+  "44047": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "COUËRON SE REALISE AVEC VOUS",
+    "percentage": 53.3,
+    "party": "LUG"
+  },
+  "44049": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "LE CROISIC, C'EST VOUS",
+    "percentage": 50.5,
+    "party": "LDVC"
+  },
+  "44052": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Donges avec Vous",
+    "percentage": 15.9,
+    "party": "LDVD"
+  },
+  "44055": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "UNIS POUR LA BAULE-ESCOUBLAC",
+    "percentage": 41.8,
+    "party": "LREM"
+  },
+  "44069": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "VIVONS GUÉRANDE ÉCOLOGIQUE ET SOLIDAIRE",
+    "percentage": 27.1,
+    "party": "LVEC"
+  },
+  "44074": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "INDRE AVENIR",
+    "percentage": 42.4,
+    "party": "LDVG"
+  },
+  "44084": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "UNIS VERS 2026",
+    "percentage": 39.8,
+    "party": "LDVC"
+  },
+  "44087": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "MACHECOUL-SAINT-MEME UNE NOUVELLE DYNAMIQUE",
+    "percentage": 46.8,
+    "party": "LDVD"
+  },
+  "44103": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "ENSEMBLE POUR MONTOIR",
+    "percentage": 42.9,
+    "party": "LUG"
+  },
+  "44109": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "ENSEMBLE NANTES EN CONFIANCE",
+    "percentage": 59.7,
+    "party": "LUG"
+  },
+  "44114": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "LA TRANSITION POSITIVE",
+    "percentage": 41.7,
+    "party": "LDVG"
+  },
+  "44120": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "LE PELLERIN, NOTRE LIEN",
+    "percentage": 42.4,
+    "party": "LDVC"
+  },
+  "44125": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Piriac dans l'action, avec tous, toute l'année",
+    "percentage": 48.6,
+    "party": "LNC"
+  },
+  "44135": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "LE POULIGUEN AUTHENTIQUE",
+    "percentage": 14.2,
+    "party": "LDVD"
+  },
+  "44137": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "PRINQUIAU POUR TOUS",
+    "percentage": 36.3,
+    "party": "LNC"
+  },
+  "44143": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "BIEN VIVRE ENSEMBLE A REZE",
+    "percentage": 22.7,
+    "party": "LDVG"
+  },
+  "44154": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "OUI DEMAIN",
+    "percentage": 31.5,
+    "party": "LREM"
+  },
+  "44162": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "SAINT-HERBLAIN EN COMMUN",
+    "percentage": 32.7,
+    "party": "LVEC"
+  },
+  "44172": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "SAINTE LUCE EST A VOUS",
+    "percentage": 46.8,
+    "party": "LDVC"
+  },
+  "44184": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "POUR SAINT NAZAIRE",
+    "percentage": 57.2,
+    "party": "LDVG"
+  },
+  "44204": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "vivre ensemble à Thouaré",
+    "percentage": 51.7,
+    "party": "LDVG"
+  },
+  "44210": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "TRIGNAC EN ACTION",
+    "percentage": 30.2,
+    "party": "LDVD"
+  },
+  "49015": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "AVRILLE PASSION",
+    "percentage": 35.6,
+    "party": "LDIV"
+  },
+  "49021": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "ENSEMBLE, RENOUVELONS BEAUFORT-EN-ANJOU",
+    "percentage": 40.8,
+    "party": "LDIV"
+  },
+  "49035": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "ConfluenceS et Agir- Unir Bouchemaine",
+    "percentage": 44.6,
+    "party": "LDIV"
+  },
+  "49099": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "CHOLET PASSION",
+    "percentage": 54.0,
+    "party": "LDVD"
+  },
+  "49160": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "REUNIR POUR L'AVENIR",
+    "percentage": 36.2,
+    "party": "LNC"
+  },
+  "49328": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "AGIR",
+    "percentage": 63.8,
+    "party": "LDVG"
+  },
+  "53130": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Demain Laval ensemble, écologique et solidaire",
+    "percentage": 53.4,
+    "party": "LDVG"
+  },
+  "53147": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Mayenne s'écrit ensemble",
+    "percentage": 42.5,
+    "party": "LDVC"
+  },
+  "53229": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Saint-Jean avec vous",
+    "percentage": 16.9,
+    "party": "LNC"
+  },
+  "72001": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "De Votre Confiance Viendra La Différence !",
+    "percentage": 15.1,
+    "party": "LNC"
+  },
+  "72124": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "AGIR VRAIMENT POUR ECOMMOY",
+    "percentage": 15.2,
+    "party": "LDVD"
+  },
+  "72181": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Le Mans Evidemment",
+    "percentage": 63.1,
+    "party": "LSOC"
+  },
+  "72264": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Mieux Vivre à Sablé",
+    "percentage": 8.4,
+    "party": "LDVG"
+  },
+  "72269": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Avec Vous Pour Notre Ville",
+    "percentage": 12.6,
+    "party": "LNC"
+  },
+  "72329": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Une Nouvelle Energie pour Savigné",
+    "percentage": 50.6,
+    "party": "LDVG"
+  },
+  "72378": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Partageons demain",
+    "percentage": 50.1,
+    "party": "LNC"
+  },
+  "72386": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Yvré Demain",
+    "percentage": 46.8,
+    "party": "LDVD"
+  },
+  "85029": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Avec vous, bâtissons le futur de Bouin",
+    "percentage": 32.6,
+    "party": "LNC"
+  },
+  "85047": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Challans des énergies nouvelles",
+    "percentage": 39.7,
+    "party": "LDVD"
+  },
+  "85071": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "L'Avenir de Commequiers, avec vous!",
+    "percentage": 49.3,
+    "party": "LDVD"
+  },
+  "85081": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "En Avant Dompierre !",
+    "percentage": 56.2,
+    "party": "LDVG"
+  },
+  "85092": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Vivre Fontenay",
+    "percentage": 43.2,
+    "party": "LDVG"
+  },
+  "85191": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Luc Bouard 2020",
+    "percentage": 52.3,
+    "party": "LDVC"
+  },
+  "85194": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Bien vivre ensemble, Cap sur la démocratie, l'écologie, la solidarité.",
+    "percentage": 12.6,
+    "party": "LDVG"
+  },
+  "85223": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Ensemble, continuer et agir !",
+    "percentage": 29.0,
+    "party": "LNC"
+  },
+  "85226": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Bien vivre à Saint Hilaire de Riez",
+    "percentage": 6.4,
+    "party": "LRN"
+  },
+  "85278": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "Ensemble Autrement à Saint Vincent",
+    "percentage": 43.1,
+    "party": "LNC"
+  },
+  "85298": {
+    "year": 2020,
+    "round": 2,
+    "winning_list": "VAIRE AUTREMENT",
+    "percentage": 45.1,
+    "party": "LNC"
+  }
+}
