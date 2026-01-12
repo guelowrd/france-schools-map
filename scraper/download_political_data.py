@@ -211,65 +211,101 @@ def download_mayors():
 
 
 def download_municipal_2020():
-    """Download Municipal 2020 2nd round results from data.gouv.fr"""
+    """Download Municipal 2020 results (both rounds) from data.gouv.fr
+
+    Download both 1st and 2nd round results. Priority:
+    1. Use 2nd round data if available (definitive result)
+    2. Otherwise use 1st round data (mayor elected in 1st round)
+    """
     print("\n" + "="*80)
     print("DOWNLOADING MUNICIPAL 2020 RESULTS")
     print("="*80)
 
     municipal = {}
 
-    # Municipal 2020 2nd round - two files for different commune sizes
-    urls = [
-        'https://www.data.gouv.fr/api/1/datasets/r/7a5faf5f-7e3b-4de6-9f1d-a8e3ad176476',  # < 1000 inhabitants (TXT)
-        'https://www.data.gouv.fr/api/1/datasets/r/e7cae0aa-5e36-4370-b724-6f233014d0d6'   # >= 1000 inhabitants (TXT)
-    ]
+    # Download both rounds, starting with Round 1 (will be overwritten by Round 2 if exists)
+    # Round 1 uses TAB delimiter, Round 2 uses semicolon
+    rounds = {
+        1: {
+            'delimiter': '\t',
+            'urls': [
+                ('< 1000', 'https://static.data.gouv.fr/resources/elections-municipales-2020-resultats/20200525-133805/2020-05-18-resultats-communes-de-moins-de-1000.txt'),
+                ('>= 1000', 'https://static.data.gouv.fr/resources/elections-municipales-2020-resultats/20200525-133704/2020-05-18-resultats-communes-de-1000-et-plus.txt')
+            ]
+        },
+        2: {
+            'delimiter': ';',
+            'urls': [
+                ('< 1000', 'https://www.data.gouv.fr/api/1/datasets/r/7a5faf5f-7e3b-4de6-9f1d-a8e3ad176476'),
+                ('>= 1000', 'https://www.data.gouv.fr/api/1/datasets/r/e7cae0aa-5e36-4370-b724-6f233014d0d6')
+            ]
+        }
+    }
 
-    for idx, url in enumerate(urls):
-        file_type = "< 1000 inhabitants" if idx == 0 else ">= 1000 inhabitants"
-        print(f"\nDownloading {file_type}...")
+    for round_num, round_config in rounds.items():
+        print(f"\n--- Round {round_num} ---")
 
-        try:
-            response = requests.get(url, timeout=60)
-            response.raise_for_status()
-            response.encoding = 'latin-1'  # French gov files use latin-1
+        for file_type, url in round_config['urls']:
+            print(f"Downloading {file_type} habitants...")
 
-            # Parse CSV (semicolon-separated, not tab)
-            reader = csv.DictReader(io.StringIO(response.text), delimiter=';')
+            try:
+                response = requests.get(url, timeout=60)
+                response.raise_for_status()
+                response.encoding = 'latin-1'  # French gov files use latin-1
 
-            for row in reader:
-                code_departement = row.get('Code du département', '').strip()
-                code_commune = row.get('Code de la commune', '').strip()
+                # Parse CSV with round-specific delimiter
+                reader = csv.DictReader(io.StringIO(response.text), delimiter=round_config['delimiter'])
 
-                # Filter for Pays de la Loire departments
-                if code_departement not in DEPARTMENTS:
-                    continue
+                for row in reader:
+                    code_departement = row.get('Code du département', '').strip()
+                    code_commune = row.get('Code de la commune', '').strip()
 
-                # Build INSEE code (department + commune)
-                insee_code = code_departement + code_commune
+                    # Filter for Pays de la Loire departments
+                    if code_departement not in DEPARTMENTS:
+                        continue
 
-                # Extract winning list data (liste with highest % wins)
-                liste = row.get('Liste', '').strip()
-                code_nuance = row.get('Code Nuance', '').strip()
-                voix = row.get('Voix', '').strip()
-                exprimes = row.get('Exprimés', '').strip()
+                    # Build INSEE code (department + commune)
+                    insee_code = code_departement + code_commune
 
-                if voix and exprimes and int(exprimes) > 0:
-                    percentage = (int(voix) / int(exprimes)) * 100
+                    # Extract winning list data (liste with highest % wins)
+                    liste = row.get('Liste', '').strip()
+                    code_nuance = row.get('Code Nuance', '').strip()
+                    voix = row.get('Voix', '').strip()
+                    exprimes = row.get('Exprimés', '').strip()
 
-                    # Keep only the list with highest percentage
-                    if insee_code not in municipal or percentage > municipal[insee_code]['percentage']:
-                        municipal[insee_code] = {
-                            'year': 2020,
-                            'round': 2,
-                            'winning_list': liste or 'Liste inconnue',
-                            'percentage': round(percentage, 1),
-                            'party': code_nuance or None
-                        }
+                    if voix and exprimes:
+                        try:
+                            votes = int(voix)
+                            total = int(exprimes)
+                            if total > 0:
+                                percentage = (votes / total) * 100
 
-            print(f"  ✓ Processed {len(municipal)} communes so far")
+                                # For each commune, keep highest percentage within the round
+                                # Round 2 will overwrite Round 1 if available
+                                if insee_code not in municipal or municipal[insee_code]['round'] <= round_num:
+                                    if insee_code not in municipal or percentage > municipal[insee_code].get('percentage', 0):
+                                        municipal[insee_code] = {
+                                            'year': 2020,
+                                            'round': round_num,
+                                            'winning_list': liste or 'Liste inconnue',
+                                            'percentage': round(percentage, 1),
+                                            'party': code_nuance or None
+                                        }
+                        except ValueError:
+                            pass  # Skip invalid numbers
 
-        except Exception as e:
-            print(f"  ✗ Error downloading {file_type}: {str(e)}")
+                print(f"  ✓ Processed {len(municipal)} communes so far")
+
+            except Exception as e:
+                print(f"  ✗ Error downloading {file_type}: {str(e)}")
+
+    # Count by round
+    round1_count = sum(1 for m in municipal.values() if m['round'] == 1)
+    round2_count = sum(1 for m in municipal.values() if m['round'] == 2)
+    print(f"\nResults by round:")
+    print(f"  Round 1: {round1_count} communes")
+    print(f"  Round 2: {round2_count} communes")
+    print(f"  Total: {len(municipal)} communes")
 
     output_file = CACHE_DIR / "municipal_2020.json"
     with open(output_file, 'w', encoding='utf-8') as f:
