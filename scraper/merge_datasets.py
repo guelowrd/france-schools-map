@@ -206,7 +206,8 @@ def merge_data():
                 'street': fields.get('adresse_1', ''),
                 'postal_code': fields.get('code_postal', ''),
                 'city': fields.get('nom_commune', ''),
-                'department': fields.get('libelle_departement', '')
+                'department': fields.get('libelle_departement', ''),
+                'insee_code': fields.get('code_commune', '')
             },
             'coordinates': {
                 'latitude': lat,

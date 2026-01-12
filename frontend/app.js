@@ -32,6 +32,90 @@ function createMarkerIcon(schoolType) {
     });
 }
 
+// Load political data
+let politicalData = {};
+
+fetch('data/political_data.json')
+    .then(response => response.json())
+    .then(data => {
+        politicalData = data;
+        console.log(`Loaded political data for ${Object.keys(politicalData).length} communes`);
+    })
+    .catch(error => {
+        console.error('Failed to load political data:', error);
+    });
+
+// Format political context
+function formatPoliticalContext(school) {
+    const inseeCode = school.address?.insee_code;
+
+    if (!inseeCode || !politicalData[inseeCode]) {
+        return '<p><em>Données non disponibles</em></p>';
+    }
+
+    const pol = politicalData[inseeCode];
+    let html = '<div class="political-info">';
+
+    // Line 1: Current Mayor
+    if (pol.mayor) {
+        const mayorName = `${pol.mayor.first_name} ${pol.mayor.last_name}`;
+        const party = pol.mayor.party || 'N/A';
+        html += `<p><strong>Maire:</strong> ${mayorName} (${party})</p>`;
+    } else {
+        html += '<p><strong>Maire:</strong> N/A</p>';
+    }
+
+    // Line 2: Municipal 2020
+    if (pol.municipal_2020?.percentage) {
+        const pct = pol.municipal_2020.percentage.toFixed(1);
+        html += `<p><strong>Municipal 2020:</strong> Élu au 2nd tour avec ${pct}% des voix</p>`;
+    } else {
+        html += '<p><strong>Municipal 2020:</strong> N/A</p>';
+    }
+
+    // Line 3: Presidential 2022 - Round 2
+    if (pol.presidential_2022?.round_2) {
+        const macron = pol.presidential_2022.round_2.macron.toFixed(1);
+        const lepen = pol.presidential_2022.round_2.le_pen.toFixed(1);
+        html += `<p><strong>Présidentielle 2022 (2nd tour):</strong> ${macron}% Macron, ${lepen}% Le Pen</p>`;
+    } else {
+        html += '<p><strong>Présidentielle 2022 (2nd tour):</strong> N/A</p>';
+    }
+
+    // Line 4: Presidential 2022 - Round 1 (TOP 4)
+    if (pol.presidential_2022?.round_1 && pol.presidential_2022.round_1.length > 0) {
+        const top4 = pol.presidential_2022.round_1.slice(0, 4)
+            .map(c => `${c.percentage.toFixed(1)}% ${c.candidate}`)
+            .join(', ');
+        html += `<p><strong>Présidentielle 2022 (1er tour):</strong> ${top4}</p>`;
+    } else {
+        html += '<p><strong>Présidentielle 2022 (1er tour):</strong> N/A</p>';
+    }
+
+    // Line 5: Legislative 2024 - Round 2 (TOP 4)
+    if (pol.legislative_2024?.round_2 && pol.legislative_2024.round_2.length > 0) {
+        const top4 = pol.legislative_2024.round_2.slice(0, 4)
+            .map(c => `${c.percentage.toFixed(1)}% ${c.candidate} (${c.party})`)
+            .join(', ');
+        html += `<p><strong>Législatives 2024 (2nd tour):</strong> ${top4}</p>`;
+    } else {
+        html += '<p><strong>Législatives 2024 (2nd tour):</strong> N/A</p>';
+    }
+
+    // Line 6: Legislative 2024 - Round 1 (TOP 4)
+    if (pol.legislative_2024?.round_1 && pol.legislative_2024.round_1.length > 0) {
+        const top4 = pol.legislative_2024.round_1.slice(0, 4)
+            .map(c => `${c.percentage.toFixed(1)}% ${c.candidate} (${c.party})`)
+            .join(', ');
+        html += `<p><strong>Législatives 2024 (1er tour):</strong> ${top4}</p>`;
+    } else {
+        html += '<p><strong>Législatives 2024 (1er tour):</strong> N/A</p>';
+    }
+
+    html += '</div>';
+    return html;
+}
+
 // Format IPS value with context
 function formatIPS(school) {
     if (!school.ips || !school.ips.value) {
@@ -163,6 +247,9 @@ function createPopupContent(school) {
     html += `<span class="badge">${school.type}</span>`;
     html += '</div>';
 
+    // === SECTION 1: Infos École (expandable) ===
+    html += '<details class="popup-section" open>';
+    html += '<summary>🚸 Infos École</summary>';
     html += '<div class="school-info">';
 
     // Address
@@ -217,7 +304,15 @@ function createPopupContent(school) {
         }
     }
 
-    html += '</div></div>';
+    html += '</div></details>';
+
+    // === SECTION 2: Contexte Politique (expandable) ===
+    html += '<details class="popup-section">';
+    html += '<summary>🏛️ Contexte Politique</summary>';
+    html += formatPoliticalContext(school);
+    html += '</details>';
+
+    html += '</div>';
     return html;
 }
 
@@ -448,8 +543,8 @@ fetch('data/schools.json')
                 icon: createMarkerIcon(school.type)
             });
 
-            // Bind popup
-            marker.bindPopup(createPopupContent(school), {
+            // Bind popup (use function for dynamic content generation)
+            marker.bindPopup(() => createPopupContent(school), {
                 maxWidth: 450,
                 className: 'school-popup'
             });

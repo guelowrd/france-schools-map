@@ -1,0 +1,4314 @@
+{
+  "44000|Nantes": {
+    "insee_code": "44109",
+    "commune_name": "Nantes"
+  },
+  "44100|Nantes": {
+    "insee_code": "44109",
+    "commune_name": "Nantes"
+  },
+  "44110|Châteaubriant": {
+    "insee_code": "44036",
+    "commune_name": "Châteaubriant"
+  },
+  "44110|Erbray": {
+    "insee_code": "44054",
+    "commune_name": "Erbray"
+  },
+  "44110|Louisfert": {
+    "insee_code": "44085",
+    "commune_name": "Louisfert"
+  },
+  "44110|Noyal-sur-Brutz": {
+    "insee_code": "44112",
+    "commune_name": "Noyal-sur-Brutz"
+  },
+  "44110|Saint-Aubin-des-Châteaux": {
+    "insee_code": "44153",
+    "commune_name": "Saint-Aubin-des-Châteaux"
+  },
+  "44110|Soudan": {
+    "insee_code": "44199",
+    "commune_name": "Soudan"
+  },
+  "44110|Villepot": {
+    "insee_code": "44218",
+    "commune_name": "Villepot"
+  },
+  "44115|Basse-Goulaine": {
+    "insee_code": "44009",
+    "commune_name": "Basse-Goulaine"
+  },
+  "44115|Haute-Goulaine": {
+    "insee_code": "44071",
+    "commune_name": "Haute-Goulaine"
+  },
+  "44116|Vieillevigne": {
+    "insee_code": "44216",
+    "commune_name": "Vieillevigne"
+  },
+  "44117|Saint-André-des-Eaux": {
+    "insee_code": "44151",
+    "commune_name": "Saint-André-des-Eaux"
+  },
+  "44118|La Chevrolière": {
+    "insee_code": "44041",
+    "commune_name": "La Chevrolière"
+  },
+  "44119|Grandchamp-des-Fontaines": {
+    "insee_code": "44066",
+    "commune_name": "Grandchamp-des-Fontaines"
+  },
+  "44119|Treillières": {
+    "insee_code": "44209",
+    "commune_name": "Treillières"
+  },
+  "44120|Vertou": {
+    "insee_code": "44215",
+    "commune_name": "Vertou"
+  },
+  "44130|Blain": {
+    "insee_code": "44015",
+    "commune_name": "Blain"
+  },
+  "44130|Bouvron": {
+    "insee_code": "44023",
+    "commune_name": "Bouvron"
+  },
+  "44130|Fay-de-Bretagne": {
+    "insee_code": "44056",
+    "commune_name": "Fay-de-Bretagne"
+  },
+  "44130|Le Gâvre": {
+    "insee_code": "44062",
+    "commune_name": "Le Gâvre"
+  },
+  "44130|Notre-Dame-des-Landes": {
+    "insee_code": "44111",
+    "commune_name": "Notre-Dame-des-Landes"
+  },
+  "44140|Aigrefeuille-sur-Maine": {
+    "insee_code": "44002",
+    "commune_name": "Aigrefeuille-sur-Maine"
+  },
+  "44140|Geneston": {
+    "insee_code": "44223",
+    "commune_name": "Geneston"
+  },
+  "44140|La Planche": {
+    "insee_code": "44127",
+    "commune_name": "La Planche"
+  },
+  "44140|Le Bignon": {
+    "insee_code": "44014",
+    "commune_name": "Le Bignon"
+  },
+  "44140|Montbert": {
+    "insee_code": "44102",
+    "commune_name": "Montbert"
+  },
+  "44140|Remouillé": {
+    "insee_code": "44142",
+    "commune_name": "Remouillé"
+  },
+  "44150|Ancenis-Saint-Géréon": {
+    "insee_code": "44003",
+    "commune_name": "Ancenis-Saint-Géréon"
+  },
+  "44150|Vair-sur-Loire": {
+    "insee_code": "44163",
+    "commune_name": "Vair-sur-Loire"
+  },
+  "44160|Besné": {
+    "insee_code": "44013",
+    "commune_name": "Besné"
+  },
+  "44160|Crossac": {
+    "insee_code": "44050",
+    "commune_name": "Crossac"
+  },
+  "44160|Pontchâteau": {
+    "insee_code": "44129",
+    "commune_name": "Pontchâteau"
+  },
+  "44160|Sainte-Anne-sur-Brivet": {
+    "insee_code": "44152",
+    "commune_name": "Sainte-Anne-sur-Brivet"
+  },
+  "44160|Sainte-Reine-de-Bretagne": {
+    "insee_code": "44189",
+    "commune_name": "Sainte-Reine-de-Bretagne"
+  },
+  "44170|Abbaretz": {
+    "insee_code": "44001",
+    "commune_name": "Abbaretz"
+  },
+  "44170|Jans": {
+    "insee_code": "44076",
+    "commune_name": "Jans"
+  },
+  "44170|La Grigonnais": {
+    "insee_code": "44224",
+    "commune_name": "La Grigonnais"
+  },
+  "44170|Marsac-sur-Don": {
+    "insee_code": "44091",
+    "commune_name": "Marsac-sur-Don"
+  },
+  "44170|Nozay": {
+    "insee_code": "44113",
+    "commune_name": "Nozay"
+  },
+  "44170|Treffieux": {
+    "insee_code": "44208",
+    "commune_name": "Treffieux"
+  },
+  "44170|Vay": {
+    "insee_code": "44214",
+    "commune_name": "Vay"
+  },
+  "44190|Boussay": {
+    "insee_code": "44022",
+    "commune_name": "Boussay"
+  },
+  "44190|Clisson": {
+    "insee_code": "44043",
+    "commune_name": "Clisson"
+  },
+  "44190|Gorges": {
+    "insee_code": "44064",
+    "commune_name": "Gorges"
+  },
+  "44190|Gétigné": {
+    "insee_code": "44063",
+    "commune_name": "Gétigné"
+  },
+  "44190|Saint-Hilaire-de-Clisson": {
+    "insee_code": "44165",
+    "commune_name": "Saint-Hilaire-de-Clisson"
+  },
+  "44190|Saint-Lumine-de-Clisson": {
+    "insee_code": "44173",
+    "commune_name": "Saint-Lumine-de-Clisson"
+  },
+  "44200|Nantes": {
+    "insee_code": "44109",
+    "commune_name": "Nantes"
+  },
+  "44210|Pornic": {
+    "insee_code": "44131",
+    "commune_name": "Pornic"
+  },
+  "44220|Coueron": {
+    "insee_code": "44047",
+    "commune_name": "Couëron"
+  },
+  "44220|Couëron": {
+    "insee_code": "44047",
+    "commune_name": "Couëron"
+  },
+  "44230|Saint-Sébastien-sur-Loire": {
+    "insee_code": "44190",
+    "commune_name": "Saint-Sébastien-sur-Loire"
+  },
+  "44240|La Chapelle-sur-Erdre": {
+    "insee_code": "44035",
+    "commune_name": "La Chapelle-sur-Erdre"
+  },
+  "44240|Sucé-sur-Erdre": {
+    "insee_code": "44201",
+    "commune_name": "Sucé-sur-Erdre"
+  },
+  "44250|Saint-Brevin-les-Pins": {
+    "insee_code": "44154",
+    "commune_name": "Saint-Brevin-les-Pins"
+  },
+  "44250|Saint-Brévin-les-Pins": {
+    "insee_code": "44154",
+    "commune_name": "Saint-Brevin-les-Pins"
+  },
+  "44260|Bouée": {
+    "insee_code": "44019",
+    "commune_name": "Bouée"
+  },
+  "44260|La Chapelle-Launay": {
+    "insee_code": "44033",
+    "commune_name": "La Chapelle-Launay"
+  },
+  "44260|Lavau-sur-Loire": {
+    "insee_code": "44080",
+    "commune_name": "Lavau-sur-Loire"
+  },
+  "44260|Malville": {
+    "insee_code": "44089",
+    "commune_name": "Malville"
+  },
+  "44260|Prinquiau": {
+    "insee_code": "44137",
+    "commune_name": "Prinquiau"
+  },
+  "44260|Savenay": {
+    "insee_code": "44195",
+    "commune_name": "Savenay"
+  },
+  "44270|La Marne": {
+    "insee_code": "44090",
+    "commune_name": "La Marne"
+  },
+  "44270|Machecoul-Saint-Même": {
+    "insee_code": "44087",
+    "commune_name": "Machecoul-Saint-Même"
+  },
+  "44270|Paulx": {
+    "insee_code": "44119",
+    "commune_name": "Paulx"
+  },
+  "44270|Saint-Etienne-de-Mer-Morte": {
+    "insee_code": "44087",
+    "commune_name": "Machecoul-Saint-Même"
+  },
+  "44290|Conquereuil": {
+    "insee_code": "44044",
+    "commune_name": "Conquereuil"
+  },
+  "44290|Guémené-Penfao": {
+    "insee_code": "44067",
+    "commune_name": "Guémené-Penfao"
+  },
+  "44290|Massérac": {
+    "insee_code": "44092",
+    "commune_name": "Massérac"
+  },
+  "44290|Pierric": {
+    "insee_code": "44123",
+    "commune_name": "Pierric"
+  },
+  "44300|Nantes": {
+    "insee_code": "44109",
+    "commune_name": "Nantes"
+  },
+  "44310|La Limouzinière": {
+    "insee_code": "44083",
+    "commune_name": "La Limouzinière"
+  },
+  "44310|Saint-Colomban": {
+    "insee_code": "44155",
+    "commune_name": "Saint-Colomban"
+  },
+  "44310|Saint-Lumine-de-Coutais": {
+    "insee_code": "44174",
+    "commune_name": "Saint-Lumine-de-Coutais"
+  },
+  "44310|Saint-Philbert-de-Grand-Lieu": {
+    "insee_code": "44188",
+    "commune_name": "Saint-Philbert-de-Grand-Lieu"
+  },
+  "44320|Chaumes-en-Retz": {
+    "insee_code": "44005",
+    "commune_name": "Chaumes-en-Retz"
+  },
+  "44320|Chauvé": {
+    "insee_code": "44038",
+    "commune_name": "Chauvé"
+  },
+  "44320|Frossay": {
+    "insee_code": "44061",
+    "commune_name": "Frossay"
+  },
+  "44320|Saint-Père-en-Retz": {
+    "insee_code": "44187",
+    "commune_name": "Saint-Père-en-Retz"
+  },
+  "44320|Saint-Viaud": {
+    "insee_code": "44192",
+    "commune_name": "Saint-Viaud"
+  },
+  "44330|La Chapelle-Heulin": {
+    "insee_code": "44032",
+    "commune_name": "La Chapelle-Heulin"
+  },
+  "44330|La Regrippière": {
+    "insee_code": "44140",
+    "commune_name": "La Regrippière"
+  },
+  "44330|Le Pallet": {
+    "insee_code": "44117",
+    "commune_name": "Le Pallet"
+  },
+  "44330|Mouzillon": {
+    "insee_code": "44108",
+    "commune_name": "Mouzillon"
+  },
+  "44330|Vallet": {
+    "insee_code": "44212",
+    "commune_name": "Vallet"
+  },
+  "44340|Bouguenais": {
+    "insee_code": "44020",
+    "commune_name": "Bouguenais"
+  },
+  "44350|Guérande": {
+    "insee_code": "44069",
+    "commune_name": "Guérande"
+  },
+  "44350|Saint-Molf": {
+    "insee_code": "44183",
+    "commune_name": "Saint-Molf"
+  },
+  "44360|Cordemais": {
+    "insee_code": "44045",
+    "commune_name": "Cordemais"
+  },
+  "44360|Le Temple-de-Bretagne": {
+    "insee_code": "44203",
+    "commune_name": "Le Temple-de-Bretagne"
+  },
+  "44360|Saint-Etienne-de-Montluc": {
+    "insee_code": "44045",
+    "commune_name": "Cordemais"
+  },
+  "44360|Vigneux-de-Bretagne": {
+    "insee_code": "44217",
+    "commune_name": "Vigneux-de-Bretagne"
+  },
+  "44370|Loireauxance": {
+    "insee_code": "44104",
+    "commune_name": "Montrelais"
+  },
+  "44370|Loireauxence": {
+    "insee_code": "44213",
+    "commune_name": "Loireauxence"
+  },
+  "44370|Montrelais": {
+    "insee_code": "44104",
+    "commune_name": "Montrelais"
+  },
+  "44380|Pornichet": {
+    "insee_code": "44132",
+    "commune_name": "Pornichet"
+  },
+  "44390|Casson": {
+    "insee_code": "44027",
+    "commune_name": "Casson"
+  },
+  "44390|Les Touches": {
+    "insee_code": "44205",
+    "commune_name": "Les Touches"
+  },
+  "44390|Nort-sur-Erdre": {
+    "insee_code": "44110",
+    "commune_name": "Nort-sur-Erdre"
+  },
+  "44390|Petit-Mars": {
+    "insee_code": "44122",
+    "commune_name": "Petit-Mars"
+  },
+  "44390|Puceul": {
+    "insee_code": "44138",
+    "commune_name": "Puceul"
+  },
+  "44390|Saffré": {
+    "insee_code": "44149",
+    "commune_name": "Saffré"
+  },
+  "44400|Rezé": {
+    "insee_code": "44143",
+    "commune_name": "Rezé"
+  },
+  "44410|Assérac": {
+    "insee_code": "44006",
+    "commune_name": "Assérac"
+  },
+  "44410|Herbignac": {
+    "insee_code": "44072",
+    "commune_name": "Herbignac"
+  },
+  "44410|La Chapelle-des-Marais": {
+    "insee_code": "44030",
+    "commune_name": "La Chapelle-des-Marais"
+  },
+  "44410|Saint-Lyphard": {
+    "insee_code": "44175",
+    "commune_name": "Saint-Lyphard"
+  },
+  "44420|La Turballe": {
+    "insee_code": "44211",
+    "commune_name": "La Turballe"
+  },
+  "44420|Mesquer": {
+    "insee_code": "44097",
+    "commune_name": "Mesquer"
+  },
+  "44420|Piriac-sur-Mer": {
+    "insee_code": "44125",
+    "commune_name": "Piriac-sur-Mer"
+  },
+  "44430|La Boissière-du-Doré": {
+    "insee_code": "44016",
+    "commune_name": "La Boissière-du-Doré"
+  },
+  "44430|La Remaudière": {
+    "insee_code": "44141",
+    "commune_name": "La Remaudière"
+  },
+  "44430|Le Landreau": {
+    "insee_code": "44079",
+    "commune_name": "Le Landreau"
+  },
+  "44430|Le Loroux-Bottereau": {
+    "insee_code": "44084",
+    "commune_name": "Le Loroux-Bottereau"
+  },
+  "44440|Joué-sur-Erdre": {
+    "insee_code": "44077",
+    "commune_name": "Joué-sur-Erdre"
+  },
+  "44440|Pannecé": {
+    "insee_code": "44118",
+    "commune_name": "Pannecé"
+  },
+  "44440|Riaillé": {
+    "insee_code": "44144",
+    "commune_name": "Riaillé"
+  },
+  "44440|Teillé": {
+    "insee_code": "44202",
+    "commune_name": "Teillé"
+  },
+  "44440|Trans-sur-Erdre": {
+    "insee_code": "44207",
+    "commune_name": "Trans-sur-Erdre"
+  },
+  "44450|Divatte-sur-Loire": {
+    "insee_code": "44029",
+    "commune_name": "Divatte-sur-Loire"
+  },
+  "44450|Saint-Julien-de-Concelles": {
+    "insee_code": "44169",
+    "commune_name": "Saint-Julien-de-Concelles"
+  },
+  "44460|Avessac": {
+    "insee_code": "44007",
+    "commune_name": "Avessac"
+  },
+  "44460|Fégréac": {
+    "insee_code": "44057",
+    "commune_name": "Fégréac"
+  },
+  "44460|Saint-Nicolas-de-Redon": {
+    "insee_code": "44185",
+    "commune_name": "Saint-Nicolas-de-Redon"
+  },
+  "44470|Carquefou": {
+    "insee_code": "44026",
+    "commune_name": "Carquefou"
+  },
+  "44470|Mauves-sur-Loire": {
+    "insee_code": "44094",
+    "commune_name": "Mauves-sur-Loire"
+  },
+  "44470|Thouaré-sur-Loire": {
+    "insee_code": "44204",
+    "commune_name": "Thouaré-sur-Loire"
+  },
+  "44480|Donges": {
+    "insee_code": "44052",
+    "commune_name": "Donges"
+  },
+  "44490|Le Croisic": {
+    "insee_code": "44049",
+    "commune_name": "Le Croisic"
+  },
+  "44500|La Baule-Escoublac": {
+    "insee_code": "44055",
+    "commune_name": "La Baule-Escoublac"
+  },
+  "44510|Le Pouliguen": {
+    "insee_code": "44135",
+    "commune_name": "Le Pouliguen"
+  },
+  "44520|Grand-Auverné": {
+    "insee_code": "44065",
+    "commune_name": "Grand-Auverné"
+  },
+  "44520|Issé": {
+    "insee_code": "44075",
+    "commune_name": "Issé"
+  },
+  "44520|La Meilleraye-de-Bretagne": {
+    "insee_code": "44095",
+    "commune_name": "La Meilleraye-de-Bretagne"
+  },
+  "44520|Moisdon-la-Rivière": {
+    "insee_code": "44099",
+    "commune_name": "Moisdon-la-Rivière"
+  },
+  "44521|Couffé": {
+    "insee_code": "44048",
+    "commune_name": "Couffé"
+  },
+  "44521|Oudon": {
+    "insee_code": "44115",
+    "commune_name": "Oudon"
+  },
+  "44522|La Roche-Blanche": {
+    "insee_code": "44222",
+    "commune_name": "La Roche-Blanche"
+  },
+  "44522|Mésanger": {
+    "insee_code": "44096",
+    "commune_name": "Mésanger"
+  },
+  "44522|Pouillé-les-Côteaux": {
+    "insee_code": "44134",
+    "commune_name": "Pouillé-les-Côteaux"
+  },
+  "44530|Drefféac": {
+    "insee_code": "44053",
+    "commune_name": "Drefféac"
+  },
+  "44530|Guenrouet": {
+    "insee_code": "44068",
+    "commune_name": "Guenrouet"
+  },
+  "44530|Saint-Gildas-des-Bois": {
+    "insee_code": "44161",
+    "commune_name": "Saint-Gildas-des-Bois"
+  },
+  "44530|Sévérac": {
+    "insee_code": "44196",
+    "commune_name": "Sévérac"
+  },
+  "44540|Le Pin": {
+    "insee_code": "44124",
+    "commune_name": "Le Pin"
+  },
+  "44540|Saint-Mars-la-Jaille": {
+    "insee_code": "44124",
+    "commune_name": "Le Pin"
+  },
+  "44540|Vallons-de-l'Erdre": {
+    "insee_code": "44180",
+    "commune_name": "Vallons-de-l'Erdre"
+  },
+  "44550|Montoir-de-Bretagne": {
+    "insee_code": "44103",
+    "commune_name": "Montoir-de-Bretagne"
+  },
+  "44550|Saint-Malo-de-Guersac": {
+    "insee_code": "44176",
+    "commune_name": "Saint-Malo-de-Guersac"
+  },
+  "44560|Corsept": {
+    "insee_code": "44046",
+    "commune_name": "Corsept"
+  },
+  "44560|Paimboeuf": {
+    "insee_code": "44046",
+    "commune_name": "Corsept"
+  },
+  "44570|Trignac": {
+    "insee_code": "44210",
+    "commune_name": "Trignac"
+  },
+  "44580|Villeneuve-en-Retz": {
+    "insee_code": "44021",
+    "commune_name": "Villeneuve-en-Retz"
+  },
+  "44590|Derval": {
+    "insee_code": "44051",
+    "commune_name": "Derval"
+  },
+  "44590|Lusanger": {
+    "insee_code": "44086",
+    "commune_name": "Lusanger"
+  },
+  "44590|Mouais": {
+    "insee_code": "44105",
+    "commune_name": "Mouais"
+  },
+  "44590|Saint-Vincent-des-Landes": {
+    "insee_code": "44193",
+    "commune_name": "Saint-Vincent-des-Landes"
+  },
+  "44590|Sion-les-Mines": {
+    "insee_code": "44197",
+    "commune_name": "Sion-les-Mines"
+  },
+  "44600|Saint-Nazaire": {
+    "insee_code": "44184",
+    "commune_name": "Saint-Nazaire"
+  },
+  "44610|Indre": {
+    "insee_code": "44074",
+    "commune_name": "Indre"
+  },
+  "44620|La Montagne": {
+    "insee_code": "44101",
+    "commune_name": "La Montagne"
+  },
+  "44630|Plessé": {
+    "insee_code": "44128",
+    "commune_name": "Plessé"
+  },
+  "44640|Cheix-en-Retz": {
+    "insee_code": "44039",
+    "commune_name": "Cheix-en-Retz"
+  },
+  "44640|Le Pellerin": {
+    "insee_code": "44120",
+    "commune_name": "Le Pellerin"
+  },
+  "44640|Rouans": {
+    "insee_code": "44145",
+    "commune_name": "Rouans"
+  },
+  "44640|Saint-Jean-de-Boiseau": {
+    "insee_code": "44166",
+    "commune_name": "Saint-Jean-de-Boiseau"
+  },
+  "44640|Vue": {
+    "insee_code": "44220",
+    "commune_name": "Vue"
+  },
+  "44650|Corcoué-sur-Logne": {
+    "insee_code": "44156",
+    "commune_name": "Corcoué-sur-Logne"
+  },
+  "44650|Legé": {
+    "insee_code": "44081",
+    "commune_name": "Legé"
+  },
+  "44650|Touvois": {
+    "insee_code": "44206",
+    "commune_name": "Touvois"
+  },
+  "44660|Fercé": {
+    "insee_code": "44058",
+    "commune_name": "Fercé"
+  },
+  "44660|Rougé": {
+    "insee_code": "44146",
+    "commune_name": "Rougé"
+  },
+  "44660|Ruffigné": {
+    "insee_code": "44148",
+    "commune_name": "Ruffigné"
+  },
+  "44660|Soulvache": {
+    "insee_code": "44200",
+    "commune_name": "Soulvache"
+  },
+  "44670|Juigné-des-Moutiers": {
+    "insee_code": "44078",
+    "commune_name": "Juigné-des-Moutiers"
+  },
+  "44670|La Chapelle-Glain": {
+    "insee_code": "44031",
+    "commune_name": "La Chapelle-Glain"
+  },
+  "44670|Petit-Auverné": {
+    "insee_code": "44121",
+    "commune_name": "Petit-Auverné"
+  },
+  "44670|Saint-Julien-de-Vouvantes": {
+    "insee_code": "44170",
+    "commune_name": "Saint-Julien-de-Vouvantes"
+  },
+  "44680|Chaumes-en-Retz": {
+    "insee_code": "44005",
+    "commune_name": "Chaumes-en-Retz"
+  },
+  "44680|Saint-Hilaire-de-Chaléons": {
+    "insee_code": "44164",
+    "commune_name": "Saint-Hilaire-de-Chaléons"
+  },
+  "44680|Saint-Mars-de-Coutais": {
+    "insee_code": "44178",
+    "commune_name": "Saint-Mars-de-Coutais"
+  },
+  "44680|Sainte-Pazanne": {
+    "insee_code": "44186",
+    "commune_name": "Sainte-Pazanne"
+  },
+  "44690|Château-Thébaud": {
+    "insee_code": "44037",
+    "commune_name": "Château-Thébaud"
+  },
+  "44690|La Haie-Fouassière": {
+    "insee_code": "44070",
+    "commune_name": "La Haie-Fouassière"
+  },
+  "44690|Maisdon-sur-Sèvre": {
+    "insee_code": "44088",
+    "commune_name": "Maisdon-sur-Sèvre"
+  },
+  "44690|Monnières": {
+    "insee_code": "44100",
+    "commune_name": "Monnières"
+  },
+  "44690|Saint-Fiacre-sur-Maine": {
+    "insee_code": "44159",
+    "commune_name": "Saint-Fiacre-sur-Maine"
+  },
+  "44700|Orvault": {
+    "insee_code": "44114",
+    "commune_name": "Orvault"
+  },
+  "44710|Port-Saint-Père": {
+    "insee_code": "44133",
+    "commune_name": "Port-Saint-Père"
+  },
+  "44710|Saint-Léger-les-Vignes": {
+    "insee_code": "44171",
+    "commune_name": "Saint-Léger-les-Vignes"
+  },
+  "44720|Saint-Joachim": {
+    "insee_code": "44168",
+    "commune_name": "Saint-Joachim"
+  },
+  "44730|Saint-Michel-Chef-Chef": {
+    "insee_code": "44182",
+    "commune_name": "Saint-Michel-Chef-Chef"
+  },
+  "44740|Batz-sur-Mer": {
+    "insee_code": "44010",
+    "commune_name": "Batz-sur-Mer"
+  },
+  "44750|Campbon": {
+    "insee_code": "44025",
+    "commune_name": "Campbon"
+  },
+  "44750|Quilly": {
+    "insee_code": "44139",
+    "commune_name": "Quilly"
+  },
+  "44760|La Bernerie-en-Retz": {
+    "insee_code": "44012",
+    "commune_name": "La Bernerie-en-Retz"
+  },
+  "44760|Les Moutiers-en-Retz": {
+    "insee_code": "44106",
+    "commune_name": "Les Moutiers-en-Retz"
+  },
+  "44770|La Plaine-sur-Mer": {
+    "insee_code": "44126",
+    "commune_name": "La Plaine-sur-Mer"
+  },
+  "44770|Préfailles": {
+    "insee_code": "44136",
+    "commune_name": "Préfailles"
+  },
+  "44780|Missillac": {
+    "insee_code": "44098",
+    "commune_name": "Missillac"
+  },
+  "44800|Saint-Herblain": {
+    "insee_code": "44162",
+    "commune_name": "Saint-Herblain"
+  },
+  "44810|Héric": {
+    "insee_code": "44073",
+    "commune_name": "Héric"
+  },
+  "44810|La Chevallerais": {
+    "insee_code": "44221",
+    "commune_name": "La Chevallerais"
+  },
+  "44830|Bouaye": {
+    "insee_code": "44018",
+    "commune_name": "Bouaye"
+  },
+  "44830|Brains": {
+    "insee_code": "44024",
+    "commune_name": "Brains"
+  },
+  "44840|Les Sorinières": {
+    "insee_code": "44198",
+    "commune_name": "Les Sorinières"
+  },
+  "44850|Le Cellier": {
+    "insee_code": "44028",
+    "commune_name": "Le Cellier"
+  },
+  "44850|Ligné": {
+    "insee_code": "44082",
+    "commune_name": "Ligné"
+  },
+  "44850|Mouzeil": {
+    "insee_code": "44107",
+    "commune_name": "Mouzeil"
+  },
+  "44850|Saint-Mars-du-Désert": {
+    "insee_code": "44179",
+    "commune_name": "Saint-Mars-du-Désert"
+  },
+  "44860|Pont-Saint-Martin": {
+    "insee_code": "44130",
+    "commune_name": "Pont-Saint-Martin"
+  },
+  "44860|Saint-Aignan-Grandlieu": {
+    "insee_code": "44150",
+    "commune_name": "Saint-Aignan-Grandlieu"
+  },
+  "44880|Sautron": {
+    "insee_code": "44194",
+    "commune_name": "Sautron"
+  },
+  "44980|Sainte-Luce-sur-Loire": {
+    "insee_code": "44172",
+    "commune_name": "Sainte-Luce-sur-Loire"
+  },
+  "49000|Angers": {
+    "insee_code": "49007",
+    "commune_name": "Angers"
+  },
+  "49000|Ecouflant": {
+    "insee_code": "49007",
+    "commune_name": "Angers"
+  },
+  "49070|Beaucouzé": {
+    "insee_code": "49020",
+    "commune_name": "Beaucouzé"
+  },
+  "49070|Saint-Lambert-la-Potherie": {
+    "insee_code": "49294",
+    "commune_name": "Saint-Lambert-la-Potherie"
+  },
+  "49070|Saint-Léger-de-Linières": {
+    "insee_code": "49298",
+    "commune_name": "Saint-Léger-de-Linières"
+  },
+  "49080|Bouchemaine": {
+    "insee_code": "49035",
+    "commune_name": "Bouchemaine"
+  },
+  "49100|Angers": {
+    "insee_code": "49007",
+    "commune_name": "Angers"
+  },
+  "49110|Beaupréau-en-Mauges": {
+    "insee_code": "49023",
+    "commune_name": "Beaupréau-en-Mauges"
+  },
+  "49110|Mauges-sur-Loire": {
+    "insee_code": "49244",
+    "commune_name": "Mauges-sur-Loire"
+  },
+  "49110|Montrevault-sur-Evre": {
+    "insee_code": "49023",
+    "commune_name": "Beaupréau-en-Mauges"
+  },
+  "49112|Verrières-en-Anjou": {
+    "insee_code": "49323",
+    "commune_name": "Verrières-en-Anjou"
+  },
+  "49120|Chemillé-en-Anjou": {
+    "insee_code": "49092",
+    "commune_name": "Chemillé-en-Anjou"
+  },
+  "49122|Bégrolles-en-Mauges": {
+    "insee_code": "49027",
+    "commune_name": "Bégrolles-en-Mauges"
+  },
+  "49122|Le May-sur-Evre": {
+    "insee_code": "49027",
+    "commune_name": "Bégrolles-en-Mauges"
+  },
+  "49123|Champtocé-sur-Loire": {
+    "insee_code": "49068",
+    "commune_name": "Champtocé-sur-Loire"
+  },
+  "49123|Ingrandes-Le Fresne sur Loire": {
+    "insee_code": "49068",
+    "commune_name": "Champtocé-sur-Loire"
+  },
+  "49123|Ingrandes-le-Fresne-sur-Loire": {
+    "insee_code": "49160",
+    "commune_name": "Ingrandes-le-Fresne-sur-Loire"
+  },
+  "49124|Le Plessis-Grammoire": {
+    "insee_code": "49241",
+    "commune_name": "Le Plessis-Grammoire"
+  },
+  "49124|Saint-Barthélemy-d'Anjou": {
+    "insee_code": "49267",
+    "commune_name": "Saint-Barthélemy-d'Anjou"
+  },
+  "49125|Briollay": {
+    "insee_code": "49048",
+    "commune_name": "Briollay"
+  },
+  "49125|Cheffes": {
+    "insee_code": "49090",
+    "commune_name": "Cheffes"
+  },
+  "49125|Tiercé": {
+    "insee_code": "49347",
+    "commune_name": "Tiercé"
+  },
+  "49130|Les Ponts-de-Cé": {
+    "insee_code": "49246",
+    "commune_name": "Les Ponts-de-Cé"
+  },
+  "49130|Sainte-Gemmes-sur-Loire": {
+    "insee_code": "49278",
+    "commune_name": "Sainte-Gemmes-sur-Loire"
+  },
+  "49140|Cornillé-les-Caves": {
+    "insee_code": "49107",
+    "commune_name": "Cornillé-les-Caves"
+  },
+  "49140|Corzé": {
+    "insee_code": "49110",
+    "commune_name": "Corzé"
+  },
+  "49140|Jarzé Villages": {
+    "insee_code": "49163",
+    "commune_name": "Jarzé Villages"
+  },
+  "49140|La Chapelle-Saint-Laud": {
+    "insee_code": "49076",
+    "commune_name": "La Chapelle-Saint-Laud"
+  },
+  "49140|Loire-Authion": {
+    "insee_code": "49307",
+    "commune_name": "Loire-Authion"
+  },
+  "49140|Marcé": {
+    "insee_code": "49188",
+    "commune_name": "Marcé"
+  },
+  "49140|Rives-du-Loir-en-Anjou": {
+    "insee_code": "49377",
+    "commune_name": "Rives-du-Loir-en-Anjou"
+  },
+  "49140|Seiches-sur-le-Loir": {
+    "insee_code": "49333",
+    "commune_name": "Seiches-sur-le-Loir"
+  },
+  "49140|Sermaise": {
+    "insee_code": "49334",
+    "commune_name": "Sermaise"
+  },
+  "49150|Baugé-en-Anjou": {
+    "insee_code": "49018",
+    "commune_name": "Baugé-en-Anjou"
+  },
+  "49160|Blou": {
+    "insee_code": "49030",
+    "commune_name": "Blou"
+  },
+  "49160|Gennes-Val-de-Loire": {
+    "insee_code": "49261",
+    "commune_name": "Gennes-Val-de-Loire"
+  },
+  "49160|Longué-Jumelles": {
+    "insee_code": "49180",
+    "commune_name": "Longué-Jumelles"
+  },
+  "49160|Saint-Philbert-du-Peuple": {
+    "insee_code": "49311",
+    "commune_name": "Saint-Philbert-du-Peuple"
+  },
+  "49170|La Possonnière": {
+    "insee_code": "49247",
+    "commune_name": "La Possonnière"
+  },
+  "49170|Saint-Augustin-des-Bois": {
+    "insee_code": "49266",
+    "commune_name": "Saint-Augustin-des-Bois"
+  },
+  "49170|Saint-Georges-sur-Loire": {
+    "insee_code": "49283",
+    "commune_name": "Saint-Georges-sur-Loire"
+  },
+  "49170|Saint-Germain-des-Prés": {
+    "insee_code": "49284",
+    "commune_name": "Saint-Germain-des-Prés"
+  },
+  "49170|Saint-Léger-de-Linières": {
+    "insee_code": "49298",
+    "commune_name": "Saint-Léger-de-Linières"
+  },
+  "49170|Saint-Martin-du-Fouilloux": {
+    "insee_code": "49306",
+    "commune_name": "Saint-Martin-du-Fouilloux"
+  },
+  "49170|Savennières": {
+    "insee_code": "49329",
+    "commune_name": "Savennières"
+  },
+  "49190|Denée": {
+    "insee_code": "49120",
+    "commune_name": "Denée"
+  },
+  "49190|Rochefort-sur-Loire": {
+    "insee_code": "49259",
+    "commune_name": "Rochefort-sur-Loire"
+  },
+  "49190|Val-du-Layon": {
+    "insee_code": "49292",
+    "commune_name": "Val-du-Layon"
+  },
+  "49220|Chambellay": {
+    "insee_code": "49064",
+    "commune_name": "Chambellay"
+  },
+  "49220|Erdre-en-Anjou": {
+    "insee_code": "49367",
+    "commune_name": "Erdre-en-Anjou"
+  },
+  "49220|Grez-Neuville": {
+    "insee_code": "49155",
+    "commune_name": "Grez-Neuville"
+  },
+  "49220|La Jaille-Yvon": {
+    "insee_code": "49161",
+    "commune_name": "La Jaille-Yvon"
+  },
+  "49220|Le Lion-d'Angers": {
+    "insee_code": "49176",
+    "commune_name": "Le Lion-d'Angers"
+  },
+  "49220|Montreuil-sur-Maine": {
+    "insee_code": "49217",
+    "commune_name": "Montreuil-sur-Maine"
+  },
+  "49220|Thorigné-d'Anjou": {
+    "insee_code": "49344",
+    "commune_name": "Thorigné-d'Anjou"
+  },
+  "49230|Sèvremoine": {
+    "insee_code": "49301",
+    "commune_name": "Sèvremoine"
+  },
+  "49240|Avrillé": {
+    "insee_code": "49015",
+    "commune_name": "Avrillé"
+  },
+  "49250|Beaufort-en-Anjou": {
+    "insee_code": "49021",
+    "commune_name": "Beaufort-en-Anjou"
+  },
+  "49250|Brissac Loire Aubance": {
+    "insee_code": "49050",
+    "commune_name": "Brissac Loire Aubance"
+  },
+  "49250|La Ménitré": {
+    "insee_code": "49201",
+    "commune_name": "La Ménitré"
+  },
+  "49250|Les Bois d'Anjou": {
+    "insee_code": "49138",
+    "commune_name": "Les Bois d'Anjou"
+  },
+  "49250|Loire-Authion": {
+    "insee_code": "49307",
+    "commune_name": "Loire-Authion"
+  },
+  "49260|Antoigné": {
+    "insee_code": "49009",
+    "commune_name": "Antoigné"
+  },
+  "49260|Bellevigne-les-Châteaux": {
+    "insee_code": "49060",
+    "commune_name": "Bellevigne-les-Châteaux"
+  },
+  "49260|Courchamps": {
+    "insee_code": "49113",
+    "commune_name": "Courchamps"
+  },
+  "49260|Epieds": {
+    "insee_code": "49009",
+    "commune_name": "Antoigné"
+  },
+  "49260|Le Coudray-Macouard": {
+    "insee_code": "49112",
+    "commune_name": "Le Coudray-Macouard"
+  },
+  "49260|Le Puy-Notre-Dame": {
+    "insee_code": "49253",
+    "commune_name": "Le Puy-Notre-Dame"
+  },
+  "49260|Montreuil-Bellay": {
+    "insee_code": "49215",
+    "commune_name": "Montreuil-Bellay"
+  },
+  "49260|Saint-Macaire-du-Bois": {
+    "insee_code": "49302",
+    "commune_name": "Saint-Macaire-du-Bois"
+  },
+  "49260|Vaudelnay": {
+    "insee_code": "49364",
+    "commune_name": "Vaudelnay"
+  },
+  "49270|Montrevault-sur-Evre": {
+    "insee_code": "49218",
+    "commune_name": "Montrevault-sur-Èvre"
+  },
+  "49270|Orée d'Anjou": {
+    "insee_code": "49218",
+    "commune_name": "Montrevault-sur-Èvre"
+  },
+  "49280|La Séguinière": {
+    "insee_code": "49332",
+    "commune_name": "La Séguinière"
+  },
+  "49280|La Tessoualle": {
+    "insee_code": "49343",
+    "commune_name": "La Tessoualle"
+  },
+  "49280|Mazières-en-Mauges": {
+    "insee_code": "49195",
+    "commune_name": "Mazières-en-Mauges"
+  },
+  "49280|Saint-Christophe-du-Bois": {
+    "insee_code": "49269",
+    "commune_name": "Saint-Christophe-du-Bois"
+  },
+  "49280|Saint-Léger-sous-Cholet": {
+    "insee_code": "49299",
+    "commune_name": "Saint-Léger-sous-Cholet"
+  },
+  "49290|Chalonnes-sur-Loire": {
+    "insee_code": "49063",
+    "commune_name": "Chalonnes-sur-Loire"
+  },
+  "49290|Chaudefonds-sur-Layon": {
+    "insee_code": "49082",
+    "commune_name": "Chaudefonds-sur-Layon"
+  },
+  "49290|Mauges-sur-Loire": {
+    "insee_code": "49244",
+    "commune_name": "Mauges-sur-Loire"
+  },
+  "49300|Cholet": {
+    "insee_code": "49099",
+    "commune_name": "Cholet"
+  },
+  "49310|Cernusson": {
+    "insee_code": "49057",
+    "commune_name": "Cernusson"
+  },
+  "49310|Chemillé-en-Anjou": {
+    "insee_code": "49092",
+    "commune_name": "Chemillé-en-Anjou"
+  },
+  "49310|Lys-Haut-Layon": {
+    "insee_code": "49373",
+    "commune_name": "Lys-Haut-Layon"
+  },
+  "49310|Montilliers": {
+    "insee_code": "49211",
+    "commune_name": "Montilliers"
+  },
+  "49310|Saint-Paul-du-Bois": {
+    "insee_code": "49310",
+    "commune_name": "Saint-Paul-du-Bois"
+  },
+  "49320|Blaison-Saint-Sulpice": {
+    "insee_code": "49029",
+    "commune_name": "Blaison-Saint-Sulpice"
+  },
+  "49320|Brissac Loire Aubance": {
+    "insee_code": "49050",
+    "commune_name": "Brissac Loire Aubance"
+  },
+  "49320|Gennes-Val-de-Loire": {
+    "insee_code": "49261",
+    "commune_name": "Gennes-Val-de-Loire"
+  },
+  "49320|Les Garennes sur Loire": {
+    "insee_code": "49167",
+    "commune_name": "Les Garennes sur Loire"
+  },
+  "49330|Etriché": {
+    "insee_code": "49080",
+    "commune_name": "Les Hauts-d'Anjou"
+  },
+  "49330|Juvardeil": {
+    "insee_code": "49170",
+    "commune_name": "Juvardeil"
+  },
+  "49330|Les Hauts-d'Anjou": {
+    "insee_code": "49080",
+    "commune_name": "Les Hauts-d'Anjou"
+  },
+  "49330|Miré": {
+    "insee_code": "49205",
+    "commune_name": "Miré"
+  },
+  "49330|Sceaux-d'Anjou": {
+    "insee_code": "49330",
+    "commune_name": "Sceaux-d'Anjou"
+  },
+  "49340|Chanteloup-les-Bois": {
+    "insee_code": "49070",
+    "commune_name": "Chanteloup-les-Bois"
+  },
+  "49340|Nuaillé": {
+    "insee_code": "49231",
+    "commune_name": "Nuaillé"
+  },
+  "49340|Trémentines": {
+    "insee_code": "49355",
+    "commune_name": "Trémentines"
+  },
+  "49340|Vezins": {
+    "insee_code": "49371",
+    "commune_name": "Vezins"
+  },
+  "49350|Gennes-Val-de-Loire": {
+    "insee_code": "49261",
+    "commune_name": "Gennes-Val-de-Loire"
+  },
+  "49350|Saint-Clément-des-Levées": {
+    "insee_code": "49272",
+    "commune_name": "Saint-Clément-des-Levées"
+  },
+  "49360|La Plaine": {
+    "insee_code": "49240",
+    "commune_name": "La Plaine"
+  },
+  "49360|Les Cerqueux": {
+    "insee_code": "49058",
+    "commune_name": "Les Cerqueux"
+  },
+  "49360|Maulévrier": {
+    "insee_code": "49192",
+    "commune_name": "Maulévrier"
+  },
+  "49360|Somloire": {
+    "insee_code": "49336",
+    "commune_name": "Somloire"
+  },
+  "49360|Toutlemonde": {
+    "insee_code": "49352",
+    "commune_name": "Toutlemonde"
+  },
+  "49360|Yzernay": {
+    "insee_code": "49381",
+    "commune_name": "Yzernay"
+  },
+  "49370|Bécon-les-Granits": {
+    "insee_code": "49026",
+    "commune_name": "Bécon-les-Granits"
+  },
+  "49370|Erdre-en-Anjou": {
+    "insee_code": "49367",
+    "commune_name": "Erdre-en-Anjou"
+  },
+  "49370|Saint-Clément-de-la-Place": {
+    "insee_code": "49271",
+    "commune_name": "Saint-Clément-de-la-Place"
+  },
+  "49370|Val d'Erdre-Auxence": {
+    "insee_code": "49183",
+    "commune_name": "Val d'Erdre-Auxence"
+  },
+  "49380|Bellevigne-en-Layon": {
+    "insee_code": "49345",
+    "commune_name": "Bellevigne-en-Layon"
+  },
+  "49380|Terranjou": {
+    "insee_code": "49086",
+    "commune_name": "Terranjou"
+  },
+  "49390|La Breille-les-Pins": {
+    "insee_code": "49045",
+    "commune_name": "La Breille-les-Pins"
+  },
+  "49390|Mouliherne": {
+    "insee_code": "49221",
+    "commune_name": "Mouliherne"
+  },
+  "49390|Noyant-Villages": {
+    "insee_code": "49228",
+    "commune_name": "Noyant-Villages"
+  },
+  "49390|Vernantes": {
+    "insee_code": "49368",
+    "commune_name": "Vernantes"
+  },
+  "49390|Vernoil-le-Fourrier": {
+    "insee_code": "49369",
+    "commune_name": "Vernoil-le-Fourrier"
+  },
+  "49400|Bellevigne-les-Châteaux": {
+    "insee_code": "49060",
+    "commune_name": "Bellevigne-les-Châteaux"
+  },
+  "49400|Distré": {
+    "insee_code": "49123",
+    "commune_name": "Distré"
+  },
+  "49400|Rou-Marson": {
+    "insee_code": "49262",
+    "commune_name": "Rou-Marson"
+  },
+  "49400|Saumur": {
+    "insee_code": "49328",
+    "commune_name": "Saumur"
+  },
+  "49400|Souzay-Champigny": {
+    "insee_code": "49341",
+    "commune_name": "Souzay-Champigny"
+  },
+  "49400|Varrains": {
+    "insee_code": "49362",
+    "commune_name": "Varrains"
+  },
+  "49400|Verrie": {
+    "insee_code": "49370",
+    "commune_name": "Verrie"
+  },
+  "49400|Villebernier": {
+    "insee_code": "49374",
+    "commune_name": "Villebernier"
+  },
+  "49410|Mauges-sur-Loire": {
+    "insee_code": "49244",
+    "commune_name": "Mauges-sur-Loire"
+  },
+  "49420|Armaillé": {
+    "insee_code": "49010",
+    "commune_name": "Armaillé"
+  },
+  "49420|Carbay": {
+    "insee_code": "49056",
+    "commune_name": "Carbay"
+  },
+  "49420|Ombrée d'Anjou": {
+    "insee_code": "49248",
+    "commune_name": "Ombrée d'Anjou"
+  },
+  "49430|Durtal": {
+    "insee_code": "49127",
+    "commune_name": "Durtal"
+  },
+  "49430|Huillé-Lézigné": {
+    "insee_code": "49174",
+    "commune_name": "Huillé-Lézigné"
+  },
+  "49430|Les Rairies": {
+    "insee_code": "49257",
+    "commune_name": "Les Rairies"
+  },
+  "49440|Angrie": {
+    "insee_code": "49008",
+    "commune_name": "Angrie"
+  },
+  "49440|Candé": {
+    "insee_code": "49054",
+    "commune_name": "Candé"
+  },
+  "49440|Challain-la-Potherie": {
+    "insee_code": "49061",
+    "commune_name": "Challain-la-Potherie"
+  },
+  "49440|Loiré": {
+    "insee_code": "49178",
+    "commune_name": "Loiré"
+  },
+  "49450|Beaupréau-en-Mauges": {
+    "insee_code": "49023",
+    "commune_name": "Beaupréau-en-Mauges"
+  },
+  "49450|Sèvremoine": {
+    "insee_code": "49301",
+    "commune_name": "Sèvremoine"
+  },
+  "49460|Cantenay-Epinard": {
+    "insee_code": "49055",
+    "commune_name": "Cantenay-Épinard"
+  },
+  "49460|Ecuillé": {
+    "insee_code": "49055",
+    "commune_name": "Cantenay-Épinard"
+  },
+  "49460|Feneu": {
+    "insee_code": "49135",
+    "commune_name": "Feneu"
+  },
+  "49460|Montreuil-Juigné": {
+    "insee_code": "49214",
+    "commune_name": "Montreuil-Juigné"
+  },
+  "49460|Soulaire-et-Bourg": {
+    "insee_code": "49339",
+    "commune_name": "Soulaire-et-Bourg"
+  },
+  "49480|Verrières-en-Anjou": {
+    "insee_code": "49323",
+    "commune_name": "Verrières-en-Anjou"
+  },
+  "49490|Noyant-Villages": {
+    "insee_code": "49228",
+    "commune_name": "Noyant-Villages"
+  },
+  "49500|Chazé-sur-Argos": {
+    "insee_code": "49089",
+    "commune_name": "Chazé-sur-Argos"
+  },
+  "49500|Segré-en-Anjou Bleu": {
+    "insee_code": "49331",
+    "commune_name": "Segré-en-Anjou Bleu"
+  },
+  "49500|Segré-en-Anjou-Bleu": {
+    "insee_code": "49089",
+    "commune_name": "Chazé-sur-Argos"
+  },
+  "49510|Beaupréau-en-Mauges": {
+    "insee_code": "49023",
+    "commune_name": "Beaupréau-en-Mauges"
+  },
+  "49520|Bouillé-Ménard": {
+    "insee_code": "49036",
+    "commune_name": "Bouillé-Ménard"
+  },
+  "49520|Bourg-l'Evêque": {
+    "insee_code": "49036",
+    "commune_name": "Bouillé-Ménard"
+  },
+  "49520|Ombrée d'Anjou": {
+    "insee_code": "49248",
+    "commune_name": "Ombrée d'Anjou"
+  },
+  "49520|Segré-en-Anjou Bleu": {
+    "insee_code": "49331",
+    "commune_name": "Segré-en-Anjou Bleu"
+  },
+  "49530|Orée d'Anjou": {
+    "insee_code": "49126",
+    "commune_name": "Orée d'Anjou"
+  },
+  "49540|Aubigné-sur-Layon": {
+    "insee_code": "49012",
+    "commune_name": "Aubigné-sur-Layon"
+  },
+  "49540|Lys-Haut-Layon": {
+    "insee_code": "49373",
+    "commune_name": "Lys-Haut-Layon"
+  },
+  "49540|Terranjou": {
+    "insee_code": "49086",
+    "commune_name": "Terranjou"
+  },
+  "49560|Cléré-sur-Layon": {
+    "insee_code": "49102",
+    "commune_name": "Cléré-sur-Layon"
+  },
+  "49560|Lys-Haut-Layon": {
+    "insee_code": "49373",
+    "commune_name": "Lys-Haut-Layon"
+  },
+  "49570|Mauges-sur-Loire": {
+    "insee_code": "49244",
+    "commune_name": "Mauges-sur-Loire"
+  },
+  "49590|Fontevraud-l'Abbaye": {
+    "insee_code": "49140",
+    "commune_name": "Fontevraud-l'Abbaye"
+  },
+  "49600|Beaupréau-en-Mauges": {
+    "insee_code": "49023",
+    "commune_name": "Beaupréau-en-Mauges"
+  },
+  "49600|Montrevault-sur-Evre": {
+    "insee_code": "49023",
+    "commune_name": "Beaupréau-en-Mauges"
+  },
+  "49610|Les Garennes sur Loire": {
+    "insee_code": "49167",
+    "commune_name": "Les Garennes sur Loire"
+  },
+  "49610|Mozé-sur-Louet": {
+    "insee_code": "49222",
+    "commune_name": "Mozé-sur-Louet"
+  },
+  "49610|Mûrs-Erigné": {
+    "insee_code": "49223",
+    "commune_name": "Mûrs-Erigné"
+  },
+  "49610|Saint-Melaine-sur-Aubance": {
+    "insee_code": "49308",
+    "commune_name": "Saint-Melaine-sur-Aubance"
+  },
+  "49610|Soulaines-sur-Aubance": {
+    "insee_code": "49338",
+    "commune_name": "Soulaines-sur-Aubance"
+  },
+  "49620|Mauges-sur-Loire": {
+    "insee_code": "49244",
+    "commune_name": "Mauges-sur-Loire"
+  },
+  "49630|Loire-Authion": {
+    "insee_code": "49307",
+    "commune_name": "Loire-Authion"
+  },
+  "49630|Mazé-Milon": {
+    "insee_code": "49194",
+    "commune_name": "Mazé-Milon"
+  },
+  "49640|Morannes sur Sarthe-Daumeray": {
+    "insee_code": "49220",
+    "commune_name": "Morannes sur Sarthe-Daumeray"
+  },
+  "49650|Allonnes": {
+    "insee_code": "49002",
+    "commune_name": "Allonnes"
+  },
+  "49650|Brain-sur-Allonnes": {
+    "insee_code": "49041",
+    "commune_name": "Brain-sur-Allonnes"
+  },
+  "49660|Sèvremoine": {
+    "insee_code": "49301",
+    "commune_name": "Sèvremoine"
+  },
+  "49670|Chemillé-en-Anjou": {
+    "insee_code": "49092",
+    "commune_name": "Chemillé-en-Anjou"
+  },
+  "49680|Neuillé": {
+    "insee_code": "49224",
+    "commune_name": "Neuillé"
+  },
+  "49680|Vivy": {
+    "insee_code": "49378",
+    "commune_name": "Vivy"
+  },
+  "49690|Coron": {
+    "insee_code": "49109",
+    "commune_name": "Coron"
+  },
+  "49700|Cizay-la-Madeleine": {
+    "insee_code": "49100",
+    "commune_name": "Cizay-la-Madeleine"
+  },
+  "49700|Doué-en-Anjou": {
+    "insee_code": "49125",
+    "commune_name": "Doué-en-Anjou"
+  },
+  "49700|Dénezé-sous-Doué": {
+    "insee_code": "49121",
+    "commune_name": "Dénezé-sous-Doué"
+  },
+  "49700|Les Ulmes": {
+    "insee_code": "49359",
+    "commune_name": "Les Ulmes"
+  },
+  "49700|Louresse-Rochemenier": {
+    "insee_code": "49182",
+    "commune_name": "Louresse-Rochemenier"
+  },
+  "49700|Tuffalun": {
+    "insee_code": "49003",
+    "commune_name": "Tuffalun"
+  },
+  "49710|Sèvremoine": {
+    "insee_code": "49301",
+    "commune_name": "Sèvremoine"
+  },
+  "49730|Montsoreau": {
+    "insee_code": "49219",
+    "commune_name": "Montsoreau"
+  },
+  "49730|Varennes-sur-Loire": {
+    "insee_code": "49361",
+    "commune_name": "Varennes-sur-Loire"
+  },
+  "49740|La Romagne": {
+    "insee_code": "49260",
+    "commune_name": "La Romagne"
+  },
+  "49750|Beaulieu-sur-Layon": {
+    "insee_code": "49022",
+    "commune_name": "Beaulieu-sur-Layon"
+  },
+  "49750|Bellevigne-en-Layon": {
+    "insee_code": "49345",
+    "commune_name": "Bellevigne-en-Layon"
+  },
+  "49750|Chemillé-en-Anjou": {
+    "insee_code": "49092",
+    "commune_name": "Chemillé-en-Anjou"
+  },
+  "49750|Val-du-Layon": {
+    "insee_code": "49292",
+    "commune_name": "Val-du-Layon"
+  },
+  "49770|Longuenée-en-Anjou": {
+    "insee_code": "49200",
+    "commune_name": "Longuenée-en-Anjou"
+  },
+  "49800|Loire-Authion": {
+    "insee_code": "49307",
+    "commune_name": "Loire-Authion"
+  },
+  "49800|Sarrigné": {
+    "insee_code": "49326",
+    "commune_name": "Sarrigné"
+  },
+  "49800|Trélazé": {
+    "insee_code": "49353",
+    "commune_name": "Trélazé"
+  },
+  "53000|Laval": {
+    "insee_code": "53130",
+    "commune_name": "Laval"
+  },
+  "53100|Châtillon-sur-Colmont": {
+    "insee_code": "53064",
+    "commune_name": "Châtillon-sur-Colmont"
+  },
+  "53100|Contest": {
+    "insee_code": "53074",
+    "commune_name": "Contest"
+  },
+  "53100|Mayenne": {
+    "insee_code": "53147",
+    "commune_name": "Mayenne"
+  },
+  "53100|Moulay": {
+    "insee_code": "53162",
+    "commune_name": "Moulay"
+  },
+  "53100|Saint-Baudelle": {
+    "insee_code": "53200",
+    "commune_name": "Saint-Baudelle"
+  },
+  "53100|Saint-Georges-Buttavent": {
+    "insee_code": "53219",
+    "commune_name": "Saint-Georges-Buttavent"
+  },
+  "53110|Lassay-les-Châteaux": {
+    "insee_code": "53127",
+    "commune_name": "Lassay-les-Châteaux"
+  },
+  "53120|Brecé": {
+    "insee_code": "53042",
+    "commune_name": "Brecé"
+  },
+  "53120|Carelles": {
+    "insee_code": "53047",
+    "commune_name": "Carelles"
+  },
+  "53120|Gorron": {
+    "insee_code": "53107",
+    "commune_name": "Gorron"
+  },
+  "53120|Levaré": {
+    "insee_code": "53132",
+    "commune_name": "Levaré"
+  },
+  "53140|Lignières-Orgères": {
+    "insee_code": "53133",
+    "commune_name": "Lignières-Orgères"
+  },
+  "53140|Pré-en-Pail Saint-Samson": {
+    "insee_code": "53133",
+    "commune_name": "Lignières-Orgères"
+  },
+  "53140|Pré-en-Pail-Saint-Samson": {
+    "insee_code": "53185",
+    "commune_name": "Pré-en-Pail-Saint-Samson"
+  },
+  "53140|Saint-Calais-du-Désert": {
+    "insee_code": "53204",
+    "commune_name": "Saint-Calais-du-Désert"
+  },
+  "53140|Saint-Cyr-en-Pail": {
+    "insee_code": "53208",
+    "commune_name": "Saint-Cyr-en-Pail"
+  },
+  "53150|Brée": {
+    "insee_code": "53043",
+    "commune_name": "Brée"
+  },
+  "53150|Evron": {
+    "insee_code": "53043",
+    "commune_name": "Brée"
+  },
+  "53150|Montsûrs": {
+    "insee_code": "53161",
+    "commune_name": "Montsûrs"
+  },
+  "53150|Neau": {
+    "insee_code": "53163",
+    "commune_name": "Neau"
+  },
+  "53160|Bais": {
+    "insee_code": "53016",
+    "commune_name": "Bais"
+  },
+  "53160|Champgenéteux": {
+    "insee_code": "53053",
+    "commune_name": "Champgenéteux"
+  },
+  "53160|Hambers": {
+    "insee_code": "53113",
+    "commune_name": "Hambers"
+  },
+  "53160|Izé": {
+    "insee_code": "53120",
+    "commune_name": "Izé"
+  },
+  "53160|Jublains": {
+    "insee_code": "53122",
+    "commune_name": "Jublains"
+  },
+  "53160|Trans": {
+    "insee_code": "53266",
+    "commune_name": "Trans"
+  },
+  "53160|Vimartin-sur-Orthe": {
+    "insee_code": "53249",
+    "commune_name": "Vimartin-sur-Orthe"
+  },
+  "53170|Arquenay": {
+    "insee_code": "53009",
+    "commune_name": "Arquenay"
+  },
+  "53170|Bazougers": {
+    "insee_code": "53025",
+    "commune_name": "Bazougers"
+  },
+  "53170|La Bazouge-de-Chemeré": {
+    "insee_code": "53022",
+    "commune_name": "La Bazouge-de-Chemeré"
+  },
+  "53170|Le Bignon-du-Maine": {
+    "insee_code": "53030",
+    "commune_name": "Le Bignon-du-Maine"
+  },
+  "53170|Le Buret": {
+    "insee_code": "53046",
+    "commune_name": "Le Buret"
+  },
+  "53170|Maisoncelles-du-Maine": {
+    "insee_code": "53143",
+    "commune_name": "Maisoncelles-du-Maine"
+  },
+  "53170|Meslay-du-Maine": {
+    "insee_code": "53152",
+    "commune_name": "Meslay-du-Maine"
+  },
+  "53170|Ruillé-Froid-Fonds": {
+    "insee_code": "53193",
+    "commune_name": "Ruillé-Froid-Fonds"
+  },
+  "53170|Villiers-Charlemagne": {
+    "insee_code": "53273",
+    "commune_name": "Villiers-Charlemagne"
+  },
+  "53190|Fougerolles-du-Plessis": {
+    "insee_code": "53100",
+    "commune_name": "Fougerolles-du-Plessis"
+  },
+  "53190|Landivy": {
+    "insee_code": "53125",
+    "commune_name": "Landivy"
+  },
+  "53200|Chemazé": {
+    "insee_code": "53066",
+    "commune_name": "Chemazé"
+  },
+  "53200|Château-Gontier-sur-Mayenne": {
+    "insee_code": "53062",
+    "commune_name": "Château-Gontier-sur-Mayenne"
+  },
+  "53200|Châtelain": {
+    "insee_code": "53063",
+    "commune_name": "Châtelain"
+  },
+  "53200|Coudray": {
+    "insee_code": "53078",
+    "commune_name": "Coudray"
+  },
+  "53200|Daon": {
+    "insee_code": "53089",
+    "commune_name": "Daon"
+  },
+  "53200|Fromentières": {
+    "insee_code": "53101",
+    "commune_name": "Fromentières"
+  },
+  "53200|Gennes-Longuefuye": {
+    "insee_code": "53104",
+    "commune_name": "Gennes-Longuefuye"
+  },
+  "53200|La Roche-Neuville": {
+    "insee_code": "53136",
+    "commune_name": "La Roche-Neuville"
+  },
+  "53200|Marigné-Peuton": {
+    "insee_code": "53145",
+    "commune_name": "Marigné-Peuton"
+  },
+  "53200|Ménil": {
+    "insee_code": "53150",
+    "commune_name": "Ménil"
+  },
+  "53200|Prée-d'Anjou": {
+    "insee_code": "53124",
+    "commune_name": "Prée-d'Anjou"
+  },
+  "53210|Argentré": {
+    "insee_code": "53007",
+    "commune_name": "Argentré"
+  },
+  "53210|Louvigné": {
+    "insee_code": "53141",
+    "commune_name": "Louvigné"
+  },
+  "53210|Soulgé-sur-Ouette": {
+    "insee_code": "53262",
+    "commune_name": "Soulgé-sur-Ouette"
+  },
+  "53220|La Pellerine": {
+    "insee_code": "53177",
+    "commune_name": "La Pellerine"
+  },
+  "53220|Larchamp": {
+    "insee_code": "53126",
+    "commune_name": "Larchamp"
+  },
+  "53220|Montaudin": {
+    "insee_code": "53154",
+    "commune_name": "Montaudin"
+  },
+  "53220|Pontmain": {
+    "insee_code": "53181",
+    "commune_name": "Pontmain"
+  },
+  "53220|Saint-Berthevin-la-Tannière": {
+    "insee_code": "53202",
+    "commune_name": "Saint-Berthevin-la-Tannière"
+  },
+  "53220|Saint-Mars-sur-la-Futaie": {
+    "insee_code": "53238",
+    "commune_name": "Saint-Mars-sur-la-Futaie"
+  },
+  "53230|Astillé": {
+    "insee_code": "53011",
+    "commune_name": "Astillé"
+  },
+  "53230|Cosmes": {
+    "insee_code": "53075",
+    "commune_name": "Cosmes"
+  },
+  "53230|Cossé-le-Vivien": {
+    "insee_code": "53077",
+    "commune_name": "Cossé-le-Vivien"
+  },
+  "53230|Courbeveille": {
+    "insee_code": "53082",
+    "commune_name": "Courbeveille"
+  },
+  "53230|Méral": {
+    "insee_code": "53151",
+    "commune_name": "Méral"
+  },
+  "53240|Alexain": {
+    "insee_code": "53002",
+    "commune_name": "Alexain"
+  },
+  "53240|Andouillé": {
+    "insee_code": "53005",
+    "commune_name": "Andouillé"
+  },
+  "53240|La Baconnière": {
+    "insee_code": "53015",
+    "commune_name": "La Baconnière"
+  },
+  "53240|Placé": {
+    "insee_code": "53179",
+    "commune_name": "Placé"
+  },
+  "53240|Saint-Germain-d'Anxure": {
+    "insee_code": "53222",
+    "commune_name": "Saint-Germain-d'Anxure"
+  },
+  "53240|Saint-Germain-le-Fouilloux": {
+    "insee_code": "53224",
+    "commune_name": "Saint-Germain-le-Fouilloux"
+  },
+  "53240|Saint-Germain-le-Guillaume": {
+    "insee_code": "53225",
+    "commune_name": "Saint-Germain-le-Guillaume"
+  },
+  "53240|Saint-Jean-sur-Mayenne": {
+    "insee_code": "53229",
+    "commune_name": "Saint-Jean-sur-Mayenne"
+  },
+  "53250|Charchigné": {
+    "insee_code": "53061",
+    "commune_name": "Charchigné"
+  },
+  "53250|Javron-les-Chapelles": {
+    "insee_code": "53121",
+    "commune_name": "Javron-les-Chapelles"
+  },
+  "53250|Le Ham": {
+    "insee_code": "53112",
+    "commune_name": "Le Ham"
+  },
+  "53250|Neuilly-le-Vendin": {
+    "insee_code": "53164",
+    "commune_name": "Neuilly-le-Vendin"
+  },
+  "53260|Entrammes": {
+    "insee_code": "53094",
+    "commune_name": "Entrammes"
+  },
+  "53260|Forcé": {
+    "insee_code": "53099",
+    "commune_name": "Forcé"
+  },
+  "53260|Parné-sur-Roc": {
+    "insee_code": "53175",
+    "commune_name": "Parné-sur-Roc"
+  },
+  "53270|Blandouet-Saint Jean": {
+    "insee_code": "53228",
+    "commune_name": "Blandouet-Saint Jean"
+  },
+  "53270|Sainte-Suzanne-et-Chammes": {
+    "insee_code": "53255",
+    "commune_name": "Sainte-Suzanne-et-Chammes"
+  },
+  "53270|Thorigné-en-Charnie": {
+    "insee_code": "53264",
+    "commune_name": "Thorigné-en-Charnie"
+  },
+  "53270|Torcé-Viviers-en-Charnie": {
+    "insee_code": "53265",
+    "commune_name": "Torcé-Viviers-en-Charnie"
+  },
+  "53290|Beaumont-Pied-de-Boeuf": {
+    "insee_code": "53027",
+    "commune_name": "Beaumont-Pied-de-Bœuf"
+  },
+  "53290|Bierné-les-Villages": {
+    "insee_code": "53029",
+    "commune_name": "Bierné-les-Villages"
+  },
+  "53290|Bouessay": {
+    "insee_code": "53037",
+    "commune_name": "Bouessay"
+  },
+  "53290|Bouère": {
+    "insee_code": "53036",
+    "commune_name": "Bouère"
+  },
+  "53290|Grez-en-Bouère": {
+    "insee_code": "53110",
+    "commune_name": "Grez-en-Bouère"
+  },
+  "53290|Saint-Brice": {
+    "insee_code": "53203",
+    "commune_name": "Saint-Brice"
+  },
+  "53290|Saint-Denis-d'Anjou": {
+    "insee_code": "53210",
+    "commune_name": "Saint-Denis-d'Anjou"
+  },
+  "53290|Saint-Loup-du-Dorat": {
+    "insee_code": "53233",
+    "commune_name": "Saint-Loup-du-Dorat"
+  },
+  "53300|Ambrières-les-Vallées": {
+    "insee_code": "53003",
+    "commune_name": "Ambrières-les-Vallées"
+  },
+  "53300|Chantrigné": {
+    "insee_code": "53055",
+    "commune_name": "Chantrigné"
+  },
+  "53300|La Haie-Traversaine": {
+    "insee_code": "53111",
+    "commune_name": "La Haie-Traversaine"
+  },
+  "53300|Le Pas": {
+    "insee_code": "53176",
+    "commune_name": "Le Pas"
+  },
+  "53300|Oisseau": {
+    "insee_code": "53170",
+    "commune_name": "Oisseau"
+  },
+  "53300|Saint-Fraimbault-de-Prières": {
+    "insee_code": "53216",
+    "commune_name": "Saint-Fraimbault-de-Prières"
+  },
+  "53300|Saint-Mars-sur-Colmont": {
+    "insee_code": "53237",
+    "commune_name": "Saint-Mars-sur-Colmont"
+  },
+  "53320|Beaulieu-sur-Oudon": {
+    "insee_code": "53026",
+    "commune_name": "Beaulieu-sur-Oudon"
+  },
+  "53320|Loiron-Ruillé": {
+    "insee_code": "53137",
+    "commune_name": "Loiron-Ruillé"
+  },
+  "53320|Montjean": {
+    "insee_code": "53158",
+    "commune_name": "Montjean"
+  },
+  "53340|Chémeré-le-Roi": {
+    "insee_code": "53067",
+    "commune_name": "Chémeré-le-Roi"
+  },
+  "53340|Cossé-en-Champagne": {
+    "insee_code": "53076",
+    "commune_name": "Cossé-en-Champagne"
+  },
+  "53340|Saulges": {
+    "insee_code": "53257",
+    "commune_name": "Saulges"
+  },
+  "53340|Val-du-Maine": {
+    "insee_code": "53017",
+    "commune_name": "Val-du-Maine"
+  },
+  "53350|Ballots": {
+    "insee_code": "53018",
+    "commune_name": "Ballots"
+  },
+  "53360|Houssay": {
+    "insee_code": "53117",
+    "commune_name": "Houssay"
+  },
+  "53360|Origné": {
+    "insee_code": "53172",
+    "commune_name": "Origné"
+  },
+  "53360|Quelaines-Saint-Gault": {
+    "insee_code": "53186",
+    "commune_name": "Quelaines-Saint-Gault"
+  },
+  "53360|Simplé": {
+    "insee_code": "53260",
+    "commune_name": "Simplé"
+  },
+  "53370|Gesvres": {
+    "insee_code": "53106",
+    "commune_name": "Gesvres"
+  },
+  "53370|Ravigny": {
+    "insee_code": "53187",
+    "commune_name": "Ravigny"
+  },
+  "53370|Saint-Pierre-des-Nids": {
+    "insee_code": "53246",
+    "commune_name": "Saint-Pierre-des-Nids"
+  },
+  "53380|Juvigné": {
+    "insee_code": "53123",
+    "commune_name": "Juvigné"
+  },
+  "53380|La Croixille": {
+    "insee_code": "53086",
+    "commune_name": "La Croixille"
+  },
+  "53380|Saint-Hilaire-du-Maine": {
+    "insee_code": "53226",
+    "commune_name": "Saint-Hilaire-du-Maine"
+  },
+  "53390|Saint-Aignan-sur-Roë": {
+    "insee_code": "53197",
+    "commune_name": "Saint-Aignan-sur-Roë"
+  },
+  "53390|Senonnes": {
+    "insee_code": "53259",
+    "commune_name": "Senonnes"
+  },
+  "53400|Chérancé": {
+    "insee_code": "53068",
+    "commune_name": "Chérancé"
+  },
+  "53400|Craon": {
+    "insee_code": "53084",
+    "commune_name": "Craon"
+  },
+  "53400|Livré-la-Touche": {
+    "insee_code": "53135",
+    "commune_name": "Livré-la-Touche"
+  },
+  "53400|Pommerieux": {
+    "insee_code": "53180",
+    "commune_name": "Pommerieux"
+  },
+  "53400|Saint-Quentin-les-Anges": {
+    "insee_code": "53251",
+    "commune_name": "Saint-Quentin-les-Anges"
+  },
+  "53410|Bourgon": {
+    "insee_code": "53040",
+    "commune_name": "Bourgon"
+  },
+  "53410|La Gravelle": {
+    "insee_code": "53108",
+    "commune_name": "La Gravelle"
+  },
+  "53410|Le Bourgneuf-la-Forêt": {
+    "insee_code": "53039",
+    "commune_name": "Le Bourgneuf-la-Forêt"
+  },
+  "53410|Port-Brillet": {
+    "insee_code": "53182",
+    "commune_name": "Port-Brillet"
+  },
+  "53410|Saint-Ouën-des-Toits": {
+    "insee_code": "53243",
+    "commune_name": "Saint-Ouën-des-Toits"
+  },
+  "53410|Saint-Pierre-la-Cour": {
+    "insee_code": "53247",
+    "commune_name": "Saint-Pierre-la-Cour"
+  },
+  "53420|Chailland": {
+    "insee_code": "53048",
+    "commune_name": "Chailland"
+  },
+  "53440|Aron": {
+    "insee_code": "53008",
+    "commune_name": "Aron"
+  },
+  "53440|Belgeard": {
+    "insee_code": "53028",
+    "commune_name": "Belgeard"
+  },
+  "53440|Grazay": {
+    "insee_code": "53109",
+    "commune_name": "Grazay"
+  },
+  "53440|La Bazoge-Montpinçon": {
+    "insee_code": "53021",
+    "commune_name": "La Bazoge-Montpinçon"
+  },
+  "53440|La Chapelle-au-Riboul": {
+    "insee_code": "53057",
+    "commune_name": "La Chapelle-au-Riboul"
+  },
+  "53440|Marcillé-la-Ville": {
+    "insee_code": "53144",
+    "commune_name": "Marcillé-la-Ville"
+  },
+  "53470|Châlons-du-Maine": {
+    "insee_code": "53049",
+    "commune_name": "Châlons-du-Maine"
+  },
+  "53470|Commer": {
+    "insee_code": "53072",
+    "commune_name": "Commer"
+  },
+  "53470|Martigné-sur-Mayenne": {
+    "insee_code": "53146",
+    "commune_name": "Martigné-sur-Mayenne"
+  },
+  "53470|Sacé": {
+    "insee_code": "53195",
+    "commune_name": "Sacé"
+  },
+  "53480|Saint-Georges-le-Fléchard": {
+    "insee_code": "53220",
+    "commune_name": "Saint-Georges-le-Fléchard"
+  },
+  "53480|Vaiges": {
+    "insee_code": "53267",
+    "commune_name": "Vaiges"
+  },
+  "53500|Ernée": {
+    "insee_code": "53096",
+    "commune_name": "Ernée"
+  },
+  "53500|Montenay": {
+    "insee_code": "53155",
+    "commune_name": "Montenay"
+  },
+  "53500|Saint-Denis-de-Gastines": {
+    "insee_code": "53211",
+    "commune_name": "Saint-Denis-de-Gastines"
+  },
+  "53500|Saint-Pierre-des-Landes": {
+    "insee_code": "53245",
+    "commune_name": "Saint-Pierre-des-Landes"
+  },
+  "53500|Vautorte": {
+    "insee_code": "53269",
+    "commune_name": "Vautorte"
+  },
+  "53540|Cuillé": {
+    "insee_code": "53088",
+    "commune_name": "Cuillé"
+  },
+  "53540|Laubrières": {
+    "insee_code": "53128",
+    "commune_name": "Laubrières"
+  },
+  "53540|Saint-Poix": {
+    "insee_code": "53250",
+    "commune_name": "Saint-Poix"
+  },
+  "53600|Assé-le-Bérenger": {
+    "insee_code": "53010",
+    "commune_name": "Assé-le-Bérenger"
+  },
+  "53600|Evron": {
+    "insee_code": "53010",
+    "commune_name": "Assé-le-Bérenger"
+  },
+  "53600|Mézangers": {
+    "insee_code": "53153",
+    "commune_name": "Mézangers"
+  },
+  "53600|Saint-Georges-sur-Erve": {
+    "insee_code": "53221",
+    "commune_name": "Saint-Georges-sur-Erve"
+  },
+  "53600|Sainte-Gemmes-le-Robert": {
+    "insee_code": "53218",
+    "commune_name": "Sainte-Gemmes-le-Robert"
+  },
+  "53600|Voutré": {
+    "insee_code": "53276",
+    "commune_name": "Voutré"
+  },
+  "53640|Champéon": {
+    "insee_code": "53051",
+    "commune_name": "Champéon"
+  },
+  "53640|Le Horps": {
+    "insee_code": "53116",
+    "commune_name": "Le Horps"
+  },
+  "53640|Le Ribay": {
+    "insee_code": "53190",
+    "commune_name": "Le Ribay"
+  },
+  "53640|Montreuil-Poulay": {
+    "insee_code": "53160",
+    "commune_name": "Montreuil-Poulay"
+  },
+  "53700|Averton": {
+    "insee_code": "53013",
+    "commune_name": "Averton"
+  },
+  "53700|Courcité": {
+    "insee_code": "53083",
+    "commune_name": "Courcité"
+  },
+  "53700|Loupfougères": {
+    "insee_code": "53139",
+    "commune_name": "Loupfougères"
+  },
+  "53700|Saint-Germain-de-Coulamer": {
+    "insee_code": "53223",
+    "commune_name": "Saint-Germain-de-Coulamer"
+  },
+  "53700|Villaines-la-Juhel": {
+    "insee_code": "53271",
+    "commune_name": "Villaines-la-Juhel"
+  },
+  "53800|Bouchamps-lès-Craon": {
+    "insee_code": "53035",
+    "commune_name": "Bouchamps-lès-Craon"
+  },
+  "53800|Congrier": {
+    "insee_code": "53073",
+    "commune_name": "Congrier"
+  },
+  "53800|La Selle-Craonnaise": {
+    "insee_code": "53258",
+    "commune_name": "La Selle-Craonnaise"
+  },
+  "53800|Renazé": {
+    "insee_code": "53188",
+    "commune_name": "Renazé"
+  },
+  "53810|Changé": {
+    "insee_code": "53054",
+    "commune_name": "Changé"
+  },
+  "53940|Ahuillé": {
+    "insee_code": "53001",
+    "commune_name": "Ahuillé"
+  },
+  "53940|Le Genest-Saint-Isle": {
+    "insee_code": "53103",
+    "commune_name": "Le Genest-Saint-Isle"
+  },
+  "53940|Saint-Berthevin": {
+    "insee_code": "53201",
+    "commune_name": "Saint-Berthevin"
+  },
+  "53950|La Chapelle-Anthenaise": {
+    "insee_code": "53056",
+    "commune_name": "La Chapelle-Anthenaise"
+  },
+  "53950|Louverné": {
+    "insee_code": "53140",
+    "commune_name": "Louverné"
+  },
+  "53960|Bonchamp-lès-Laval": {
+    "insee_code": "53034",
+    "commune_name": "Bonchamp-lès-Laval"
+  },
+  "53970|L'Huisserie": {
+    "insee_code": "53119",
+    "commune_name": "L'Huisserie"
+  },
+  "53970|Montigné-le-Brillant": {
+    "insee_code": "53157",
+    "commune_name": "Montigné-le-Brillant"
+  },
+  "53970|Nuillé-sur-Vicoin": {
+    "insee_code": "53168",
+    "commune_name": "Nuillé-sur-Vicoin"
+  },
+  "72000|Le Mans": {
+    "insee_code": "72181",
+    "commune_name": "Le Mans"
+  },
+  "72100|Le Mans": {
+    "insee_code": "72181",
+    "commune_name": "Le Mans"
+  },
+  "72110|Beaufay": {
+    "insee_code": "72026",
+    "commune_name": "Beaufay"
+  },
+  "72110|Bonnétable": {
+    "insee_code": "72039",
+    "commune_name": "Bonnétable"
+  },
+  "72110|Courcemont": {
+    "insee_code": "72101",
+    "commune_name": "Courcemont"
+  },
+  "72110|Nogent-le-Bernard": {
+    "insee_code": "72220",
+    "commune_name": "Nogent-le-Bernard"
+  },
+  "72110|Saint-Cosme-en-Vairais": {
+    "insee_code": "72276",
+    "commune_name": "Saint-Cosme-en-Vairais"
+  },
+  "72110|Saint-Célerin": {
+    "insee_code": "72271",
+    "commune_name": "Saint-Célerin"
+  },
+  "72110|Torcé-en-Vallée": {
+    "insee_code": "72359",
+    "commune_name": "Torcé-en-Vallée"
+  },
+  "72120|Conflans-sur-Anille": {
+    "insee_code": "72087",
+    "commune_name": "Conflans-sur-Anille"
+  },
+  "72120|Ecorpain": {
+    "insee_code": "72087",
+    "commune_name": "Conflans-sur-Anille"
+  },
+  "72120|Montaillé": {
+    "insee_code": "72204",
+    "commune_name": "Montaillé"
+  },
+  "72120|Saint-Calais": {
+    "insee_code": "72269",
+    "commune_name": "Saint-Calais"
+  },
+  "72130|Assé-le-Boisne": {
+    "insee_code": "72011",
+    "commune_name": "Assé-le-Boisne"
+  },
+  "72130|Fresnay-sur-Sarthe": {
+    "insee_code": "72138",
+    "commune_name": "Fresnay-sur-Sarthe"
+  },
+  "72130|Gesnes-le-Gandelin": {
+    "insee_code": "72141",
+    "commune_name": "Gesnes-le-Gandelin"
+  },
+  "72130|Moulins-le-Carbonnel": {
+    "insee_code": "72212",
+    "commune_name": "Moulins-le-Carbonnel"
+  },
+  "72130|Saint-Aubin-de-Locquenay": {
+    "insee_code": "72266",
+    "commune_name": "Saint-Aubin-de-Locquenay"
+  },
+  "72130|Saint-Georges-le-Gaultier": {
+    "insee_code": "72282",
+    "commune_name": "Saint-Georges-le-Gaultier"
+  },
+  "72130|Saint-Ouen-de-Mimbré": {
+    "insee_code": "72305",
+    "commune_name": "Saint-Ouen-de-Mimbré"
+  },
+  "72140|Crissé": {
+    "insee_code": "72109",
+    "commune_name": "Crissé"
+  },
+  "72140|Mont-Saint-Jean": {
+    "insee_code": "72211",
+    "commune_name": "Mont-Saint-Jean"
+  },
+  "72140|Parennes": {
+    "insee_code": "72229",
+    "commune_name": "Parennes"
+  },
+  "72140|Rouessé-Vassé": {
+    "insee_code": "72255",
+    "commune_name": "Rouessé-Vassé"
+  },
+  "72140|Rouez": {
+    "insee_code": "72256",
+    "commune_name": "Rouez"
+  },
+  "72140|Saint-Rémy-de-Sillé": {
+    "insee_code": "72315",
+    "commune_name": "Saint-Rémy-de-Sillé"
+  },
+  "72140|Sillé-le-Guillaume": {
+    "insee_code": "72334",
+    "commune_name": "Sillé-le-Guillaume"
+  },
+  "72150|Courdemanche": {
+    "insee_code": "72103",
+    "commune_name": "Courdemanche"
+  },
+  "72150|Le Grand-Lucé": {
+    "insee_code": "72143",
+    "commune_name": "Le Grand-Lucé"
+  },
+  "72150|Montreuil-le-Henri": {
+    "insee_code": "72210",
+    "commune_name": "Montreuil-le-Henri"
+  },
+  "72150|Pruillé-l'Eguillé": {
+    "insee_code": "72103",
+    "commune_name": "Courdemanche"
+  },
+  "72150|Saint-Vincent-du-Lorouër": {
+    "insee_code": "72325",
+    "commune_name": "Saint-Vincent-du-Lorouër"
+  },
+  "72150|Villaines-sous-Lucé": {
+    "insee_code": "72376",
+    "commune_name": "Villaines-sous-Lucé"
+  },
+  "72160|Beillé": {
+    "insee_code": "72031",
+    "commune_name": "Beillé"
+  },
+  "72160|Connerré": {
+    "insee_code": "72090",
+    "commune_name": "Connerré"
+  },
+  "72160|Duneau": {
+    "insee_code": "72122",
+    "commune_name": "Duneau"
+  },
+  "72160|La Chapelle-Saint-Rémy": {
+    "insee_code": "72067",
+    "commune_name": "La Chapelle-Saint-Rémy"
+  },
+  "72160|Sceaux-sur-Huisne": {
+    "insee_code": "72331",
+    "commune_name": "Sceaux-sur-Huisne"
+  },
+  "72160|Thorigné-sur-Dué": {
+    "insee_code": "72358",
+    "commune_name": "Thorigné-sur-Dué"
+  },
+  "72160|Tuffé Val de la Chéronne": {
+    "insee_code": "72363",
+    "commune_name": "Tuffé Val de la Chéronne"
+  },
+  "72170|Assé-le-Riboul": {
+    "insee_code": "72012",
+    "commune_name": "Assé-le-Riboul"
+  },
+  "72170|Beaumont-sur-Sarthe": {
+    "insee_code": "72029",
+    "commune_name": "Beaumont-sur-Sarthe"
+  },
+  "72170|Chérancé": {
+    "insee_code": "72078",
+    "commune_name": "Chérancé"
+  },
+  "72170|Maresché": {
+    "insee_code": "72186",
+    "commune_name": "Maresché"
+  },
+  "72170|Piacé": {
+    "insee_code": "72235",
+    "commune_name": "Piacé"
+  },
+  "72170|Saint-Marceau": {
+    "insee_code": "72297",
+    "commune_name": "Saint-Marceau"
+  },
+  "72170|Ségrie": {
+    "insee_code": "72332",
+    "commune_name": "Ségrie"
+  },
+  "72170|Vernie": {
+    "insee_code": "72370",
+    "commune_name": "Vernie"
+  },
+  "72170|Vivoin": {
+    "insee_code": "72380",
+    "commune_name": "Vivoin"
+  },
+  "72190|Coulaines": {
+    "insee_code": "72095",
+    "commune_name": "Coulaines"
+  },
+  "72190|Neuville-sur-Sarthe": {
+    "insee_code": "72217",
+    "commune_name": "Neuville-sur-Sarthe"
+  },
+  "72190|Saint-Pavace": {
+    "insee_code": "72310",
+    "commune_name": "Saint-Pavace"
+  },
+  "72190|Sargé-lès-le-Mans": {
+    "insee_code": "72328",
+    "commune_name": "Sargé-lès-le-Mans"
+  },
+  "72200|Bazouges Cré sur Loir": {
+    "insee_code": "72025",
+    "commune_name": "Bazouges Cré sur Loir"
+  },
+  "72200|Clermont-Créans": {
+    "insee_code": "72084",
+    "commune_name": "Clermont-Créans"
+  },
+  "72200|Crosmières": {
+    "insee_code": "72110",
+    "commune_name": "Crosmières"
+  },
+  "72200|La Flèche": {
+    "insee_code": "72154",
+    "commune_name": "La Flèche"
+  },
+  "72200|Le Bailleul": {
+    "insee_code": "72022",
+    "commune_name": "Le Bailleul"
+  },
+  "72200|Mareil-sur-Loir": {
+    "insee_code": "72185",
+    "commune_name": "Mareil-sur-Loir"
+  },
+  "72210|Chemiré-le-Gaudin": {
+    "insee_code": "72075",
+    "commune_name": "Chemiré-le-Gaudin"
+  },
+  "72210|Fillé": {
+    "insee_code": "72133",
+    "commune_name": "Fillé"
+  },
+  "72210|La Suze-sur-Sarthe": {
+    "insee_code": "72346",
+    "commune_name": "La Suze-sur-Sarthe"
+  },
+  "72210|Louplande": {
+    "insee_code": "72169",
+    "commune_name": "Louplande"
+  },
+  "72210|Maigné": {
+    "insee_code": "72177",
+    "commune_name": "Maigné"
+  },
+  "72210|Roézé-sur-Sarthe": {
+    "insee_code": "72075",
+    "commune_name": "Chemiré-le-Gaudin"
+  },
+  "72210|Souligné-Flacé": {
+    "insee_code": "72339",
+    "commune_name": "Souligné-Flacé"
+  },
+  "72210|Voivres-lès-le-Mans": {
+    "insee_code": "72381",
+    "commune_name": "Voivres-lès-le-Mans"
+  },
+  "72220|Ecommoy": {
+    "insee_code": "72124",
+    "commune_name": "Écommoy"
+  },
+  "72220|Laigné-Saint-Gervais": {
+    "insee_code": "72155",
+    "commune_name": "Laigné-Saint-Gervais"
+  },
+  "72220|Marigné-Laillé": {
+    "insee_code": "72187",
+    "commune_name": "Marigné-Laillé"
+  },
+  "72220|Saint-Biez-en-Belin": {
+    "insee_code": "72268",
+    "commune_name": "Saint-Biez-en-Belin"
+  },
+  "72220|Saint-Mars-d'Outillé": {
+    "insee_code": "72299",
+    "commune_name": "Saint-Mars-d'Outillé"
+  },
+  "72220|Saint-Ouen-en-Belin": {
+    "insee_code": "72306",
+    "commune_name": "Saint-Ouen-en-Belin"
+  },
+  "72220|Teloché": {
+    "insee_code": "72350",
+    "commune_name": "Teloché"
+  },
+  "72230|Arnage": {
+    "insee_code": "72008",
+    "commune_name": "Arnage"
+  },
+  "72230|Guécélard": {
+    "insee_code": "72146",
+    "commune_name": "Guécélard"
+  },
+  "72230|Moncé-en-Belin": {
+    "insee_code": "72200",
+    "commune_name": "Moncé-en-Belin"
+  },
+  "72230|Mulsanne": {
+    "insee_code": "72213",
+    "commune_name": "Mulsanne"
+  },
+  "72230|Ruaudin": {
+    "insee_code": "72260",
+    "commune_name": "Ruaudin"
+  },
+  "72240|Bernay-Neuvy-en-Champagne": {
+    "insee_code": "72219",
+    "commune_name": "Bernay-Neuvy-en-Champagne"
+  },
+  "72240|Conlie": {
+    "insee_code": "72089",
+    "commune_name": "Conlie"
+  },
+  "72240|Cures": {
+    "insee_code": "72111",
+    "commune_name": "Cures"
+  },
+  "72240|Domfront-en-Champagne": {
+    "insee_code": "72119",
+    "commune_name": "Domfront-en-Champagne"
+  },
+  "72240|La Chapelle-Saint-Fray": {
+    "insee_code": "72066",
+    "commune_name": "La Chapelle-Saint-Fray"
+  },
+  "72240|Mézières-sous-Lavardin": {
+    "insee_code": "72197",
+    "commune_name": "Mézières-sous-Lavardin"
+  },
+  "72240|Ruillé-en-Champagne": {
+    "insee_code": "72261",
+    "commune_name": "Ruillé-en-Champagne"
+  },
+  "72240|Saint-Symphorien": {
+    "insee_code": "72321",
+    "commune_name": "Saint-Symphorien"
+  },
+  "72240|Tennie": {
+    "insee_code": "72351",
+    "commune_name": "Tennie"
+  },
+  "72250|Brette-les-Pins": {
+    "insee_code": "72047",
+    "commune_name": "Brette-les-Pins"
+  },
+  "72250|Challes": {
+    "insee_code": "72053",
+    "commune_name": "Challes"
+  },
+  "72250|Parigné-l'Evêque": {
+    "insee_code": "72047",
+    "commune_name": "Brette-les-Pins"
+  },
+  "72260|Courgains": {
+    "insee_code": "72104",
+    "commune_name": "Courgains"
+  },
+  "72260|Dangeul": {
+    "insee_code": "72112",
+    "commune_name": "Dangeul"
+  },
+  "72260|Marolles-les-Braults": {
+    "insee_code": "72189",
+    "commune_name": "Marolles-les-Braults"
+  },
+  "72270|Bousse": {
+    "insee_code": "72044",
+    "commune_name": "Bousse"
+  },
+  "72270|Courcelles-la-Forêt": {
+    "insee_code": "72100",
+    "commune_name": "Courcelles-la-Forêt"
+  },
+  "72270|Ligron": {
+    "insee_code": "72163",
+    "commune_name": "Ligron"
+  },
+  "72270|Malicorne-sur-Sarthe": {
+    "insee_code": "72179",
+    "commune_name": "Malicorne-sur-Sarthe"
+  },
+  "72270|Mézeray": {
+    "insee_code": "72195",
+    "commune_name": "Mézeray"
+  },
+  "72270|Villaines-sous-Malicorne": {
+    "insee_code": "72377",
+    "commune_name": "Villaines-sous-Malicorne"
+  },
+  "72290|Ballon Saint-Mars": {
+    "insee_code": "72023",
+    "commune_name": "Ballon-Saint Mars"
+  },
+  "72290|Ballon-Saint Mars": {
+    "insee_code": "72023",
+    "commune_name": "Ballon-Saint Mars"
+  },
+  "72290|Courceboeufs": {
+    "insee_code": "72023",
+    "commune_name": "Ballon-Saint Mars"
+  },
+  "72290|Mézières-sur-Ponthouin": {
+    "insee_code": "72196",
+    "commune_name": "Mézières-sur-Ponthouin"
+  },
+  "72290|Souligné-sous-Ballon": {
+    "insee_code": "72340",
+    "commune_name": "Souligné-sous-Ballon"
+  },
+  "72290|Teillé": {
+    "insee_code": "72349",
+    "commune_name": "Teillé"
+  },
+  "72300|Auvers-le-Hamon": {
+    "insee_code": "72016",
+    "commune_name": "Auvers-le-Hamon"
+  },
+  "72300|Courtillers": {
+    "insee_code": "72106",
+    "commune_name": "Courtillers"
+  },
+  "72300|Juigné-sur-Sarthe": {
+    "insee_code": "72151",
+    "commune_name": "Juigné-sur-Sarthe"
+  },
+  "72300|La Chapelle-d'Aligné": {
+    "insee_code": "72061",
+    "commune_name": "La Chapelle-d'Aligné"
+  },
+  "72300|Louailles": {
+    "insee_code": "72167",
+    "commune_name": "Louailles"
+  },
+  "72300|Notre-Dame-du-Pé": {
+    "insee_code": "72232",
+    "commune_name": "Notre-Dame-du-Pé"
+  },
+  "72300|Parcé-sur-Sarthe": {
+    "insee_code": "72228",
+    "commune_name": "Parcé-sur-Sarthe"
+  },
+  "72300|Précigné": {
+    "insee_code": "72244",
+    "commune_name": "Précigné"
+  },
+  "72300|Sablé-sur-Sarthe": {
+    "insee_code": "72264",
+    "commune_name": "Sablé-sur-Sarthe"
+  },
+  "72300|Solesmes": {
+    "insee_code": "72336",
+    "commune_name": "Solesmes"
+  },
+  "72300|Souvigné-sur-Sarthe": {
+    "insee_code": "72343",
+    "commune_name": "Souvigné-sur-Sarthe"
+  },
+  "72300|Vion": {
+    "insee_code": "72378",
+    "commune_name": "Vion"
+  },
+  "72310|Bessé-sur-Braye": {
+    "insee_code": "72035",
+    "commune_name": "Bessé-sur-Braye"
+  },
+  "72310|La Chapelle-Huon": {
+    "insee_code": "72064",
+    "commune_name": "La Chapelle-Huon"
+  },
+  "72310|Loir en Vallée": {
+    "insee_code": "72262",
+    "commune_name": "Loir en Vallée"
+  },
+  "72310|Vancé": {
+    "insee_code": "72368",
+    "commune_name": "Vancé"
+  },
+  "72320|Berfay": {
+    "insee_code": "72032",
+    "commune_name": "Berfay"
+  },
+  "72320|Courgenard": {
+    "insee_code": "72105",
+    "commune_name": "Courgenard"
+  },
+  "72320|Lamnay": {
+    "insee_code": "72156",
+    "commune_name": "Lamnay"
+  },
+  "72320|Melleray": {
+    "insee_code": "72193",
+    "commune_name": "Melleray"
+  },
+  "72320|Saint-Maixent": {
+    "insee_code": "72296",
+    "commune_name": "Saint-Maixent"
+  },
+  "72320|Valennes": {
+    "insee_code": "72366",
+    "commune_name": "Valennes"
+  },
+  "72320|Vibraye": {
+    "insee_code": "72373",
+    "commune_name": "Vibraye"
+  },
+  "72330|Cérans-Foulletourte": {
+    "insee_code": "72051",
+    "commune_name": "Cérans-Foulletourte"
+  },
+  "72330|La Fontaine-Saint-Martin": {
+    "insee_code": "72135",
+    "commune_name": "La Fontaine-Saint-Martin"
+  },
+  "72330|Oizé": {
+    "insee_code": "72226",
+    "commune_name": "Oizé"
+  },
+  "72330|Parigné-le-Pôlin": {
+    "insee_code": "72230",
+    "commune_name": "Parigné-le-Pôlin"
+  },
+  "72330|Yvré-le-Pôlin": {
+    "insee_code": "72385",
+    "commune_name": "Yvré-le-Pôlin"
+  },
+  "72340|Beaumont-sur-Dême": {
+    "insee_code": "72027",
+    "commune_name": "Beaumont-sur-Dême"
+  },
+  "72340|Chahaignes": {
+    "insee_code": "72052",
+    "commune_name": "Chahaignes"
+  },
+  "72340|La Chartre-sur-le-Loir": {
+    "insee_code": "72068",
+    "commune_name": "La Chartre-sur-le-Loir"
+  },
+  "72340|Lhomme": {
+    "insee_code": "72161",
+    "commune_name": "Lhomme"
+  },
+  "72340|Loir en Vallée": {
+    "insee_code": "72262",
+    "commune_name": "Loir en Vallée"
+  },
+  "72340|Marçon": {
+    "insee_code": "72183",
+    "commune_name": "Marçon"
+  },
+  "72350|Brûlon": {
+    "insee_code": "72050",
+    "commune_name": "Brûlon"
+  },
+  "72350|Fontenay-sur-Vègre": {
+    "insee_code": "72136",
+    "commune_name": "Fontenay-sur-Vègre"
+  },
+  "72350|Poillé-sur-Vègre": {
+    "insee_code": "72239",
+    "commune_name": "Poillé-sur-Vègre"
+  },
+  "72350|Saint-Denis-d'Orques": {
+    "insee_code": "72278",
+    "commune_name": "Saint-Denis-d'Orques"
+  },
+  "72350|Viré-en-Champagne": {
+    "insee_code": "72379",
+    "commune_name": "Viré-en-Champagne"
+  },
+  "72360|Mayet": {
+    "insee_code": "72191",
+    "commune_name": "Mayet"
+  },
+  "72360|Verneil-le-Chétif": {
+    "insee_code": "72369",
+    "commune_name": "Verneil-le-Chétif"
+  },
+  "72370|Ardenay-sur-Mérize": {
+    "insee_code": "72007",
+    "commune_name": "Ardenay-sur-Mérize"
+  },
+  "72370|Le Breil-sur-Mérize": {
+    "insee_code": "72046",
+    "commune_name": "Le Breil-sur-Mérize"
+  },
+  "72370|Nuillé-le-Jalais": {
+    "insee_code": "72224",
+    "commune_name": "Nuillé-le-Jalais"
+  },
+  "72380|Joué-l'Abbé": {
+    "insee_code": "72150",
+    "commune_name": "Joué-l'Abbé"
+  },
+  "72380|La Guierche": {
+    "insee_code": "72147",
+    "commune_name": "La Guierche"
+  },
+  "72380|Montbizot": {
+    "insee_code": "72205",
+    "commune_name": "Montbizot"
+  },
+  "72380|Saint-Jean-d'Assé": {
+    "insee_code": "72290",
+    "commune_name": "Saint-Jean-d'Assé"
+  },
+  "72380|Sainte-Jamme-sur-Sarthe": {
+    "insee_code": "72289",
+    "commune_name": "Sainte-Jamme-sur-Sarthe"
+  },
+  "72380|Sainte-Sabine-sur-Longève": {
+    "insee_code": "72319",
+    "commune_name": "Sainte-Sabine-sur-Longève"
+  },
+  "72380|Souillé": {
+    "insee_code": "72338",
+    "commune_name": "Souillé"
+  },
+  "72390|Dollon": {
+    "insee_code": "72118",
+    "commune_name": "Dollon"
+  },
+  "72390|Lavaré": {
+    "insee_code": "72158",
+    "commune_name": "Lavaré"
+  },
+  "72390|Le Luart": {
+    "insee_code": "72172",
+    "commune_name": "Le Luart"
+  },
+  "72390|Semur-en-Vallon": {
+    "insee_code": "72333",
+    "commune_name": "Semur-en-Vallon"
+  },
+  "72400|Avezé": {
+    "insee_code": "72020",
+    "commune_name": "Avezé"
+  },
+  "72400|Boëssé-le-Sec": {
+    "insee_code": "72038",
+    "commune_name": "Boëssé-le-Sec"
+  },
+  "72400|Cherré-Au": {
+    "insee_code": "72080",
+    "commune_name": "Cherré-Au"
+  },
+  "72400|Cormes": {
+    "insee_code": "72093",
+    "commune_name": "Cormes"
+  },
+  "72400|La Chapelle-du-Bois": {
+    "insee_code": "72062",
+    "commune_name": "La Chapelle-du-Bois"
+  },
+  "72400|La Ferté-Bernard": {
+    "insee_code": "72132",
+    "commune_name": "La Ferté-Bernard"
+  },
+  "72400|Préval": {
+    "insee_code": "72245",
+    "commune_name": "Préval"
+  },
+  "72400|Saint-Aubin-des-Coudrais": {
+    "insee_code": "72267",
+    "commune_name": "Saint-Aubin-des-Coudrais"
+  },
+  "72430|Avoise": {
+    "insee_code": "72021",
+    "commune_name": "Avoise"
+  },
+  "72430|Chantenay-Villedieu": {
+    "insee_code": "72059",
+    "commune_name": "Chantenay-Villedieu"
+  },
+  "72430|Fercé-sur-Sarthe": {
+    "insee_code": "72131",
+    "commune_name": "Fercé-sur-Sarthe"
+  },
+  "72430|Noyen-sur-Sarthe": {
+    "insee_code": "72223",
+    "commune_name": "Noyen-sur-Sarthe"
+  },
+  "72430|Saint-Jean-du-Bois": {
+    "insee_code": "72293",
+    "commune_name": "Saint-Jean-du-Bois"
+  },
+  "72440|Bouloire": {
+    "insee_code": "72042",
+    "commune_name": "Bouloire"
+  },
+  "72440|Coudrecieux": {
+    "insee_code": "72094",
+    "commune_name": "Coudrecieux"
+  },
+  "72440|Saint-Michel-de-Chavaignes": {
+    "insee_code": "72303",
+    "commune_name": "Saint-Michel-de-Chavaignes"
+  },
+  "72440|Tresson": {
+    "insee_code": "72361",
+    "commune_name": "Tresson"
+  },
+  "72440|Val-de-la-Hune": {
+    "insee_code": "72382",
+    "commune_name": "Val-de-la-Hune"
+  },
+  "72450|Lombron": {
+    "insee_code": "72165",
+    "commune_name": "Lombron"
+  },
+  "72450|Montfort-le-Gesnois": {
+    "insee_code": "72241",
+    "commune_name": "Montfort-le-Gesnois"
+  },
+  "72460|Saint-Corneille": {
+    "insee_code": "72275",
+    "commune_name": "Saint-Corneille"
+  },
+  "72460|Savigné-l'Evêque": {
+    "insee_code": "72275",
+    "commune_name": "Saint-Corneille"
+  },
+  "72460|Sillé-le-Philippe": {
+    "insee_code": "72335",
+    "commune_name": "Sillé-le-Philippe"
+  },
+  "72470|Champagné": {
+    "insee_code": "72054",
+    "commune_name": "Champagné"
+  },
+  "72470|Fatines": {
+    "insee_code": "72129",
+    "commune_name": "Fatines"
+  },
+  "72470|Saint-Mars-la-Brière": {
+    "insee_code": "72300",
+    "commune_name": "Saint-Mars-la-Brière"
+  },
+  "72500|Beaumont-Pied-de-Boeuf": {
+    "insee_code": "72028",
+    "commune_name": "Beaumont-Pied-de-Bœuf"
+  },
+  "72500|Chenu": {
+    "insee_code": "72077",
+    "commune_name": "Chenu"
+  },
+  "72500|Dissay-sous-Courcillon": {
+    "insee_code": "72115",
+    "commune_name": "Dissay-sous-Courcillon"
+  },
+  "72500|Jupilles": {
+    "insee_code": "72153",
+    "commune_name": "Jupilles"
+  },
+  "72500|Luceau": {
+    "insee_code": "72173",
+    "commune_name": "Luceau"
+  },
+  "72500|Montval-sur-Loir": {
+    "insee_code": "72071",
+    "commune_name": "Montval-sur-Loir"
+  },
+  "72500|Nogent-sur-Loir": {
+    "insee_code": "72221",
+    "commune_name": "Nogent-sur-Loir"
+  },
+  "72500|Saint-Pierre-de-Chevillé": {
+    "insee_code": "72311",
+    "commune_name": "Saint-Pierre-de-Chevillé"
+  },
+  "72500|Vaas": {
+    "insee_code": "72364",
+    "commune_name": "Vaas"
+  },
+  "72510|Mansigné": {
+    "insee_code": "72182",
+    "commune_name": "Mansigné"
+  },
+  "72510|Pontvallain": {
+    "insee_code": "72243",
+    "commune_name": "Pontvallain"
+  },
+  "72510|Requeil": {
+    "insee_code": "72252",
+    "commune_name": "Requeil"
+  },
+  "72510|Saint-Jean-de-la-Motte": {
+    "insee_code": "72291",
+    "commune_name": "Saint-Jean-de-la-Motte"
+  },
+  "72530|Yvre-l'Evêque": {
+    "insee_code": "72386",
+    "commune_name": "Yvré-l'Évêque"
+  },
+  "72530|Yvré-l'Evêque": {
+    "insee_code": "72386",
+    "commune_name": "Yvré-l'Évêque"
+  },
+  "72540|Auvers-sous-Montfaucon": {
+    "insee_code": "72017",
+    "commune_name": "Auvers-sous-Montfaucon"
+  },
+  "72540|Chassillé": {
+    "insee_code": "72070",
+    "commune_name": "Chassillé"
+  },
+  "72540|Longnes": {
+    "insee_code": "72166",
+    "commune_name": "Longnes"
+  },
+  "72540|Loué": {
+    "insee_code": "72168",
+    "commune_name": "Loué"
+  },
+  "72540|Vallon-sur-Gée": {
+    "insee_code": "72367",
+    "commune_name": "Vallon-sur-Gée"
+  },
+  "72550|Brains-sur-Gée": {
+    "insee_code": "72045",
+    "commune_name": "Brains-sur-Gée"
+  },
+  "72550|Chaufour-Notre-Dame": {
+    "insee_code": "72073",
+    "commune_name": "Chaufour-Notre-Dame"
+  },
+  "72550|Coulans-sur-Gée": {
+    "insee_code": "72096",
+    "commune_name": "Coulans-sur-Gée"
+  },
+  "72550|Degré": {
+    "insee_code": "72113",
+    "commune_name": "Degré"
+  },
+  "72550|Fay": {
+    "insee_code": "72130",
+    "commune_name": "Fay"
+  },
+  "72550|La Quinte": {
+    "insee_code": "72249",
+    "commune_name": "La Quinte"
+  },
+  "72560|Changé": {
+    "insee_code": "72058",
+    "commune_name": "Changé"
+  },
+  "72600|Mamers": {
+    "insee_code": "72180",
+    "commune_name": "Mamers"
+  },
+  "72600|Neufchâtel-en-Saosnois": {
+    "insee_code": "72215",
+    "commune_name": "Neufchâtel-en-Saosnois"
+  },
+  "72600|Saint-Rémy-des-Monts": {
+    "insee_code": "72316",
+    "commune_name": "Saint-Rémy-des-Monts"
+  },
+  "72600|Saint-Vincent-des-Prés": {
+    "insee_code": "72324",
+    "commune_name": "Saint-Vincent-des-Prés"
+  },
+  "72600|Villeneuve-en-Perseigne": {
+    "insee_code": "72137",
+    "commune_name": "Villeneuve-en-Perseigne"
+  },
+  "72610|Ancinnes": {
+    "insee_code": "72005",
+    "commune_name": "Ancinnes"
+  },
+  "72610|Arçonnay": {
+    "insee_code": "72006",
+    "commune_name": "Arçonnay"
+  },
+  "72610|Champfleur": {
+    "insee_code": "72056",
+    "commune_name": "Champfleur"
+  },
+  "72610|Fyé": {
+    "insee_code": "72139",
+    "commune_name": "Fyé"
+  },
+  "72610|Oisseau-le-Petit": {
+    "insee_code": "72225",
+    "commune_name": "Oisseau-le-Petit"
+  },
+  "72610|Saint-Paterne - Le Chevain": {
+    "insee_code": "72308",
+    "commune_name": "Saint-Paterne - Le Chevain"
+  },
+  "72650|Aigné": {
+    "insee_code": "72001",
+    "commune_name": "Aigné"
+  },
+  "72650|La Bazoge": {
+    "insee_code": "72024",
+    "commune_name": "La Bazoge"
+  },
+  "72650|La Chapelle-Saint-Aubin": {
+    "insee_code": "72065",
+    "commune_name": "La Chapelle-Saint-Aubin"
+  },
+  "72650|La Milesse": {
+    "insee_code": "72198",
+    "commune_name": "La Milesse"
+  },
+  "72650|Saint-Saturnin": {
+    "insee_code": "72320",
+    "commune_name": "Saint-Saturnin"
+  },
+  "72650|Trangé": {
+    "insee_code": "72360",
+    "commune_name": "Trangé"
+  },
+  "72700|Allonnes": {
+    "insee_code": "72003",
+    "commune_name": "Allonnes"
+  },
+  "72700|Etival-lès-le-Mans": {
+    "insee_code": "72003",
+    "commune_name": "Allonnes"
+  },
+  "72700|Pruillé-le-Chétif": {
+    "insee_code": "72247",
+    "commune_name": "Pruillé-le-Chétif"
+  },
+  "72700|Rouillon": {
+    "insee_code": "72257",
+    "commune_name": "Rouillon"
+  },
+  "72700|Saint-Georges-du-Bois": {
+    "insee_code": "72280",
+    "commune_name": "Saint-Georges-du-Bois"
+  },
+  "72700|Spay": {
+    "insee_code": "72344",
+    "commune_name": "Spay"
+  },
+  "72800|Aubigné-Racan": {
+    "insee_code": "72013",
+    "commune_name": "Aubigné-Racan"
+  },
+  "72800|Coulongé": {
+    "insee_code": "72098",
+    "commune_name": "Coulongé"
+  },
+  "72800|Le Lude": {
+    "insee_code": "72176",
+    "commune_name": "Le Lude"
+  },
+  "72800|Luché-Pringé": {
+    "insee_code": "72175",
+    "commune_name": "Luché-Pringé"
+  },
+  "72800|Saint-Germain-d'Arcé": {
+    "insee_code": "72283",
+    "commune_name": "Saint-Germain-d'Arcé"
+  },
+  "72800|Thorée-les-Pins": {
+    "insee_code": "72357",
+    "commune_name": "Thorée-les-Pins"
+  },
+  "85000|La Roche-sur-Yon": {
+    "insee_code": "85191",
+    "commune_name": "La Roche-sur-Yon"
+  },
+  "85000|Mouilleron-le-Captif": {
+    "insee_code": "85155",
+    "commune_name": "Mouilleron-le-Captif"
+  },
+  "85100|Chantonnay": {
+    "insee_code": "85194",
+    "commune_name": "Les Sables-d'Olonne"
+  },
+  "85100|Les Sables-d'Olonne": {
+    "insee_code": "85194",
+    "commune_name": "Les Sables-d'Olonne"
+  },
+  "85110|Chantonnay": {
+    "insee_code": "85051",
+    "commune_name": "Chantonnay"
+  },
+  "85110|La Jaudonnière": {
+    "insee_code": "85115",
+    "commune_name": "La Jaudonnière"
+  },
+  "85110|Monsireigne": {
+    "insee_code": "85145",
+    "commune_name": "Monsireigne"
+  },
+  "85110|Saint-Germain-de-Prinçay": {
+    "insee_code": "85220",
+    "commune_name": "Saint-Germain-de-Prinçay"
+  },
+  "85110|Saint-Prouant": {
+    "insee_code": "85266",
+    "commune_name": "Saint-Prouant"
+  },
+  "85110|Saint-Vincent-Sterlanges": {
+    "insee_code": "85276",
+    "commune_name": "Saint-Vincent-Sterlanges"
+  },
+  "85110|Sainte-Cécile": {
+    "insee_code": "85202",
+    "commune_name": "Sainte-Cécile"
+  },
+  "85110|Sigournais": {
+    "insee_code": "85282",
+    "commune_name": "Sigournais"
+  },
+  "85120|Antigny": {
+    "insee_code": "85005",
+    "commune_name": "Antigny"
+  },
+  "85120|La Châtaigneraie": {
+    "insee_code": "85059",
+    "commune_name": "La Châtaigneraie"
+  },
+  "85120|Loge-Fougereuse": {
+    "insee_code": "85125",
+    "commune_name": "Loge-Fougereuse"
+  },
+  "85120|Saint-Hilaire-de-Voust": {
+    "insee_code": "85229",
+    "commune_name": "Saint-Hilaire-de-Voust"
+  },
+  "85120|Saint-Maurice-des-Noues": {
+    "insee_code": "85251",
+    "commune_name": "Saint-Maurice-des-Noues"
+  },
+  "85120|Saint-Pierre-du-Chemin": {
+    "insee_code": "85264",
+    "commune_name": "Saint-Pierre-du-Chemin"
+  },
+  "85120|Terval": {
+    "insee_code": "85289",
+    "commune_name": "Terval"
+  },
+  "85120|Vouvant": {
+    "insee_code": "85305",
+    "commune_name": "Vouvant"
+  },
+  "85130|Bazoges-en-Paillers": {
+    "insee_code": "85013",
+    "commune_name": "Bazoges-en-Paillers"
+  },
+  "85130|Chanverrie": {
+    "insee_code": "85302",
+    "commune_name": "Chanverrie"
+  },
+  "85130|La Gaubretière": {
+    "insee_code": "85097",
+    "commune_name": "La Gaubretière"
+  },
+  "85130|Les Landes-Genusson": {
+    "insee_code": "85119",
+    "commune_name": "Les Landes-Genusson"
+  },
+  "85130|Saint-Aubin-des-Ormeaux": {
+    "insee_code": "85198",
+    "commune_name": "Saint-Aubin-des-Ormeaux"
+  },
+  "85130|Saint-Martin-des-Tilleuls": {
+    "insee_code": "85247",
+    "commune_name": "Saint-Martin-des-Tilleuls"
+  },
+  "85130|Tiffauges": {
+    "insee_code": "85293",
+    "commune_name": "Tiffauges"
+  },
+  "85140|Chauché": {
+    "insee_code": "85064",
+    "commune_name": "Chauché"
+  },
+  "85140|Essarts-en-Bocage": {
+    "insee_code": "85084",
+    "commune_name": "Essarts-en-Bocage"
+  },
+  "85140|L'Oie": {
+    "insee_code": "85165",
+    "commune_name": "L'Oie"
+  },
+  "85140|La Merlatière": {
+    "insee_code": "85142",
+    "commune_name": "La Merlatière"
+  },
+  "85140|Les Essarts en bocage": {
+    "insee_code": "85064",
+    "commune_name": "Chauché"
+  },
+  "85140|Saint-Martin-des-Noyers": {
+    "insee_code": "85246",
+    "commune_name": "Saint-Martin-des-Noyers"
+  },
+  "85140|Sainte-Florence": {
+    "insee_code": "85212",
+    "commune_name": "Sainte-Florence"
+  },
+  "85150|Landeronde": {
+    "insee_code": "85118",
+    "commune_name": "Landeronde"
+  },
+  "85150|Le Girouard": {
+    "insee_code": "85099",
+    "commune_name": "Le Girouard"
+  },
+  "85150|Les Achards": {
+    "insee_code": "85152",
+    "commune_name": "Les Achards"
+  },
+  "85150|Martinet": {
+    "insee_code": "85138",
+    "commune_name": "Martinet"
+  },
+  "85150|Saint-Georges-de-Pointindoux": {
+    "insee_code": "85218",
+    "commune_name": "Saint-Georges-de-Pointindoux"
+  },
+  "85150|Saint-Julien-des-Landes": {
+    "insee_code": "85236",
+    "commune_name": "Saint-Julien-des-Landes"
+  },
+  "85150|Saint-Mathurin": {
+    "insee_code": "85250",
+    "commune_name": "Saint-Mathurin"
+  },
+  "85150|Sainte-Flaive-des-Loups": {
+    "insee_code": "85211",
+    "commune_name": "Sainte-Flaive-des-Loups"
+  },
+  "85150|Sainte-Foy": {
+    "insee_code": "85214",
+    "commune_name": "Sainte-Foy"
+  },
+  "85150|Vairé": {
+    "insee_code": "85298",
+    "commune_name": "Vairé"
+  },
+  "85160|Saint-Jean-de-Monts": {
+    "insee_code": "85234",
+    "commune_name": "Saint-Jean-de-Monts"
+  },
+  "85170|Beaufou": {
+    "insee_code": "85015",
+    "commune_name": "Beaufou"
+  },
+  "85170|Bellevigny": {
+    "insee_code": "85019",
+    "commune_name": "Bellevigny"
+  },
+  "85170|Dompierre-sur-Yon": {
+    "insee_code": "85081",
+    "commune_name": "Dompierre-sur-Yon"
+  },
+  "85170|Le Poiré-sur-Vie": {
+    "insee_code": "85178",
+    "commune_name": "Le Poiré-sur-Vie"
+  },
+  "85170|Les Lucs-sur-Boulogne": {
+    "insee_code": "85129",
+    "commune_name": "Les Lucs-sur-Boulogne"
+  },
+  "85170|Saint-Denis-la-Chevasse": {
+    "insee_code": "85208",
+    "commune_name": "Saint-Denis-la-Chevasse"
+  },
+  "85180|Les Sables-d'Olonne": {
+    "insee_code": "85194",
+    "commune_name": "Les Sables-d'Olonne"
+  },
+  "85190|Aizenay": {
+    "insee_code": "85003",
+    "commune_name": "Aizenay"
+  },
+  "85190|Beaulieu-sous-la-Roche": {
+    "insee_code": "85016",
+    "commune_name": "Beaulieu-sous-la-Roche"
+  },
+  "85190|La Genétouze": {
+    "insee_code": "85098",
+    "commune_name": "La Genétouze"
+  },
+  "85190|Maché": {
+    "insee_code": "85130",
+    "commune_name": "Maché"
+  },
+  "85190|Venansault": {
+    "insee_code": "85300",
+    "commune_name": "Venansault"
+  },
+  "85200|Auchay-sur-Vendée": {
+    "insee_code": "85009",
+    "commune_name": "Auchay-sur-Vendée"
+  },
+  "85200|Bourneau": {
+    "insee_code": "85033",
+    "commune_name": "Bourneau"
+  },
+  "85200|Doix lès Fontaines": {
+    "insee_code": "85080",
+    "commune_name": "Doix lès Fontaines"
+  },
+  "85200|Fontenay-le-Comte": {
+    "insee_code": "85092",
+    "commune_name": "Fontenay-le-Comte"
+  },
+  "85200|L'Orbrie": {
+    "insee_code": "85167",
+    "commune_name": "L'Orbrie"
+  },
+  "85200|Longèves": {
+    "insee_code": "85126",
+    "commune_name": "Longèves"
+  },
+  "85200|Mervent": {
+    "insee_code": "85143",
+    "commune_name": "Mervent"
+  },
+  "85200|Pissotte": {
+    "insee_code": "85176",
+    "commune_name": "Pissotte"
+  },
+  "85200|Saint-Martin-de-Fraigneau": {
+    "insee_code": "85244",
+    "commune_name": "Saint-Martin-de-Fraigneau"
+  },
+  "85200|Saint-Michel-le-Cloucq": {
+    "insee_code": "85256",
+    "commune_name": "Saint-Michel-le-Cloucq"
+  },
+  "85200|Sérigné": {
+    "insee_code": "85281",
+    "commune_name": "Sérigné"
+  },
+  "85210|La Réorthe": {
+    "insee_code": "85188",
+    "commune_name": "La Réorthe"
+  },
+  "85210|Saint-Aubin-la-Plaine": {
+    "insee_code": "85199",
+    "commune_name": "Saint-Aubin-la-Plaine"
+  },
+  "85210|Saint-Etienne-de-Brillouet": {
+    "insee_code": "85056",
+    "commune_name": "La Chapelle-Thémer"
+  },
+  "85210|Saint-Jean-d'Hermine": {
+    "insee_code": "85223",
+    "commune_name": "Saint-Jean-d'Hermine"
+  },
+  "85210|Sainte-Hermine": {
+    "insee_code": "85056",
+    "commune_name": "La Chapelle-Thémer"
+  },
+  "85210|Thiré": {
+    "insee_code": "85290",
+    "commune_name": "Thiré"
+  },
+  "85220|Apremont": {
+    "insee_code": "85006",
+    "commune_name": "Apremont"
+  },
+  "85220|Commequiers": {
+    "insee_code": "85071",
+    "commune_name": "Commequiers"
+  },
+  "85220|Coëx": {
+    "insee_code": "85070",
+    "commune_name": "Coëx"
+  },
+  "85220|L'Aiguillon-sur-Vie": {
+    "insee_code": "85002",
+    "commune_name": "L'Aiguillon-sur-Vie"
+  },
+  "85220|La Chapelle-Hermier": {
+    "insee_code": "85054",
+    "commune_name": "La Chapelle-Hermier"
+  },
+  "85220|Landevieille": {
+    "insee_code": "85120",
+    "commune_name": "Landevieille"
+  },
+  "85220|Saint-Maixent-sur-Vie": {
+    "insee_code": "85239",
+    "commune_name": "Saint-Maixent-sur-Vie"
+  },
+  "85220|Saint-Révérend": {
+    "insee_code": "85268",
+    "commune_name": "Saint-Révérend"
+  },
+  "85230|Beauvoir-sur-Mer": {
+    "insee_code": "85018",
+    "commune_name": "Beauvoir-sur-Mer"
+  },
+  "85230|Bouin": {
+    "insee_code": "85029",
+    "commune_name": "Bouin"
+  },
+  "85230|Saint-Gervais": {
+    "insee_code": "85221",
+    "commune_name": "Saint-Gervais"
+  },
+  "85230|Saint-Urbain": {
+    "insee_code": "85273",
+    "commune_name": "Saint-Urbain"
+  },
+  "85240|Faymoreau": {
+    "insee_code": "85087",
+    "commune_name": "Faymoreau"
+  },
+  "85240|Foussais-Payré": {
+    "insee_code": "85094",
+    "commune_name": "Foussais-Payré"
+  },
+  "85240|Puy-de-Serre": {
+    "insee_code": "85184",
+    "commune_name": "Puy-de-Serre"
+  },
+  "85240|Rives-d'Autise": {
+    "insee_code": "85162",
+    "commune_name": "Rives-d'Autise"
+  },
+  "85240|Saint-Hilaire-des-Loges": {
+    "insee_code": "85227",
+    "commune_name": "Saint-Hilaire-des-Loges"
+  },
+  "85240|Xanton-Chassenon": {
+    "insee_code": "85306",
+    "commune_name": "Xanton-Chassenon"
+  },
+  "85250|Chavagnes-en-Paillers": {
+    "insee_code": "85065",
+    "commune_name": "Chavagnes-en-Paillers"
+  },
+  "85250|La Rabatelière": {
+    "insee_code": "85186",
+    "commune_name": "La Rabatelière"
+  },
+  "85250|Saint-André-Goule-d'Oie": {
+    "insee_code": "85196",
+    "commune_name": "Saint-André-Goule-d'Oie"
+  },
+  "85250|Saint-Fulgent": {
+    "insee_code": "85215",
+    "commune_name": "Saint-Fulgent"
+  },
+  "85250|Vendrennes": {
+    "insee_code": "85301",
+    "commune_name": "Vendrennes"
+  },
+  "85260|L'Herbergement": {
+    "insee_code": "85108",
+    "commune_name": "L'Herbergement"
+  },
+  "85260|La Copechagnière": {
+    "insee_code": "85072",
+    "commune_name": "La Copechagnière"
+  },
+  "85260|Les Brouzils": {
+    "insee_code": "85038",
+    "commune_name": "Les Brouzils"
+  },
+  "85260|Montréverd": {
+    "insee_code": "85197",
+    "commune_name": "Montréverd"
+  },
+  "85270|Notre-Dame-de-Riez": {
+    "insee_code": "85189",
+    "commune_name": "Notre-Dame-de-Riez"
+  },
+  "85270|Saint-Hilaire-de-Riez": {
+    "insee_code": "85226",
+    "commune_name": "Saint-Hilaire-de-Riez"
+  },
+  "85280|La Ferrière": {
+    "insee_code": "85089",
+    "commune_name": "La Ferrière"
+  },
+  "85290|Mortagne-sur-Sèvre": {
+    "insee_code": "85151",
+    "commune_name": "Mortagne-sur-Sèvre"
+  },
+  "85290|Saint-Laurent-sur-Sèvre": {
+    "insee_code": "85238",
+    "commune_name": "Saint-Laurent-sur-Sèvre"
+  },
+  "85300|Challans": {
+    "insee_code": "85047",
+    "commune_name": "Challans"
+  },
+  "85300|Froidfond": {
+    "insee_code": "85095",
+    "commune_name": "Froidfond"
+  },
+  "85300|Le Perrier": {
+    "insee_code": "85172",
+    "commune_name": "Le Perrier"
+  },
+  "85300|Sallertaine": {
+    "insee_code": "85280",
+    "commune_name": "Sallertaine"
+  },
+  "85300|Soullans": {
+    "insee_code": "85284",
+    "commune_name": "Soullans"
+  },
+  "85310|La Chaize-le-Vicomte": {
+    "insee_code": "85046",
+    "commune_name": "La Chaize-le-Vicomte"
+  },
+  "85310|Le Tablier": {
+    "insee_code": "85285",
+    "commune_name": "Le Tablier"
+  },
+  "85310|Nesmy": {
+    "insee_code": "85160",
+    "commune_name": "Nesmy"
+  },
+  "85310|Rives de l'Yon": {
+    "insee_code": "85213",
+    "commune_name": "Rives de l'Yon"
+  },
+  "85320|Bessay": {
+    "insee_code": "85023",
+    "commune_name": "Bessay"
+  },
+  "85320|Château-Guibert": {
+    "insee_code": "85061",
+    "commune_name": "Château-Guibert"
+  },
+  "85320|Corpe": {
+    "insee_code": "85073",
+    "commune_name": "Corpe"
+  },
+  "85320|La Bretonnière-la-Claye": {
+    "insee_code": "85036",
+    "commune_name": "La Bretonnière-la-Claye"
+  },
+  "85320|Les Pineaux": {
+    "insee_code": "85175",
+    "commune_name": "Les Pineaux"
+  },
+  "85320|Mareuil-sur-Lay-Dissais": {
+    "insee_code": "85135",
+    "commune_name": "Mareuil-sur-Lay-Dissais"
+  },
+  "85320|Moutiers-sur-le-Lay": {
+    "insee_code": "85157",
+    "commune_name": "Moutiers-sur-le-Lay"
+  },
+  "85320|Péault": {
+    "insee_code": "85171",
+    "commune_name": "Péault"
+  },
+  "85320|Rosnay": {
+    "insee_code": "85193",
+    "commune_name": "Rosnay"
+  },
+  "85330|Noirmoutier-en-l'Ile": {
+    "insee_code": "85163",
+    "commune_name": "Noirmoutier-en-l'Île"
+  },
+  "85340|L'Ile-d'Olonne": {
+    "insee_code": "85112",
+    "commune_name": "L'Île-d'Olonne"
+  },
+  "85340|Les Sables-d'Olonne": {
+    "insee_code": "85194",
+    "commune_name": "Les Sables-d'Olonne"
+  },
+  "85350|L'Ile-d'Yeu": {
+    "insee_code": "85113",
+    "commune_name": "L'Île-d'Yeu"
+  },
+  "85360|La Tranche-sur-Mer": {
+    "insee_code": "85294",
+    "commune_name": "La Tranche-sur-Mer"
+  },
+  "85370|Le Langon": {
+    "insee_code": "85121",
+    "commune_name": "Le Langon"
+  },
+  "85370|Mouzeuil-Saint-Martin": {
+    "insee_code": "85158",
+    "commune_name": "Mouzeuil-Saint-Martin"
+  },
+  "85370|Nalliers": {
+    "insee_code": "85159",
+    "commune_name": "Nalliers"
+  },
+  "85390|Bazoges-en-Pareds": {
+    "insee_code": "85014",
+    "commune_name": "Bazoges-en-Pareds"
+  },
+  "85390|Chavagnes-les-Redoux": {
+    "insee_code": "85066",
+    "commune_name": "Chavagnes-les-Redoux"
+  },
+  "85390|Cheffois": {
+    "insee_code": "85067",
+    "commune_name": "Cheffois"
+  },
+  "85390|Mouilleron-Saint-Germain": {
+    "insee_code": "85154",
+    "commune_name": "Mouilleron-Saint-Germain"
+  },
+  "85390|Saint-Maurice-le-Girard": {
+    "insee_code": "85252",
+    "commune_name": "Saint-Maurice-le-Girard"
+  },
+  "85390|Tallud-Sainte-Gemme": {
+    "insee_code": "85287",
+    "commune_name": "Tallud-Sainte-Gemme"
+  },
+  "85400|Chasnais": {
+    "insee_code": "85058",
+    "commune_name": "Chasnais"
+  },
+  "85400|Lairoux": {
+    "insee_code": "85117",
+    "commune_name": "Lairoux"
+  },
+  "85400|Les Magnils-Reigniers": {
+    "insee_code": "85131",
+    "commune_name": "Les Magnils-Reigniers"
+  },
+  "85400|Luçon": {
+    "insee_code": "85128",
+    "commune_name": "Luçon"
+  },
+  "85400|Sainte-Gemme-la-Plaine": {
+    "insee_code": "85216",
+    "commune_name": "Sainte-Gemme-la-Plaine"
+  },
+  "85410|La Caillère-Saint-Hilaire": {
+    "insee_code": "85040",
+    "commune_name": "La Caillère-Saint-Hilaire"
+  },
+  "85410|Rives-du-Fougerais": {
+    "insee_code": "85292",
+    "commune_name": "Rives-du-Fougerais"
+  },
+  "85410|Saint-Cyr-des-Gâts": {
+    "insee_code": "85205",
+    "commune_name": "Saint-Cyr-des-Gâts"
+  },
+  "85420|Bouillé-Courdault": {
+    "insee_code": "85028",
+    "commune_name": "Bouillé-Courdault"
+  },
+  "85420|Damvix": {
+    "insee_code": "85078",
+    "commune_name": "Damvix"
+  },
+  "85420|Le Mazeau": {
+    "insee_code": "85139",
+    "commune_name": "Le Mazeau"
+  },
+  "85420|Liez": {
+    "insee_code": "85123",
+    "commune_name": "Liez"
+  },
+  "85420|Maillezais": {
+    "insee_code": "85133",
+    "commune_name": "Maillezais"
+  },
+  "85420|Maillé": {
+    "insee_code": "85132",
+    "commune_name": "Maillé"
+  },
+  "85420|Saint-Pierre-le-Vieux": {
+    "insee_code": "85265",
+    "commune_name": "Saint-Pierre-le-Vieux"
+  },
+  "85420|Saint-Sigismond": {
+    "insee_code": "85269",
+    "commune_name": "Saint-Sigismond"
+  },
+  "85430|Aubigny-Les Clouzeaux": {
+    "insee_code": "85008",
+    "commune_name": "Aubigny-Les Clouzeaux"
+  },
+  "85430|Aubigny-les-Clouzeaux": {
+    "insee_code": "85008",
+    "commune_name": "Aubigny-Les Clouzeaux"
+  },
+  "85430|La Boissière-des-Landes": {
+    "insee_code": "85026",
+    "commune_name": "La Boissière-des-Landes"
+  },
+  "85430|Nieul-le-Dolent": {
+    "insee_code": "85161",
+    "commune_name": "Nieul-le-Dolent"
+  },
+  "85440|Avrillé": {
+    "insee_code": "85010",
+    "commune_name": "Avrillé"
+  },
+  "85440|Grosbreuil": {
+    "insee_code": "85103",
+    "commune_name": "Grosbreuil"
+  },
+  "85440|Poiroux": {
+    "insee_code": "85179",
+    "commune_name": "Poiroux"
+  },
+  "85440|Saint-Hilaire-la-Forêt": {
+    "insee_code": "85231",
+    "commune_name": "Saint-Hilaire-la-Forêt"
+  },
+  "85440|Talmont-Saint-Hilaire": {
+    "insee_code": "85288",
+    "commune_name": "Talmont-Saint-Hilaire"
+  },
+  "85450|Chaillé-les-Marais": {
+    "insee_code": "85042",
+    "commune_name": "Chaillé-les-Marais"
+  },
+  "85450|Champagné-les-Marais": {
+    "insee_code": "85049",
+    "commune_name": "Champagné-les-Marais"
+  },
+  "85450|La Taillée": {
+    "insee_code": "85286",
+    "commune_name": "La Taillée"
+  },
+  "85450|Moreilles": {
+    "insee_code": "85149",
+    "commune_name": "Moreilles"
+  },
+  "85450|Puyravault": {
+    "insee_code": "85185",
+    "commune_name": "Puyravault"
+  },
+  "85450|Sainte-Radégonde-des-Noyers": {
+    "insee_code": "85267",
+    "commune_name": "Sainte-Radégonde-des-Noyers"
+  },
+  "85450|Vouillé-les-Marais": {
+    "insee_code": "85304",
+    "commune_name": "Vouillé-les-Marais"
+  },
+  "85460|L'Aiguillon-la-Presqu'île": {
+    "insee_code": "85001",
+    "commune_name": "L'Aiguillon-la-Presqu'île"
+  },
+  "85470|Brem-sur-Mer": {
+    "insee_code": "85243",
+    "commune_name": "Brem-sur-Mer"
+  },
+  "85470|Bretignolles-sur-Mer": {
+    "insee_code": "85035",
+    "commune_name": "Bretignolles-sur-Mer"
+  },
+  "85480|Bournezeau": {
+    "insee_code": "85034",
+    "commune_name": "Bournezeau"
+  },
+  "85480|Fougeré": {
+    "insee_code": "85093",
+    "commune_name": "Fougeré"
+  },
+  "85480|Saint-Hilaire-le-Vouhis": {
+    "insee_code": "85232",
+    "commune_name": "Saint-Hilaire-le-Vouhis"
+  },
+  "85480|Thorigny": {
+    "insee_code": "85291",
+    "commune_name": "Thorigny"
+  },
+  "85490|Benet": {
+    "insee_code": "85020",
+    "commune_name": "Benet"
+  },
+  "85500|Beaurepaire": {
+    "insee_code": "85017",
+    "commune_name": "Beaurepaire"
+  },
+  "85500|Chanverrie": {
+    "insee_code": "85302",
+    "commune_name": "Chanverrie"
+  },
+  "85500|Les Herbiers": {
+    "insee_code": "85109",
+    "commune_name": "Les Herbiers"
+  },
+  "85500|Mesnard-la-Barotière": {
+    "insee_code": "85144",
+    "commune_name": "Mesnard-la-Barotière"
+  },
+  "85500|Saint-Paul-en-Pareds": {
+    "insee_code": "85259",
+    "commune_name": "Saint-Paul-en-Pareds"
+  },
+  "85510|Le Boupère": {
+    "insee_code": "85031",
+    "commune_name": "Le Boupère"
+  },
+  "85510|Rochetrejoux": {
+    "insee_code": "85192",
+    "commune_name": "Rochetrejoux"
+  },
+  "85520|Jard-sur-Mer": {
+    "insee_code": "85114",
+    "commune_name": "Jard-sur-Mer"
+  },
+  "85520|Saint-Vincent-sur-Jard": {
+    "insee_code": "85278",
+    "commune_name": "Saint-Vincent-sur-Jard"
+  },
+  "85530|La Bruffière": {
+    "insee_code": "85039",
+    "commune_name": "La Bruffière"
+  },
+  "85540|Curzon": {
+    "insee_code": "85077",
+    "commune_name": "Curzon"
+  },
+  "85540|Le Champ-Saint-Père": {
+    "insee_code": "85050",
+    "commune_name": "Le Champ-Saint-Père"
+  },
+  "85540|Moutiers-les-Mauxfaits": {
+    "insee_code": "85156",
+    "commune_name": "Moutiers-les-Mauxfaits"
+  },
+  "85540|Saint-Avaugourd-des-Landes": {
+    "insee_code": "85200",
+    "commune_name": "Saint-Avaugourd-des-Landes"
+  },
+  "85540|Saint-Vincent-sur-Graon": {
+    "insee_code": "85277",
+    "commune_name": "Saint-Vincent-sur-Graon"
+  },
+  "85550|La Barre-de-Monts": {
+    "insee_code": "85012",
+    "commune_name": "La Barre-de-Monts"
+  },
+  "85560|Le Bernard": {
+    "insee_code": "85022",
+    "commune_name": "Le Bernard"
+  },
+  "85560|Longeville-sur-Mer": {
+    "insee_code": "85127",
+    "commune_name": "Longeville-sur-Mer"
+  },
+  "85570|L'Hermenault": {
+    "insee_code": "85110",
+    "commune_name": "L'Hermenault"
+  },
+  "85570|Petosse": {
+    "insee_code": "85174",
+    "commune_name": "Petosse"
+  },
+  "85570|Pouillé": {
+    "insee_code": "85181",
+    "commune_name": "Pouillé"
+  },
+  "85570|Saint-Valérien": {
+    "insee_code": "85274",
+    "commune_name": "Saint-Valérien"
+  },
+  "85580|Saint-Michel-en-l'Herm": {
+    "insee_code": "85255",
+    "commune_name": "Saint-Michel-en-l'Herm"
+  },
+  "85580|Triaize": {
+    "insee_code": "85297",
+    "commune_name": "Triaize"
+  },
+  "85590|Les Epesses": {
+    "insee_code": "85082",
+    "commune_name": "Les Epesses"
+  },
+  "85590|Saint-Malô-du-Bois": {
+    "insee_code": "85240",
+    "commune_name": "Saint-Malô-du-Bois"
+  },
+  "85590|Saint-Mars-la-Réorthe": {
+    "insee_code": "85242",
+    "commune_name": "Saint-Mars-la-Réorthe"
+  },
+  "85590|Treize-Vents": {
+    "insee_code": "85296",
+    "commune_name": "Treize-Vents"
+  },
+  "85600|La Boissière-de-Montaigu": {
+    "insee_code": "85025",
+    "commune_name": "La Boissière-de-Montaigu"
+  },
+  "85600|Montaigu-Vendée": {
+    "insee_code": "85146",
+    "commune_name": "Montaigu-Vendée"
+  },
+  "85600|Treize-Septiers": {
+    "insee_code": "85295",
+    "commune_name": "Treize-Septiers"
+  },
+  "85610|Cugand-la-Bernardière": {
+    "insee_code": "85076",
+    "commune_name": "Cugand-la-Bernardière"
+  },
+  "85620|Rocheservière": {
+    "insee_code": "85190",
+    "commune_name": "Rocheservière"
+  },
+  "85630|Barbâtre": {
+    "insee_code": "85011",
+    "commune_name": "Barbâtre"
+  },
+  "85640|Mouchamps": {
+    "insee_code": "85153",
+    "commune_name": "Mouchamps"
+  },
+  "85660|Saint-Philbert-de-Bouaine": {
+    "insee_code": "85262",
+    "commune_name": "Saint-Philbert-de-Bouaine"
+  },
+  "85670|Falleron": {
+    "insee_code": "85086",
+    "commune_name": "Falleron"
+  },
+  "85670|Grand'Landes": {
+    "insee_code": "85102",
+    "commune_name": "Grand'Landes"
+  },
+  "85670|La Chapelle-Palluau": {
+    "insee_code": "85055",
+    "commune_name": "La Chapelle-Palluau"
+  },
+  "85670|Palluau": {
+    "insee_code": "85169",
+    "commune_name": "Palluau"
+  },
+  "85670|Saint-Christophe-du-Ligneron": {
+    "insee_code": "85204",
+    "commune_name": "Saint-Christophe-du-Ligneron"
+  },
+  "85670|Saint-Etienne-du-Bois": {
+    "insee_code": "85055",
+    "commune_name": "La Chapelle-Palluau"
+  },
+  "85670|Saint-Paul-Mont-Penit": {
+    "insee_code": "85260",
+    "commune_name": "Saint-Paul-Mont-Penit"
+  },
+  "85680|La Guérinière": {
+    "insee_code": "85106",
+    "commune_name": "La Guérinière"
+  },
+  "85690|Notre-Dame-de-Monts": {
+    "insee_code": "85164",
+    "commune_name": "Notre-Dame-de-Monts"
+  },
+  "85700|La Meilleraie-Tillay": {
+    "insee_code": "85140",
+    "commune_name": "La Meilleraie-Tillay"
+  },
+  "85700|Menomblet": {
+    "insee_code": "85141",
+    "commune_name": "Menomblet"
+  },
+  "85700|Montournais": {
+    "insee_code": "85147",
+    "commune_name": "Montournais"
+  },
+  "85700|Pouzauges": {
+    "insee_code": "85182",
+    "commune_name": "Pouzauges"
+  },
+  "85700|Réaumur": {
+    "insee_code": "85187",
+    "commune_name": "Réaumur"
+  },
+  "85700|Saint-Mesmin": {
+    "insee_code": "85254",
+    "commune_name": "Saint-Mesmin"
+  },
+  "85700|Sèvremont": {
+    "insee_code": "85090",
+    "commune_name": "Sèvremont"
+  },
+  "85710|Bois-de-Céné": {
+    "insee_code": "85024",
+    "commune_name": "Bois-de-Céné"
+  },
+  "85710|Châteauneuf": {
+    "insee_code": "85062",
+    "commune_name": "Châteauneuf"
+  },
+  "85710|La Garnache": {
+    "insee_code": "85096",
+    "commune_name": "La Garnache"
+  },
+  "85740|L'Epine": {
+    "insee_code": "85083",
+    "commune_name": "L'Épine"
+  },
+  "85750|Angles": {
+    "insee_code": "85004",
+    "commune_name": "Angles"
+  },
+  "85770|L'Ile-d'Elle": {
+    "insee_code": "85105",
+    "commune_name": "Le Gué-de-Velluire"
+  },
+  "85770|Le Gué-de-Velluire": {
+    "insee_code": "85105",
+    "commune_name": "Le Gué-de-Velluire"
+  },
+  "85770|Les Velluire-sur-Vendée": {
+    "insee_code": "85177",
+    "commune_name": "Les Velluire-sur-Vendée"
+  },
+  "85770|Vix": {
+    "insee_code": "85303",
+    "commune_name": "Vix"
+  },
+  "85800|Givrand": {
+    "insee_code": "85100",
+    "commune_name": "Givrand"
+  },
+  "85800|Le Fenouiller": {
+    "insee_code": "85088",
+    "commune_name": "Le Fenouiller"
+  },
+  "85800|Saint-Gilles-Croix-de-Vie": {
+    "insee_code": "85222",
+    "commune_name": "Saint-Gilles-Croix-de-Vie"
+  }
+}

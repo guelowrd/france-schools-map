@@ -1,0 +1,6102 @@
+{
+  "53011": {
+    "first_name": "Loïc",
+    "last_name": "DEROUET",
+    "party": null
+  },
+  "53114": {
+    "first_name": "Eric",
+    "last_name": "NEVEU",
+    "party": null
+  },
+  "53131": {
+    "first_name": "Jean-Paul",
+    "last_name": "GAHÉRY",
+    "party": null
+  },
+  "53140": {
+    "first_name": "Sylvie",
+    "last_name": "VIELLE",
+    "party": null
+  },
+  "53211": {
+    "first_name": "Thierry",
+    "last_name": "CHRETIEN",
+    "party": null
+  },
+  "53229": {
+    "first_name": "Olivier",
+    "last_name": "BARRÉ",
+    "party": null
+  },
+  "44054": {
+    "first_name": "Isabelle",
+    "last_name": "DUFOURD-BOUCHET",
+    "party": null
+  },
+  "44143": {
+    "first_name": "Agnès",
+    "last_name": "BOURGEAIS",
+    "party": null
+  },
+  "44204": {
+    "first_name": "Martine",
+    "last_name": "OGER",
+    "party": null
+  },
+  "49030": {
+    "first_name": "Jean-Philippe",
+    "last_name": "RETIF",
+    "party": null
+  },
+  "49035": {
+    "first_name": "Véronique",
+    "last_name": "MAILLET",
+    "party": null
+  },
+  "49069": {
+    "first_name": "André",
+    "last_name": "MARTIN",
+    "party": null
+  },
+  "49192": {
+    "first_name": "Dominique",
+    "last_name": "HERVÉ",
+    "party": null
+  },
+  "49283": {
+    "first_name": "Philippe",
+    "last_name": "MAILLART",
+    "party": null
+  },
+  "49308": {
+    "first_name": "Dominique",
+    "last_name": "FOREST",
+    "party": null
+  },
+  "49343": {
+    "first_name": "Dominique",
+    "last_name": "LANDREAU",
+    "party": null
+  },
+  "49370": {
+    "first_name": "Gilles",
+    "last_name": "BARDIN",
+    "party": null
+  },
+  "53053": {
+    "first_name": "Gaël",
+    "last_name": "GRINGOIRE",
+    "party": null
+  },
+  "53056": {
+    "first_name": "Isabelle",
+    "last_name": "FOUGERAY",
+    "party": null
+  },
+  "53071": {
+    "first_name": "Edith",
+    "last_name": "DIVARET",
+    "party": null
+  },
+  "53085": {
+    "first_name": "Loïc",
+    "last_name": "DE POIX",
+    "party": null
+  },
+  "53090": {
+    "first_name": "Odile Marie Fernande Germaine",
+    "last_name": "GOHIER",
+    "party": null
+  },
+  "53119": {
+    "first_name": "Jean-Pierre",
+    "last_name": "THIOT",
+    "party": null
+  },
+  "53169": {
+    "first_name": "Eric",
+    "last_name": "MORAND",
+    "party": null
+  },
+  "53191": {
+    "first_name": "Gaétan",
+    "last_name": "CHADELAUD",
+    "party": null
+  },
+  "53265": {
+    "first_name": "Joëlle",
+    "last_name": "BLANCHARD",
+    "party": null
+  },
+  "53276": {
+    "first_name": "Dominique",
+    "last_name": "RICHARD",
+    "party": null
+  },
+  "72031": {
+    "first_name": "Arnault",
+    "last_name": "DE CALONNE",
+    "party": null
+  },
+  "72107": {
+    "first_name": "Francis",
+    "last_name": "COSNET",
+    "party": null
+  },
+  "72157": {
+    "first_name": "Rémy",
+    "last_name": "MAUBOUSSIN",
+    "party": null
+  },
+  "72163": {
+    "first_name": "Philippe",
+    "last_name": "BIAUD",
+    "party": null
+  },
+  "72198": {
+    "first_name": "Anita",
+    "last_name": "BUROT",
+    "party": null
+  },
+  "72201": {
+    "first_name": "Éric",
+    "last_name": "GUILMIN",
+    "party": null
+  },
+  "72220": {
+    "first_name": "Anita",
+    "last_name": "MERCURIN",
+    "party": null
+  },
+  "72230": {
+    "first_name": "Joël",
+    "last_name": "LEPROUX",
+    "party": null
+  },
+  "72272": {
+    "first_name": "Yves",
+    "last_name": "FOUCAULT",
+    "party": null
+  },
+  "72297": {
+    "first_name": "Agnès",
+    "last_name": "DUBOIS-SCHMITT",
+    "party": null
+  },
+  "72314": {
+    "first_name": "Evelyne",
+    "last_name": "BRANCHU",
+    "party": null
+  },
+  "72345": {
+    "first_name": "Alain",
+    "last_name": "DUTERTRE",
+    "party": null
+  },
+  "72346": {
+    "first_name": "Emmanuel",
+    "last_name": "D'AILLIÈRES",
+    "party": null
+  },
+  "72363": {
+    "first_name": "Régis",
+    "last_name": "BOURNEUF",
+    "party": null
+  },
+  "72367": {
+    "first_name": "Dany",
+    "last_name": "PARIS",
+    "party": null
+  },
+  "85051": {
+    "first_name": "Isabelle",
+    "last_name": "MOINET",
+    "party": null
+  },
+  "85113": {
+    "first_name": "Carole",
+    "last_name": "CHARUAU",
+    "party": null
+  },
+  "85207": {
+    "first_name": "Gaëlle",
+    "last_name": "FLEURY",
+    "party": null
+  },
+  "44002": {
+    "first_name": "Jean-Guy",
+    "last_name": "CORNU",
+    "party": null
+  },
+  "44050": {
+    "first_name": "Olivier",
+    "last_name": "DEMARTY",
+    "party": null
+  },
+  "44079": {
+    "first_name": "Christophe",
+    "last_name": "RICHARD",
+    "party": null
+  },
+  "44099": {
+    "first_name": "Patrick",
+    "last_name": "GALIVEL",
+    "party": null
+  },
+  "44106": {
+    "first_name": "Pascale",
+    "last_name": "BRIAND",
+    "party": null
+  },
+  "44136": {
+    "first_name": "Claude",
+    "last_name": "CAUDAL",
+    "party": null
+  },
+  "44148": {
+    "first_name": "Anita",
+    "last_name": "BONNIER",
+    "party": null
+  },
+  "44201": {
+    "first_name": "Julien",
+    "last_name": "LE MÉTAYER",
+    "party": null
+  },
+  "49009": {
+    "first_name": "Éric",
+    "last_name": "MOUSSERION",
+    "party": null
+  },
+  "49076": {
+    "first_name": "Jean-Paul",
+    "last_name": "BOMPAS",
+    "party": null
+  },
+  "49219": {
+    "first_name": "Jacky-Jean-Marc",
+    "last_name": "MARCHAND",
+    "party": null
+  },
+  "49228": {
+    "first_name": "Adrien",
+    "last_name": "DENIS",
+    "party": null
+  },
+  "49323": {
+    "first_name": "Geneviève",
+    "last_name": "STALL",
+    "party": null
+  },
+  "49329": {
+    "first_name": "Jérémy",
+    "last_name": "GIRAULT",
+    "party": null
+  },
+  "49334": {
+    "first_name": "Gildas",
+    "last_name": "MAREK",
+    "party": null
+  },
+  "85046": {
+    "first_name": "Yannick",
+    "last_name": "DAVID",
+    "party": null
+  },
+  "85073": {
+    "first_name": "Nathalie",
+    "last_name": "ARTAILLOU",
+    "party": null
+  },
+  "85080": {
+    "first_name": "Lionel",
+    "last_name": "PAGEAUD",
+    "party": null
+  },
+  "85139": {
+    "first_name": "Bernard",
+    "last_name": "BORDET",
+    "party": null
+  },
+  "85147": {
+    "first_name": "Dominique",
+    "last_name": "MARTIN",
+    "party": null
+  },
+  "85157": {
+    "first_name": "Didier",
+    "last_name": "FORGERIT",
+    "party": null
+  },
+  "85163": {
+    "first_name": "Yan",
+    "last_name": "BALAT",
+    "party": null
+  },
+  "85251": {
+    "first_name": "Christian",
+    "last_name": "GUENION",
+    "party": null
+  },
+  "85291": {
+    "first_name": "Alexandra",
+    "last_name": "GABORIAU",
+    "party": null
+  },
+  "85300": {
+    "first_name": "Laurent",
+    "last_name": "FAVREAU",
+    "party": null
+  },
+  "72074": {
+    "first_name": "Jean-Paul",
+    "last_name": "COQUILLE",
+    "party": null
+  },
+  "72090": {
+    "first_name": "Arnaud",
+    "last_name": "MONGELLA",
+    "party": null
+  },
+  "72169": {
+    "first_name": "Noël",
+    "last_name": "TELLIER",
+    "party": null
+  },
+  "72209": {
+    "first_name": "Marie-France",
+    "last_name": "GUYON",
+    "party": null
+  },
+  "72244": {
+    "first_name": "Jean-François",
+    "last_name": "ZALESNY",
+    "party": null
+  },
+  "72259": {
+    "first_name": "Pascal",
+    "last_name": "CHAMPCLOU",
+    "party": null
+  },
+  "72286": {
+    "first_name": "Christian",
+    "last_name": "DUPIN",
+    "party": null
+  },
+  "72330": {
+    "first_name": "Lydia",
+    "last_name": "ROBINEAU",
+    "party": null
+  },
+  "72352": {
+    "first_name": "Gaëlle",
+    "last_name": "TISON",
+    "party": null
+  },
+  "72368": {
+    "first_name": "Hubert",
+    "last_name": "PARIS",
+    "party": null
+  },
+  "44020": {
+    "first_name": "Sandra",
+    "last_name": "IMPERIALE",
+    "party": null
+  },
+  "44051": {
+    "first_name": "Dominique",
+    "last_name": "DAVID",
+    "party": null
+  },
+  "44072": {
+    "first_name": "Christelle",
+    "last_name": "CHASSÉ",
+    "party": null
+  },
+  "44076": {
+    "first_name": "Marie-Irène",
+    "last_name": "BOUIN",
+    "party": null
+  },
+  "44080": {
+    "first_name": "Claire",
+    "last_name": "TRAMIER",
+    "party": null
+  },
+  "44088": {
+    "first_name": "Aymar",
+    "last_name": "RIVALLIN",
+    "party": null
+  },
+  "44129": {
+    "first_name": "Danielle",
+    "last_name": "CORNET",
+    "party": null
+  },
+  "44141": {
+    "first_name": "Anne",
+    "last_name": "CHOBLET",
+    "party": null
+  },
+  "44173": {
+    "first_name": "Janik",
+    "last_name": "RIVIERE",
+    "party": null
+  },
+  "44184": {
+    "first_name": "David",
+    "last_name": "SAMZUN",
+    "party": null
+  },
+  "44203": {
+    "first_name": "Pascal",
+    "last_name": "MARTIN",
+    "party": null
+  },
+  "44211": {
+    "first_name": "Didier",
+    "last_name": "CADRO",
+    "party": null
+  },
+  "53007": {
+    "first_name": "Christian",
+    "last_name": "LEFORT",
+    "party": null
+  },
+  "53038": {
+    "first_name": "Yves",
+    "last_name": "LEGAY",
+    "party": null
+  },
+  "53111": {
+    "first_name": "Didier",
+    "last_name": "BETTON",
+    "party": null
+  },
+  "53112": {
+    "first_name": "Diane",
+    "last_name": "ROULAND",
+    "party": null
+  },
+  "53139": {
+    "first_name": "Dominique",
+    "last_name": "BOURGAULT",
+    "party": null
+  },
+  "53142": {
+    "first_name": "Bernard",
+    "last_name": "BLANCHARD",
+    "party": null
+  },
+  "49161": {
+    "first_name": "Vincent",
+    "last_name": "REBILLARD",
+    "party": null
+  },
+  "49241": {
+    "first_name": "Philippe",
+    "last_name": "ABELLARD",
+    "party": null
+  },
+  "49328": {
+    "first_name": "Jackie",
+    "last_name": "GOULET",
+    "party": null
+  },
+  "85023": {
+    "first_name": "Jean-Marie",
+    "last_name": "SOULARD",
+    "party": null
+  },
+  "85090": {
+    "first_name": "Jean-Louis",
+    "last_name": "ROY",
+    "party": null
+  },
+  "85127": {
+    "first_name": "Annick",
+    "last_name": "PASQUEREAU",
+    "party": null
+  },
+  "85151": {
+    "first_name": "Alain",
+    "last_name": "BROCHOIRE",
+    "party": null
+  },
+  "85153": {
+    "first_name": "Patrick",
+    "last_name": "MANDIN",
+    "party": null
+  },
+  "85156": {
+    "first_name": "Christian",
+    "last_name": "AIMÉ",
+    "party": null
+  },
+  "85222": {
+    "first_name": "François",
+    "last_name": "BLANCHET",
+    "party": null
+  },
+  "85223": {
+    "first_name": "Philippe",
+    "last_name": "BARRÉ",
+    "party": null
+  },
+  "85236": {
+    "first_name": "Joël",
+    "last_name": "BRET",
+    "party": null
+  },
+  "85277": {
+    "first_name": "Jannick",
+    "last_name": "RABILLÉ",
+    "party": null
+  },
+  "85298": {
+    "first_name": "Michel",
+    "last_name": "CHAILLOUX",
+    "party": null
+  },
+  "72022": {
+    "first_name": "Eric",
+    "last_name": "DAVID",
+    "party": null
+  },
+  "72032": {
+    "first_name": "Louis",
+    "last_name": "POTTIER",
+    "party": null
+  },
+  "72052": {
+    "first_name": "Dominique",
+    "last_name": "PETER",
+    "party": null
+  },
+  "72056": {
+    "first_name": "Brigitte",
+    "last_name": "ZENITER",
+    "party": null
+  },
+  "72086": {
+    "first_name": "Christian",
+    "last_name": "CHEDHOMME",
+    "party": null
+  },
+  "72087": {
+    "first_name": "Renaud",
+    "last_name": "GAUTHIER",
+    "party": null
+  },
+  "72105": {
+    "first_name": "Thierry",
+    "last_name": "RENVOIZÉ",
+    "party": null
+  },
+  "72110": {
+    "first_name": "Jean-Yves",
+    "last_name": "DENIS",
+    "party": null
+  },
+  "72115": {
+    "first_name": "Gérard",
+    "last_name": "RICHARD",
+    "party": null
+  },
+  "72120": {
+    "first_name": "Pascal",
+    "last_name": "CHESNEAU",
+    "party": null
+  },
+  "72124": {
+    "first_name": "Sébastien",
+    "last_name": "GOUHIER",
+    "party": null
+  },
+  "72257": {
+    "first_name": "Laurent",
+    "last_name": "PARIS",
+    "party": null
+  },
+  "72313": {
+    "first_name": "Michel",
+    "last_name": "CHED'HOMME",
+    "party": null
+  },
+  "72328": {
+    "first_name": "Marcel",
+    "last_name": "MORTREAU",
+    "party": null
+  },
+  "53021": {
+    "first_name": "Pascal",
+    "last_name": "RENARD",
+    "party": null
+  },
+  "53039": {
+    "first_name": "François",
+    "last_name": "BERROU",
+    "party": null
+  },
+  "53049": {
+    "first_name": "Loïc",
+    "last_name": "BROUSSEY",
+    "party": null
+  },
+  "53082": {
+    "first_name": "Jean-Noël",
+    "last_name": "AMBROIS",
+    "party": null
+  },
+  "53117": {
+    "first_name": "Jean-Marie",
+    "last_name": "GIGAN",
+    "party": null
+  },
+  "85082": {
+    "first_name": "Jean-Louis",
+    "last_name": "LAUNAY",
+    "party": null
+  },
+  "85092": {
+    "first_name": "Ludovic",
+    "last_name": "HOCBON",
+    "party": null
+  },
+  "85105": {
+    "first_name": "Joseph",
+    "last_name": "MARQUIS",
+    "party": null
+  },
+  "85112": {
+    "first_name": "Fabrice",
+    "last_name": "CHABOT",
+    "party": null
+  },
+  "85160": {
+    "first_name": "Thierry",
+    "last_name": "GANACHAUD",
+    "party": null
+  },
+  "85199": {
+    "first_name": "Dominique",
+    "last_name": "GAUVREAU",
+    "party": null
+  },
+  "85206": {
+    "first_name": "Nicolas",
+    "last_name": "PASSCHIER",
+    "party": null
+  },
+  "85213": {
+    "first_name": "Christophe",
+    "last_name": "HERMOUET",
+    "party": null
+  },
+  "85227": {
+    "first_name": "Marie-Line",
+    "last_name": "PERRIN",
+    "party": null
+  },
+  "85239": {
+    "first_name": "Jean",
+    "last_name": "SOYER",
+    "party": null
+  },
+  "85243": {
+    "first_name": "Yann",
+    "last_name": "THOMAS",
+    "party": null
+  },
+  "85262": {
+    "first_name": "Francis",
+    "last_name": "BRETON",
+    "party": null
+  },
+  "72060": {
+    "first_name": "Emile",
+    "last_name": "GUILLON",
+    "party": null
+  },
+  "72164": {
+    "first_name": "Bruno",
+    "last_name": "GESLIN",
+    "party": null
+  },
+  "72214": {
+    "first_name": "Annick",
+    "last_name": "LEROI",
+    "party": null
+  },
+  "72236": {
+    "first_name": "Nicole",
+    "last_name": "FOUCAULT",
+    "party": null
+  },
+  "72254": {
+    "first_name": "Patrick",
+    "last_name": "PALMAS",
+    "party": null
+  },
+  "72260": {
+    "first_name": "Carole",
+    "last_name": "HEULOT",
+    "party": null
+  },
+  "72262": {
+    "first_name": "Galiène",
+    "last_name": "COHU",
+    "party": null
+  },
+  "72296": {
+    "first_name": "Éric",
+    "last_name": "BARBIER",
+    "party": null
+  },
+  "72332": {
+    "first_name": "Francis",
+    "last_name": "LEPINETTE",
+    "party": null
+  },
+  "72350": {
+    "first_name": "Gérard",
+    "last_name": "LAMBERT",
+    "party": null
+  },
+  "44001": {
+    "first_name": "Simone",
+    "last_name": "BURON",
+    "party": null
+  },
+  "44003": {
+    "first_name": "Rémy Marie Yves René",
+    "last_name": "ORHON",
+    "party": null
+  },
+  "44010": {
+    "first_name": "Marie-Catherine",
+    "last_name": "LEHUÉDÉ",
+    "party": null
+  },
+  "44126": {
+    "first_name": "Séverine",
+    "last_name": "MARCHAND",
+    "party": null
+  },
+  "49010": {
+    "first_name": "Emmanuelle",
+    "last_name": "GALISSON",
+    "party": null
+  },
+  "49058": {
+    "first_name": "Joël",
+    "last_name": "POUPARD",
+    "party": null
+  },
+  "49201": {
+    "first_name": "Tony",
+    "last_name": "GUERY",
+    "party": null
+  },
+  "49288": {
+    "first_name": "Hugues",
+    "last_name": "VAULERIN",
+    "party": null
+  },
+  "49336": {
+    "first_name": "Sébastien",
+    "last_name": "CRÉTIN",
+    "party": null
+  },
+  "49353": {
+    "first_name": "Lamine",
+    "last_name": "NAHAM",
+    "party": null
+  },
+  "49355": {
+    "first_name": "Jacqueline",
+    "last_name": "DELAUNAY",
+    "party": null
+  },
+  "49358": {
+    "first_name": "Christian",
+    "last_name": "GALLÉ",
+    "party": null
+  },
+  "44066": {
+    "first_name": "François",
+    "last_name": "OUVRARD",
+    "party": null
+  },
+  "44085": {
+    "first_name": "Alain",
+    "last_name": "GUILLOIS",
+    "party": null
+  },
+  "44098": {
+    "first_name": "Jean-Louis",
+    "last_name": "MOGAN",
+    "party": null
+  },
+  "44104": {
+    "first_name": "Joël",
+    "last_name": "JAMIN",
+    "party": null
+  },
+  "44111": {
+    "first_name": "Jean-Paul",
+    "last_name": "NAUD",
+    "party": null
+  },
+  "53008": {
+    "first_name": "Étienne",
+    "last_name": "GIFFARD",
+    "party": null
+  },
+  "53031": {
+    "first_name": "Véronica",
+    "last_name": "BIGNON",
+    "party": null
+  },
+  "53045": {
+    "first_name": "Jean-Louis",
+    "last_name": "DEULOFEU",
+    "party": null
+  },
+  "53052": {
+    "first_name": "Patrick",
+    "last_name": "PIQUET",
+    "party": null
+  },
+  "53089": {
+    "first_name": "Catherine",
+    "last_name": "DELARUE",
+    "party": null
+  },
+  "53091": {
+    "first_name": "Bruno",
+    "last_name": "LESTAS",
+    "party": null
+  },
+  "53099": {
+    "first_name": "Annette",
+    "last_name": "CHESNEL",
+    "party": null
+  },
+  "53124": {
+    "first_name": "Serge",
+    "last_name": "GUILAUME",
+    "party": null
+  },
+  "53135": {
+    "first_name": "Michel",
+    "last_name": "RAIMBAULT",
+    "party": null
+  },
+  "53249": {
+    "first_name": "Xavier",
+    "last_name": "SEIGNEURET",
+    "party": null
+  },
+  "49021": {
+    "first_name": "Alain",
+    "last_name": "DOZIAS",
+    "party": null
+  },
+  "49109": {
+    "first_name": "Xavier",
+    "last_name": "TESTARD",
+    "party": null
+  },
+  "49138": {
+    "first_name": "Sandro",
+    "last_name": "GENDRON",
+    "party": null
+  },
+  "49200": {
+    "first_name": "Jean-Pierre",
+    "last_name": "HÉBÉ",
+    "party": null
+  },
+  "49260": {
+    "first_name": "Josette",
+    "last_name": "GUITTON",
+    "party": null
+  },
+  "44101": {
+    "first_name": "Fabien",
+    "last_name": "GRACIA",
+    "party": null
+  },
+  "44163": {
+    "first_name": "Amélie",
+    "last_name": "CORNILLEAU",
+    "party": null
+  },
+  "44199": {
+    "first_name": "Jean-Claude",
+    "last_name": "DESGUÉS",
+    "party": null
+  },
+  "44212": {
+    "first_name": "Jérôme",
+    "last_name": "MARCHAIS",
+    "party": null
+  },
+  "72016": {
+    "first_name": "Jean-Louis",
+    "last_name": "LEMAITRE",
+    "party": null
+  },
+  "72024": {
+    "first_name": "Michel",
+    "last_name": "LALANDE",
+    "party": null
+  },
+  "72066": {
+    "first_name": "Sonia",
+    "last_name": "MOINET",
+    "party": null
+  },
+  "72076": {
+    "first_name": "Joseph",
+    "last_name": "LAMBERT",
+    "party": null
+  },
+  "72131": {
+    "first_name": "Dominique",
+    "last_name": "DHUMEAUX",
+    "party": null
+  },
+  "72136": {
+    "first_name": "Monique",
+    "last_name": "LHOPITAL",
+    "party": null
+  },
+  "72137": {
+    "first_name": "André",
+    "last_name": "TROTTET",
+    "party": null
+  },
+  "72174": {
+    "first_name": "Jean-Yves",
+    "last_name": "LETAY",
+    "party": null
+  },
+  "72180": {
+    "first_name": "Frederic",
+    "last_name": "BEAUCHEF",
+    "party": null
+  },
+  "72192": {
+    "first_name": "Yveline",
+    "last_name": "ASSIER",
+    "party": null
+  },
+  "72253": {
+    "first_name": "Catherine",
+    "last_name": "TAUREAU",
+    "party": null
+  },
+  "72270": {
+    "first_name": "Jean-Marie",
+    "last_name": "CENEE",
+    "party": null
+  },
+  "72277": {
+    "first_name": "Jean-Yves",
+    "last_name": "HERMELINE",
+    "party": null
+  },
+  "72302": {
+    "first_name": "Patricia",
+    "last_name": "EDET",
+    "party": null
+  },
+  "72305": {
+    "first_name": "Jean-Louis",
+    "last_name": "CLEMENT",
+    "party": null
+  },
+  "72308": {
+    "first_name": "Joël",
+    "last_name": "TOUCHARD",
+    "party": null
+  },
+  "72348": {
+    "first_name": "Gaetan",
+    "last_name": "VALLÉE",
+    "party": null
+  },
+  "72374": {
+    "first_name": "Serge",
+    "last_name": "COLIN",
+    "party": null
+  },
+  "85002": {
+    "first_name": "André",
+    "last_name": "COQUELIN",
+    "party": null
+  },
+  "85003": {
+    "first_name": "Franck",
+    "last_name": "ROY",
+    "party": null
+  },
+  "85024": {
+    "first_name": "Yoann",
+    "last_name": "GRALL",
+    "party": null
+  },
+  "85042": {
+    "first_name": "Antoine",
+    "last_name": "MÉTAIS",
+    "party": null
+  },
+  "85056": {
+    "first_name": "David",
+    "last_name": "PELLETIER",
+    "party": null
+  },
+  "85058": {
+    "first_name": "Gérard",
+    "last_name": "PRAUD",
+    "party": null
+  },
+  "85116": {
+    "first_name": "Marc",
+    "last_name": "BOUILLAUD",
+    "party": null
+  },
+  "85165": {
+    "first_name": "Jean-Pierre",
+    "last_name": "RATOUIT",
+    "party": null
+  },
+  "85198": {
+    "first_name": "Hervé",
+    "last_name": "BRÉJON",
+    "party": null
+  },
+  "85209": {
+    "first_name": "Jackie",
+    "last_name": "MARCHETEAU",
+    "party": null
+  },
+  "85289": {
+    "first_name": "Damien",
+    "last_name": "CRABEIL",
+    "party": null
+  },
+  "72036": {
+    "first_name": "Gérard",
+    "last_name": "VIEILLEPEAU",
+    "party": null
+  },
+  "72095": {
+    "first_name": "Christophe",
+    "last_name": "ROUILLON",
+    "party": null
+  },
+  "72135": {
+    "first_name": "Christophe",
+    "last_name": "LIBERT",
+    "party": null
+  },
+  "72149": {
+    "first_name": "Régis",
+    "last_name": "NOIR",
+    "party": null
+  },
+  "72160": {
+    "first_name": "Laurent",
+    "last_name": "TOUET",
+    "party": null
+  },
+  "72161": {
+    "first_name": "Philippe",
+    "last_name": "WEHRLÉ",
+    "party": null
+  },
+  "72190": {
+    "first_name": "Annie",
+    "last_name": "JUMERT",
+    "party": null
+  },
+  "72205": {
+    "first_name": "Alain",
+    "last_name": "BESNIER",
+    "party": null
+  },
+  "72269": {
+    "first_name": "Marc",
+    "last_name": "MERCIER",
+    "party": null
+  },
+  "72312": {
+    "first_name": "Florent",
+    "last_name": "PORTAIS",
+    "party": null
+  },
+  "72322": {
+    "first_name": "Thierry",
+    "last_name": "GUERIN",
+    "party": null
+  },
+  "72349": {
+    "first_name": "Michel",
+    "last_name": "MUSSET",
+    "party": null
+  },
+  "72375": {
+    "first_name": "Michel",
+    "last_name": "ODEAU",
+    "party": null
+  },
+  "85022": {
+    "first_name": "Loïc",
+    "last_name": "CHUSSEAU",
+    "party": null
+  },
+  "85033": {
+    "first_name": "Gérard",
+    "last_name": "GUIGNARD",
+    "party": null
+  },
+  "85038": {
+    "first_name": "Emilie",
+    "last_name": "DUPREY",
+    "party": null
+  },
+  "85050": {
+    "first_name": "Jean",
+    "last_name": "FERRAND",
+    "party": null
+  },
+  "85076": {
+    "first_name": "Claude",
+    "last_name": "DURAND",
+    "party": null
+  },
+  "85083": {
+    "first_name": "Dominique",
+    "last_name": "CHANTOIN",
+    "party": null
+  },
+  "85095": {
+    "first_name": "Philippe",
+    "last_name": "GUERIN",
+    "party": null
+  },
+  "85118": {
+    "first_name": "Angie",
+    "last_name": "LEBOEUF",
+    "party": null
+  },
+  "85162": {
+    "first_name": "Michel",
+    "last_name": "BOSSARD",
+    "party": null
+  },
+  "85169": {
+    "first_name": "Marcelle",
+    "last_name": "BARRETEAU",
+    "party": null
+  },
+  "85210": {
+    "first_name": "Guy",
+    "last_name": "AIRIAU",
+    "party": null
+  },
+  "53027": {
+    "first_name": "Eric",
+    "last_name": "SEURIN",
+    "party": null
+  },
+  "53078": {
+    "first_name": "Joël",
+    "last_name": "GADBIN",
+    "party": null
+  },
+  "53098": {
+    "first_name": "Jérôme",
+    "last_name": "BASLE",
+    "party": null
+  },
+  "53101": {
+    "first_name": "Christian",
+    "last_name": "LIVENAIS",
+    "party": null
+  },
+  "53128": {
+    "first_name": "Colette",
+    "last_name": "BRÉHIN",
+    "party": null
+  },
+  "53137": {
+    "first_name": "Bernard",
+    "last_name": "BOURGEAIS",
+    "party": null
+  },
+  "53185": {
+    "first_name": "Denis",
+    "last_name": "GESLAIN",
+    "party": null
+  },
+  "53257": {
+    "first_name": "Jacqueline",
+    "last_name": "LEPAGE",
+    "party": null
+  },
+  "49012": {
+    "first_name": "Pierre",
+    "last_name": "ROBÉ",
+    "party": null
+  },
+  "49188": {
+    "first_name": "Marc",
+    "last_name": "SOREAU",
+    "party": null
+  },
+  "44035": {
+    "first_name": "Laurent",
+    "last_name": "GODET",
+    "party": null
+  },
+  "44039": {
+    "first_name": "Luc",
+    "last_name": "NORMAND",
+    "party": null
+  },
+  "44047": {
+    "first_name": "Carole",
+    "last_name": "GRELAUD",
+    "party": null
+  },
+  "44082": {
+    "first_name": "Maurice",
+    "last_name": "PERRION",
+    "party": null
+  },
+  "44142": {
+    "first_name": "Jérôme",
+    "last_name": "LETOURNEAU",
+    "party": null
+  },
+  "44161": {
+    "first_name": "Jean-François",
+    "last_name": "LEGRAND",
+    "party": null
+  },
+  "44172": {
+    "first_name": "Anthony",
+    "last_name": "DESCLOZIERS",
+    "party": null
+  },
+  "44193": {
+    "first_name": "Alain",
+    "last_name": "RABU",
+    "party": null
+  },
+  "44197": {
+    "first_name": "Bruno",
+    "last_name": "DEBRAY",
+    "party": null
+  },
+  "49332": {
+    "first_name": "Guy",
+    "last_name": "BARRÉ",
+    "party": null
+  },
+  "49374": {
+    "first_name": "Jean-François",
+    "last_name": "MIGLIERINA",
+    "party": null
+  },
+  "72039": {
+    "first_name": "Marie-Laure",
+    "last_name": "PLEVER",
+    "party": null
+  },
+  "72044": {
+    "first_name": "Françoise",
+    "last_name": "FARCY",
+    "party": null
+  },
+  "72089": {
+    "first_name": "Christian",
+    "last_name": "LEMASSON",
+    "party": null
+  },
+  "72094": {
+    "first_name": "Tony",
+    "last_name": "FOULON",
+    "party": null
+  },
+  "72102": {
+    "first_name": "Michel",
+    "last_name": "COUDER",
+    "party": null
+  },
+  "72119": {
+    "first_name": "Patrice",
+    "last_name": "GUYOMARD",
+    "party": null
+  },
+  "72138": {
+    "first_name": "Fabienne",
+    "last_name": "LABRETTE MÉNAGER",
+    "party": null
+  },
+  "72145": {
+    "first_name": "Martine",
+    "last_name": "COTTIN",
+    "party": null
+  },
+  "72151": {
+    "first_name": "Daniel",
+    "last_name": "CHEVALIER",
+    "party": null
+  },
+  "72152": {
+    "first_name": "Francis",
+    "last_name": "CANTILLON",
+    "party": null
+  },
+  "72170": {
+    "first_name": "Olivier",
+    "last_name": "MAURAISIN",
+    "party": null
+  },
+  "72176": {
+    "first_name": "Béatrice",
+    "last_name": "LATOUCHE",
+    "party": null
+  },
+  "72317": {
+    "first_name": "Fabienne",
+    "last_name": "MÉNAGER",
+    "party": null
+  },
+  "72327": {
+    "first_name": "Michel",
+    "last_name": "DUVAL",
+    "party": null
+  },
+  "72359": {
+    "first_name": "Jean-Michel",
+    "last_name": "ROYER",
+    "party": null
+  },
+  "72381": {
+    "first_name": "Martine",
+    "last_name": "COUET",
+    "party": null
+  },
+  "85055": {
+    "first_name": "Xavier",
+    "last_name": "PROUTEAU",
+    "party": null
+  },
+  "85081": {
+    "first_name": "François",
+    "last_name": "GILET",
+    "party": null
+  },
+  "85089": {
+    "first_name": "David",
+    "last_name": "BELY",
+    "party": null
+  },
+  "85101": {
+    "first_name": "Jennifer",
+    "last_name": "LIBAUD",
+    "party": null
+  },
+  "85108": {
+    "first_name": "Anne",
+    "last_name": "BOISTEAU-PAYEN",
+    "party": null
+  },
+  "85152": {
+    "first_name": "Michel",
+    "last_name": "VALLA",
+    "party": null
+  },
+  "85176": {
+    "first_name": "Michel",
+    "last_name": "SAVINEAU",
+    "party": null
+  },
+  "85205": {
+    "first_name": "Francis",
+    "last_name": "RIVIERE",
+    "party": null
+  },
+  "85247": {
+    "first_name": "Alain",
+    "last_name": "LANDREAU",
+    "party": null
+  },
+  "53002": {
+    "first_name": "Guillaume",
+    "last_name": "CHESNEAU",
+    "party": null
+  },
+  "53019": {
+    "first_name": "Jérôme",
+    "last_name": "GASNIER",
+    "party": null
+  },
+  "53094": {
+    "first_name": "Jérôme",
+    "last_name": "ALLAIRE",
+    "party": null
+  },
+  "53106": {
+    "first_name": "Denis",
+    "last_name": "DUVALLET",
+    "party": null
+  },
+  "53168": {
+    "first_name": "Mîckaël",
+    "last_name": "MARQUET",
+    "party": null
+  },
+  "53219": {
+    "first_name": "Gérard",
+    "last_name": "BRODIN",
+    "party": null
+  },
+  "44069": {
+    "first_name": "Nicolas",
+    "last_name": "CRIAUD",
+    "party": null
+  },
+  "44132": {
+    "first_name": "Jean-Claude",
+    "last_name": "PELLETEUR",
+    "party": null
+  },
+  "44152": {
+    "first_name": "Jacques",
+    "last_name": "BOURDIN",
+    "party": null
+  },
+  "44171": {
+    "first_name": "Patrick",
+    "last_name": "GROLIER",
+    "party": null
+  },
+  "44221": {
+    "first_name": "Tiphaine",
+    "last_name": "ARBRUN",
+    "party": null
+  },
+  "49359": {
+    "first_name": "Didier",
+    "last_name": "GUILLAUME",
+    "party": null
+  },
+  "49020": {
+    "first_name": "Yves",
+    "last_name": "COLLIOT",
+    "party": null
+  },
+  "49061": {
+    "first_name": "Anaël",
+    "last_name": "ROBERT",
+    "party": null
+  },
+  "49064": {
+    "first_name": "Jean",
+    "last_name": "PAGIS",
+    "party": null
+  },
+  "49070": {
+    "first_name": "Olivier",
+    "last_name": "RIO",
+    "party": null
+  },
+  "49218": {
+    "first_name": "Christophe",
+    "last_name": "DOUGE",
+    "party": null
+  },
+  "49223": {
+    "first_name": "Jérôme",
+    "last_name": "FOYER",
+    "party": null
+  },
+  "53100": {
+    "first_name": "Jean-Paul",
+    "last_name": "JUIN",
+    "party": null
+  },
+  "53118": {
+    "first_name": "Jean-Paul",
+    "last_name": "COISNON",
+    "party": null
+  },
+  "53134": {
+    "first_name": "Fabrice",
+    "last_name": "SIROT",
+    "party": null
+  },
+  "53143": {
+    "first_name": "Michel",
+    "last_name": "BOURGEAIS",
+    "party": null
+  },
+  "53161": {
+    "first_name": "Benoît",
+    "last_name": "QUINTARD",
+    "party": null
+  },
+  "53181": {
+    "first_name": "Marie-Antoinette",
+    "last_name": "GUESDON",
+    "party": null
+  },
+  "53218": {
+    "first_name": "Bernard",
+    "last_name": "MOULLÉ",
+    "party": null
+  },
+  "53222": {
+    "first_name": "Éric",
+    "last_name": "TRANSON",
+    "party": null
+  },
+  "44007": {
+    "first_name": "Hubert",
+    "last_name": "DU PLESSIS",
+    "party": null
+  },
+  "44089": {
+    "first_name": "Martine",
+    "last_name": "LEJEUNE",
+    "party": null
+  },
+  "44107": {
+    "first_name": "Daniel",
+    "last_name": "GARNIER",
+    "party": null
+  },
+  "44118": {
+    "first_name": "Jean-Michel",
+    "last_name": "CLAUDE",
+    "party": null
+  },
+  "44144": {
+    "first_name": "André",
+    "last_name": "RAITIERE",
+    "party": null
+  },
+  "44188": {
+    "first_name": "Stephan",
+    "last_name": "BEAUGÉ",
+    "party": null
+  },
+  "44214": {
+    "first_name": "Marie-Chantal",
+    "last_name": "GAUTIER",
+    "party": null
+  },
+  "44215": {
+    "first_name": "Rodolphe",
+    "last_name": "AMAILLAND",
+    "party": null
+  },
+  "49017": {
+    "first_name": "Christine",
+    "last_name": "RICHARD",
+    "party": null
+  },
+  "49183": {
+    "first_name": "Michel",
+    "last_name": "BOURCIER",
+    "party": null
+  },
+  "49211": {
+    "first_name": "Philippe",
+    "last_name": "BERNARD",
+    "party": null
+  },
+  "49222": {
+    "first_name": "Joëlle",
+    "last_name": "BAUDONNIERE",
+    "party": null
+  },
+  "49362": {
+    "first_name": "Pierre-Yves",
+    "last_name": "DELAMARE",
+    "party": null
+  },
+  "49367": {
+    "first_name": "Yamina",
+    "last_name": "RIOU",
+    "party": null
+  },
+  "72037": {
+    "first_name": "Fabrice",
+    "last_name": "MEUNIER",
+    "party": null
+  },
+  "72068": {
+    "first_name": "Michel",
+    "last_name": "DUTHEIL",
+    "party": null
+  },
+  "72072": {
+    "first_name": "Jean-Luc",
+    "last_name": "LORIOT",
+    "party": null
+  },
+  "72165": {
+    "first_name": "Alain",
+    "last_name": "GREMILLON",
+    "party": null
+  },
+  "72204": {
+    "first_name": "Sergine",
+    "last_name": "PRIEUR",
+    "party": null
+  },
+  "72215": {
+    "first_name": "Jean-Denis",
+    "last_name": "GUIBERT",
+    "party": null
+  },
+  "72248": {
+    "first_name": "Myriam",
+    "last_name": "MARTINEAU",
+    "party": null
+  },
+  "72281": {
+    "first_name": "Annick",
+    "last_name": "DUTERTRE",
+    "party": null
+  },
+  "72283": {
+    "first_name": "Antony",
+    "last_name": "ROUSSEAU",
+    "party": null
+  },
+  "72292": {
+    "first_name": "Yves",
+    "last_name": "GOULLIER",
+    "party": null
+  },
+  "72326": {
+    "first_name": "Roger",
+    "last_name": "POISSON",
+    "party": null
+  },
+  "72370": {
+    "first_name": "Jean-Marc",
+    "last_name": "RAGOT",
+    "party": null
+  },
+  "85018": {
+    "first_name": "Jean-Yves",
+    "last_name": "BILLON",
+    "party": null
+  },
+  "85126": {
+    "first_name": "Roger",
+    "last_name": "MAROT",
+    "party": null
+  },
+  "85146": {
+    "first_name": "Florent",
+    "last_name": "LIMOUZIN",
+    "party": null
+  },
+  "85148": {
+    "first_name": "Daniel",
+    "last_name": "RIDEAUD",
+    "party": null
+  },
+  "85158": {
+    "first_name": "Roger",
+    "last_name": "BERNARD",
+    "party": null
+  },
+  "85175": {
+    "first_name": "Pascal",
+    "last_name": "PAQUEREAU",
+    "party": null
+  },
+  "85177": {
+    "first_name": "Laurent",
+    "last_name": "DUPAS",
+    "party": null
+  },
+  "85186": {
+    "first_name": "Jérôme",
+    "last_name": "CARVALHO",
+    "party": null
+  },
+  "85269": {
+    "first_name": "Denis",
+    "last_name": "LA MACHE",
+    "party": null
+  },
+  "85295": {
+    "first_name": "Isabelle",
+    "last_name": "RIVIERE",
+    "party": null
+  },
+  "85304": {
+    "first_name": "Jacky",
+    "last_name": "MOTHAIS",
+    "party": null
+  },
+  "44048": {
+    "first_name": "Daniel",
+    "last_name": "PAGEAU",
+    "party": null
+  },
+  "44061": {
+    "first_name": "Sylvain",
+    "last_name": "SCHERER",
+    "party": null
+  },
+  "44083": {
+    "first_name": "Frédéric",
+    "last_name": "LAUNAY",
+    "party": null
+  },
+  "44189": {
+    "first_name": "Michel",
+    "last_name": "PERRAIS",
+    "party": null
+  },
+  "44216": {
+    "first_name": "Nelly",
+    "last_name": "SORIN",
+    "party": null
+  },
+  "44223": {
+    "first_name": "Karine",
+    "last_name": "PAVIZA",
+    "party": null
+  },
+  "44224": {
+    "first_name": "Gwénaël",
+    "last_name": "CRAHÈS",
+    "party": null
+  },
+  "53016": {
+    "first_name": "Marie-Cécile",
+    "last_name": "MORICE",
+    "party": null
+  },
+  "53062": {
+    "first_name": "Philippe",
+    "last_name": "HENRY",
+    "party": null
+  },
+  "53152": {
+    "first_name": "Christian",
+    "last_name": "BOULAY",
+    "party": null
+  },
+  "53250": {
+    "first_name": "Clément",
+    "last_name": "BEUCHER",
+    "party": null
+  },
+  "49171": {
+    "first_name": "Jean-Christophe Émile",
+    "last_name": "ROUXEL",
+    "party": null
+  },
+  "49209": {
+    "first_name": "Gérard",
+    "last_name": "CHASSOULIER",
+    "party": null
+  },
+  "49214": {
+    "first_name": "Benoît",
+    "last_name": "COCHET",
+    "party": null
+  },
+  "49217": {
+    "first_name": "Vincent",
+    "last_name": "VIGNAIS",
+    "party": null
+  },
+  "49221": {
+    "first_name": "Alain",
+    "last_name": "BOURDIN",
+    "party": null
+  },
+  "49253": {
+    "first_name": "Isabelle",
+    "last_name": "ISABELLON",
+    "party": null
+  },
+  "49284": {
+    "first_name": "Nicolas",
+    "last_name": "BENETTA",
+    "party": null
+  },
+  "49330": {
+    "first_name": "Joël",
+    "last_name": "ESNAULT",
+    "party": null
+  },
+  "72003": {
+    "first_name": "Gilles",
+    "last_name": "LEPROUST",
+    "party": null
+  },
+  "72019": {
+    "first_name": "Daniel",
+    "last_name": "RIEUCROS",
+    "party": null
+  },
+  "72113": {
+    "first_name": "Jean-Paul",
+    "last_name": "BLOT",
+    "party": null
+  },
+  "72134": {
+    "first_name": "Monique",
+    "last_name": "GAULTIER",
+    "party": null
+  },
+  "72182": {
+    "first_name": "François",
+    "last_name": "BOUSSARD",
+    "party": null
+  },
+  "72213": {
+    "first_name": "Jean-Yves",
+    "last_name": "LECOQ",
+    "party": null
+  },
+  "72221": {
+    "first_name": "Claude",
+    "last_name": "ALLAIRE",
+    "party": null
+  },
+  "72245": {
+    "first_name": "José",
+    "last_name": "PLANS",
+    "party": null
+  },
+  "72265": {
+    "first_name": "Éric",
+    "last_name": "DE VILMAREST",
+    "party": null
+  },
+  "85009": {
+    "first_name": "Dominique",
+    "last_name": "GATINEAU",
+    "party": null
+  },
+  "85013": {
+    "first_name": "Jean-François",
+    "last_name": "YOU",
+    "party": null
+  },
+  "85103": {
+    "first_name": "Marc",
+    "last_name": "HILLAIRET",
+    "party": null
+  },
+  "85184": {
+    "first_name": "Catherine",
+    "last_name": "MASSON-SOULARD",
+    "party": null
+  },
+  "85267": {
+    "first_name": "René",
+    "last_name": "FROMENT",
+    "party": null
+  },
+  "85281": {
+    "first_name": "Yves",
+    "last_name": "BAUDRY",
+    "party": null
+  },
+  "85294": {
+    "first_name": "Serge",
+    "last_name": "KUBRYK",
+    "party": null
+  },
+  "85306": {
+    "first_name": "Claudy",
+    "last_name": "RENAULT",
+    "party": null
+  },
+  "44073": {
+    "first_name": "Jean-Pierre",
+    "last_name": "JOUTARD",
+    "party": null
+  },
+  "44086": {
+    "first_name": "Yves",
+    "last_name": "FROMENTIN",
+    "party": null
+  },
+  "44109": {
+    "first_name": "Johanna",
+    "last_name": "ROLLAND",
+    "party": null
+  },
+  "44134": {
+    "first_name": "Laurent",
+    "last_name": "MERCIER",
+    "party": null
+  },
+  "44187": {
+    "first_name": "Jean-Pierre",
+    "last_name": "AUDELIN",
+    "party": null
+  },
+  "49038": {
+    "first_name": "Hervé",
+    "last_name": "GAUDIN",
+    "party": null
+  },
+  "49054": {
+    "first_name": "Pascal",
+    "last_name": "CROSSOUARD",
+    "party": null
+  },
+  "49060": {
+    "first_name": "Armel",
+    "last_name": "FROGER",
+    "party": null
+  },
+  "49068": {
+    "first_name": "Valérie",
+    "last_name": "LÉVÊQUE",
+    "party": null
+  },
+  "49121": {
+    "first_name": "Jean-Luc",
+    "last_name": "GIRARD",
+    "party": null
+  },
+  "49182": {
+    "first_name": "Pierre-Yves",
+    "last_name": "DOUET",
+    "party": null
+  },
+  "49244": {
+    "first_name": "Gilles",
+    "last_name": "PITON",
+    "party": null
+  },
+  "49246": {
+    "first_name": "Jean-Paul",
+    "last_name": "PAVILLON",
+    "party": null
+  },
+  "49259": {
+    "first_name": "Didier",
+    "last_name": "LE GALL",
+    "party": null
+  },
+  "49307": {
+    "first_name": "Jean-Charles",
+    "last_name": "PRONO",
+    "party": null
+  },
+  "49345": {
+    "first_name": "Jean-Yves",
+    "last_name": "LE BARS",
+    "party": null
+  },
+  "53015": {
+    "first_name": "David",
+    "last_name": "BESNEUX",
+    "party": null
+  },
+  "53035": {
+    "first_name": "Jean-Eudes",
+    "last_name": "GAUBERT",
+    "party": null
+  },
+  "53054": {
+    "first_name": "Patrick",
+    "last_name": "PENIGUEL",
+    "party": null
+  },
+  "53058": {
+    "first_name": "Gérard",
+    "last_name": "LECOT",
+    "party": null
+  },
+  "53061": {
+    "first_name": "Stéphane",
+    "last_name": "RIOULT-LERICHE",
+    "party": null
+  },
+  "53075": {
+    "first_name": "Dominique",
+    "last_name": "COUËFFÉ",
+    "party": null
+  },
+  "53132": {
+    "first_name": "Patrick",
+    "last_name": "DESMAIRES",
+    "party": null
+  },
+  "53170": {
+    "first_name": "Stéphane",
+    "last_name": "MANCEAU",
+    "party": null
+  },
+  "53176": {
+    "first_name": "Magali",
+    "last_name": "LAUNAY",
+    "party": null
+  },
+  "53196": {
+    "first_name": "Geneviève",
+    "last_name": "BLANCHARD",
+    "party": null
+  },
+  "53202": {
+    "first_name": "Léonce",
+    "last_name": "LAGOUTTE",
+    "party": null
+  },
+  "53232": {
+    "first_name": "Christine",
+    "last_name": "GESBERT",
+    "party": null
+  },
+  "53269": {
+    "first_name": "Gilles",
+    "last_name": "LIGOT",
+    "party": null
+  },
+  "72015": {
+    "first_name": "Claudine",
+    "last_name": "PÉNISSON",
+    "party": null
+  },
+  "72048": {
+    "first_name": "Laurent",
+    "last_name": "BOTHEREAU",
+    "party": null
+  },
+  "72051": {
+    "first_name": "Elisabeth",
+    "last_name": "MOUSSAY",
+    "party": null
+  },
+  "72059": {
+    "first_name": "Régis",
+    "last_name": "CERBELLE",
+    "party": null
+  },
+  "72191": {
+    "first_name": "Pierre",
+    "last_name": "OUVRARD",
+    "party": null
+  },
+  "72196": {
+    "first_name": "Guy",
+    "last_name": "COSME",
+    "party": null
+  },
+  "72222": {
+    "first_name": "Claude",
+    "last_name": "MORIN",
+    "party": null
+  },
+  "72316": {
+    "first_name": "Philippe",
+    "last_name": "CHARTIER",
+    "party": null
+  },
+  "72347": {
+    "first_name": "Catherine",
+    "last_name": "LEMERCIER",
+    "party": null
+  },
+  "72360": {
+    "first_name": "Jacky",
+    "last_name": "MARCHAND",
+    "party": null
+  },
+  "85031": {
+    "first_name": "Anne",
+    "last_name": "BIZON",
+    "party": null
+  },
+  "85131": {
+    "first_name": "Nicolas",
+    "last_name": "VANNIER",
+    "party": null
+  },
+  "85155": {
+    "first_name": "Jacky",
+    "last_name": "GODARD",
+    "party": null
+  },
+  "85167": {
+    "first_name": "Noëlla",
+    "last_name": "LUCAS",
+    "party": null
+  },
+  "85179": {
+    "first_name": "Annie",
+    "last_name": "RENOUF",
+    "party": null
+  },
+  "85216": {
+    "first_name": "Pierre",
+    "last_name": "CAREIL",
+    "party": null
+  },
+  "85220": {
+    "first_name": "Dominique",
+    "last_name": "PAILLAT",
+    "party": null
+  },
+  "85232": {
+    "first_name": "Jean-Louis",
+    "last_name": "CORNIÈRE",
+    "party": null
+  },
+  "85259": {
+    "first_name": "Bénédicte",
+    "last_name": "GARDIN",
+    "party": null
+  },
+  "85260": {
+    "first_name": "Philippe",
+    "last_name": "CROCHET",
+    "party": null
+  },
+  "85017": {
+    "first_name": "Franck",
+    "last_name": "GAUTHIER",
+    "party": null
+  },
+  "85040": {
+    "first_name": "Christian",
+    "last_name": "PEAUD",
+    "party": null
+  },
+  "85061": {
+    "first_name": "Philippe",
+    "last_name": "BERGER",
+    "party": null
+  },
+  "85066": {
+    "first_name": "Frédéric",
+    "last_name": "PORTRAIT",
+    "party": null
+  },
+  "85087": {
+    "first_name": "Martial",
+    "last_name": "MILLET",
+    "party": null
+  },
+  "85106": {
+    "first_name": "Patrice",
+    "last_name": "AUBERNON",
+    "party": null
+  },
+  "85123": {
+    "first_name": "Adeline",
+    "last_name": "POUPLIN",
+    "party": null
+  },
+  "85161": {
+    "first_name": "Dominique",
+    "last_name": "DURAND",
+    "party": null
+  },
+  "85187": {
+    "first_name": "Céline",
+    "last_name": "REVEAU",
+    "party": null
+  },
+  "85235": {
+    "first_name": "Françoise",
+    "last_name": "BAUDRY",
+    "party": null
+  },
+  "85278": {
+    "first_name": "Olivier",
+    "last_name": "DALMASSO",
+    "party": null
+  },
+  "44031": {
+    "first_name": "Matthieu",
+    "last_name": "HAMARD",
+    "party": null
+  },
+  "44032": {
+    "first_name": "Alain",
+    "last_name": "ARRAITZ",
+    "party": null
+  },
+  "44056": {
+    "first_name": "Claude",
+    "last_name": "LABARRE",
+    "party": null
+  },
+  "44057": {
+    "first_name": "Jérôme",
+    "last_name": "RICORDEL",
+    "party": null
+  },
+  "44068": {
+    "first_name": "Frédéric",
+    "last_name": "MILLET",
+    "party": null
+  },
+  "44120": {
+    "first_name": "François",
+    "last_name": "BRILLAUD DE LAUJARDIÈRE",
+    "party": null
+  },
+  "44190": {
+    "first_name": "Laurent",
+    "last_name": "TURQUOIS",
+    "party": null
+  },
+  "53083": {
+    "first_name": "Yves",
+    "last_name": "DAUVERCHAIN",
+    "party": null
+  },
+  "53126": {
+    "first_name": "Constant",
+    "last_name": "BUCHARD",
+    "party": null
+  },
+  "53206": {
+    "first_name": "Marie-Pierre",
+    "last_name": "COLIN",
+    "party": null
+  },
+  "53228": {
+    "first_name": "Patrick",
+    "last_name": "COUSIN",
+    "party": null
+  },
+  "53230": {
+    "first_name": "Philippe",
+    "last_name": "COULON",
+    "party": null
+  },
+  "53236": {
+    "first_name": "Gaspard",
+    "last_name": "SAVER",
+    "party": null
+  },
+  "53260": {
+    "first_name": "Yannick",
+    "last_name": "CLAVREUL",
+    "party": null
+  },
+  "49377": {
+    "first_name": "Éric",
+    "last_name": "GODIN",
+    "party": null
+  },
+  "49003": {
+    "first_name": "Nathalie",
+    "last_name": "GOHLKE",
+    "party": null
+  },
+  "49195": {
+    "first_name": "Guy",
+    "last_name": "SOURISSEAU",
+    "party": null
+  },
+  "49235": {
+    "first_name": "Éric",
+    "last_name": "LEFIÈVRE",
+    "party": null
+  },
+  "49247": {
+    "first_name": "Jacques",
+    "last_name": "GENEVOIS",
+    "party": null
+  },
+  "49301": {
+    "first_name": "Didier",
+    "last_name": "HUCHON",
+    "party": null
+  },
+  "72004": {
+    "first_name": "Gérard",
+    "last_name": "JOLY",
+    "party": null
+  },
+  "72008": {
+    "first_name": "Eve",
+    "last_name": "SANS",
+    "party": null
+  },
+  "72012": {
+    "first_name": "Martine",
+    "last_name": "LEBALLEUR",
+    "party": null
+  },
+  "72100": {
+    "first_name": "Virginie",
+    "last_name": "DE LA FRESNAYE",
+    "party": null
+  },
+  "72133": {
+    "first_name": "Luc Marie",
+    "last_name": "FABUREL",
+    "party": null
+  },
+  "72147": {
+    "first_name": "Eric",
+    "last_name": "BOURGE",
+    "party": null
+  },
+  "72148": {
+    "first_name": "Loïc",
+    "last_name": "CRINIER",
+    "party": null
+  },
+  "72194": {
+    "first_name": "Michel",
+    "last_name": "CHABRERIE",
+    "party": null
+  },
+  "72210": {
+    "first_name": "Alain",
+    "last_name": "CHEVALLIER",
+    "party": null
+  },
+  "72227": {
+    "first_name": "Christophe",
+    "last_name": "LOISEAU",
+    "party": null
+  },
+  "72366": {
+    "first_name": "Nadine",
+    "last_name": "MERCIER",
+    "party": null
+  },
+  "72372": {
+    "first_name": "Didier",
+    "last_name": "CORNUEIL",
+    "party": null
+  },
+  "53022": {
+    "first_name": "Marie-France",
+    "last_name": "MANDELLI",
+    "party": null
+  },
+  "53034": {
+    "first_name": "Gwénaël",
+    "last_name": "POISSON",
+    "party": null
+  },
+  "53108": {
+    "first_name": "Nicolas",
+    "last_name": "DEULOFEU",
+    "party": null
+  },
+  "53127": {
+    "first_name": "Jean",
+    "last_name": "RAILLARD",
+    "party": null
+  },
+  "53133": {
+    "first_name": "Raymond",
+    "last_name": "LELIÈVRE",
+    "party": null
+  },
+  "53148": {
+    "first_name": "Alain",
+    "last_name": "BAHIER",
+    "party": null
+  },
+  "53186": {
+    "first_name": "Laurent",
+    "last_name": "LEFÈVRE",
+    "party": null
+  },
+  "53266": {
+    "first_name": "Hervé",
+    "last_name": "RONDEAU",
+    "party": null
+  },
+  "44027": {
+    "first_name": "Philippe",
+    "last_name": "EUZÉNAT",
+    "party": null
+  },
+  "44053": {
+    "first_name": "Philippe",
+    "last_name": "JOUNY",
+    "party": null
+  },
+  "44067": {
+    "first_name": "Isabelle",
+    "last_name": "BARATHON-BAZELLE",
+    "party": null
+  },
+  "44139": {
+    "first_name": "Valérie",
+    "last_name": "GAUTIER",
+    "party": null
+  },
+  "44196": {
+    "first_name": "Didier",
+    "last_name": "PECOT",
+    "party": null
+  },
+  "49176": {
+    "first_name": "Etienne",
+    "last_name": "GLEMOT",
+    "party": null
+  },
+  "49306": {
+    "first_name": "Monique",
+    "last_name": "LEROY",
+    "party": null
+  },
+  "85004": {
+    "first_name": "Joël",
+    "last_name": "MONVOISIN",
+    "party": null
+  },
+  "85008": {
+    "first_name": "Michelle",
+    "last_name": "GRELLIER",
+    "party": null
+  },
+  "85016": {
+    "first_name": "Nathalie",
+    "last_name": "FRAUD",
+    "party": null
+  },
+  "85099": {
+    "first_name": "Olivier",
+    "last_name": "GRIT",
+    "party": null
+  },
+  "85141": {
+    "first_name": "Jean-Pierre",
+    "last_name": "MARQUIS",
+    "party": null
+  },
+  "85229": {
+    "first_name": "Christian-Marie",
+    "last_name": "CHATELLIER",
+    "party": null
+  },
+  "85265": {
+    "first_name": "Christian",
+    "last_name": "HENRIET",
+    "party": null
+  },
+  "85268": {
+    "first_name": "Lucien",
+    "last_name": "PRINCE",
+    "party": null
+  },
+  "85292": {
+    "first_name": "Sophie",
+    "last_name": "BERGER",
+    "party": null
+  },
+  "72002": {
+    "first_name": "Nadine",
+    "last_name": "CECONI",
+    "party": null
+  },
+  "72009": {
+    "first_name": "Sylvain",
+    "last_name": "POIRRIER",
+    "party": null
+  },
+  "72013": {
+    "first_name": "Nicolas",
+    "last_name": "MOURIER",
+    "party": null
+  },
+  "72080": {
+    "first_name": "Jannick",
+    "last_name": "NIEL",
+    "party": null
+  },
+  "72112": {
+    "first_name": "Philippe",
+    "last_name": "NICOLAS",
+    "party": null
+  },
+  "72132": {
+    "first_name": "Didier",
+    "last_name": "REVEAU",
+    "party": null
+  },
+  "72155": {
+    "first_name": "Nathalie",
+    "last_name": "DUPONT",
+    "party": null
+  },
+  "72231": {
+    "first_name": "Nathalie",
+    "last_name": "MORGANT",
+    "party": null
+  },
+  "72235": {
+    "first_name": "Frédéric",
+    "last_name": "DENIEUL",
+    "party": null
+  },
+  "72241": {
+    "first_name": "Anthony",
+    "last_name": "TRIFAUT",
+    "party": null
+  },
+  "72249": {
+    "first_name": "Jean-Jacques",
+    "last_name": "OREILLER",
+    "party": null
+  },
+  "72007": {
+    "first_name": "André",
+    "last_name": "PIGNÉ",
+    "party": null
+  },
+  "72020": {
+    "first_name": "Pierre",
+    "last_name": "BOULARD",
+    "party": null
+  },
+  "72027": {
+    "first_name": "Guy",
+    "last_name": "LECLERC",
+    "party": null
+  },
+  "72038": {
+    "first_name": "Liliane",
+    "last_name": "DENIS",
+    "party": null
+  },
+  "72122": {
+    "first_name": "Joël",
+    "last_name": "CIRON",
+    "party": null
+  },
+  "72125": {
+    "first_name": "Sébastien",
+    "last_name": "MORIN",
+    "party": null
+  },
+  "72139": {
+    "first_name": "Jean-Pierre",
+    "last_name": "FRIMONT",
+    "party": null
+  },
+  "72150": {
+    "first_name": "Magali",
+    "last_name": "LAINÉ",
+    "party": null
+  },
+  "72154": {
+    "first_name": "Nadine",
+    "last_name": "GRELET-CERTENAIS",
+    "party": null
+  },
+  "72158": {
+    "first_name": "Nicolas",
+    "last_name": "MASSE",
+    "party": null
+  },
+  "72226": {
+    "first_name": "Jean-Claude",
+    "last_name": "BOIZIAU",
+    "party": null
+  },
+  "72237": {
+    "first_name": "Christian",
+    "last_name": "CHOTARD",
+    "party": null
+  },
+  "72255": {
+    "first_name": "Hugues",
+    "last_name": "BOMBLED",
+    "party": null
+  },
+  "72264": {
+    "first_name": "Nicolas",
+    "last_name": "LEUDIÈRE",
+    "party": null
+  },
+  "72282": {
+    "first_name": "Jean-Luc",
+    "last_name": "TESSIER",
+    "party": null
+  },
+  "72289": {
+    "first_name": "Jean-Luc",
+    "last_name": "SUHARD",
+    "party": null
+  },
+  "72298": {
+    "first_name": "Vincent",
+    "last_name": "BARRAIS",
+    "party": null
+  },
+  "72379": {
+    "first_name": "Catherine",
+    "last_name": "PAULOUIN",
+    "party": null
+  },
+  "72385": {
+    "first_name": "Catherine",
+    "last_name": "DONNE",
+    "party": null
+  },
+  "85019": {
+    "first_name": "Philippe",
+    "last_name": "BRIAUD",
+    "party": null
+  },
+  "85067": {
+    "first_name": "Jean-Marie",
+    "last_name": "GIRAUD",
+    "party": null
+  },
+  "85084": {
+    "first_name": "Caroline",
+    "last_name": "GILBERT",
+    "party": null
+  },
+  "85111": {
+    "first_name": "Joël",
+    "last_name": "BLUTEAU",
+    "party": null
+  },
+  "85135": {
+    "first_name": "Vincent",
+    "last_name": "JULES",
+    "party": null
+  },
+  "85143": {
+    "first_name": "Joël",
+    "last_name": "BOBINEAU",
+    "party": null
+  },
+  "85171": {
+    "first_name": "Lisiane",
+    "last_name": "MOREAU",
+    "party": null
+  },
+  "85192": {
+    "first_name": "Christian",
+    "last_name": "BOISSINOT",
+    "party": null
+  },
+  "85234": {
+    "first_name": "Véronique",
+    "last_name": "LAUNAY",
+    "party": null
+  },
+  "85287": {
+    "first_name": "Lionel",
+    "last_name": "GAZEAU",
+    "party": null
+  },
+  "53023": {
+    "first_name": "Bernard",
+    "last_name": "GÉRAULT",
+    "party": null
+  },
+  "53072": {
+    "first_name": "Mickaël",
+    "last_name": "DELAHAYE",
+    "party": null
+  },
+  "53107": {
+    "first_name": "Jean-Marc",
+    "last_name": "ALLAIN",
+    "party": null
+  },
+  "53113": {
+    "first_name": "Bertrand",
+    "last_name": "CHESNAY",
+    "party": null
+  },
+  "53144": {
+    "first_name": "Guy",
+    "last_name": "BEAUJARD",
+    "party": null
+  },
+  "53212": {
+    "first_name": "Bernard",
+    "last_name": "BOIZARD",
+    "party": null
+  },
+  "49099": {
+    "first_name": "Gilles",
+    "last_name": "BOURDOULEIX",
+    "party": null
+  },
+  "49178": {
+    "first_name": "Jacques",
+    "last_name": "ROBERT",
+    "party": null
+  },
+  "49220": {
+    "first_name": "Jean-Marie",
+    "last_name": "CARDOEN",
+    "party": null
+  },
+  "49291": {
+    "first_name": "Benoit",
+    "last_name": "LEDOUX",
+    "party": null
+  },
+  "49381": {
+    "first_name": "Dominique",
+    "last_name": "SECHET",
+    "party": null
+  },
+  "44016": {
+    "first_name": "Maurice",
+    "last_name": "BOUHIER",
+    "party": null
+  },
+  "44044": {
+    "first_name": "Jacques",
+    "last_name": "POULAIN",
+    "party": null
+  },
+  "44049": {
+    "first_name": "Michèle",
+    "last_name": "QUELLARD",
+    "party": null
+  },
+  "44110": {
+    "first_name": "Yves",
+    "last_name": "DAUVÉ",
+    "party": null
+  },
+  "44125": {
+    "first_name": "Emmanuelle",
+    "last_name": "DACHEUX",
+    "party": null
+  },
+  "44178": {
+    "first_name": "Jean",
+    "last_name": "CHARRIER",
+    "party": null
+  },
+  "44185": {
+    "first_name": "Albert",
+    "last_name": "GUIHARD",
+    "party": null
+  },
+  "44192": {
+    "first_name": "Roch",
+    "last_name": "CHÉRAUD",
+    "party": null
+  },
+  "44206": {
+    "first_name": "Claude",
+    "last_name": "LE CALVEZ",
+    "party": null
+  },
+  "53001": {
+    "first_name": "Sébastien",
+    "last_name": "DESTAIS",
+    "party": null
+  },
+  "53017": {
+    "first_name": "Stéphane",
+    "last_name": "DESNOË",
+    "party": null
+  },
+  "53074": {
+    "first_name": "Daniel",
+    "last_name": "MONTAUFRAY",
+    "party": null
+  },
+  "53076": {
+    "first_name": "Stéphane",
+    "last_name": "FOUCHER",
+    "party": null
+  },
+  "53102": {
+    "first_name": "Christian",
+    "last_name": "BERSON",
+    "party": null
+  },
+  "53123": {
+    "first_name": "Régis",
+    "last_name": "FORVEILLE",
+    "party": null
+  },
+  "53156": {
+    "first_name": "André",
+    "last_name": "DELEFOSSE",
+    "party": null
+  },
+  "53160": {
+    "first_name": "Roger",
+    "last_name": "GARNIER",
+    "party": null
+  },
+  "53164": {
+    "first_name": "Daniel",
+    "last_name": "CHESNEAU",
+    "party": null
+  },
+  "53189": {
+    "first_name": "Hervé Gérard Sylvain",
+    "last_name": "PILLAERT",
+    "party": null
+  },
+  "53226": {
+    "first_name": "Sandrine",
+    "last_name": "CROTTEREAU-RAGARU",
+    "party": null
+  },
+  "53253": {
+    "first_name": "Gérard",
+    "last_name": "BEDOUET",
+    "party": null
+  },
+  "85010": {
+    "first_name": "Sylvie",
+    "last_name": "VERDON",
+    "party": null
+  },
+  "85020": {
+    "first_name": "Camille",
+    "last_name": "FONTAINE",
+    "party": null
+  },
+  "85029": {
+    "first_name": "Thomas",
+    "last_name": "GISBERT",
+    "party": null
+  },
+  "85054": {
+    "first_name": "Sébastien",
+    "last_name": "PAJOT",
+    "party": null
+  },
+  "85065": {
+    "first_name": "Eric",
+    "last_name": "SALAUN",
+    "party": null
+  },
+  "85102": {
+    "first_name": "Pascal",
+    "last_name": "MORINEAU",
+    "party": null
+  },
+  "85164": {
+    "first_name": "Raoul",
+    "last_name": "GRONDIN",
+    "party": null
+  },
+  "85208": {
+    "first_name": "Mireille",
+    "last_name": "HERMOUET",
+    "party": null
+  },
+  "85215": {
+    "first_name": "Jean-Luc",
+    "last_name": "GAUTRON",
+    "party": null
+  },
+  "85238": {
+    "first_name": "Éric",
+    "last_name": "COUDERC",
+    "party": null
+  },
+  "85264": {
+    "first_name": "Daniel",
+    "last_name": "MOTTARD",
+    "party": null
+  },
+  "85288": {
+    "first_name": "Maxence",
+    "last_name": "DE RUGY",
+    "party": null
+  },
+  "85293": {
+    "first_name": "Marcel",
+    "last_name": "BROSSET",
+    "party": null
+  },
+  "44029": {
+    "first_name": "Christelle",
+    "last_name": "BRAUD",
+    "party": null
+  },
+  "44030": {
+    "first_name": "Franck",
+    "last_name": "HERVY",
+    "party": null
+  },
+  "44065": {
+    "first_name": "Sébastien",
+    "last_name": "CROSSOUARD",
+    "party": null
+  },
+  "44156": {
+    "first_name": "Claude",
+    "last_name": "NAUD",
+    "party": null
+  },
+  "44166": {
+    "first_name": "Pascal",
+    "last_name": "PRAS",
+    "party": null
+  },
+  "44180": {
+    "first_name": "Jean-Yves",
+    "last_name": "PLOTEAU",
+    "party": null
+  },
+  "49008": {
+    "first_name": "Marie-Noëlle",
+    "last_name": "RICHARD",
+    "party": null
+  },
+  "49053": {
+    "first_name": "Gilles",
+    "last_name": "ROUSSILLAT",
+    "party": null
+  },
+  "49056": {
+    "first_name": "Martial",
+    "last_name": "BRILLET",
+    "party": null
+  },
+  "49057": {
+    "first_name": "Guy",
+    "last_name": "DAILLEUX",
+    "party": null
+  },
+  "49120": {
+    "first_name": "Priscille",
+    "last_name": "GUILLET",
+    "party": null
+  },
+  "49131": {
+    "first_name": "Guillaume",
+    "last_name": "MARTIN",
+    "party": null
+  },
+  "49236": {
+    "first_name": "Olivier",
+    "last_name": "LECOMTE",
+    "party": null
+  },
+  "49266": {
+    "first_name": "Virginie",
+    "last_name": "GUICHARD",
+    "party": null
+  },
+  "49298": {
+    "first_name": "Franck",
+    "last_name": "POQUIN",
+    "party": null
+  },
+  "49299": {
+    "first_name": "Jean-Paul",
+    "last_name": "OLIVARES",
+    "party": null
+  },
+  "49302": {
+    "first_name": "Pierre",
+    "last_name": "DE BOUTRAY",
+    "party": null
+  },
+  "49369": {
+    "first_name": "Sylvie",
+    "last_name": "BEILLARD",
+    "party": null
+  },
+  "49371": {
+    "first_name": "Cédric",
+    "last_name": "VAN VOOREN",
+    "party": null
+  },
+  "72057": {
+    "first_name": "Dominique",
+    "last_name": "COUALLIER",
+    "party": null
+  },
+  "72075": {
+    "first_name": "Michel",
+    "last_name": "PAVARD",
+    "party": null
+  },
+  "72098": {
+    "first_name": "Yves",
+    "last_name": "LE BOUFFANT",
+    "party": null
+  },
+  "72103": {
+    "first_name": "Francis",
+    "last_name": "BOUSSION",
+    "party": null
+  },
+  "72146": {
+    "first_name": "Alain",
+    "last_name": "VIOT",
+    "party": null
+  },
+  "72171": {
+    "first_name": "Guy-René",
+    "last_name": "DE PIEPAPE",
+    "party": null
+  },
+  "72177": {
+    "first_name": "Cédric",
+    "last_name": "BOUL",
+    "party": null
+  },
+  "72339": {
+    "first_name": "Luc",
+    "last_name": "BOURMAULT",
+    "party": null
+  },
+  "44024": {
+    "first_name": "Laure",
+    "last_name": "BESLIER",
+    "party": null
+  },
+  "44033": {
+    "first_name": "Michel",
+    "last_name": "GUILLARD",
+    "party": null
+  },
+  "44037": {
+    "first_name": "Alain",
+    "last_name": "BLAISE",
+    "party": null
+  },
+  "44041": {
+    "first_name": "Johann",
+    "last_name": "BOBLIN",
+    "party": null
+  },
+  "44087": {
+    "first_name": "Laurent",
+    "last_name": "ROBIN",
+    "party": null
+  },
+  "44108": {
+    "first_name": "Jean-Marc",
+    "last_name": "JOUNIER",
+    "party": null
+  },
+  "44123": {
+    "first_name": "Florent",
+    "last_name": "COUTANT",
+    "party": null
+  },
+  "44218": {
+    "first_name": "Philippe",
+    "last_name": "DUGRAVOT",
+    "party": null
+  },
+  "49140": {
+    "first_name": "Sandrine",
+    "last_name": "LION",
+    "party": null
+  },
+  "49180": {
+    "first_name": "Frédéric",
+    "last_name": "MORTIER",
+    "party": null
+  },
+  "49278": {
+    "first_name": "Paul",
+    "last_name": "HEULIN",
+    "party": null
+  },
+  "72042": {
+    "first_name": "Anne-Marie",
+    "last_name": "DELOUBES",
+    "party": null
+  },
+  "72091": {
+    "first_name": "Sylvie",
+    "last_name": "BOULAY-BILLON",
+    "party": null
+  },
+  "72099": {
+    "first_name": "Dominique",
+    "last_name": "DORIZON",
+    "party": null
+  },
+  "72173": {
+    "first_name": "Fabienne",
+    "last_name": "PINÇON",
+    "party": null
+  },
+  "72200": {
+    "first_name": "Irène",
+    "last_name": "BOYER",
+    "party": null
+  },
+  "72247": {
+    "first_name": "Isabelle",
+    "last_name": "LEBALLEUR",
+    "party": null
+  },
+  "72276": {
+    "first_name": "Philippe",
+    "last_name": "RICHARD",
+    "party": null
+  },
+  "72321": {
+    "first_name": "Francis",
+    "last_name": "COULON",
+    "party": null
+  },
+  "72344": {
+    "first_name": "Jean-Yves",
+    "last_name": "AVIGNON",
+    "party": null
+  },
+  "85011": {
+    "first_name": "Louis",
+    "last_name": "GIBIER",
+    "party": null
+  },
+  "85130": {
+    "first_name": "Frédéric",
+    "last_name": "RAGER",
+    "party": null
+  },
+  "85133": {
+    "first_name": "Annie",
+    "last_name": "RINEAU",
+    "party": null
+  },
+  "85211": {
+    "first_name": "Patrice",
+    "last_name": "PAGEAUD",
+    "party": null
+  },
+  "85276": {
+    "first_name": "Valérie",
+    "last_name": "TONARELLI",
+    "party": null
+  },
+  "85286": {
+    "first_name": "Judicaël",
+    "last_name": "LAMY",
+    "party": null
+  },
+  "85297": {
+    "first_name": "Guy",
+    "last_name": "BARBOT",
+    "party": null
+  },
+  "53041": {
+    "first_name": "Vanessa",
+    "last_name": "SORIEUX",
+    "party": null
+  },
+  "53048": {
+    "first_name": "Bruno",
+    "last_name": "DARRAS",
+    "party": null
+  },
+  "53201": {
+    "first_name": "Yannick",
+    "last_name": "BORDE",
+    "party": null
+  },
+  "53262": {
+    "first_name": "Michel",
+    "last_name": "ROCHERULLÉ",
+    "party": null
+  },
+  "53272": {
+    "first_name": "Alain",
+    "last_name": "BLOTTIÈRE",
+    "party": null
+  },
+  "49373": {
+    "first_name": "Médérick",
+    "last_name": "THOMAS",
+    "party": null
+  },
+  "49041": {
+    "first_name": "Yves",
+    "last_name": "BOUCHER",
+    "party": null
+  },
+  "49089": {
+    "first_name": "Françoise",
+    "last_name": "COUE",
+    "party": null
+  },
+  "49107": {
+    "first_name": "Paul",
+    "last_name": "RABOUAN",
+    "party": null
+  },
+  "49215": {
+    "first_name": "Marc",
+    "last_name": "BONNIN",
+    "party": null
+  },
+  "49231": {
+    "first_name": "Christophe",
+    "last_name": "PIET",
+    "party": null
+  },
+  "49240": {
+    "first_name": "Sylvie",
+    "last_name": "BARBAULT",
+    "party": null
+  },
+  "49271": {
+    "first_name": "Philippe",
+    "last_name": "VEYER",
+    "party": null
+  },
+  "44135": {
+    "first_name": "Norbert",
+    "last_name": "SAMAMA",
+    "party": null
+  },
+  "44154": {
+    "first_name": "Dorothée",
+    "last_name": "PACAUD",
+    "party": null
+  },
+  "44194": {
+    "first_name": "Marie-Cécile",
+    "last_name": "GESSANT",
+    "party": null
+  },
+  "44209": {
+    "first_name": "Alain",
+    "last_name": "ROYER",
+    "party": null
+  },
+  "53026": {
+    "first_name": "Anthony",
+    "last_name": "ROULLIER",
+    "party": null
+  },
+  "53043": {
+    "first_name": "Claude",
+    "last_name": "GARNIER",
+    "party": null
+  },
+  "53069": {
+    "first_name": "Claude",
+    "last_name": "ROULLAND",
+    "party": null
+  },
+  "53110": {
+    "first_name": "Jean-Pierre",
+    "last_name": "FOUCHER",
+    "party": null
+  },
+  "53177": {
+    "first_name": "Fernand",
+    "last_name": "COGET",
+    "party": null
+  },
+  "53179": {
+    "first_name": "Patricia",
+    "last_name": "GONTIER",
+    "party": null
+  },
+  "53193": {
+    "first_name": "Marie-Claude",
+    "last_name": "HELBERT",
+    "party": null
+  },
+  "53198": {
+    "first_name": "Samuel",
+    "last_name": "RAGOT",
+    "party": null
+  },
+  "53199": {
+    "first_name": "Amélie",
+    "last_name": "BETTON",
+    "party": null
+  },
+  "53270": {
+    "first_name": "Loïc",
+    "last_name": "CAHU",
+    "party": null
+  },
+  "72001": {
+    "first_name": "Karine",
+    "last_name": "MULLET",
+    "party": null
+  },
+  "72006": {
+    "first_name": "Denis",
+    "last_name": "LAUNAY",
+    "party": null
+  },
+  "72034": {
+    "first_name": "Gérard",
+    "last_name": "EVETTE",
+    "party": null
+  },
+  "72047": {
+    "first_name": "Stéphane",
+    "last_name": "FOUCHARD",
+    "party": null
+  },
+  "72071": {
+    "first_name": "Hervé",
+    "last_name": "RONCIÈRE",
+    "party": null
+  },
+  "72111": {
+    "first_name": "Dominique",
+    "last_name": "AMIARD",
+    "party": null
+  },
+  "72130": {
+    "first_name": "Maurice",
+    "last_name": "POLLEFOORT",
+    "party": null
+  },
+  "72141": {
+    "first_name": "Georges",
+    "last_name": "PAVARD",
+    "party": null
+  },
+  "72144": {
+    "first_name": "Myriam",
+    "last_name": "MORAND",
+    "party": null
+  },
+  "72183": {
+    "first_name": "Monique",
+    "last_name": "TROTIN",
+    "party": null
+  },
+  "72187": {
+    "first_name": "Dominique",
+    "last_name": "COVEMAEKER",
+    "party": null
+  },
+  "72234": {
+    "first_name": "Pascal",
+    "last_name": "LEBRETON",
+    "party": null
+  },
+  "72250": {
+    "first_name": "Isabelle",
+    "last_name": "DAVID",
+    "party": null
+  },
+  "72311": {
+    "first_name": "Michelle",
+    "last_name": "BOUSSARD",
+    "party": null
+  },
+  "72336": {
+    "first_name": "Pascal",
+    "last_name": "LELIÈVRE",
+    "party": null
+  },
+  "72373": {
+    "first_name": "Dominique",
+    "last_name": "FLAMENT",
+    "party": null
+  },
+  "85026": {
+    "first_name": "Michel",
+    "last_name": "CHADENEAU",
+    "party": null
+  },
+  "85039": {
+    "first_name": "Jean-Michel",
+    "last_name": "BREGEON",
+    "party": null
+  },
+  "85045": {
+    "first_name": "Jean-François",
+    "last_name": "BIRON",
+    "party": null
+  },
+  "85062": {
+    "first_name": "Michel",
+    "last_name": "WOLOCH",
+    "party": null
+  },
+  "85071": {
+    "first_name": "Philippe",
+    "last_name": "MOREAU",
+    "party": null
+  },
+  "85100": {
+    "first_name": "Laurent",
+    "last_name": "DURANTEAU",
+    "party": null
+  },
+  "85119": {
+    "first_name": "Guy",
+    "last_name": "GIRARD",
+    "party": null
+  },
+  "85159": {
+    "first_name": "Bruno",
+    "last_name": "FABRE",
+    "party": null
+  },
+  "85242": {
+    "first_name": "Patrice",
+    "last_name": "BERTRAND",
+    "party": null
+  },
+  "85284": {
+    "first_name": "Jean-Michel",
+    "last_name": "ROUILLE",
+    "party": null
+  },
+  "44062": {
+    "first_name": "Nicolas",
+    "last_name": "OUDAERT",
+    "party": null
+  },
+  "44064": {
+    "first_name": "Didier",
+    "last_name": "MEYER",
+    "party": null
+  },
+  "44095": {
+    "first_name": "Marie-Pierre",
+    "last_name": "GUÉRIN",
+    "party": null
+  },
+  "44103": {
+    "first_name": "Thierry",
+    "last_name": "NOGUET",
+    "party": null
+  },
+  "44115": {
+    "first_name": "Alain",
+    "last_name": "BOURGOIN",
+    "party": null
+  },
+  "44122": {
+    "first_name": "Jean-Luc",
+    "last_name": "BESNIER",
+    "party": null
+  },
+  "49011": {
+    "first_name": "Didier",
+    "last_name": "ROUSSEAU",
+    "party": null
+  },
+  "49018": {
+    "first_name": "Philippe",
+    "last_name": "CHALOPIN",
+    "party": null
+  },
+  "49027": {
+    "first_name": "Pierre-Marie",
+    "last_name": "CAILLEAU",
+    "party": null
+  },
+  "49132": {
+    "first_name": "David",
+    "last_name": "LAGLEYZE",
+    "party": null
+  },
+  "49163": {
+    "first_name": "Elisabeth",
+    "last_name": "MARQUET",
+    "party": null
+  },
+  "49194": {
+    "first_name": "Christophe",
+    "last_name": "POT",
+    "party": null
+  },
+  "49216": {
+    "first_name": "Philippe",
+    "last_name": "CARDOT",
+    "party": null
+  },
+  "49331": {
+    "first_name": "Geneviève",
+    "last_name": "COQUEREAU",
+    "party": null
+  },
+  "49347": {
+    "first_name": "Jean-Jacques",
+    "last_name": "GIRARD",
+    "party": null
+  },
+  "49352": {
+    "first_name": "Gérard",
+    "last_name": "PETIT",
+    "party": null
+  },
+  "44153": {
+    "first_name": "Daniel",
+    "last_name": "RABU",
+    "party": null
+  },
+  "53010": {
+    "first_name": "François",
+    "last_name": "LEROUX",
+    "party": null
+  },
+  "53036": {
+    "first_name": "Jacky",
+    "last_name": "CHAUVEAU",
+    "party": null
+  },
+  "53115": {
+    "first_name": "Christian",
+    "last_name": "LECHERBAULT",
+    "party": null
+  },
+  "53122": {
+    "first_name": "Alain",
+    "last_name": "RONDEAU",
+    "party": null
+  },
+  "53130": {
+    "first_name": "Florian",
+    "last_name": "BERCAULT",
+    "party": null
+  },
+  "53172": {
+    "first_name": "Christophe",
+    "last_name": "LEMARIÉ",
+    "party": null
+  },
+  "53175": {
+    "first_name": "David",
+    "last_name": "CARDOSO",
+    "party": null
+  },
+  "53178": {
+    "first_name": "Serge",
+    "last_name": "POINTEAU",
+    "party": null
+  },
+  "53195": {
+    "first_name": "Antoine",
+    "last_name": "VALPREMIT",
+    "party": null
+  },
+  "53255": {
+    "first_name": "Michel",
+    "last_name": "GALVANE",
+    "party": null
+  },
+  "85028": {
+    "first_name": "Stéphane",
+    "last_name": "GUILLON",
+    "party": null
+  },
+  "85064": {
+    "first_name": "Christian",
+    "last_name": "MERLET",
+    "party": null
+  },
+  "85093": {
+    "first_name": "Manuel",
+    "last_name": "GUIBERT",
+    "party": null
+  },
+  "85132": {
+    "first_name": "Jean-Marie",
+    "last_name": "GELOT",
+    "party": null
+  },
+  "85149": {
+    "first_name": "Bertrand",
+    "last_name": "GUINOT",
+    "party": null
+  },
+  "85181": {
+    "first_name": "Dominique",
+    "last_name": "MAZOUÉ",
+    "party": null
+  },
+  "85188": {
+    "first_name": "Magalie",
+    "last_name": "JADAUD",
+    "party": null
+  },
+  "85193": {
+    "first_name": "Bergerette",
+    "last_name": "AULNEAU",
+    "party": null
+  },
+  "85196": {
+    "first_name": "Jacky",
+    "last_name": "DALLET",
+    "party": null
+  },
+  "85218": {
+    "first_name": "Jean-François",
+    "last_name": "PÉROCHEAU",
+    "party": null
+  },
+  "85237": {
+    "first_name": "Sébastien",
+    "last_name": "ROY",
+    "party": null
+  },
+  "72025": {
+    "first_name": "Gwénaël",
+    "last_name": "DE SAGAZAN",
+    "party": null
+  },
+  "72053": {
+    "first_name": "Guy",
+    "last_name": "FOURMY",
+    "party": null
+  },
+  "72106": {
+    "first_name": "Dominique",
+    "last_name": "LEROY",
+    "party": null
+  },
+  "72118": {
+    "first_name": "Xavier",
+    "last_name": "JAMOIS",
+    "party": null
+  },
+  "72128": {
+    "first_name": "Patrick",
+    "last_name": "GRÉMILLON",
+    "party": null
+  },
+  "72193": {
+    "first_name": "Jean-Pierre",
+    "last_name": "TORCHE",
+    "party": null
+  },
+  "72224": {
+    "first_name": "Claudine",
+    "last_name": "OZAN",
+    "party": null
+  },
+  "72266": {
+    "first_name": "Frédéric",
+    "last_name": "COSSON",
+    "party": null
+  },
+  "72275": {
+    "first_name": "Michel",
+    "last_name": "PRÉ",
+    "party": null
+  },
+  "72309": {
+    "first_name": "Christophe",
+    "last_name": "GODET",
+    "party": null
+  },
+  "72310": {
+    "first_name": "Jean Claude",
+    "last_name": "MOSER",
+    "party": null
+  },
+  "72337": {
+    "first_name": "Philippe",
+    "last_name": "RALLU",
+    "party": null
+  },
+  "72361": {
+    "first_name": "Chantal",
+    "last_name": "BUIN",
+    "party": null
+  },
+  "61476": {
+    "first_name": "Bernard",
+    "last_name": "MICHEL",
+    "party": null
+  },
+  "72088": {
+    "first_name": "Katia",
+    "last_name": "AMBROIS",
+    "party": null
+  },
+  "72127": {
+    "first_name": "Emmanuel",
+    "last_name": "FRANCO",
+    "party": null
+  },
+  "72197": {
+    "first_name": "Killian",
+    "last_name": "TRUCAS",
+    "party": null
+  },
+  "72202": {
+    "first_name": "Luc",
+    "last_name": "MORIN",
+    "party": null
+  },
+  "72225": {
+    "first_name": "Patrick",
+    "last_name": "GOYER",
+    "party": null
+  },
+  "72246": {
+    "first_name": "Roland",
+    "last_name": "MARCOTTE",
+    "party": null
+  },
+  "72268": {
+    "first_name": "Jean-Claude",
+    "last_name": "BIZERAY",
+    "party": null
+  },
+  "72274": {
+    "first_name": "Marcel",
+    "last_name": "GESLOT",
+    "party": null
+  },
+  "72278": {
+    "first_name": "Christian",
+    "last_name": "BERGER",
+    "party": null
+  },
+  "72300": {
+    "first_name": "Jackie",
+    "last_name": "SURUT",
+    "party": null
+  },
+  "72315": {
+    "first_name": "Alain",
+    "last_name": "HORPIN",
+    "party": null
+  },
+  "72338": {
+    "first_name": "Catherine",
+    "last_name": "CHALIGNE",
+    "party": null
+  },
+  "72340": {
+    "first_name": "David",
+    "last_name": "CHOLLET",
+    "party": null
+  },
+  "72342": {
+    "first_name": "Laëtitia",
+    "last_name": "VEEGAERT",
+    "party": null
+  },
+  "72355": {
+    "first_name": "Patrick",
+    "last_name": "BOREE",
+    "party": null
+  },
+  "85006": {
+    "first_name": "Gaëlle",
+    "last_name": "CHAMPION",
+    "party": null
+  },
+  "85012": {
+    "first_name": "Pascal",
+    "last_name": "DENIS",
+    "party": null
+  },
+  "85014": {
+    "first_name": "Christine",
+    "last_name": "LELOT",
+    "party": null
+  },
+  "85036": {
+    "first_name": "David",
+    "last_name": "MARCHEGAY",
+    "party": null
+  },
+  "85110": {
+    "first_name": "Yves",
+    "last_name": "GERMAIN",
+    "party": null
+  },
+  "85129": {
+    "first_name": "Roger",
+    "last_name": "GABORIEAU",
+    "party": null
+  },
+  "85214": {
+    "first_name": "Noël",
+    "last_name": "VERDON",
+    "party": null
+  },
+  "85282": {
+    "first_name": "Jean-Marcel",
+    "last_name": "GRIMAUD",
+    "party": null
+  },
+  "85296": {
+    "first_name": "Nicole",
+    "last_name": "BEAUFRETON",
+    "party": null
+  },
+  "53029": {
+    "first_name": "Marie-Noëlle",
+    "last_name": "TRIBONDEAU",
+    "party": null
+  },
+  "53064": {
+    "first_name": "Prosper",
+    "last_name": "CHAUVIN",
+    "party": null
+  },
+  "53068": {
+    "first_name": "Jackie",
+    "last_name": "VALLÉE",
+    "party": null
+  },
+  "53073": {
+    "first_name": "Hervé",
+    "last_name": "TISON",
+    "party": null
+  },
+  "53104": {
+    "first_name": "Michel",
+    "last_name": "GIRAUD",
+    "party": null
+  },
+  "53105": {
+    "first_name": "Gérard",
+    "last_name": "PAPILLON",
+    "party": null
+  },
+  "53150": {
+    "first_name": "Patricia",
+    "last_name": "BRESTEAUX",
+    "party": null
+  },
+  "53192": {
+    "first_name": "Thierry",
+    "last_name": "JULIOT",
+    "party": null
+  },
+  "53224": {
+    "first_name": "Marcel Francis",
+    "last_name": "BLANCHET",
+    "party": null
+  },
+  "53225": {
+    "first_name": "Aude",
+    "last_name": "ROBY",
+    "party": null
+  },
+  "53237": {
+    "first_name": "Odile",
+    "last_name": "AVENEAU",
+    "party": null
+  },
+  "53243": {
+    "first_name": "Dominique",
+    "last_name": "GALLACIER",
+    "party": null
+  },
+  "53247": {
+    "first_name": "Michel",
+    "last_name": "PAILLARD",
+    "party": null
+  },
+  "53271": {
+    "first_name": "Daniel",
+    "last_name": "LENOIR",
+    "party": null
+  },
+  "44009": {
+    "first_name": "Alain",
+    "last_name": "VEY",
+    "party": null
+  },
+  "44038": {
+    "first_name": "Pierre",
+    "last_name": "MARTIN",
+    "party": null
+  },
+  "44046": {
+    "first_name": "Hervé",
+    "last_name": "GENTES",
+    "party": null
+  },
+  "44055": {
+    "first_name": "Franck",
+    "last_name": "LOUVRIER",
+    "party": null
+  },
+  "44074": {
+    "first_name": "Anthony",
+    "last_name": "BERTHELOT",
+    "party": null
+  },
+  "44096": {
+    "first_name": "Nadine",
+    "last_name": "YOU",
+    "party": null
+  },
+  "44124": {
+    "first_name": "Maxime",
+    "last_name": "POUPART",
+    "party": null
+  },
+  "44137": {
+    "first_name": "Jean-Pierre",
+    "last_name": "BLANC",
+    "party": null
+  },
+  "44186": {
+    "first_name": "Bernard",
+    "last_name": "MORILLEAU",
+    "party": null
+  },
+  "49022": {
+    "first_name": "Martine",
+    "last_name": "CHAUVIN",
+    "party": null
+  },
+  "49045": {
+    "first_name": "Armelle",
+    "last_name": "PONCET",
+    "party": null
+  },
+  "49130": {
+    "first_name": "Jean-Louis",
+    "last_name": "DEMOIS",
+    "party": null
+  },
+  "72028": {
+    "first_name": "Joël",
+    "last_name": "TABAREAU",
+    "party": null
+  },
+  "72061": {
+    "first_name": "Philippe",
+    "last_name": "DESLANDES",
+    "party": null
+  },
+  "72104": {
+    "first_name": "Patrick",
+    "last_name": "MANUEL",
+    "party": null
+  },
+  "72156": {
+    "first_name": "Nadège",
+    "last_name": "PIOGER",
+    "party": null
+  },
+  "72166": {
+    "first_name": "Stéphane",
+    "last_name": "CRIBIER",
+    "party": null
+  },
+  "72186": {
+    "first_name": "Armelle",
+    "last_name": "REIGNIER",
+    "party": null
+  },
+  "72208": {
+    "first_name": "Jean",
+    "last_name": "DUMUR",
+    "party": null
+  },
+  "72232": {
+    "first_name": "Claude",
+    "last_name": "DAVY",
+    "party": null
+  },
+  "72251": {
+    "first_name": "Sylvie",
+    "last_name": "DUBREUIL",
+    "party": null
+  },
+  "72256": {
+    "first_name": "Ludovic",
+    "last_name": "ROBIDAS",
+    "party": null
+  },
+  "72287": {
+    "first_name": "Mathilde",
+    "last_name": "PLU",
+    "party": null
+  },
+  "72362": {
+    "first_name": "Jacky",
+    "last_name": "GALLOU",
+    "party": null
+  },
+  "72377": {
+    "first_name": "Laurent",
+    "last_name": "HUBERT",
+    "party": null
+  },
+  "72382": {
+    "first_name": "Christophe",
+    "last_name": "PINTO",
+    "party": null
+  },
+  "53005": {
+    "first_name": "Bertrand",
+    "last_name": "LEMAITRE",
+    "party": null
+  },
+  "53040": {
+    "first_name": "Damien",
+    "last_name": "RICHARD",
+    "party": null
+  },
+  "53066": {
+    "first_name": "Caroline",
+    "last_name": "FOUILLEUX",
+    "party": null
+  },
+  "53141": {
+    "first_name": "Christine",
+    "last_name": "DUBOIS",
+    "party": null
+  },
+  "53234": {
+    "first_name": "Marcel",
+    "last_name": "BARBÉ",
+    "party": null
+  },
+  "44116": {
+    "first_name": "Raymond",
+    "last_name": "CHARBONNIER",
+    "party": null
+  },
+  "44151": {
+    "first_name": "Mathieu",
+    "last_name": "COENT",
+    "party": null
+  },
+  "44165": {
+    "first_name": "Denis",
+    "last_name": "THIBAUD",
+    "party": null
+  },
+  "44168": {
+    "first_name": "Raphaël",
+    "last_name": "SALAÜN",
+    "party": null
+  },
+  "44195": {
+    "first_name": "Michel",
+    "last_name": "MEZARD",
+    "party": null
+  },
+  "44207": {
+    "first_name": "Xavier",
+    "last_name": "LOUBERT-DAVAINE",
+    "party": null
+  },
+  "44210": {
+    "first_name": "Claude",
+    "last_name": "AUFORT",
+    "party": null
+  },
+  "44222": {
+    "first_name": "Jacques",
+    "last_name": "PRAUD",
+    "party": null
+  },
+  "49067": {
+    "first_name": "Guy",
+    "last_name": "CHESNEAU",
+    "party": null
+  },
+  "49080": {
+    "first_name": "Maryline",
+    "last_name": "LÉZÉ",
+    "party": null
+  },
+  "49160": {
+    "first_name": "Alain",
+    "last_name": "TUSSEAU",
+    "party": null
+  },
+  "49205": {
+    "first_name": "Brigitte",
+    "last_name": "OLIGNON-GUIRRIEC",
+    "party": null
+  },
+  "49262": {
+    "first_name": "Rodolphe",
+    "last_name": "MIRANDE",
+    "party": null
+  },
+  "49339": {
+    "first_name": "Jean-François",
+    "last_name": "RAIMBAULT",
+    "party": null
+  },
+  "85005": {
+    "first_name": "Yvon",
+    "last_name": "GOURMAUD",
+    "party": null
+  },
+  "85078": {
+    "first_name": "Gilles",
+    "last_name": "BOUTEILLER",
+    "party": null
+  },
+  "85117": {
+    "first_name": "Cédric",
+    "last_name": "GUINAUDEAU",
+    "party": null
+  },
+  "85134": {
+    "first_name": "Guillaume",
+    "last_name": "JEAN",
+    "party": null
+  },
+  "85137": {
+    "first_name": "Marie-Thérèse",
+    "last_name": "FROMAGET",
+    "party": null
+  },
+  "85185": {
+    "first_name": "Charlotte",
+    "last_name": "VIGNEUX",
+    "party": null
+  },
+  "85204": {
+    "first_name": "Thierry",
+    "last_name": "RICHARDEAU",
+    "party": null
+  },
+  "85231": {
+    "first_name": "Christian",
+    "last_name": "BATY",
+    "party": null
+  },
+  "85245": {
+    "first_name": "Philippe",
+    "last_name": "HERNANDEZ",
+    "party": null
+  },
+  "85266": {
+    "first_name": "Yannick",
+    "last_name": "SOULARD",
+    "party": null
+  },
+  "44013": {
+    "first_name": "Sylvie",
+    "last_name": "CAUCHIE",
+    "party": null
+  },
+  "44022": {
+    "first_name": "Véronique",
+    "last_name": "NEAU-REDOIS",
+    "party": null
+  },
+  "44026": {
+    "first_name": "Véronique",
+    "last_name": "DUBETTIER-GRENIER",
+    "party": null
+  },
+  "44071": {
+    "first_name": "Fabrice",
+    "last_name": "CUCHOT",
+    "party": null
+  },
+  "44090": {
+    "first_name": "Jean-Marie",
+    "last_name": "BRUNETEAU",
+    "party": null
+  },
+  "44119": {
+    "first_name": "Christian",
+    "last_name": "GAUTHIER",
+    "party": null
+  },
+  "44150": {
+    "first_name": "Jean-Claude",
+    "last_name": "LEMASSON",
+    "party": null
+  },
+  "44169": {
+    "first_name": "Thierry",
+    "last_name": "AGASSE",
+    "party": null
+  },
+  "44183": {
+    "first_name": "Hubert",
+    "last_name": "DELORME",
+    "party": null
+  },
+  "44198": {
+    "first_name": "Patricia",
+    "last_name": "HELIAS",
+    "party": null
+  },
+  "53003": {
+    "first_name": "Guy",
+    "last_name": "MENARD",
+    "party": null
+  },
+  "53012": {
+    "first_name": "Nadine",
+    "last_name": "MARTIN-FERRÉ",
+    "party": null
+  },
+  "53046": {
+    "first_name": "Didier",
+    "last_name": "CATILLON",
+    "party": null
+  },
+  "53080": {
+    "first_name": "Pascal",
+    "last_name": "FRANÇOIS",
+    "party": null
+  },
+  "53087": {
+    "first_name": "Paul",
+    "last_name": "LAMBERT",
+    "party": null
+  },
+  "53088": {
+    "first_name": "Marie-Noëlle",
+    "last_name": "HINCELIN",
+    "party": null
+  },
+  "53109": {
+    "first_name": "Didier",
+    "last_name": "BOITTIN",
+    "party": null
+  },
+  "53120": {
+    "first_name": "Anne-Flore",
+    "last_name": "BOURILLON",
+    "party": null
+  },
+  "53210": {
+    "first_name": "Dominique",
+    "last_name": "DE VALICOURT",
+    "party": null
+  },
+  "53223": {
+    "first_name": "Alain Eugène Auguste",
+    "last_name": "DILIS",
+    "party": null
+  },
+  "53238": {
+    "first_name": "Maurice",
+    "last_name": "ROULETTE",
+    "party": null
+  },
+  "49029": {
+    "first_name": "Carole",
+    "last_name": "JOUIN-LEGAGNEUX",
+    "party": null
+  },
+  "49086": {
+    "first_name": "Jean-Pierre",
+    "last_name": "COCHARD",
+    "party": null
+  },
+  "49129": {
+    "first_name": "Denis",
+    "last_name": "CHIMIER",
+    "party": null
+  },
+  "49248": {
+    "first_name": "Pierrick",
+    "last_name": "ESNAULT",
+    "party": null
+  },
+  "49361": {
+    "first_name": "Gilles",
+    "last_name": "TALLUAU",
+    "party": null
+  },
+  "72040": {
+    "first_name": "Raymond",
+    "last_name": "BELLENCONTRE",
+    "party": null
+  },
+  "72062": {
+    "first_name": "Pascal",
+    "last_name": "BOURGOIN",
+    "party": null
+  },
+  "72067": {
+    "first_name": "Dominique",
+    "last_name": "EDON",
+    "party": null
+  },
+  "72096": {
+    "first_name": "Michel",
+    "last_name": "BRIFFAULT",
+    "party": null
+  },
+  "72143": {
+    "first_name": "Pascal",
+    "last_name": "DUPUIS",
+    "party": null
+  },
+  "72179": {
+    "first_name": "Carole",
+    "last_name": "ROGER",
+    "party": null
+  },
+  "72261": {
+    "first_name": "Thierry",
+    "last_name": "DUBOIS",
+    "party": null
+  },
+  "72290": {
+    "first_name": "Emmanuel",
+    "last_name": "CLÉMENT",
+    "party": null
+  },
+  "72294": {
+    "first_name": "Pascal",
+    "last_name": "DELPIERRE",
+    "party": null
+  },
+  "72295": {
+    "first_name": "Léopold",
+    "last_name": "MONCEAUX",
+    "party": null
+  },
+  "72299": {
+    "first_name": "Laurent",
+    "last_name": "TAUPIN",
+    "party": null
+  },
+  "72306": {
+    "first_name": "Florence",
+    "last_name": "FÉVRIER",
+    "party": null
+  },
+  "72324": {
+    "first_name": "Patrick",
+    "last_name": "GOSNET",
+    "party": null
+  },
+  "72354": {
+    "first_name": "Dominique",
+    "last_name": "VOVARD",
+    "party": null
+  },
+  "72356": {
+    "first_name": "Bruno",
+    "last_name": "BOULAY",
+    "party": null
+  },
+  "72378": {
+    "first_name": "Brigitte",
+    "last_name": "TETU-EDIN",
+    "party": null
+  },
+  "72383": {
+    "first_name": "Jean-Pierre",
+    "last_name": "CIRON",
+    "party": null
+  },
+  "85074": {
+    "first_name": "Thierry",
+    "last_name": "PRIOUZEAU",
+    "party": null
+  },
+  "85115": {
+    "first_name": "Yann",
+    "last_name": "PELLETIER",
+    "party": null
+  },
+  "85142": {
+    "first_name": "Philippe",
+    "last_name": "BELY",
+    "party": null
+  },
+  "85178": {
+    "first_name": "Sabine",
+    "last_name": "ROIRAND",
+    "party": null
+  },
+  "85182": {
+    "first_name": "Michelle",
+    "last_name": "DEVANNE",
+    "party": null
+  },
+  "85194": {
+    "first_name": "Yannick",
+    "last_name": "MOREAU",
+    "party": null
+  },
+  "85200": {
+    "first_name": "Alain",
+    "last_name": "ROCHEREAU",
+    "party": null
+  },
+  "85212": {
+    "first_name": "Christelle",
+    "last_name": "GREAU",
+    "party": null
+  },
+  "85240": {
+    "first_name": "Arnaud",
+    "last_name": "PRAILE",
+    "party": null
+  },
+  "85254": {
+    "first_name": "Anne",
+    "last_name": "ROY",
+    "party": null
+  },
+  "85273": {
+    "first_name": "Didier",
+    "last_name": "BUTON",
+    "party": null
+  },
+  "44019": {
+    "first_name": "André",
+    "last_name": "LE BORGNE",
+    "party": null
+  },
+  "44094": {
+    "first_name": "Emmanuel",
+    "last_name": "TERRIEN",
+    "party": null
+  },
+  "44130": {
+    "first_name": "Yannick",
+    "last_name": "FETIVEAU",
+    "party": null
+  },
+  "49002": {
+    "first_name": "Jérôme",
+    "last_name": "HARRAULT",
+    "party": null
+  },
+  "49015": {
+    "first_name": "Caroline",
+    "last_name": "HOUSSIN-SALVETAT",
+    "party": null
+  },
+  "49092": {
+    "first_name": "Hervé",
+    "last_name": "MARTIN",
+    "party": null
+  },
+  "49127": {
+    "first_name": "Pascal",
+    "last_name": "FARION",
+    "party": null
+  },
+  "49261": {
+    "first_name": "Nicole",
+    "last_name": "MOISY",
+    "party": null
+  },
+  "49269": {
+    "first_name": "Sylvain",
+    "last_name": "SÉNÉCAILLE",
+    "party": null
+  },
+  "44162": {
+    "first_name": "Bertrand",
+    "last_name": "AFFILÉ",
+    "party": null
+  },
+  "44174": {
+    "first_name": "Bernard",
+    "last_name": "COUDRIAU",
+    "party": null
+  },
+  "44175": {
+    "first_name": "Claude",
+    "last_name": "BODET",
+    "party": null
+  },
+  "44205": {
+    "first_name": "Laurence",
+    "last_name": "GUILLEMINE",
+    "party": null
+  },
+  "85070": {
+    "first_name": "Thierry",
+    "last_name": "FAVREAU",
+    "party": null
+  },
+  "85072": {
+    "first_name": "Annie",
+    "last_name": "NICOLLEAU",
+    "party": null
+  },
+  "85088": {
+    "first_name": "Isabelle",
+    "last_name": "TESSIER",
+    "party": null
+  },
+  "85098": {
+    "first_name": "Guy",
+    "last_name": "PLISSONNEAU",
+    "party": null
+  },
+  "85138": {
+    "first_name": "Michel",
+    "last_name": "PAILLUSSON",
+    "party": null
+  },
+  "85244": {
+    "first_name": "Michel",
+    "last_name": "POUZET",
+    "party": null
+  },
+  "53009": {
+    "first_name": "Jérémy",
+    "last_name": "BERTREL",
+    "party": null
+  },
+  "53079": {
+    "first_name": "Emmanuel",
+    "last_name": "DORSY",
+    "party": null
+  },
+  "53096": {
+    "first_name": "Jacqueline",
+    "last_name": "ARCANGER",
+    "party": null
+  },
+  "53121": {
+    "first_name": "Didier",
+    "last_name": "LEDAUPHIN",
+    "party": null
+  },
+  "53151": {
+    "first_name": "Richard",
+    "last_name": "CHAMARET",
+    "party": null
+  },
+  "53155": {
+    "first_name": "Gervais",
+    "last_name": "HAMEAU",
+    "party": null
+  },
+  "53157": {
+    "first_name": "Gérard",
+    "last_name": "TRAVERS",
+    "party": null
+  },
+  "53165": {
+    "first_name": "Daniel",
+    "last_name": "GENDRY",
+    "party": null
+  },
+  "53180": {
+    "first_name": "Vincent",
+    "last_name": "RESTIF",
+    "party": null
+  },
+  "53208": {
+    "first_name": "Jean-Luc",
+    "last_name": "LECOURT",
+    "party": null
+  },
+  "72035": {
+    "first_name": "Jacques",
+    "last_name": "LACOCHE",
+    "party": null
+  },
+  "72043": {
+    "first_name": "Philippe",
+    "last_name": "MARTIN",
+    "party": null
+  },
+  "72054": {
+    "first_name": "Patrick",
+    "last_name": "DESMAZIERES",
+    "party": null
+  },
+  "72175": {
+    "first_name": "Marc",
+    "last_name": "LESSCHAEVE",
+    "party": null
+  },
+  "72195": {
+    "first_name": "Hervé",
+    "last_name": "FONTAINEAU",
+    "party": null
+  },
+  "72223": {
+    "first_name": "Jean-Louis",
+    "last_name": "MORICE",
+    "party": null
+  },
+  "72252": {
+    "first_name": "Christiane",
+    "last_name": "MARTIN",
+    "party": null
+  },
+  "72271": {
+    "first_name": "Franck",
+    "last_name": "FLOQUET",
+    "party": null
+  },
+  "72291": {
+    "first_name": "Jean",
+    "last_name": "GOUBAND",
+    "party": null
+  },
+  "72329": {
+    "first_name": "Isabelle",
+    "last_name": "LEMEUNIER",
+    "party": null
+  },
+  "72333": {
+    "first_name": "Yvan",
+    "last_name": "BOSNYAK",
+    "party": null
+  },
+  "72335": {
+    "first_name": "Claudia",
+    "last_name": "DUGAST",
+    "party": null
+  },
+  "85077": {
+    "first_name": "Didier",
+    "last_name": "ROUX",
+    "party": null
+  },
+  "85094": {
+    "first_name": "Jean-Marie",
+    "last_name": "ARNAUDEAU",
+    "party": null
+  },
+  "85114": {
+    "first_name": "Sonia",
+    "last_name": "GINDREAU",
+    "party": null
+  },
+  "85144": {
+    "first_name": "Landry",
+    "last_name": "RONDEAU",
+    "party": null
+  },
+  "85302": {
+    "first_name": "Jean-François",
+    "last_name": "FRUCHET",
+    "party": null
+  },
+  "44028": {
+    "first_name": "Philippe",
+    "last_name": "MOREL",
+    "party": null
+  },
+  "44117": {
+    "first_name": "Joël",
+    "last_name": "BARAUD",
+    "party": null
+  },
+  "44131": {
+    "first_name": "Claire",
+    "last_name": "HUGUES",
+    "party": null
+  },
+  "44145": {
+    "first_name": "Jacques",
+    "last_name": "RIPOCHE",
+    "party": null
+  },
+  "44146": {
+    "first_name": "Jean-Michel",
+    "last_name": "DUCLOS",
+    "party": null
+  },
+  "72010": {
+    "first_name": "Jean-Louis",
+    "last_name": "LEMARIE",
+    "party": null
+  },
+  "72011": {
+    "first_name": "Jean-Louis",
+    "last_name": "BRETON",
+    "party": null
+  },
+  "72029": {
+    "first_name": "Lea",
+    "last_name": "DUVAL",
+    "party": null
+  },
+  "72046": {
+    "first_name": "Jean-Paul",
+    "last_name": "HUBERT",
+    "party": null
+  },
+  "72050": {
+    "first_name": "Daniel",
+    "last_name": "COUDREUSE",
+    "party": null
+  },
+  "72065": {
+    "first_name": "Joël",
+    "last_name": "LE BOLU",
+    "party": null
+  },
+  "72077": {
+    "first_name": "Thierry",
+    "last_name": "LECERF",
+    "party": null
+  },
+  "72083": {
+    "first_name": "Guy",
+    "last_name": "MULLER",
+    "party": null
+  },
+  "72093": {
+    "first_name": "Didier",
+    "last_name": "TORCHE",
+    "party": null
+  },
+  "72123": {
+    "first_name": "Joël",
+    "last_name": "ETIEMBRE",
+    "party": null
+  },
+  "72142": {
+    "first_name": "Claude",
+    "last_name": "CASTEL",
+    "party": null
+  },
+  "72153": {
+    "first_name": "Vincent",
+    "last_name": "GRUAU",
+    "party": null
+  },
+  "72168": {
+    "first_name": "Anthony",
+    "last_name": "MUSSARD",
+    "party": null
+  },
+  "72211": {
+    "first_name": "Daniel",
+    "last_name": "LEFEVRE",
+    "party": null
+  },
+  "72233": {
+    "first_name": "Jean-Luc",
+    "last_name": "GODIMUS",
+    "party": null
+  },
+  "72238": {
+    "first_name": "Jean",
+    "last_name": "MULOT",
+    "party": null
+  },
+  "72239": {
+    "first_name": "Maurice",
+    "last_name": "DULUARD",
+    "party": null
+  },
+  "72319": {
+    "first_name": "Mikaël",
+    "last_name": "FOUCHARD",
+    "party": null
+  },
+  "72353": {
+    "first_name": "Willy",
+    "last_name": "PAUVERT",
+    "party": null
+  },
+  "72357": {
+    "first_name": "Joël",
+    "last_name": "LELARGE",
+    "party": null
+  },
+  "72358": {
+    "first_name": "Nathalie",
+    "last_name": "GAUTHIER CHAILLOUX",
+    "party": null
+  },
+  "72380": {
+    "first_name": "Marcel",
+    "last_name": "LEVESQUE",
+    "party": null
+  },
+  "53018": {
+    "first_name": "François",
+    "last_name": "QUARGNUL",
+    "party": null
+  },
+  "53173": {
+    "first_name": "Sylvain",
+    "last_name": "LEBLANC",
+    "party": null
+  },
+  "53182": {
+    "first_name": "Fabien",
+    "last_name": "ROBIN",
+    "party": null
+  },
+  "53184": {
+    "first_name": "Roland",
+    "last_name": "FOUCAULT",
+    "party": null
+  },
+  "53203": {
+    "first_name": "André",
+    "last_name": "BOISSEAU",
+    "party": null
+  },
+  "53209": {
+    "first_name": "Louis",
+    "last_name": "MICHEL",
+    "party": null
+  },
+  "53264": {
+    "first_name": "Bernard",
+    "last_name": "MORICE",
+    "party": null
+  },
+  "49167": {
+    "first_name": "Jean-Christophe",
+    "last_name": "ARLUISON",
+    "party": null
+  },
+  "49170": {
+    "first_name": "Juanita",
+    "last_name": "FOUCHER",
+    "party": null
+  },
+  "49174": {
+    "first_name": "Sylvie",
+    "last_name": "CHIRON-PESNEL",
+    "party": null
+  },
+  "49193": {
+    "first_name": "Alain",
+    "last_name": "PICARD",
+    "party": null
+  },
+  "49237": {
+    "first_name": "Christian",
+    "last_name": "BOITTEAU",
+    "party": null
+  },
+  "49310": {
+    "first_name": "Olivier",
+    "last_name": "VITRÉ",
+    "party": null
+  },
+  "49311": {
+    "first_name": "Christian",
+    "last_name": "RUAULT",
+    "party": null
+  },
+  "44023": {
+    "first_name": "Emmanuel",
+    "last_name": "VAN BRACKEL",
+    "party": null
+  },
+  "44036": {
+    "first_name": "Alain",
+    "last_name": "HUNAULT",
+    "party": null
+  },
+  "44058": {
+    "first_name": "Alain",
+    "last_name": "LE TOLGUENEC",
+    "party": null
+  },
+  "44081": {
+    "first_name": "Thierry",
+    "last_name": "GRASSINEAU",
+    "party": null
+  },
+  "44084": {
+    "first_name": "Emmanuel",
+    "last_name": "RIVERY",
+    "party": null
+  },
+  "44097": {
+    "first_name": "Jean-Pierre",
+    "last_name": "BERNARD",
+    "party": null
+  },
+  "44113": {
+    "first_name": "Jean-Claude",
+    "last_name": "PROVOST",
+    "party": null
+  },
+  "44133": {
+    "first_name": "Gaëtan",
+    "last_name": "LÉAUTÉ",
+    "party": null
+  },
+  "44159": {
+    "first_name": "Danièle",
+    "last_name": "GADAIS",
+    "party": null
+  },
+  "44176": {
+    "first_name": "Jean-Michel",
+    "last_name": "CRAND",
+    "party": null
+  },
+  "44208": {
+    "first_name": "Didier",
+    "last_name": "BRUHAY",
+    "party": null
+  },
+  "53047": {
+    "first_name": "Gérard",
+    "last_name": "BRILHAULT",
+    "party": null
+  },
+  "53097": {
+    "first_name": "Joël",
+    "last_name": "BALANDRAUD",
+    "party": null
+  },
+  "53174": {
+    "first_name": "Daniel",
+    "last_name": "DOYEN",
+    "party": null
+  },
+  "53214": {
+    "first_name": "Olivier",
+    "last_name": "GAUCHER",
+    "party": null
+  },
+  "53235": {
+    "first_name": "Pierre",
+    "last_name": "RIOULT",
+    "party": null
+  },
+  "53259": {
+    "first_name": "Béatrice",
+    "last_name": "BARBÉ",
+    "party": null
+  },
+  "49023": {
+    "first_name": "Franck",
+    "last_name": "AUBIN",
+    "party": null
+  },
+  "49028": {
+    "first_name": "Bruno",
+    "last_name": "RICHOU",
+    "party": null
+  },
+  "49048": {
+    "first_name": "Arnaud",
+    "last_name": "HIE",
+    "party": null
+  },
+  "49113": {
+    "first_name": "Jean-Pierre",
+    "last_name": "ANTOINE",
+    "party": null
+  },
+  "85109": {
+    "first_name": "Christophe",
+    "last_name": "HOGARD",
+    "party": null
+  },
+  "85226": {
+    "first_name": "Kathia",
+    "last_name": "VIEL",
+    "party": null
+  },
+  "85246": {
+    "first_name": "Christophe",
+    "last_name": "GOURAUD",
+    "party": null
+  },
+  "61319": {
+    "first_name": "Geneviève",
+    "last_name": "AUBRY",
+    "party": null
+  },
+  "72041": {
+    "first_name": "Serge",
+    "last_name": "AUGER",
+    "party": null
+  },
+  "72049": {
+    "first_name": "Dominique",
+    "last_name": "PAQUET",
+    "party": null
+  },
+  "72078": {
+    "first_name": "Sébastien",
+    "last_name": "TRONCHET",
+    "party": null
+  },
+  "72109": {
+    "first_name": "Sylvie",
+    "last_name": "BOULLIER",
+    "party": null
+  },
+  "72129": {
+    "first_name": "Nicolas",
+    "last_name": "AUGEREAU",
+    "party": null
+  },
+  "72217": {
+    "first_name": "Véronique",
+    "last_name": "CANTIN",
+    "party": null
+  },
+  "72351": {
+    "first_name": "Michel",
+    "last_name": "PATRY",
+    "party": null
+  },
+  "72376": {
+    "first_name": "Agnès",
+    "last_name": "VERDIER",
+    "party": null
+  },
+  "85025": {
+    "first_name": "Anthony",
+    "last_name": "BONNET",
+    "party": null
+  },
+  "85049": {
+    "first_name": "Bernard",
+    "last_name": "LANDAIS",
+    "party": null
+  },
+  "85059": {
+    "first_name": "Marie-Michelle",
+    "last_name": "CHAIGNEAU",
+    "party": null
+  },
+  "85104": {
+    "first_name": "Gilles",
+    "last_name": "WATTIAU",
+    "party": null
+  },
+  "85120": {
+    "first_name": "Isabelle",
+    "last_name": "DURANTEAU",
+    "party": null
+  },
+  "85125": {
+    "first_name": "Alain",
+    "last_name": "CAREIL",
+    "party": null
+  },
+  "85154": {
+    "first_name": "Valentin",
+    "last_name": "JOSSE",
+    "party": null
+  },
+  "85190": {
+    "first_name": "Bernard",
+    "last_name": "DABRETEAU",
+    "party": null
+  },
+  "85255": {
+    "first_name": "Éric",
+    "last_name": "SAUTREAU",
+    "party": null
+  },
+  "85274": {
+    "first_name": "Cécile",
+    "last_name": "BOUCHER",
+    "party": null
+  },
+  "85305": {
+    "first_name": "Xavier",
+    "last_name": "PHILIPPOT",
+    "party": null
+  },
+  "53025": {
+    "first_name": "Jérôme",
+    "last_name": "LANDELLE",
+    "party": null
+  },
+  "53059": {
+    "first_name": "Pascal",
+    "last_name": "RIBOT",
+    "party": null
+  },
+  "53153": {
+    "first_name": "Robert",
+    "last_name": "GESLOT",
+    "party": null
+  },
+  "53200": {
+    "first_name": "Arnaud",
+    "last_name": "BULENGER",
+    "party": null
+  },
+  "53258": {
+    "first_name": "Joseph",
+    "last_name": "JUGÉ",
+    "party": null
+  },
+  "53261": {
+    "first_name": "Roland",
+    "last_name": "ANGOT",
+    "party": null
+  },
+  "53267": {
+    "first_name": "Régis",
+    "last_name": "LEFEUVRE",
+    "party": null
+  },
+  "49036": {
+    "first_name": "Yannick",
+    "last_name": "GALON",
+    "party": null
+  },
+  "49125": {
+    "first_name": "Michel",
+    "last_name": "PATTEE",
+    "party": null
+  },
+  "49272": {
+    "first_name": "Laurent",
+    "last_name": "NIVELLE",
+    "party": null
+  },
+  "49326": {
+    "first_name": "Sébastien",
+    "last_name": "BODUSSEAU",
+    "party": null
+  },
+  "53037": {
+    "first_name": "Pierre",
+    "last_name": "PATERNE",
+    "party": null
+  },
+  "72017": {
+    "first_name": "Stephane",
+    "last_name": "BRU",
+    "party": null
+  },
+  "72021": {
+    "first_name": "Antoine",
+    "last_name": "D'AMECOURT",
+    "party": null
+  },
+  "72045": {
+    "first_name": "Paulo",
+    "last_name": "BAPTISTA",
+    "party": null
+  },
+  "72181": {
+    "first_name": "Stéphane",
+    "last_name": "LE FOLL",
+    "party": null
+  },
+  "72228": {
+    "first_name": "Michel",
+    "last_name": "GENDRY",
+    "party": null
+  },
+  "72293": {
+    "first_name": "Jean-Paul",
+    "last_name": "BOISARD",
+    "party": null
+  },
+  "72325": {
+    "first_name": "Patrick",
+    "last_name": "RENARD",
+    "party": null
+  },
+  "72334": {
+    "first_name": "Gérard",
+    "last_name": "GALPIN",
+    "party": null
+  },
+  "72343": {
+    "first_name": "Mélanie",
+    "last_name": "COSNIER",
+    "party": null
+  },
+  "44075": {
+    "first_name": "Jean-Marc",
+    "last_name": "LALLOUÉ",
+    "party": null
+  },
+  "44078": {
+    "first_name": "Brigitte",
+    "last_name": "MAISON",
+    "party": null
+  },
+  "44091": {
+    "first_name": "Hervé",
+    "last_name": "DE TROGOFF",
+    "party": null
+  },
+  "44128": {
+    "first_name": "Aurélie",
+    "last_name": "MEZIERE",
+    "party": null
+  },
+  "44158": {
+    "first_name": "Rémy",
+    "last_name": "NICOLEAU",
+    "party": null
+  },
+  "44213": {
+    "first_name": "Philippe",
+    "last_name": "JOURDON",
+    "party": null
+  },
+  "44138": {
+    "first_name": "Claire",
+    "last_name": "THEVENIAU",
+    "party": null
+  },
+  "44149": {
+    "first_name": "Marie-Alexy",
+    "last_name": "LEFEUVRE",
+    "party": null
+  },
+  "53030": {
+    "first_name": "Jean-Louis",
+    "last_name": "BELLAY",
+    "party": null
+  },
+  "53051": {
+    "first_name": "Christian",
+    "last_name": "SABRAN",
+    "party": null
+  },
+  "53055": {
+    "first_name": "Françoise",
+    "last_name": "DUCHEMIN",
+    "party": null
+  },
+  "53125": {
+    "first_name": "Marcel",
+    "last_name": "RONCERAY",
+    "party": null
+  },
+  "53136": {
+    "first_name": "Jean-Paul",
+    "last_name": "FORVEILLE",
+    "party": null
+  },
+  "53147": {
+    "first_name": "Jean-Pierre",
+    "last_name": "LE SCORNET",
+    "party": null
+  },
+  "53187": {
+    "first_name": "Guy",
+    "last_name": "MAIGNAN",
+    "party": null
+  },
+  "53240": {
+    "first_name": "Aristide",
+    "last_name": "BOURBON",
+    "party": null
+  },
+  "53245": {
+    "first_name": "Joannick",
+    "last_name": "LEBON",
+    "party": null
+  },
+  "53263": {
+    "first_name": "Michel",
+    "last_name": "PECCATTE",
+    "party": null
+  },
+  "49026": {
+    "first_name": "Marie-Ange",
+    "last_name": "FOUCHEREAU",
+    "party": null
+  },
+  "49050": {
+    "first_name": "Sylvie",
+    "last_name": "SOURISSEAU",
+    "party": null
+  },
+  "49090": {
+    "first_name": "Marc",
+    "last_name": "DUTRUEL",
+    "party": null
+  },
+  "49123": {
+    "first_name": "Éric",
+    "last_name": "TOURON",
+    "party": null
+  },
+  "49155": {
+    "first_name": "Pascal",
+    "last_name": "CRUBLEAU",
+    "party": null
+  },
+  "49341": {
+    "first_name": "Isabelle",
+    "last_name": "BONNEAU",
+    "party": null
+  },
+  "49368": {
+    "first_name": "Thierry",
+    "last_name": "PAPOT",
+    "party": null
+  },
+  "72005": {
+    "first_name": "Denis",
+    "last_name": "ASSIER",
+    "party": null
+  },
+  "72026": {
+    "first_name": "Géraldine",
+    "last_name": "VOGEL",
+    "party": null
+  },
+  "72058": {
+    "first_name": "Yves-Marie",
+    "last_name": "HERVÉ",
+    "party": null
+  },
+  "72073": {
+    "first_name": "Patrice",
+    "last_name": "LEBOUCHER",
+    "party": null
+  },
+  "72101": {
+    "first_name": "Jean-Bernard",
+    "last_name": "CHOPLIN",
+    "party": null
+  },
+  "72178": {
+    "first_name": "Dominique",
+    "last_name": "DROUET",
+    "party": null
+  },
+  "72189": {
+    "first_name": "Francis",
+    "last_name": "BELLUAU",
+    "party": null
+  },
+  "72218": {
+    "first_name": "Jean-Paul",
+    "last_name": "BROCHARD",
+    "party": null
+  },
+  "72280": {
+    "first_name": "Franck",
+    "last_name": "BRETEAU",
+    "party": null
+  },
+  "72303": {
+    "first_name": "Michel",
+    "last_name": "FROGER",
+    "party": null
+  },
+  "85015": {
+    "first_name": "Delphine",
+    "last_name": "HERMOUET",
+    "party": null
+  },
+  "85097": {
+    "first_name": "Marie-Thérèse",
+    "last_name": "PLUCHON",
+    "party": null
+  },
+  "85136": {
+    "first_name": "Ghislaine",
+    "last_name": "LESAUVAGE",
+    "party": null
+  },
+  "85174": {
+    "first_name": "Yves-Marie",
+    "last_name": "BOUCHER",
+    "party": null
+  },
+  "85197": {
+    "first_name": "Damien",
+    "last_name": "GRASSET",
+    "party": null
+  },
+  "85221": {
+    "first_name": "Richard",
+    "last_name": "SIGWALT",
+    "party": null
+  },
+  "85285": {
+    "first_name": "Annabelle",
+    "last_name": "PILLENIERE",
+    "party": null
+  },
+  "85290": {
+    "first_name": "Catherine",
+    "last_name": "DENFERD",
+    "party": null
+  },
+  "85301": {
+    "first_name": "Roseline",
+    "last_name": "PHLIPART",
+    "party": null
+  },
+  "85303": {
+    "first_name": "Jean-Claude",
+    "last_name": "CHEVALLIER",
+    "party": null
+  },
+  "44005": {
+    "first_name": "Jacky",
+    "last_name": "DROUET",
+    "party": null
+  },
+  "44012": {
+    "first_name": "Jacques",
+    "last_name": "PRIEUR",
+    "party": null
+  },
+  "44021": {
+    "first_name": "Jean-Bernard",
+    "last_name": "FERRER",
+    "party": null
+  },
+  "44170": {
+    "first_name": "Jean-Michel",
+    "last_name": "CHEVALIER",
+    "party": null
+  },
+  "44102": {
+    "first_name": "Jean-Jacques",
+    "last_name": "MIRALLIÉ",
+    "party": null
+  },
+  "44112": {
+    "first_name": "Edith",
+    "last_name": "MARGUIN",
+    "party": null
+  },
+  "85034": {
+    "first_name": "Louisette",
+    "last_name": "BILLAUDEAU",
+    "party": null
+  },
+  "85086": {
+    "first_name": "Gérard",
+    "last_name": "TENAUD",
+    "party": null
+  },
+  "85140": {
+    "first_name": "Eric",
+    "last_name": "BERNARD",
+    "party": null
+  },
+  "85172": {
+    "first_name": "Rosiane",
+    "last_name": "GODEFROY",
+    "party": null
+  },
+  "44006": {
+    "first_name": "Joseph",
+    "last_name": "DAVID",
+    "party": null
+  },
+  "44025": {
+    "first_name": "Jean-Louis",
+    "last_name": "THAUVIN",
+    "party": null
+  },
+  "44052": {
+    "first_name": "François",
+    "last_name": "CHENEAU",
+    "party": null
+  },
+  "44070": {
+    "first_name": "Vincent",
+    "last_name": "MAGRÉ",
+    "party": null
+  },
+  "44092": {
+    "first_name": "Fabrice",
+    "last_name": "SANCHEZ",
+    "party": null
+  },
+  "44140": {
+    "first_name": "Pascal",
+    "last_name": "EVIN",
+    "party": null
+  },
+  "44179": {
+    "first_name": "Barbara",
+    "last_name": "NOURRY",
+    "party": null
+  },
+  "44182": {
+    "first_name": "Eloïse",
+    "last_name": "BOURREAU-GOBIN",
+    "party": null
+  },
+  "44220": {
+    "first_name": "Nadège",
+    "last_name": "PLACÉ",
+    "party": null
+  },
+  "72023": {
+    "first_name": "Maurice",
+    "last_name": "VAVASSEUR",
+    "party": null
+  },
+  "72070": {
+    "first_name": "Michel",
+    "last_name": "LEGENDRE",
+    "party": null
+  },
+  "72184": {
+    "first_name": "Christophe",
+    "last_name": "BUSSON",
+    "party": null
+  },
+  "72212": {
+    "first_name": "Stéphanie",
+    "last_name": "BOUQUET",
+    "party": null
+  },
+  "72229": {
+    "first_name": "Nathalie",
+    "last_name": "PASQUIER-JENNY",
+    "party": null
+  },
+  "72243": {
+    "first_name": "Xavier",
+    "last_name": "GAYAT",
+    "party": null
+  },
+  "72267": {
+    "first_name": "Michèle",
+    "last_name": "LEGESNE",
+    "party": null
+  },
+  "72273": {
+    "first_name": "Anthony",
+    "last_name": "FRILEUX",
+    "party": null
+  },
+  "72307": {
+    "first_name": "Dominique",
+    "last_name": "GUERRIAU",
+    "party": null
+  },
+  "72323": {
+    "first_name": "Jean",
+    "last_name": "LEDOUX",
+    "party": null
+  },
+  "72331": {
+    "first_name": "Éric",
+    "last_name": "DESCOMBES",
+    "party": null
+  },
+  "72369": {
+    "first_name": "Mickaël",
+    "last_name": "ALLARD",
+    "party": null
+  },
+  "53013": {
+    "first_name": "Jean-Paul",
+    "last_name": "PICHONNIER",
+    "party": null
+  },
+  "53057": {
+    "first_name": "Jérôme",
+    "last_name": "HARAULT",
+    "party": null
+  },
+  "53067": {
+    "first_name": "Jean-Luc",
+    "last_name": "LANDELLE",
+    "party": null
+  },
+  "53077": {
+    "first_name": "Christophe",
+    "last_name": "LANGOUET",
+    "party": null
+  },
+  "53158": {
+    "first_name": "Vincent",
+    "last_name": "PAILLARD",
+    "party": null
+  },
+  "53162": {
+    "first_name": "Frédéric",
+    "last_name": "BORDELET",
+    "party": null
+  },
+  "53190": {
+    "first_name": "Nora",
+    "last_name": "FABRO",
+    "party": null
+  },
+  "53213": {
+    "first_name": "Franck",
+    "last_name": "BARASCUD",
+    "party": null
+  },
+  "53220": {
+    "first_name": "Arlette",
+    "last_name": "LEUTELIER",
+    "party": null
+  },
+  "53233": {
+    "first_name": "Jean-Claude",
+    "last_name": "BRÉHIN",
+    "party": null
+  },
+  "53242": {
+    "first_name": "Pierrick",
+    "last_name": "GILLES",
+    "party": null
+  },
+  "49338": {
+    "first_name": "Robert",
+    "last_name": "BIAGI",
+    "party": null
+  },
+  "49257": {
+    "first_name": "Joëlle",
+    "last_name": "CHARRIER",
+    "party": null
+  },
+  "49292": {
+    "first_name": "Sandrine",
+    "last_name": "BELLEUT",
+    "party": null
+  },
+  "72064": {
+    "first_name": "Philippe",
+    "last_name": "LEBERT",
+    "party": null
+  },
+  "72084": {
+    "first_name": "Michel",
+    "last_name": "CHALIGNÉ",
+    "party": null
+  },
+  "72114": {
+    "first_name": "Guy",
+    "last_name": "CHEVAUCHER",
+    "party": null
+  },
+  "72121": {
+    "first_name": "Nicole",
+    "last_name": "CALLUAUD",
+    "party": null
+  },
+  "72185": {
+    "first_name": "Jérôme",
+    "last_name": "PRÉMARTIN",
+    "party": null
+  },
+  "72199": {
+    "first_name": "Guy",
+    "last_name": "CHAUDEMANCHE",
+    "party": null
+  },
+  "72216": {
+    "first_name": "Jean-Claude",
+    "last_name": "LEVEL",
+    "party": null
+  },
+  "72341": {
+    "first_name": "Stéphane",
+    "last_name": "LEDRU",
+    "party": null
+  },
+  "72386": {
+    "first_name": "Damienne",
+    "last_name": "FLEURY",
+    "party": null
+  },
+  "53042": {
+    "first_name": "Paul-Edouard",
+    "last_name": "MARQUER",
+    "party": null
+  },
+  "53063": {
+    "first_name": "Rachel",
+    "last_name": "FRANÇAIS",
+    "party": null
+  },
+  "53084": {
+    "first_name": "Bertrand",
+    "last_name": "DE GUEBRIANT",
+    "party": null
+  },
+  "53086": {
+    "first_name": "Serge",
+    "last_name": "DESHAYES",
+    "party": null
+  },
+  "53116": {
+    "first_name": "Patrick",
+    "last_name": "SOUTIF",
+    "party": null
+  },
+  "53204": {
+    "first_name": "Henri",
+    "last_name": "GUILMEAU",
+    "party": null
+  },
+  "53216": {
+    "first_name": "Thierry",
+    "last_name": "MOUTEL",
+    "party": null
+  },
+  "53248": {
+    "first_name": "Christian",
+    "last_name": "LE BLANC",
+    "party": null
+  },
+  "53256": {
+    "first_name": "Jacques",
+    "last_name": "DANEAU",
+    "party": null
+  },
+  "44015": {
+    "first_name": "Jean-Michel",
+    "last_name": "BUF",
+    "party": null
+  },
+  "44045": {
+    "first_name": "Daniel",
+    "last_name": "GUILLÉ",
+    "party": null
+  },
+  "44063": {
+    "first_name": "François",
+    "last_name": "GUILLOT",
+    "party": null
+  },
+  "44121": {
+    "first_name": "Jean-Pierre",
+    "last_name": "DESFOSSES",
+    "party": null
+  },
+  "44127": {
+    "first_name": "Séverine",
+    "last_name": "JOLY-PIVETEAU",
+    "party": null
+  },
+  "44155": {
+    "first_name": "Patrick",
+    "last_name": "BERTIN",
+    "party": null
+  },
+  "44157": {
+    "first_name": "Manuella",
+    "last_name": "PELLETIER-SORIN",
+    "party": null
+  },
+  "44164": {
+    "first_name": "Françoise",
+    "last_name": "RELANDEAU",
+    "party": null
+  },
+  "44202": {
+    "first_name": "Arnaud",
+    "last_name": "PAGEAUD",
+    "party": null
+  },
+  "49007": {
+    "first_name": "Christophe",
+    "last_name": "BECHU",
+    "party": null
+  },
+  "49055": {
+    "first_name": "Marc",
+    "last_name": "CAILLEAU",
+    "party": null
+  },
+  "49063": {
+    "first_name": "Marie-Madeleine",
+    "last_name": "MONNIER",
+    "party": null
+  },
+  "49082": {
+    "first_name": "Yves",
+    "last_name": "BERLAND",
+    "party": null
+  },
+  "49102": {
+    "first_name": "Serge",
+    "last_name": "LEFEVRE",
+    "party": null
+  },
+  "49110": {
+    "first_name": "Jean-Philippe",
+    "last_name": "GUILLEUX",
+    "party": null
+  },
+  "49114": {
+    "first_name": "Olivier",
+    "last_name": "DESCHARD",
+    "party": null
+  },
+  "49135": {
+    "first_name": "Mickael",
+    "last_name": "JOUSSET",
+    "party": null
+  },
+  "49267": {
+    "first_name": "Dominique",
+    "last_name": "BREJEON",
+    "party": null
+  },
+  "49364": {
+    "first_name": "Fabrice",
+    "last_name": "BARDY",
+    "party": null
+  },
+  "49378": {
+    "first_name": "Béatrice",
+    "last_name": "BERTRAND",
+    "party": null
+  },
+  "85001": {
+    "first_name": "Laurent",
+    "last_name": "HUGER",
+    "party": null
+  },
+  "85047": {
+    "first_name": "Rémi",
+    "last_name": "PASCREAU",
+    "party": null
+  },
+  "85096": {
+    "first_name": "François",
+    "last_name": "PETIT",
+    "party": null
+  },
+  "85121": {
+    "first_name": "Alain",
+    "last_name": "BIENVENU",
+    "party": null
+  },
+  "85128": {
+    "first_name": "Dominique",
+    "last_name": "BONNIN",
+    "party": null
+  },
+  "85189": {
+    "first_name": "Hervé",
+    "last_name": "BESSONNET",
+    "party": null
+  },
+  "85191": {
+    "first_name": "Luc",
+    "last_name": "BOUARD",
+    "party": null
+  },
+  "85202": {
+    "first_name": "Cyrille",
+    "last_name": "GUIBERT",
+    "party": null
+  },
+  "85252": {
+    "first_name": "Jean",
+    "last_name": "PACTEAU",
+    "party": null
+  },
+  "85256": {
+    "first_name": "Francis",
+    "last_name": "GUILLON",
+    "party": null
+  },
+  "53033": {
+    "first_name": "Jean-Pierre",
+    "last_name": "TESSIER",
+    "party": null
+  },
+  "53093": {
+    "first_name": "Patrick",
+    "last_name": "LEMAITRE",
+    "party": null
+  },
+  "53103": {
+    "first_name": "Nicole",
+    "last_name": "BOUILLON",
+    "party": null
+  },
+  "53129": {
+    "first_name": "Hervé",
+    "last_name": "LHOTELLIER",
+    "party": null
+  },
+  "53145": {
+    "first_name": "Jérémy",
+    "last_name": "PELE",
+    "party": null
+  },
+  "53146": {
+    "first_name": "Guillaume",
+    "last_name": "CARRÉ",
+    "party": null
+  },
+  "53197": {
+    "first_name": "Loïc",
+    "last_name": "PÈNE",
+    "party": null
+  },
+  "53221": {
+    "first_name": "Philippe",
+    "last_name": "DUYTSCHE",
+    "party": null
+  },
+  "53251": {
+    "first_name": "Dominique",
+    "last_name": "GUINEHEUX",
+    "party": null
+  },
+  "49100": {
+    "first_name": "Isabelle",
+    "last_name": "GRANDHOMME",
+    "party": null
+  },
+  "49112": {
+    "first_name": "Gérard",
+    "last_name": "POLICE",
+    "party": null
+  },
+  "49224": {
+    "first_name": "Guy",
+    "last_name": "BERTIN",
+    "party": null
+  },
+  "49294": {
+    "first_name": "Corinne",
+    "last_name": "GROSSET",
+    "party": null
+  },
+  "49333": {
+    "first_name": "Thierry",
+    "last_name": "DE VILLOUTREYS",
+    "party": null
+  },
+  "49344": {
+    "first_name": "Christelle",
+    "last_name": "LAHAYE",
+    "party": null
+  },
+  "72085": {
+    "first_name": "Michel",
+    "last_name": "CHERON",
+    "party": null
+  },
+  "72126": {
+    "first_name": "Sébastien",
+    "last_name": "HUET",
+    "party": null
+  },
+  "72167": {
+    "first_name": "Martine",
+    "last_name": "CRNKOVIC",
+    "party": null
+  },
+  "72172": {
+    "first_name": "Alain",
+    "last_name": "CRUCHET",
+    "party": null
+  },
+  "72188": {
+    "first_name": "Jacqueline",
+    "last_name": "TRIGER",
+    "party": null
+  },
+  "72219": {
+    "first_name": "Vincent",
+    "last_name": "HULOT",
+    "party": null
+  },
+  "72279": {
+    "first_name": "Sylvain",
+    "last_name": "BIDIER",
+    "party": null
+  },
+  "72320": {
+    "first_name": "Yvan",
+    "last_name": "GOULETTE",
+    "party": null
+  },
+  "72364": {
+    "first_name": "Ghislaine",
+    "last_name": "LEVIAU",
+    "party": null
+  },
+  "85035": {
+    "first_name": "Frédéric",
+    "last_name": "FOUQUET",
+    "party": null
+  },
+  "85145": {
+    "first_name": "Michel",
+    "last_name": "GABORIT",
+    "party": null
+  },
+  "85201": {
+    "first_name": "Daniel",
+    "last_name": "NEAU",
+    "party": null
+  },
+  "85248": {
+    "first_name": "Joseph-Marie",
+    "last_name": "ALLETRU",
+    "party": null
+  },
+  "85250": {
+    "first_name": "Albert",
+    "last_name": "BOUARD",
+    "party": null
+  },
+  "85261": {
+    "first_name": "James",
+    "last_name": "GANDRIEAU",
+    "party": null
+  },
+  "85280": {
+    "first_name": "Jean-Luc",
+    "last_name": "MENUET",
+    "party": null
+  },
+  "44014": {
+    "first_name": "Loïc",
+    "last_name": "PLANET",
+    "party": null
+  },
+  "44077": {
+    "first_name": "Jean-Pierre",
+    "last_name": "BELLEIL",
+    "party": null
+  },
+  "44105": {
+    "first_name": "Yvan",
+    "last_name": "MENAGER",
+    "party": null
+  },
+  "44114": {
+    "first_name": "Jean-Sébastien",
+    "last_name": "GUITTON",
+    "party": null
+  },
+  "44217": {
+    "first_name": "Gwënola",
+    "last_name": "FRANCO",
+    "party": null
+  }
+}
