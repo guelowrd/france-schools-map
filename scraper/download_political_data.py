@@ -292,6 +292,7 @@ def download_presidential_2022():
         'round_1': {
             'url': 'https://www.data.gouv.fr/api/1/datasets/r/54782507-e795-4f9d-aa70-ed06feba22e3',
             'delimiter': ',',  # Round 1 uses comma delimiter
+            'encoding': 'utf-8',  # Round 1 uses UTF-8
             'columns': {
                 'dept': 'dep_code',
                 'commune': 'commune_code',
@@ -304,6 +305,7 @@ def download_presidential_2022():
         'round_2': {
             'url': 'https://www.data.gouv.fr/api/1/datasets/r/11a736be-748f-470b-b2c6-b8ba09b48938',
             'delimiter': ';',  # Round 2 uses semicolon delimiter
+            'encoding': 'latin-1',  # Round 2 uses latin-1 encoding
             'columns': {
                 'dept': 'Code du département',
                 'commune': 'Code de la commune',
@@ -321,7 +323,7 @@ def download_presidential_2022():
         try:
             response = requests.get(config['url'], timeout=120)
             response.raise_for_status()
-            response.encoding = 'latin-1'  # French gov files use latin-1
+            response.encoding = config['encoding']  # Use encoding specified in config
 
             # Filter out NUL bytes if present
             text_content = response.text.replace('\x00', '')
@@ -329,7 +331,7 @@ def download_presidential_2022():
 
             # Aggregate votes by commune
             commune_votes = defaultdict(lambda: defaultdict(int))
-            commune_totals = defaultdict(int)
+            commune_totals = {}  # Don't accumulate, just set once per commune
 
             cols = config['columns']
 
@@ -356,15 +358,17 @@ def download_presidential_2022():
                     except ValueError:
                         pass  # Skip invalid vote counts
 
-                if exprimes:
+                # Set total once per commune (same value for all candidates in a commune)
+                if exprimes and insee_code not in commune_totals:
                     try:
-                        commune_totals[insee_code] += int(exprimes)
+                        commune_totals[insee_code] = int(exprimes)
                     except ValueError:
-                        pass  # Skip invalid totals
+                        pass
 
-            # Calculate percentages and store top 4
+            # Calculate percentages and store results
             for insee_code in commune_votes:
-                total = commune_totals[insee_code]
+                # Use stored total, or calculate from sum of votes
+                total = commune_totals.get(insee_code, sum(commune_votes[insee_code].values()))
                 if total == 0:
                     continue
 
@@ -374,7 +378,8 @@ def download_presidential_2022():
                     percentage = (votes / total) * 100
                     candidates.append({
                         'candidate': candidate,
-                        'percentage': round(percentage, 1)
+                        'percentage': round(percentage, 1),
+                        'votes': votes
                     })
 
                 # Sort by percentage descending
@@ -385,25 +390,31 @@ def download_presidential_2022():
                     presidential[insee_code] = {}
 
                 if round_name == 'round_1':
-                    # Store top 4 candidates
-                    presidential[insee_code]['round_1'] = candidates[:4]
+                    # Store top 4 candidates (without vote counts in final data)
+                    presidential[insee_code]['round_1'] = [
+                        {'candidate': c['candidate'], 'percentage': c['percentage']}
+                        for c in candidates[:4]
+                    ]
                 else:
-                    # Round 2: store Macron vs Le Pen
-                    if len(candidates) >= 2:
-                        # Find Macron and Le Pen by name
-                        macron_pct = None
-                        lepen_pct = None
-                        for cand in candidates:
-                            if 'MACRON' in cand['candidate'].upper():
-                                macron_pct = cand['percentage']
-                            elif 'LE PEN' in cand['candidate'].upper():
-                                lepen_pct = cand['percentage']
+                    # Round 2: data only has Macron rows, calculate Le Pen by subtraction
+                    # Find Macron's data
+                    macron_votes = None
+                    macron_candidate = None
+                    for cand in candidates:
+                        if 'MACRON' in cand['candidate'].upper():
+                            macron_votes = cand['votes']
+                            macron_candidate = cand['candidate']
+                            break
 
-                        if macron_pct is not None and lepen_pct is not None:
-                            presidential[insee_code]['round_2'] = {
-                                'macron': macron_pct,
-                                'le_pen': lepen_pct
-                            }
+                    if macron_votes is not None and total > 0:
+                        macron_pct = (macron_votes / total) * 100
+                        lepen_votes = total - macron_votes
+                        lepen_pct = (lepen_votes / total) * 100
+
+                        presidential[insee_code]['round_2'] = {
+                            'macron': round(macron_pct, 1),
+                            'le_pen': round(lepen_pct, 1)
+                        }
 
             print(f"  ✓ Processed {len(commune_votes)} communes for {round_name}")
 
@@ -435,7 +446,7 @@ def download_legislative_2024():
     # Round 1 and Round 2 URLs (CSV format, WIDE format with numbered candidate columns)
     urls = {
         'round_1': 'https://static.data.gouv.fr/resources/elections-legislatives-des-30-juin-et-7-juillet-2024-resultats-definitifs-du-1er-tour/20240711-075056/resultats-definitifs-par-communes.csv',
-        'round_2': 'https://www.data.gouv.fr/api/1/datasets/r/5a8088fd-8168-402a-9f40-c48daab88cd1'
+        'round_2': 'https://static.data.gouv.fr/resources/elections-legislatives-des-30-juin-et-7-juillet-2024-resultats-definitifs-du-2nd-tour/20240710-170606/resultats-definitifs-par-commune.csv'
     }
 
     for round_name, url in urls.items():
@@ -518,14 +529,18 @@ def download_legislative_2024():
                     if insee_code not in legislative:
                         legislative[insee_code] = {}
 
-                    # Store top 4 candidates (without vote counts in final data)
+                    # Round 2 is always a runoff between top 2 candidates
+                    # (communes with multiple circonscriptions may have more, but we show only top 2)
+                    top_count = 2 if round_name == 'round_2' else 4
+
+                    # Store top candidates (without vote counts in final data)
                     legislative[insee_code][round_name] = [
                         {
                             'candidate': c['candidate'],
                             'party': c['party'],
                             'percentage': c['percentage']
                         }
-                        for c in candidates[:4]
+                        for c in candidates[:top_count]
                     ]
 
                     commune_count += 1
