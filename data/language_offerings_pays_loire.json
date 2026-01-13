@@ -8911,5 +8911,13458 @@
       "Allemand",
       "Anglais"
     ]
+  },
+  {
+    "uai": "0332846P",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Italien"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Latin",
+      "Espagnol",
+      "Grec",
+      "Anglais",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0400046H",
+    "lv1": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Latin",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190010H",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0170058W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Latin",
+      "Allemand",
+      "Anglais",
+      "Espagnol",
+      "Grec"
+    ]
+  },
+  {
+    "uai": "0640181Z",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Basque",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Basque",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170056U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170120N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0640023C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400105X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400028N",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400740M",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Portugais",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Portugais",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640037T",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330140Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0870072F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331491S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0401016M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Latin",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0230020X",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Anglais",
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Latin",
+      "Anglais",
+      "Espagnol",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0400027M",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Latin",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400933X",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Latin",
+      "Espagnol",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0861273S",
+    "lv1": [
+      "Portugais",
+      "Russe",
+      "Chinois",
+      "Arabe",
+      "Allemand",
+      "Espagnol",
+      "Italien",
+      "Anglais",
+      "Polonais",
+      "Hébreu moderne"
+    ],
+    "lv2": [
+      "Chinois",
+      "Espagnol",
+      "Italien",
+      "Portugais",
+      "Polonais",
+      "Hébreu moderne",
+      "Russe",
+      "Arabe",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Grec",
+      "Chinois",
+      "Espagnol",
+      "Portugais",
+      "Italien",
+      "Russe",
+      "Arabe",
+      "Polonais",
+      "Hébreu moderne",
+      "Allemand",
+      "Anglais",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0470001W",
+    "lv1": [
+      "Italien",
+      "Anglais",
+      "Arabe",
+      "Espagnol",
+      "Allemand"
+    ],
+    "lv2": [
+      "Arabe",
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Italien"
+    ],
+    "all_languages": [
+      "Latin",
+      "Italien",
+      "Arabe",
+      "Allemand",
+      "Anglais",
+      "Grec",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331760J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Portugais",
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Latin",
+      "Allemand",
+      "Portugais",
+      "Chinois",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330010G",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170098P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Chinois",
+      "Latin",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0333307R",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Latin",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0160980D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332285E",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190030E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0400727Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860984C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Italien",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0332189A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Anglais",
+      "Espagnol",
+      "Portugais"
+    ],
+    "all_languages": [
+      "Chinois",
+      "Anglais",
+      "Espagnol",
+      "Portugais"
+    ]
+  },
+  {
+    "uai": "0470066S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0160039F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240029B",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470678G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0870008L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870071E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190023X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640143H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0861072Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol",
+      "Allemand",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Italien",
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0640606L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Chinois",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Chinois",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0230006G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860019D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470003Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Espagnol",
+      "Allemand",
+      "Italien"
+    ],
+    "all_languages": [
+      "Chinois",
+      "Anglais",
+      "Espagnol",
+      "Allemand",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0330022V",
+    "lv1": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Italien",
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Italien",
+      "Latin",
+      "Espagnol",
+      "Grec",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331504F",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Italien",
+      "Latin",
+      "Grec",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470065R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0170076R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160094R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0870909R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330145D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0640163E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860759H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0332982M",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331435F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Portugais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Portugais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0860758G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170010U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870729V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331753B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160050T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Chinois",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332488A",
+    "lv1": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170088D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Chinois",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330058J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0401022U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400103V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0640064X",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331885V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0400092H",
+    "lv1": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332492E",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0171215D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860023H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640110X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330106L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Arabe",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Arabe",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331754C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Italien",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0230028F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330081J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0333134C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Chinois",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160115N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870658T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331619F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400018C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Latin",
+      "Espagnol",
+      "Allemand",
+      "Anglais",
+      "Grec"
+    ]
+  },
+  {
+    "uai": "0860021F",
+    "lv1": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Latin",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330109P",
+    "lv1": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Latin",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0230002C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Latin",
+      "Italien",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170022G",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Grec",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0240079F",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Chinois",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0190624A",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470009E",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Portugais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Portugais",
+      "Latin",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860755D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Italien",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Latin",
+      "Italien",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170100S",
+    "lv1": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Latin",
+      "Anglais",
+      "Grec"
+    ]
+  },
+  {
+    "uai": "0190018S",
+    "lv1": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Latin",
+      "Grec",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400007R",
+    "lv1": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol",
+      "Portugais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand",
+      "Latin",
+      "Portugais"
+    ]
+  },
+  {
+    "uai": "0160020K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Latin",
+      "Anglais",
+      "Chinois",
+      "Grec"
+    ]
+  },
+  {
+    "uai": "0240076C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Latin",
+      "Espagnol",
+      "Grec",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0230025C",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Grec",
+      "Anglais",
+      "Latin",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240024W",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol",
+      "Russe"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Grec",
+      "Latin",
+      "Allemand",
+      "Espagnol",
+      "Russe"
+    ]
+  },
+  {
+    "uai": "0860009T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Latin",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790019S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0190058K",
+    "lv1": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0640146L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870003F",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0790058J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170029P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Latin",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470038L",
+    "lv1": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Italien",
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Italien",
+      "Allemand",
+      "Espagnol",
+      "Grec",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0640220S",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400023H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190695C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331492T",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0790943W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170016A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0641656C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240030C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0171211Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0240043S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470811B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160864C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Chinois",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Chinois",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0790020T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0230009K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470026Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0641414P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0240065R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330113U",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0641559X",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331669K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Italien",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870016V",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Latin",
+      "Grec",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0640127R",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330088S",
+    "lv1": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Russe",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Latin",
+      "Russe"
+    ]
+  },
+  {
+    "uai": "0190614P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0641780M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Chinois",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640214K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170011V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790013K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331891B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0641561Z",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640168K",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640227Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Italien",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332246M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Arabe"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Arabe"
+    ]
+  },
+  {
+    "uai": "0790072Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330093X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860049L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0171034G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330017P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0333132A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0640607M",
+    "lv1": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Russe"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol",
+      "Russe"
+    ]
+  },
+  {
+    "uai": "0470677F",
+    "lv1": [
+      "Arabe",
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Arabe",
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Arabe",
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0790965V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860020E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Italien",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331880P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Italien",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870036S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870040W",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Latin",
+      "Allemand",
+      "Anglais",
+      "Espagnol",
+      "Grec"
+    ]
+  },
+  {
+    "uai": "0190012K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Italien",
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0860774Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0241137F",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Latin",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870118F",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Latin",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160002R",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Chinois",
+      "Anglais",
+      "Latin",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0791062A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Latin",
+      "Allemand",
+      "Italien",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640212H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Chinois",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Chinois",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330162X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Russe",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Russe",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0332343T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0330138W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870023C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0791134D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Italien",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400026L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331502D",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Grec",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0240025X",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Chinois",
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Grec",
+      "Chinois",
+      "Anglais",
+      "Espagnol",
+      "Allemand",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0870017W",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Anglais",
+      "Italien",
+      "Espagnol",
+      "Russe"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Latin",
+      "Anglais",
+      "Italien",
+      "Espagnol",
+      "Russe"
+    ]
+  },
+  {
+    "uai": "0401002X",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Grec",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0240005A",
+    "lv1": [
+      "Italien",
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Italien",
+      "Anglais",
+      "Latin",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0790029C",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0330115W",
+    "lv1": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Latin",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331495W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Italien",
+      "Espagnol",
+      "Allemand",
+      "Anglais",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0330021U",
+    "lv1": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Grec",
+      "Latin",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0860028N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Portugais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Grec",
+      "Anglais",
+      "Portugais",
+      "Allemand",
+      "Latin",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870019Y",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0171418Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais",
+      "Latin",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0171455P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330126H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Italien",
+      "Grec",
+      "Anglais",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0790024X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0790031E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Italien",
+      "Latin",
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0230408U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470105J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330163Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0161050E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Chinois",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860876K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170390G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331666G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330132P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0640017W",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Latin",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0641545G",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332744D",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Chinois",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Latin",
+      "Espagnol",
+      "Chinois",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0170970M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0240996C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0171339N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0170113F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0240066S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0230005F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0330091V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Arabe",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Arabe",
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0333287U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0861053C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470103G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0332244K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Italien",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0641907A",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Basque"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Basque",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400017B",
+    "lv1": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Anglais",
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol",
+      "Latin",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0640044A",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Latin",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0241042C",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Russe"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Russe"
+    ]
+  },
+  {
+    "uai": "0870032M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790978J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Italien",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331759H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0641412M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860702W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860002K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170112E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332493F",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Russe",
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Russe",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0790023W",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Anglais",
+      "Russe",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Latin",
+      "Allemand",
+      "Russe",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331501C",
+    "lv1": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0230051F",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0640057P",
+    "lv1": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Italien",
+      "Anglais",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0330003Z",
+    "lv1": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Latin",
+      "Grec",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331636Z",
+    "lv1": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Latin",
+      "Italien",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0640047D",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0640115C",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Basque",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Basque",
+      "Latin",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0241011U",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640231D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870816P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0333530H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860044F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0870960W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0470720C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Italien",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0160001P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170144P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Chinois",
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790708R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640144J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332490C",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0230010L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Italien",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470046V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0330108N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240011G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332768E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0791002K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330129L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0641232S",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331622J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640229B",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640136A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332347X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Chinois",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Chinois",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0160029V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790014L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331529H",
+    "lv1": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Italien",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0230032K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860792U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0332494G",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790032F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190635M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Italien",
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240010F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160895L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470061L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790027A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860015Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0860753B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870042Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790067U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0641413N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332486Y",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170077S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790065S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860763M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170035W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0870039V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0642011N",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0333129X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0333274E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0171184V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Italien",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Italien",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0190014M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160100X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0400874H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0791042D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160076W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0190782X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240117X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0240077D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400068G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0171340P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Chinois",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331513R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0640025E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640609P",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0240087P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0332090T",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332187Y",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0641941M",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400648M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Italien",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0330066T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Italien",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190244M",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470019R",
+    "lv1": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870056N",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0160079Z",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0190011J",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Latin",
+      "Anglais",
+      "Allemand",
+      "Espagnol",
+      "Grec",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0160062F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Italien",
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0870864S",
+    "lv1": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Chinois",
+      "Espagnol",
+      "Anglais",
+      "Italien"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Latin",
+      "Chinois",
+      "Espagnol",
+      "Anglais",
+      "Italien",
+      "Grec"
+    ]
+  },
+  {
+    "uai": "0790080H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Latin",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870081R",
+    "lv1": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0790706N",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170051N",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0332832Z",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0470020S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Portugais"
+    ],
+    "all_languages": [
+      "Grec",
+      "Latin",
+      "Anglais",
+      "Allemand",
+      "Espagnol",
+      "Portugais"
+    ]
+  },
+  {
+    "uai": "0333583R",
+    "lv1": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Chinois",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Grec",
+      "Chinois",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0640228A",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0332487Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331498Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Coréen",
+      "Allemand",
+      "Espagnol",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Italien",
+      "Coréen",
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0870015U",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Grec",
+      "Allemand",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0170070J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Latin",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0190038N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Latin",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790036K",
+    "lv1": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0330089T",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Latin",
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332468D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0230030H",
+    "lv1": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0160863B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332706M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640132W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0330062N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332283C",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0330103H",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0240037K",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160120U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790704L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0870086W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0170384A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470775M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331664E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0331623K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870006J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331490R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870001D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860047J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331433D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0171117X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Portugais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Portugais"
+    ]
+  },
+  {
+    "uai": "0160969S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0170059X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640036S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640169L",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240961P",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0160116P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Chinois",
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860791T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0791016A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0860761K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0241136E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640128S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870009M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332806W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Portugais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Portugais"
+    ]
+  },
+  {
+    "uai": "0160016F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330135T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Italien",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332724G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Latin",
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0470060K",
+    "lv1": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Latin",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0160042J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332082J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Japonais",
+      "Espagnol",
+      "Arabe"
+    ],
+    "all_languages": [
+      "Japonais",
+      "Espagnol",
+      "Arabe",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870819T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0171160U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0240073Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0641393S",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332704K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0161048C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Italien",
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Italien",
+      "Anglais",
+      "Chinois",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160882X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0401066S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0861228T",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Italien",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331590Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0190087S",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0641732K",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Chinois",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0190083M",
+    "lv1": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470063N",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0240026Y",
+    "lv1": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0333273D",
+    "lv1": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Anglais",
+      "Italien",
+      "Espagnol",
+      "Arabe"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Latin",
+      "Espagnol",
+      "Anglais",
+      "Grec",
+      "Italien",
+      "Arabe"
+    ]
+  },
+  {
+    "uai": "0860718N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332491D",
+    "lv1": [
+      "Chinois",
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Chinois",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330083L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640121J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332705L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0641392R",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790030D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331895F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0870120H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331531K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332342S",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0331667H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400071K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0333133B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0241041B",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0470067T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332191C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640078M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0240924Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331500B",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170110C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790017P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240052B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640162D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331511N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860053R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331621H",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0230488F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Italien",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860799B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Chinois",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240053C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Italien",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790710T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330167C",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790011H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0401048X",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332722E",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Italien",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Latin",
+      "Allemand",
+      "Italien",
+      "Espagnol",
+      "Anglais",
+      "Grec"
+    ]
+  },
+  {
+    "uai": "0641844G",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Latin",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400067F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0640131V",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0240032E",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Latin",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0171428K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Latin",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240023V",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0641779L",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Latin",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870050G",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Latin",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170028N",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais",
+      "Italien",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0170087C",
+    "lv1": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0471038Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790966W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0470028A",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0861408N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640007K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860026L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Portugais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Portugais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0400093J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332831Y",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0332870R",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330023W",
+    "lv1": [
+      "Allemand",
+      "Russe",
+      "Anglais",
+      "Portugais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Portugais",
+      "Espagnol",
+      "Italien",
+      "Allemand",
+      "Russe"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Portugais",
+      "Espagnol",
+      "Italien",
+      "Allemand",
+      "Russe",
+      "Grec",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0330029C",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Chinois",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Italien",
+      "Chinois",
+      "Espagnol",
+      "Anglais",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0160010Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Latin",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790929F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Italien",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640016V",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240119Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Italien",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0641655B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331524C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160866E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860756E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Italien",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0641411L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0190723H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0171129K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0230487E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0790089T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0171159T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640035R",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860723U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0331739L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [],
+    "all_languages": [
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0791014Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0333093H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Italien",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240997D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790699F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332341R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0641839B",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Latin",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0400002K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Latin",
+      "Anglais",
+      "Grec",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400750Y",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790007D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Latin",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0641548K",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0330027A",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Chinois",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Latin",
+      "Espagnol",
+      "Chinois",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330020T",
+    "lv1": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Chinois",
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Chinois",
+      "Espagnol",
+      "Latin",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470018P",
+    "lv1": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Grec",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0641535W",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0333581N",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470068U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170050M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331519X",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0860032T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0400728Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0160003S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Latin",
+      "Allemand",
+      "Espagnol",
+      "Grec",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860035W",
+    "lv1": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Chinois",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Latin",
+      "Allemand",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0160004T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0170060Y",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Latin",
+      "Anglais",
+      "Allemand",
+      "Chinois",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331863W",
+    "lv1": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640111Y",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Basque",
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Basque",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331488N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Latin",
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0230014R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0641391P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330125G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160944P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790071Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0641653Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860017B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170071K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190009G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0190065T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640045B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0161049D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331507J",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331663D",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Italien",
+      "Russe",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Italien",
+      "Russe"
+    ]
+  },
+  {
+    "uai": "0640039V",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0333582P",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Italien",
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Italien",
+      "Anglais",
+      "Allemand",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0190032G",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Anglais",
+      "Italien",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Grec",
+      "Anglais",
+      "Italien",
+      "Allemand",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0161075G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0170008S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331662C",
+    "lv1": [
+      "Chinois",
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Chinois",
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0190059L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331462K",
+    "lv1": [
+      "Chinois",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Chinois",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0230004E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0240045U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170388E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0333531J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Arabe"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Arabe"
+    ]
+  },
+  {
+    "uai": "0230506A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Italien",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0332085M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Russe"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Russe",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470049Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640126P",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0331591A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240035H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Latin",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0170135E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Grec",
+      "Allemand",
+      "Anglais",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0190568P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0240047W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0330146E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0240083K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0230023A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330100E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331523B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331757F",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160027T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0240086N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640011P",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0171472H",
+    "lv1": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0640130U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Latin",
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0160022M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Latin",
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331503E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Russe",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Russe",
+      "Anglais",
+      "Latin",
+      "Allemand",
+      "Grec",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160065J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Chinois",
+      "Latin",
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0170042D",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0332745E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Latin",
+      "Italien",
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640001D",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860003L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Italien",
+      "Anglais",
+      "Allemand",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0160034A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0333484H",
+    "lv1": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860034V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Grec",
+      "Latin",
+      "Anglais",
+      "Italien",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331499A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0333529G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400005N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470777P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Allemand",
+      "Arabe"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Italien",
+      "Allemand",
+      "Arabe"
+    ]
+  },
+  {
+    "uai": "0190740B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0400043E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790059K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0870791M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332084L",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470774L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Portugais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Portugais",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870865T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0790052C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870014T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170048K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332248P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400077S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0861038L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Italien",
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400012W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790709S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0332190B",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Italien",
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331424U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640137B",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Basque",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Basque",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170027M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Portugais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Portugais",
+      "Espagnol",
+      "Allemand",
+      "Latin",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640055M",
+    "lv1": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Anglais",
+      "Russe"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Grec",
+      "Espagnol",
+      "Latin",
+      "Allemand",
+      "Russe"
+    ]
+  },
+  {
+    "uai": "0640010N",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Chinois",
+      "Allemand",
+      "Basque"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Grec",
+      "Chinois",
+      "Allemand",
+      "Latin",
+      "Basque"
+    ]
+  },
+  {
+    "uai": "0640003F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0470005A",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170389F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170103V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Latin",
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0240001W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870007K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332437V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0642095E",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331530J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0470032E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470023V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160043K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790063P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190821P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0240927C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160032Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0470732R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332195G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Italien",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330084M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0400090F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640171N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790078F",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Chinois",
+      "Grec",
+      "Anglais",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0331506H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0240013J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331464M",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0470733S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0333108Z",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0240121B",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0470069V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331620G",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790044U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400010U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400034V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160793A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860903P",
+    "lv1": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Grec",
+      "Allemand",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0640134Y",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Basque",
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Latin",
+      "Espagnol",
+      "Basque",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0170063B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470048X",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170118L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870871Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0641657D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332081H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Latin",
+      "Espagnol",
+      "Anglais",
+      "Grec"
+    ]
+  },
+  {
+    "uai": "0640005H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870048E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0333528F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0230001B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0640151S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160015E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331461J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Italien",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330122D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0171022U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240044T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240016M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870684W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0642038T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332759V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0333329P",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0240056F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0861223M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0870581J",
+    "lv1": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0641441U",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Basque"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Basque"
+    ]
+  },
+  {
+    "uai": "0861457S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Italien",
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400003L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170102U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790021U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240015L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790945Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0640147M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860045G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0640019Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332288H",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0333213N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Arabe",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Arabe",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860076R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0640046C",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Latin",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332835C",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Latin",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0642179W",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400774Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331758G",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Italien",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0642006H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160894K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790034H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160113L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331419N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0241007P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0171056F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0160030W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190632J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0240962R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160005U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0241043D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Chinois",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0190615R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0240106K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640165G",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0330008E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331890A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0642010M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332934K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0331556M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640122K",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870045B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Latin",
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170020E",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190056H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0641659F",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790703K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0860762L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170047J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0171213B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640069C",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860016A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0160006V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0860038Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Grec",
+      "Italien",
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0870083T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470008D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Chinois",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0190613N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0640112Z",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Allemand",
+      "Chinois",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Chinois",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240650B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0401015L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400779E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0230507B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0641661H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331884U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Chinois",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160077X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331644H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0160867F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640071E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790003Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470017N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0641660G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330026Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Japonais",
+      "Allemand",
+      "Anglais",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Grec",
+      "Espagnol",
+      "Anglais",
+      "Japonais",
+      "Allemand",
+      "Latin",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0400075P",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860772X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0640608N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470011G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400072L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870031L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0241111C",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190717B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470071X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170099R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Chinois",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Chinois",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0240055E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332569N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0870047D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640048E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400091G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870022B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0870049F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0791017B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0330105K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470102F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640004G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170072L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0641509T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190004B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331528G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0641652Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860043E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330128K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Italien",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0170082X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0861073Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0400038Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0641405E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160061E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0641658E",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330059K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0330028B",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331493U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Latin",
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640065Y",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Basque"
+    ],
+    "all_languages": [
+      "Grec",
+      "Espagnol",
+      "Anglais",
+      "Allemand",
+      "Latin",
+      "Basque"
+    ]
+  },
+  {
+    "uai": "0333368G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0330018R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190006D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331752A",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Arabe",
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Arabe",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400025K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640125N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640133X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400042D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331888Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Chinois",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0230017U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Italien",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331617D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170049L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0401077D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790016N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400014Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870771R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0160040G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0870817R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Allemand",
+      "Russe"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Italien",
+      "Allemand",
+      "Anglais",
+      "Russe"
+    ]
+  },
+  {
+    "uai": "0470104H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190671B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332327A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0240021T",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Anglais",
+      "Occitan"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Latin",
+      "Espagnol",
+      "Occitan"
+    ]
+  },
+  {
+    "uai": "0860768T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0230011M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0400096M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160075V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0171210Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0401091U",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Chinois",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332489B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470031D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0333406Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0330064R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400033U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400039A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Chinois",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0641702C",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860046H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470014K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332657J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0790010G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170111D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470073Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332340P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0331683A",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860764N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170055T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0190780V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0641560Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790060L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0241076P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190779U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0241075N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Chinois",
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0860040B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0442782K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0171057G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170004M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0333121N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640062V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470776N",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160106D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Chinois",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Chinois",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0240014K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170387D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0790033G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870734A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0241125T",
+    "lv1": [
+      "Allemand",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol",
+      "Latin"
+    ]
+  },
+  {
+    "uai": "0170012W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0230012N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Italien",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0161095D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Latin",
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0791005N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860014Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860027M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0240158S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160012B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170007R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160884Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0190720E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640073G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640119G",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0190025Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170002K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0875087G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0330065S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Italien",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Italien",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640141F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0240040N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790035J",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190001Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0190016P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790061M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0790950D",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand",
+      "Chinois"
+    ]
+  },
+  {
+    "uai": "0240004Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160031X",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470043S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Portugais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Portugais",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640161C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190002Z",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0171122C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0332747G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Arabe",
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Arabe",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640170M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0160024P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0332746F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Japonais",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Japonais",
+      "Chinois",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0401070W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Chinois"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Chinois",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640052J",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Latin",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860005N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0790074B",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640211G",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0860037Y",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Italien",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0470662P",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0791057V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860765P",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0861447F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0870821V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190026A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640041X",
+    "lv1": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170081W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0170009T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0161106R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170142M",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Italien"
+    ]
+  },
+  {
+    "uai": "0171118Y",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0171120A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0870117E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870820U",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332723F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0401014K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0861092V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0400032T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790004A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0160117R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Allemand"
+    ]
+  },
+  {
+    "uai": "0400858R",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Chinois",
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Chinois",
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0190019T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0860031S",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0642114A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0170386C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0332743C",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0470012H",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0331532L",
+    "lv1": [
+      "Anglais",
+      "Allemand"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Allemand",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0640008L",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790768F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0790091V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Allemand"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Allemand",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0400729A",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Portugais"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais",
+      "Portugais"
+    ]
+  },
+  {
+    "uai": "0331618E",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0333532K",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Italien"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Italien",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0870037T",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Allemand",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Allemand",
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0640074H",
+    "lv1": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "lv2": [
+      "Anglais",
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0170005N",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Espagnol",
+      "Anglais"
+    ]
+  },
+  {
+    "uai": "0470024W",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol",
+      "Portugais"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol",
+      "Portugais"
+    ]
+  },
+  {
+    "uai": "0400011V",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
+  },
+  {
+    "uai": "0331527F",
+    "lv1": [
+      "Anglais"
+    ],
+    "lv2": [
+      "Espagnol"
+    ],
+    "all_languages": [
+      "Anglais",
+      "Espagnol"
+    ]
   }
 ]

@@ -25,7 +25,11 @@ CACHE_DIR = Path(__file__).parent.parent / "data" / "political_cache"
 CACHE_DIR.mkdir(exist_ok=True)
 
 SCHOOLS_FILE = Path(__file__).parent.parent / "data" / "schools.json"
-DEPARTMENTS = ["44", "49", "53", "72", "85"]  # Pays de la Loire
+# Pays de la Loire + Nouvelle-Aquitaine (all 17 departments)
+DEPARTMENTS = [
+    "44", "49", "53", "72", "85",  # Pays de la Loire
+    "16", "17", "19", "23", "24", "33", "40", "47", "64", "79", "86", "87"  # Nouvelle-Aquitaine
+]
 
 # Rate limiting
 REQUEST_DELAY = 0.022  # seconds between requests (~45 req/sec, within 50 req/sec limit)

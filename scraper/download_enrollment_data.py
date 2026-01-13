@@ -12,13 +12,74 @@ from pathlib import Path
 # API base URL
 BASE_URL = "https://data.education.gouv.fr/api/v2/catalog/datasets"
 
-# Pays de la Loire departments
-DEPARTMENT_NAMES = ['LOIRE-ATLANTIQUE', 'MAINE-ET-LOIRE', 'MAYENNE', 'SARTHE', 'VENDEE']
-DEPARTMENT_CODES_SHORT = ['44', '49', '53', '72', '85']
+# Department configuration (multiple regions)
+DEPARTMENTS = [
+    # Pays de la Loire (existing - don't re-download)
+    ('LOIRE-ATLANTIQUE', '44'),
+    ('MAINE-ET-LOIRE', '49'),
+    ('MAYENNE', '53'),
+    ('SARTHE', '72'),
+    ('VENDEE', '85'),
+    # Nouvelle-Aquitaine (NEW - download only this)
+    ('CHARENTE-MARITIME', '17')
+]
+
+# NEW departments to download (all Nouvelle-Aquitaine)
+NEW_DEPARTMENTS = [
+    ('CHARENTE', '16'),
+    ('CHARENTE-MARITIME', '17'),
+    ('CORREZE', '19'),
+    ('CREUSE', '23'),
+    ('DORDOGNE', '24'),
+    ('GIRONDE', '33'),
+    ('LANDES', '40'),
+    ('LOT-ET-GARONNE', '47'),
+    ('PYRENEES-ATLANTIQUES', '64'),
+    ('DEUX-SEVRES', '79'),
+    ('VIENNE', '86'),
+    ('HAUTE-VIENNE', '87')
+]
 
 # Output directory
 DATA_DIR = Path(__file__).parent.parent / "data"
 DATA_DIR.mkdir(exist_ok=True)
+
+
+def load_or_create(filename):
+    """Load existing JSON data or return empty list."""
+    filepath = DATA_DIR / filename
+    if filepath.exists():
+        with open(filepath, encoding='utf-8') as f:
+            return json.load(f)
+    return []
+
+
+def save_and_merge(filename, new_records, key_field):
+    """Merge new records with existing data by key field, then save."""
+    existing_records = load_or_create(filename)
+
+    # Index existing by key (extract from nested structure)
+    existing_by_key = {}
+    for record in existing_records:
+        fields = record.get('record', {}).get('fields', {})
+        key = fields.get(key_field)
+        if key:
+            existing_by_key[key] = record
+
+    # Merge new records (overwrites existing with same key)
+    for record in new_records:
+        fields = record.get('record', {}).get('fields', {})
+        key = fields.get(key_field)
+        if key:
+            existing_by_key[key] = record
+
+    # Save combined
+    combined = list(existing_by_key.values())
+    filepath = DATA_DIR / filename
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(combined, f, ensure_ascii=False, indent=2)
+
+    return combined
 
 
 def fetch_paginated_data(dataset_id, filters=None, limit=100):
@@ -70,15 +131,17 @@ def fetch_paginated_data(dataset_id, filters=None, limit=100):
 
 def download_ecoles_effectifs():
     """
-    Download enrollment data for primary schools (écoles)
+    Download enrollment data for primary schools (écoles) - NEW regions only
     Includes total students and number of classes!
     """
     print("\n" + "="*80)
     print("1. DOWNLOADING ÉCOLES ENROLLMENT DATA")
     print("="*80)
 
-    # Filter by department names
-    dept_filter = " OR ".join([f"departement='{dept}'" for dept in DEPARTMENT_NAMES])
+    # Filter by NEW department names only (Charente-Maritime)
+    new_dept_names = [name for name, code in NEW_DEPARTMENTS]
+    print(f"\n→ Downloading enrollment for: {', '.join(new_dept_names)}...")
+    dept_filter = " OR ".join([f"departement='{dept}'" for dept in new_dept_names])
     records = fetch_paginated_data("fr-en-ecoles-effectifs-nb_classes", filters=dept_filter)
 
     # Keep most recent year per school
@@ -95,25 +158,25 @@ def download_ecoles_effectifs():
     latest_records = list(school_records.values())
     print(f"\n✓ Filtered to {len(latest_records)} schools (most recent year)")
 
-    # Save to file
-    output_file = DATA_DIR / "effectifs_ecoles_pays_loire.json"
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(latest_records, f, ensure_ascii=False, indent=2)
-
-    print(f"✓ Saved to {output_file}")
-    return latest_records
+    # Merge with existing and save
+    combined = save_and_merge("effectifs_ecoles_pays_loire.json", latest_records, key_field='numero_ecole')
+    print(f"✓ Total écoles enrollment across all regions: {len(combined)}")
+    print(f"✓ Saved to {DATA_DIR / 'effectifs_ecoles_pays_loire.json'}")
+    return combined
 
 
 def download_colleges_effectifs():
     """
-    Download enrollment data for collèges
+    Download enrollment data for collèges - NEW regions only
     """
     print("\n" + "="*80)
     print("2. DOWNLOADING COLLÈGES ENROLLMENT DATA")
     print("="*80)
 
-    # Filter by department codes
-    dept_filter = " OR ".join([f"code_dept='{code}'" for code in DEPARTMENT_CODES_SHORT])
+    # Filter by NEW department codes only (Charente-Maritime)
+    new_dept_codes = [code for name, code in NEW_DEPARTMENTS]
+    print(f"\n→ Downloading enrollment for departments: {', '.join(new_dept_codes)}...")
+    dept_filter = " OR ".join([f"code_dept='{code}'" for code in new_dept_codes])
     records = fetch_paginated_data("fr-en-college-effectifs-niveau-sexe-lv", filters=dept_filter)
 
     # Keep most recent year per school
@@ -130,25 +193,25 @@ def download_colleges_effectifs():
     latest_records = list(school_records.values())
     print(f"\n✓ Filtered to {len(latest_records)} collèges (most recent year)")
 
-    # Save to file
-    output_file = DATA_DIR / "effectifs_colleges_pays_loire.json"
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(latest_records, f, ensure_ascii=False, indent=2)
-
-    print(f"✓ Saved to {output_file}")
-    return latest_records
+    # Merge with existing and save
+    combined = save_and_merge("effectifs_colleges_pays_loire.json", latest_records, key_field='numero_college')
+    print(f"✓ Total collèges enrollment across all regions: {len(combined)}")
+    print(f"✓ Saved to {DATA_DIR / 'effectifs_colleges_pays_loire.json'}")
+    return combined
 
 
 def download_lycees_effectifs():
     """
-    Download enrollment data for lycées (general & technological)
+    Download enrollment data for lycées (general only) - NEW regions only
     """
     print("\n" + "="*80)
     print("3. DOWNLOADING LYCÉES ENROLLMENT DATA")
     print("="*80)
 
-    # Filter by department codes
-    dept_filter = " OR ".join([f"code_departement_pays='{code}'" for code in DEPARTMENT_CODES_SHORT])
+    # Filter by NEW department codes only (Charente-Maritime)
+    new_dept_codes = [code for name, code in NEW_DEPARTMENTS]
+    print(f"\n→ Downloading enrollment for departments: {', '.join(new_dept_codes)}...")
+    dept_filter = " OR ".join([f"code_departement_pays='{code}'" for code in new_dept_codes])
     records = fetch_paginated_data("fr-en-lycee_gt-effectifs-niveau-sexe-lv", filters=dept_filter)
 
     # Keep only most recent year per school (data already aggregated by year)
@@ -173,21 +236,20 @@ def download_lycees_effectifs():
     aggregated_records = list(school_data.values())
     print(f"\n✓ Filtered to {len(aggregated_records)} lycées (most recent year)")
 
-    # Save to file
-    output_file = DATA_DIR / "effectifs_lycees_pays_loire.json"
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(aggregated_records, f, ensure_ascii=False, indent=2)
-
-    print(f"✓ Saved to {output_file}")
-    return aggregated_records
+    # Merge with existing and save
+    combined = save_and_merge("effectifs_lycees_pays_loire.json", aggregated_records, key_field='uai')
+    print(f"✓ Total lycées enrollment across all regions: {len(combined)}")
+    print(f"✓ Saved to {DATA_DIR / 'effectifs_lycees_pays_loire.json'}")
+    return combined
 
 
 def main():
     """
-    Download enrollment data for all school types
+    Download enrollment data for NEW regions and merge with existing
     """
     print("\n" + "="*80)
-    print("DOWNLOADING ENROLLMENT DATA FOR PAYS DE LA LOIRE")
+    print("DOWNLOADING ENROLLMENT DATA - ADDING NEW REGIONS")
+    print("New region: Nouvelle-Aquitaine (Charente-Maritime)")
     print("="*80)
 
     ecoles = download_ecoles_effectifs()
@@ -195,9 +257,9 @@ def main():
     lycees = download_lycees_effectifs()
 
     print("\n" + "="*80)
-    print("DOWNLOAD COMPLETE")
+    print("DOWNLOAD & MERGE COMPLETE")
     print("="*80)
-    print(f"\nDownloaded:")
+    print(f"\nTotal after merge:")
     print(f"  - {len(ecoles)} primary schools with enrollment data")
     print(f"  - {len(colleges)} collèges with enrollment data")
     print(f"  - {len(lycees)} lycées with enrollment data")

@@ -12,16 +12,64 @@ from pathlib import Path
 # API base URL
 BASE_URL = "https://data.education.gouv.fr/api/v2/catalog/datasets"
 
-# Pays de la Loire region
-REGION_NAME = "Pays de la Loire"
-REGION_NAME_UPPER = "PAYS DE LA LOIRE"  # For IPS datasets (uppercase)
-REGION_CODE = "52"  # Code région for Pays de la Loire
-DEPARTMENT_CODES = ['044', '049', '053', '072', '085']  # Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée
-DEPARTMENT_CODES_SHORT = ['44', '49', '53', '72', '85']  # Without leading zeros
+# Configuration for multiple regions
+REGIONS = [
+    {
+        'name': 'Pays de la Loire',
+        'name_upper': 'PAYS DE LA LOIRE',
+        'code': '52',
+        'departments': ['044', '049', '053', '072', '085'],
+        'departments_short': ['44', '49', '53', '72', '85']
+    },
+    {
+        'name': 'Nouvelle-Aquitaine',
+        'name_upper': 'NOUVELLE-AQUITAINE',
+        'code': '75',
+        'departments': ['017', '019', '023', '024', '033', '040', '047', '064', '079', '086', '087'],  # All Nouvelle-Aquitaine
+        'departments_short': ['17', '19', '23', '24', '33', '40', '47', '64', '79', '86', '87']  # Missing: 16 (Charente)
+    }
+]
 
 # Output directory
 DATA_DIR = Path(__file__).parent.parent / "data"
 DATA_DIR.mkdir(exist_ok=True)
+
+
+def load_or_create(filename):
+    """Load existing JSON data or return empty list."""
+    filepath = DATA_DIR / filename
+    if filepath.exists():
+        with open(filepath, encoding='utf-8') as f:
+            return json.load(f)
+    return []
+
+
+def save_and_merge(filename, new_records, key_field):
+    """Merge new records with existing data by key field, then save."""
+    existing_records = load_or_create(filename)
+
+    # Index existing by key (extract from nested structure)
+    existing_by_key = {}
+    for record in existing_records:
+        fields = record.get('record', {}).get('fields', {})
+        key = fields.get(key_field)
+        if key:
+            existing_by_key[key] = record
+
+    # Merge new records (overwrites existing with same key)
+    for record in new_records:
+        fields = record.get('record', {}).get('fields', {})
+        key = fields.get(key_field)
+        if key:
+            existing_by_key[key] = record
+
+    # Save combined
+    combined = list(existing_by_key.values())
+    filepath = DATA_DIR / filename
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(combined, f, ensure_ascii=False, indent=2)
+
+    return combined
 
 
 def fetch_paginated_data(dataset_id, filters=None, limit=100):
@@ -73,18 +121,23 @@ def fetch_paginated_data(dataset_id, filters=None, limit=100):
 
 def download_annuaire():
     """
-    Download education directory for Pays de la Loire
+    Download education directory for NEW regions only (Charente-Maritime)
     Filter to general curriculum only:
     - Écoles élémentaires (keep)
     - Collèges (keep all)
-    - Lycées généraux et technologiques (keep)
-    - Exclude: Lycées professionnels only, CFA, etc.
+    - Lycées généraux only (voie_generale)
+    - Exclude: Lycées professionnels, technological, CFA, etc.
     """
     print("\n" + "="*80)
     print("1. DOWNLOADING ANNUAIRE (Education Directory)")
     print("="*80)
 
-    filters = f"libelle_region='{REGION_NAME}'"
+    all_filtered_records = []
+
+    # Only download NEW region (Nouvelle-Aquitaine - all departments)
+    new_region = REGIONS[1]  # Nouvelle-Aquitaine only
+    print(f"\n→ Downloading annuaire for {new_region['name']} (all departments)...")
+    filters = f"libelle_region='{new_region['name']}'"
     records = fetch_paginated_data("fr-en-annuaire-education", filters=filters)
 
     # Filter to general curriculum
@@ -104,115 +157,122 @@ def download_annuaire():
         elif 'Collège' in type_etab or 'COLLEGE' in libelle_nature.upper():
             filtered_records.append(record)
 
-        # Keep lycées but filter out professional-only
+        # Keep lycées but filter to general track only
         elif 'Lycée' in type_etab or 'LYCEE' in libelle_nature.upper():
             school_name = fields.get('nom_etablissement', '') or ''
 
             # EXCLUDE professional lycées (check both name and libelle_nature)
             if 'PROFESSIONNEL' in libelle_nature.upper() or 'professionnel' in school_name.lower():
-                # Skip professional lycées (including sections within them)
+                # Skip professional lycées
                 continue
 
-            # Check for general/technological indicators
+            # Check for general track only
             voie_generale = fields.get('voie_generale')
-            voie_techno = fields.get('voie_technologique')
             voie_pro = fields.get('voie_professionnelle')
 
-            # Keep if has general OR technological track
-            # (even if also has professional - polyvalent lycées are OK)
-            if voie_generale or voie_techno:
+            # Keep ONLY if has general track
+            if voie_generale:
                 filtered_records.append(record)
             # Also keep if voie fields are None (data not specified)
-            elif voie_generale is None and voie_techno is None and voie_pro is None:
+            elif voie_generale is None and voie_pro is None:
                 filtered_records.append(record)
 
-    print(f"\n✓ Filtered to {len(filtered_records)} general curriculum schools")
+    print(f"✓ Filtered to {len(filtered_records)} general curriculum schools for {new_region['name']}")
     print(f"  (from {len(records)} total establishments)")
 
-    # Save to file
-    output_file = DATA_DIR / "annuaire_pays_loire.json"
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(filtered_records, f, ensure_ascii=False, indent=2)
+    all_filtered_records.extend(filtered_records)
 
-    print(f"✓ Saved to {output_file}")
-    return filtered_records
+    # Merge with existing and save
+    combined = save_and_merge("annuaire_pays_loire.json", all_filtered_records, key_field='identifiant_de_l_etablissement')
+    print(f"\n✓ Total schools across all regions: {len(combined)}")
+    print(f"✓ Saved to {DATA_DIR / 'annuaire_pays_loire.json'}")
+    return combined
 
 
 def download_ips_ecoles():
     """
-    Download IPS data for primary schools in Pays de la Loire
+    Download IPS data for primary schools in NEW regions only (Charente-Maritime)
     """
     print("\n" + "="*80)
     print("2. DOWNLOADING IPS ÉCOLES (Primary Schools Social Index)")
     print("="*80)
 
-    filters = f"region='{REGION_NAME_UPPER}'"
+    # Only download NEW region (Nouvelle-Aquitaine - all departments)
+    new_region = REGIONS[1]  # Nouvelle-Aquitaine only
+    print(f"\n→ Downloading IPS écoles for {new_region['name']} (all departments)...")
+    filters = f"region='{new_region['name_upper']}'"
     records = fetch_paginated_data("fr-en-ips-ecoles-ap2022", filters=filters)
 
-    # Save to file
-    output_file = DATA_DIR / "ips_ecoles_pays_loire.json"
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(records, f, ensure_ascii=False, indent=2)
-
-    print(f"✓ Saved to {output_file}")
-    return records
+    # Merge with existing and save
+    combined = save_and_merge("ips_ecoles_pays_loire.json", records, key_field='uai')
+    print(f"✓ Total IPS écoles across all regions: {len(combined)}")
+    print(f"✓ Saved to {DATA_DIR / 'ips_ecoles_pays_loire.json'}")
+    return combined
 
 
 def download_ips_colleges():
     """
-    Download IPS data for middle schools (collèges) in Pays de la Loire
+    Download IPS data for middle schools (collèges) in NEW regions only (Charente-Maritime)
     Filter by department codes since region filter doesn't work for this dataset
     """
     print("\n" + "="*80)
     print("3. DOWNLOADING IPS COLLÈGES (Middle Schools Social Index)")
     print("="*80)
 
+    # Only download NEW region
+    new_region = REGIONS[1]  # Nouvelle-Aquitaine only
+    print(f"\n→ Downloading IPS collèges for {new_region['name']}...")
+
     # Filter by department codes (more reliable than region name)
-    dept_filter = " OR ".join([f"code_du_departement='{code}'" for code in DEPARTMENT_CODES_SHORT])
+    dept_filter = " OR ".join([f"code_du_departement='{code}'" for code in new_region['departments_short']])
     records = fetch_paginated_data("fr-en-ips-colleges-ap2023", filters=dept_filter)
 
-    # Save to file
-    output_file = DATA_DIR / "ips_colleges_pays_loire.json"
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(records, f, ensure_ascii=False, indent=2)
-
-    print(f"✓ Saved to {output_file}")
-    return records
+    # Merge with existing and save
+    combined = save_and_merge("ips_colleges_pays_loire.json", records, key_field='uai')
+    print(f"✓ Total IPS collèges across all regions: {len(combined)}")
+    print(f"✓ Saved to {DATA_DIR / 'ips_colleges_pays_loire.json'}")
+    return combined
 
 
 def download_ips_lycees():
     """
-    Download IPS data for high schools (lycées) in Pays de la Loire
+    Download IPS data for high schools (lycées) in NEW regions only (Charente-Maritime)
     Filter by department codes since region filter doesn't work for this dataset
     """
     print("\n" + "="*80)
     print("4. DOWNLOADING IPS LYCÉES (High Schools Social Index)")
     print("="*80)
 
+    # Only download NEW region
+    new_region = REGIONS[1]  # Nouvelle-Aquitaine only
+    print(f"\n→ Downloading IPS lycées for {new_region['name']}...")
+
     # Filter by department codes (more reliable than region name)
-    dept_filter = " OR ".join([f"code_du_departement='{code}'" for code in DEPARTMENT_CODES_SHORT])
+    dept_filter = " OR ".join([f"code_du_departement='{code}'" for code in new_region['departments_short']])
     records = fetch_paginated_data("fr-en-ips-lycees-ap2023", filters=dept_filter)
 
-    # Save to file
-    output_file = DATA_DIR / "ips_lycees_pays_loire.json"
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(records, f, ensure_ascii=False, indent=2)
-
-    print(f"✓ Saved to {output_file}")
-    return records
+    # Merge with existing and save
+    combined = save_and_merge("ips_lycees_pays_loire.json", records, key_field='uai')
+    print(f"✓ Total IPS lycées across all regions: {len(combined)}")
+    print(f"✓ Saved to {DATA_DIR / 'ips_lycees_pays_loire.json'}")
+    return combined
 
 
 def download_brevet_results():
     """
-    Download Brevet exam results for collèges in Pays de la Loire
+    Download Brevet exam results for collèges in NEW regions only (Charente-Maritime)
     Get most recent year only
     """
     print("\n" + "="*80)
     print("5. DOWNLOADING BREVET RESULTS (Middle School Exams)")
     print("="*80)
 
+    # Only download NEW region
+    new_region = REGIONS[1]  # Nouvelle-Aquitaine only
+    print(f"\n→ Downloading Brevet results for {new_region['name']}...")
+
     # Filter by department codes
-    dept_filter = " OR ".join([f"code_departement='{code}'" for code in DEPARTMENT_CODES])
+    dept_filter = " OR ".join([f"code_departement='{code}'" for code in new_region['departments']])
     records = fetch_paginated_data("fr-en-dnb-par-etablissement", filters=dept_filter)
 
     # Keep only most recent year per school
@@ -229,26 +289,28 @@ def download_brevet_results():
     latest_records = list(school_records.values())
     print(f"\n✓ Filtered to {len(latest_records)} schools (most recent exam year)")
 
-    # Save to file
-    output_file = DATA_DIR / "brevet_results_pays_loire.json"
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(latest_records, f, ensure_ascii=False, indent=2)
-
-    print(f"✓ Saved to {output_file}")
-    return latest_records
+    # Merge with existing and save
+    combined = save_and_merge("brevet_results_pays_loire.json", latest_records, key_field='numero_d_etablissement')
+    print(f"✓ Total Brevet results across all regions: {len(combined)}")
+    print(f"✓ Saved to {DATA_DIR / 'brevet_results_pays_loire.json'}")
+    return combined
 
 
 def download_bac_results():
     """
-    Download Baccalauréat results for lycées in Pays de la Loire
-    Get most recent year only, general & technological track only
+    Download Baccalauréat results for lycées in NEW regions only (Charente-Maritime)
+    Get most recent year only, general track only
     """
     print("\n" + "="*80)
     print("6. DOWNLOADING BAC RESULTS (High School Exams)")
     print("="*80)
 
+    # Only download NEW region
+    new_region = REGIONS[1]  # Nouvelle-Aquitaine only
+    print(f"\n→ Downloading Bac results for {new_region['name']}...")
+
     # Filter by department codes (use short codes without leading zeros)
-    dept_filter = " OR ".join([f"code_departement='{code}'" for code in DEPARTMENT_CODES_SHORT])
+    dept_filter = " OR ".join([f"code_departement='{code}'" for code in new_region['departments_short']])
     records = fetch_paginated_data("fr-en-indicateurs-de-resultat-des-lycees-gt_v2", filters=dept_filter)
 
     # Keep only most recent year per school
@@ -265,26 +327,24 @@ def download_bac_results():
     latest_records = list(school_records.values())
     print(f"\n✓ Filtered to {len(latest_records)} lycées (most recent exam year)")
 
-    # Save to file
-    output_file = DATA_DIR / "bac_results_pays_loire.json"
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(latest_records, f, ensure_ascii=False, indent=2)
-
-    print(f"✓ Saved to {output_file}")
-    return latest_records
+    # Merge with existing and save
+    combined = save_and_merge("bac_results_pays_loire.json", latest_records, key_field='uai')
+    print(f"✓ Total Bac results across all regions: {len(combined)}")
+    print(f"✓ Saved to {DATA_DIR / 'bac_results_pays_loire.json'}")
+    return combined
 
 
 def main():
     """
-    Download all datasets for Pays de la Loire
+    Download datasets for NEW regions and merge with existing data
     """
     print("\n" + "="*80)
-    print("DOWNLOADING EDUCATION DATA FOR PAYS DE LA LOIRE")
-    print("Region: Pays de la Loire")
-    print("Scope: General curriculum only (Écoles, Collèges, Lycées GT)")
+    print("DOWNLOADING EDUCATION DATA - ADDING NEW REGIONS")
+    print("New region: Nouvelle-Aquitaine (Charente-Maritime)")
+    print("Scope: General curriculum only (Écoles, Collèges, Lycées généraux)")
     print("="*80)
 
-    # Download all datasets
+    # Download all datasets (will merge with existing)
     annuaire = download_annuaire()
     ips_ecoles = download_ips_ecoles()
     ips_colleges = download_ips_colleges()
@@ -293,9 +353,9 @@ def main():
     bac = download_bac_results()
 
     print("\n" + "="*80)
-    print("DOWNLOAD COMPLETE")
+    print("DOWNLOAD & MERGE COMPLETE")
     print("="*80)
-    print(f"\nDownloaded:")
+    print(f"\nTotal after merge:")
     print(f"  - {len(annuaire)} schools (general curriculum)")
     print(f"  - {len(ips_ecoles)} primary schools with IPS")
     print(f"  - {len(ips_colleges)} middle schools with IPS")

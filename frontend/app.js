@@ -1,5 +1,5 @@
-// Initialize map centered on Pays de la Loire
-const map = L.map('map').setView([47.5, -0.75], 9);
+// Initialize map centered between Pays de la Loire and Charente-Maritime
+const map = L.map('map').setView([46.5, -0.6], 8);
 
 // Add OpenStreetMap tiles
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {

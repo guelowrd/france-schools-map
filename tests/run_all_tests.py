@@ -5,6 +5,7 @@ Run all test suites for the France Schools Map project.
 Tests cover:
 - Unit tests for political data parsing
 - Integration tests for full data pipeline
+- Political data coverage validation
 - Data quality validation
 
 Usage:
@@ -21,6 +22,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 # Import test modules
 import test_download_political_data
 import test_integration
+import test_political_coverage
 
 
 def main():
@@ -41,6 +43,10 @@ def main():
     # Add integration tests
     print("Adding integration tests...")
     suite.addTests(loader.loadTestsFromModule(test_integration))
+
+    # Add political coverage tests
+    print("Adding political coverage tests...")
+    suite.addTests(loader.loadTestsFromModule(test_political_coverage))
 
     print()
     print("="*80)

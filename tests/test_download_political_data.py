@@ -127,14 +127,18 @@ class TestMunicipalDataParsing(unittest.TestCase):
         self.assertEqual(expected_pct, 59.7)
 
     def test_department_filtering(self):
-        """Test filtering for Pays de la Loire departments."""
-        valid_depts = ['44', '49', '53', '72', '85']
+        """Test filtering for Pays de la Loire + Nouvelle-Aquitaine departments."""
+        # Pays de la Loire (5) + Nouvelle-Aquitaine (12) = 17 departments
+        valid_depts = [
+            '44', '49', '53', '72', '85',  # Pays de la Loire
+            '16', '17', '19', '23', '24', '33', '40', '47', '64', '79', '86', '87'  # Nouvelle-Aquitaine
+        ]
         self.assertEqual(DEPARTMENTS, valid_depts)
 
         # Test that only these departments are processed
-        test_depts = ['44', '75', '49', '13', '72']
+        test_depts = ['44', '75', '49', '13', '17', '33', '72']
         filtered = [d for d in test_depts if d in DEPARTMENTS]
-        self.assertEqual(filtered, ['44', '49', '72'])
+        self.assertEqual(filtered, ['44', '49', '17', '33', '72'])
 
 
 class TestPresidentialDataParsing(unittest.TestCase):
