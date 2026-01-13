@@ -32,18 +32,8 @@ function createMarkerIcon(schoolType) {
     });
 }
 
-// Load political data
+// Political data (loaded below with schools)
 let politicalData = {};
-
-fetch('data/political_data.json')
-    .then(response => response.json())
-    .then(data => {
-        politicalData = data;
-        console.log(`Loaded political data for ${Object.keys(politicalData).length} communes`);
-    })
-    .catch(error => {
-        console.error('Failed to load political data:', error);
-    });
 
 // Format political context
 function formatPoliticalContext(school) {
@@ -508,12 +498,19 @@ function initializeFilters() {
     filterLanguage.addEventListener('change', applyFilters);
 }
 
-// Load and display schools
-fetch('data/schools.json')
-    .then(response => response.json())
-    .then(schools => {
-        allSchools = schools;
-        console.log(`Loaded ${schools.length} schools`);
+// Load both political data and schools data
+Promise.all([
+    fetch('data/schools.json').then(response => response.json()),
+    fetch('data/political_data.json').then(response => response.json())
+])
+.then(([schools, polData]) => {
+    // Store political data
+    politicalData = polData;
+    console.log(`Loaded political data for ${Object.keys(politicalData).length} communes`);
+
+    // Store schools data
+    allSchools = schools;
+    console.log(`Loaded ${schools.length} schools`);
 
         // Update stats
         const primaireCount = schools.filter(s => s.type === 'Primaire').length;
@@ -581,6 +578,6 @@ fetch('data/schools.json')
         console.log('Map loaded successfully');
     })
     .catch(error => {
-        console.error('Error loading schools data:', error);
-        alert('Erreur lors du chargement des données. Veuillez rafraîchir la page.');
+        console.error('Failed to load data:', error);
+        alert('Erreur de chargement des données. Veuillez actualiser la page.');
     });
